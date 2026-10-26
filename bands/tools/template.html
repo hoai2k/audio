@@ -63,6 +63,8 @@ button.reset:hover { border-color: var(--river); }
 .gtags { display: flex; flex-wrap: wrap; gap: 4px; margin: -2px 0 7px; }
 .gtags a { font-size: 11px; font-weight: 600; letter-spacing: .02em; text-decoration: none; color: var(--towpath); border: 1px solid currentColor; border-radius: 4px; padding: 1px 6px; opacity: .85; }
 .gtags a:hover { opacity: 1; color: var(--brick); }
+.gtags a.spec { color: var(--ink); background: var(--chip); border-color: var(--line); opacity: 1; font-weight: 500; }
+.gtags a.spec:hover { border-color: var(--brick); color: var(--brick); }
 .shows { font-size: 12.5px; margin: 0 0 8px; }
 .shows .why { font-weight: 600; color: var(--towpath); margin-bottom: 3px; }
 .shows ul { margin: 0 0 4px; padding: 0; list-style: none; color: var(--muted); }
@@ -200,6 +202,13 @@ const GENRES = [
   ["Hip-hop", /hip[- ]?hop|\brap\b/i]
 ];
 const genresOf = b => GENRES.filter(([, re]) => re.test(b.genre || "")).map(([g]) => g);
+// Genre filter values: "g:Rock" for a group, "s:Dream Pop" for a specific genre
+const matchesGenre = (b, v) => v.startsWith("g:") ? genresOf(b).includes(v.slice(2)) : (b.genres || []).includes(v.slice(2));
+function genreTags(b) {
+  const specific = (b.genres || []).map(g => `<a href="#" class="spec" data-genre="s:${esc(g)}" title="Show all ${esc(g)} bands">${esc(g)}</a>`);
+  const groups = genresOf(b).map(g => `<a href="#" data-genre="g:${esc(g)}" title="Show all ${esc(g)} bands">${esc(g)}</a>`);
+  return specific.length || groups.length ? `<div class="gtags">${specific.join("")}${groups.join("")}</div>` : "";
+}
 
 // Map
 const dark = matchMedia("(prefers-color-scheme: dark)").matches && document.documentElement.dataset.theme !== "light";
@@ -259,9 +268,26 @@ function fitVenues() {
   const pts = filteredVenues().map(v => v.pt);
   if (pts.length) map.flyToBounds(L.latLngBounds(pts).pad(0.3), { duration: 0.6, maxZoom: 13 });
 }
-const genreCounts = {};
-BANDS.forEach(b => genresOf(b).forEach(g => genreCounts[g] = (genreCounts[g] || 0) + 1));
-GENRES.map(([g]) => g).filter(g => genreCounts[g]).forEach(g => $("#genre").insertAdjacentHTML("beforeend", `<option>${g}</option>`));
+const genreCounts = {}, specCounts = {};
+BANDS.forEach(b => {
+  genresOf(b).forEach(g => genreCounts[g] = (genreCounts[g] || 0) + 1);
+  (b.genres || []).forEach(g => specCounts[g] = (specCounts[g] || 0) + 1);
+});
+{
+  // Each specific genre used by 3+ bands sits under the first group it belongs to
+  const byGroup = {}, other = [];
+  Object.keys(specCounts).filter(g => specCounts[g] >= 3).sort((a, b) => specCounts[b] - specCounts[a] || a.localeCompare(b)).forEach(g => {
+    const grp = GENRES.find(([, re]) => re.test(g));
+    grp ? (byGroup[grp[0]] = byGroup[grp[0]] || []).push(g) : other.push(g);
+  });
+  const opt = (v, label, n) => `<option value="${esc(v)}">${esc(label)} (${n})</option>`;
+  let html = "";
+  GENRES.map(([g]) => g).filter(g => genreCounts[g]).forEach(g => {
+    html += `<optgroup label="${esc(g)}">${opt("g:" + g, "All " + g, genreCounts[g])}${(byGroup[g] || []).map(s => opt("s:" + s, s, specCounts[s])).join("")}</optgroup>`;
+  });
+  if (other.length) html += `<optgroup label="Other">${other.map(s => opt("s:" + s, s, specCounts[s])).join("")}</optgroup>`;
+  $("#genre").insertAdjacentHTML("beforeend", html);
+}
 
 function fillRegions() {
   const rc = {};
@@ -331,8 +357,8 @@ function card(b) {
     ? `<div class="activity">${b.evidence_url ? `<a href="${esc(b.evidence_url)}" target="_blank" rel="noopener">${esc(b.activity)}</a>` : esc(b.activity)}</div>` : "";
   return `<article class="card">${img}<div>
     <h3>${esc(b.name)}${badge}</h3>
-    <div class="meta"><a href="#" data-town="${esc(townKey(b))}">${esc(place)}</a><span>${esc(b.genre || "")}</span>${dist ? `<span>${dist}</span>` : ""}</div>
-    ${genresOf(b).length ? `<div class="gtags">${genresOf(b).map(g => `<a href="#" data-genre="${esc(g)}" title="Show all ${esc(g)} bands">${esc(g)}</a>`).join("")}</div>` : ""}
+    <div class="meta"><a href="#" data-town="${esc(townKey(b))}">${esc(place)}</a>${dist ? `<span>${dist}</span>` : ""}</div>
+    ${genreTags(b)}
     ${home}<p class="desc">${esc(b.description)}</p>${act}${shows}<div class="links">${links}</div></div></article>`;
 }
 
@@ -391,7 +417,7 @@ function render() {
   const list = BANDS.filter(b => {
     if (state.region && b.region !== state.region) return false;
     if (state.town && townKey(b) !== state.town) return false;
-    if (state.genre && !genresOf(b).includes(state.genre)) return false;
+    if (state.genre && !matchesGenre(b, state.genre)) return false;
     if (state.basis === "based" && b.basis !== "based") return false;
     if (state.basis === "plays" && !b.plays_here) return false;
     if (state.q) {
@@ -441,7 +467,13 @@ $("#list").addEventListener("click", e => {
   const t = e.target.closest("[data-town], [data-venue], [data-band], [data-vtown], [data-genre]");
   if (!t) return;
   e.preventDefault();
-  if (t.dataset.genre) { state.genre = t.dataset.genre; $("#genre").value = state.genre; return render(); }
+  if (t.dataset.genre) {
+    const sel = $("#genre"), v = t.dataset.genre;
+    if (![...sel.options].some(o => o.value === v))  // rare genres aren't in the list until picked from a card
+      sel.insertAdjacentHTML("beforeend", `<option value="${esc(v)}">${esc(v.slice(2))}</option>`);
+    state.genre = v; sel.value = v;
+    return render();
+  }
   if (t.dataset.town) return selectTown(t.dataset.town);
   if (t.dataset.venue) return selectVenue(+t.dataset.venue);
   if (t.dataset.vtown) { state.vtown = t.dataset.vtown; state.venue = -1; render(); return fitVenues(); }

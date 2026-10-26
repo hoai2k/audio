@@ -255,6 +255,34 @@ for key, rows in by_band.items():  # bands that play here often, wherever they'r
     chosen[key] = b
     bands.append(b)
 
+# ---- specific genres: "Dream pop / indie rock" -> ["Dream Pop", "Indie Rock"] ----
+KEEP_BAND = {"big", "jam", "string", "brass", "party", "cover", "wedding", "garage", "tribute", "marching", "show"}
+NOT_GENRES = {"horns", "harmonies", "harmony", "vocal", "vocals", "originals", "duo", "trio", "quartet", "local", "regional", "unknown"}
+GENRE_ALIASES = {"cover": "covers", "party cover": "party covers", "alt-rock": "alternative rock", "alt rock": "alternative rock",
+                 "alternative": "alternative rock", "hip hop": "hip-hop", "psych": "psychedelic", "psych rock": "psychedelic rock",
+                 "singer songwriter": "singer-songwriter", "rock n roll": "rock and roll", "rock-n-roll": "rock and roll",
+                 "folk rock": "folk-rock", "alt country": "alt-country", "pop-punk": "pop punk", "post punk": "post-punk",
+                 "cover band": "covers", "cover bands": "covers", "party band": "party", "tribute band": "tribute"}
+SMALL = {"and", "of", "n", "the"}
+
+def split_genres(g):
+    g = re.sub(r"\(.*?\)", "", g or "")
+    g = re.sub(r"(?i)\brock\s*(&|and|'?n'?)\s*roll\b", "rock-n-roll", g)
+    g = re.sub(r"(?i)singer\s*[/-]\s*songwriter", "singer-songwriter", g)
+    g = re.sub(r"(?i)\br\s*&\s*b\b", "rnb", g)
+    out = []
+    for p in re.split(r"\s*(?:/|,|;|\+|\||&|\band\b|\bwith\b|\bplus\b)\s*", g):
+        p = re.sub(r"\s+", " ", p.strip(" .-")).lower().replace("rnb", "r&b")
+        words = p.split()
+        if len(words) > 1 and words[-1] in ("band", "bands") and words[-2] not in KEEP_BAND:
+            p = " ".join(words[:-1])
+        p = re.sub(r"\b(music|group|act|outfit|project|ensemble)\b", "", p).strip(" -")
+        p = GENRE_ALIASES.get(p, p)
+        if 2 < len(p) <= 28 and p not in NOT_GENRES and p not in out:
+            out.append(p)
+    return [" ".join(w if w in SMALL and i else w.upper() if w in ("r&b", "edm", "ska-punk") else w[:1].upper() + w[1:]
+                     for i, w in enumerate(t.split())).replace("R&b", "R&B") for t in out]
+
 # ---- labels, regions, places ----
 y0, y1 = D_FROM[:4], D_TO[:4]
 years = y0 if y0 == y1 else f"{y0}–{y1[2:]}"
@@ -262,6 +290,7 @@ places = {}
 for b in bands:
     if band_key(b["name"]) in DESC_FIX:
         b["description"] = DESC_FIX[band_key(b["name"])]
+    b["genres"] = split_genres(b.get("genre"))
     b["region"] = region_of(b["pt"], b["town"], b["state"])
     if SPLIT and b["town"] == SPLIT:  # a big city is mapped by neighbourhood area
         b["place"] = b["region"]
