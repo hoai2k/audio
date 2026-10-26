@@ -38,3 +38,11 @@
   :root:not([data-theme="light"]) .masthead .sky-trim { fill: #efe6d2; fill-opacity: .18; }
   :root:not([data-theme="light"]) .masthead .sky-win { fill: #d2b06a; fill-opacity: .4; }
 }
+
+/* Bands/Venues switch on the header's parchment, selected side in Independence Hall brick */
+:root { --switch-bg: #e6d5b2; --switch-line: rgba(42,33,24,.45); --switch-ink: #5a4b36; --switch-ink-hover: #2a2118;
+  --switch-on-bg: #9a3b24; --switch-on-ink: #fbf6ea; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --switch-bg: #0f1620; --switch-line: rgba(239,230,210,.3); --switch-ink: #c9bfa9; --switch-ink-hover: #fff;
+    --switch-on-bg: #e08b6f; --switch-on-ink: #14171c; }
+}
