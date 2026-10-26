@@ -19,6 +19,7 @@ bands/
     geocache.json         cached OpenStreetMap address lookups
     overrides.json        hand corrections (dropped bands, renamed towns, fixed descriptions)
     venue_summaries.json  one- or two-sentence venue blurbs, keyed "venuename|town"
+    bandinfo_*.json       band details looked up later: genre, description, links, photo
   <city>/
     config.json           centre, radius, date window, last-updated date, regions, title, theme
     theme.css             the city's colours, fonts and header styles
@@ -31,6 +32,7 @@ bands/
     wayback.py            downloads archived venue calendar pages from the Wayback Machine
     list_venues.py        lists venues or bands already on file for an area
     summary_input.py      lists venues still needing a written summary
+    band_info_input.py    lists bands still missing a genre, busiest first
     briefs/               instructions for research agents (see below)
   cache/                  scratch space (git-ignored): Wayback pages, sweep lists
 ```
@@ -40,7 +42,9 @@ bands/
 - **Based here:** its home town (from `bands_*.json`) is inside the radius.
 - **Plays here often:** within the date window, it has at least two separate bookings (a different venue or month, so a multi-day festival counts once) at venues inside the radius. A band whose listed home base is out of state also has to come back to the same town more than a month apart.
 
-Solo acts, DJs and open mics are left out at the research stage. Each band card lists its local shows, so it's clear why the band is there.
+**Solo performers** are listed by the same rules, but only if at least one of their local shows was on a band's bill (opening for one, or sharing the night) or at a festival or concert series (porchfests don't count for solo acts). They get a "Solo artist" badge. Solo acts who only play alone (open mics, solo bar gigs), DJs and school or community groups are left out. Mark solo acts with `"solo": true` on census rows or in band-info files, or list them under `solo_acts` in `data/overrides.json`.
+
+Each band card lists its local shows, so it's clear why the band is there.
 
 ## Updating a page
 
@@ -54,14 +58,15 @@ Solo acts, DJs and open mics are left out at the research stage. Each band card 
    python3 tools/wayback.py <city>        # slow: the Archive rate-limits; safe to stop and re-run
    ```
    Then hand `tools/briefs/wayback_extract.md` to an agent to turn the saved pages into `data/census_wayback_<batch>.json`. To re-sweep a venue later, delete its folder under `cache/wayback/`.
-4. **Write summaries for new venues.** Run `python3 tools/summary_input.py <city>`, then hand `tools/briefs/venue_summaries.md` to an agent. You can edit `data/venue_summaries.json` by hand at any time.
-5. **Build:**
+4. **Fill in band details.** Bands found through venue calendars often arrive with only a name and dates. Run `python3 tools/band_info_input.py`, which writes batches of bands missing a genre to `cache/band_info_input_<n>.json`, busiest first. Then hand each batch and `tools/briefs/band_info.md` to an agent; the results go in `data/bandinfo_<n>.json`. Only confirmed matches are used, and they replace crawl placeholders. Bands already covered are skipped on the next run.
+5. **Write summaries for new venues.** Run `python3 tools/summary_input.py <city>`, then hand `tools/briefs/venue_summaries.md` to an agent. You can edit `data/venue_summaries.json` by hand at any time.
+6. **Build:**
    ```bash
    python3 tools/build.py <city> --geocode   # --geocode looks up any new addresses (1 per second)
    ```
    Check the `MISSING COORDS` lines, if any, and add those towns to `data/towns.json`.
-6. **Check it.** Open `<city>/index.html` in a browser. Search a few bands you know, click a few venues, and look for pins in the wrong place. Wrong pins usually mean an address without a town: fix the venue's `address` in its census file, or add a `towns.json` entry.
-7. **Fix by hand** with `data/overrides.json`:
+7. **Check it.** Open `<city>/index.html` in a browser. Search a few bands you know, click a few venues, and look for pins in the wrong place. Wrong pins usually mean an address without a town: fix the venue's `address` in its census file, or add a `towns.json` entry.
+8. **Fix by hand** with `data/overrides.json`:
    - `drop_bands`: e.g. national touring acts, or a studio project
    - `plays_here_not_based`: home-base entries that are really visiting bands
    - `descriptions`: rewrite a band blurb

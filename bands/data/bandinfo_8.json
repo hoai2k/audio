@@ -1,0 +1,2162 @@
+[
+ {
+  "name": "Metered",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Mexican Slum Rats",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alternative rock / emo",
+  "description": "Four-piece alternative band from Granada Hills in the San Fernando Valley, playing emotionally charged, emo-tinged indie rock.",
+  "home_base": "Los Angeles, CA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://mexicanslumrats.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0041208549_23.jpg",
+  "source": "https://mexicanslumrats.bandcamp.com/"
+ },
+ {
+  "name": "Michael Cera Palin",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo / indie punk",
+  "description": "Atlanta emo and indie-punk band, active since 2015, known for twinkly midwest-emo guitars and shout-along choruses.",
+  "home_base": "Atlanta, GA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://michaelcerapalin.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0039259979_23.jpg",
+  "source": "https://michaelcerapalin.bandcamp.com/"
+ },
+ {
+  "name": "Midnight Flyer",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Mikaela Davis",
+  "confirmed": true,
+  "solo": true,
+  "genre": "folk rock / psychedelic pop",
+  "description": "Harpist and singer-songwriter who blends folk, 70s-style rock and psychedelic pop around her harp; records for Kill Rock Stars.",
+  "home_base": "Catskill, NY",
+  "links": {
+   "website": "https://www.mikaeladavis.com",
+   "bandcamp": "https://mikaeladavis.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5",
+   "instagram": "http://instagram.com/mikaeladavis",
+   "facebook": "https://www.facebook.com/mikaeladavismusic/",
+   "youtube": "https://www.youtube.com/channel/UCSKiYnr59a6D_MRmygbkC9Q"
+  },
+  "image": "https://f4.bcbits.com/img/a1662413837_5.jpg",
+  "source": "https://mikaeladavis.bandcamp.com/"
+ },
+ {
+  "name": "Mike Lawlor Banned",
+  "confirmed": true,
+  "solo": false,
+  "genre": "blues rock",
+  "description": "Northern New Jersey band led by guitarist Michael Lawlor, a Guitarmageddon winner whose playing runs from soulful blues to fiery rock lead work.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.flounderbrewing.com/music-and-events"
+ },
+ {
+  "name": "Mike Montrey Duo",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Americana / rock and soul",
+  "description": "Duo format of New Jersey singer-songwriter and guitarist Mike Montrey, whose original songs mix Americana, rock and soul; formerly of the New Brunswick jam band Water.",
+  "home_base": "New Jersey",
+  "links": {
+   "website": "https://www.mikemontrey.com",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/mikemontreyband",
+   "facebook": "https://www.facebook.com/mikemontrey",
+   "youtube": "https://www.youtube.com/mikemontrey"
+  },
+  "image": "https://img1.wsimg.com/isteam/ip/09359552-193f-4d51-9b71-eb01bef01aa4/1000024299.jpg",
+  "source": "https://www.mikemontrey.com"
+ },
+ {
+  "name": "Mikey Jr. Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "blues / harmonica blues",
+  "description": "Blues band fronted by harmonica player and singer Mikey Junior, a Trenton native based in Bucks County, playing Chicago-style and Sonny Boy Williamson-inspired blues.",
+  "home_base": "Bucks County, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.sonicbids.com/band/mikeyjunior/"
+ },
+ {
+  "name": "Minas",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Brazilian jazz / bossa nova",
+  "description": "Long-running Philadelphia Brazilian music group led by Orlando Haddad and Patricia King, playing bossa nova, samba and Brazilian jazz.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://whyy.org/articles/orlando-haddad-finds-phillys-bossa-nova-beat/"
+ },
+ {
+  "name": "Minute By Minute",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Doobie Brothers / Michael McDonald tribute",
+  "description": "Tribute act playing the music of Michael McDonald and the Doobie Brothers, from \"What a Fool Believes\" to \"Takin' It to the Streets\".",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://thejerseysound.com/news/camden-county-will-rock-again-this-summer-for-free"
+ },
+ {
+  "name": "Mission Dance",
+  "confirmed": true,
+  "solo": false,
+  "genre": "party band / Motown / dance covers",
+  "description": "Freehold-based wedding and event band, founded in 1991, playing continuous sets of R&B, Motown, rock, disco and dance hits.",
+  "home_base": "Freehold, NJ",
+  "links": {
+   "website": "https://missiondance.com",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/missiondanceband/",
+   "facebook": "https://www.facebook.com/MissionDance",
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://piervillage.com/event/thursdays-by-the-sea-concert-series/2026-08-20/"
+ },
+ {
+  "name": "Model/Actriz",
+  "confirmed": true,
+  "solo": false,
+  "genre": "noise rock / dance punk",
+  "description": "Brooklyn band fusing abrasive no-wave noise with industrial and dance-floor rhythms.",
+  "home_base": "Brooklyn, NY",
+  "links": {
+   "website": "https://www.modelactriz.com",
+   "bandcamp": "https://modelactriz.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0039112661_23.jpg",
+  "source": "https://modelactriz.bandcamp.com/"
+ },
+ {
+  "name": "Modern Natives",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Moontype",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock",
+  "description": "Chicago trio playing intricate, emotionally direct indie rock.",
+  "home_base": "Chicago, IL",
+  "links": {
+   "website": null,
+   "bandcamp": "https://moontype.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a0061997849_5.jpg",
+  "source": "https://moontype.bandcamp.com/"
+ },
+ {
+  "name": "Morgan Garrett",
+  "confirmed": true,
+  "solo": true,
+  "genre": "art rock / experimental folk",
+  "description": "Philadelphia songwriter making experimental, art-rock-leaning folk.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://morgangarrett.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a3833952709_5.jpg",
+  "source": "https://morgangarrett.bandcamp.com/"
+ },
+ {
+  "name": "Moros",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Mother Soki",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Motor City Revue",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Motown / soul tribute",
+  "description": "New Jersey-based 12-piece Motown and Stax tribute with a full horn section, fronted by Layonne Holmes.",
+  "home_base": "New Jersey",
+  "links": {
+   "website": "https://www.motorcityrevue.com",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "http://instagram.com/motorcityrevue",
+   "facebook": "http://www.facebook.com/motorcityrevueusa",
+   "youtube": "http://youtube.com/user/motorcityrevueusa"
+  },
+  "image": "https://static.wixstatic.com/media/eb28e5_9d00a47a505542b2acd61df108274f01~mv2.png/v1/fill/w_1200,h_300,al_c/eb28e5_9d00a47a505542b2acd61df108274f01~mv2.png",
+  "source": "https://www.motorcityrevue.com"
+ },
+ {
+  "name": "Mount Cloud Collective",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Murphy's Law",
+  "confirmed": true,
+  "solo": false,
+  "genre": "hardcore punk",
+  "description": "Veteran New York hardcore band known for rowdy, party-minded punk; billed at John & Peter's with Agnostic Front's Vinnie Stigma.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://johnandpeters.com/api/events"
+ },
+ {
+  "name": "My New Band Believe",
+  "confirmed": true,
+  "solo": false,
+  "genre": "art rock / chamber pop",
+  "description": "London project of former black midi bassist Cameron Picton, playing ornate, adventurous art rock.",
+  "home_base": "London, UK",
+  "links": {
+   "website": null,
+   "bandcamp": "https://mynewbandbelieve.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0042811204_23.jpg",
+  "source": "https://mynewbandbelieve.bandcamp.com/"
+ },
+ {
+  "name": "NANCY",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "NIGHT HAWK",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "NY to Boston",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Nastie Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": null,
+  "description": "Band featuring Roddy Bottum of Faith No More.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.brokengoblet.com/event-pages-sitemap.xml"
+ },
+ {
+  "name": "Natalie Jane Hill",
+  "confirmed": true,
+  "solo": true,
+  "genre": "folk",
+  "description": "Asheville singer-songwriter playing hushed, fingerpicked folk.",
+  "home_base": "Asheville, NC",
+  "links": {
+   "website": null,
+   "bandcamp": "https://nataliejanehill.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0041555503_23.jpg",
+  "source": "https://nataliejanehill.bandcamp.com/"
+ },
+ {
+  "name": "Nature TV",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie pop / jangle pop",
+  "description": "Brighton four-piece playing jangly, melodic indie pop.",
+  "home_base": "Brighton, UK",
+  "links": {
+   "website": null,
+   "bandcamp": "https://naturetv.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0047896920_23.jpg",
+  "source": "https://naturetv.bandcamp.com/"
+ },
+ {
+  "name": "Ndichu",
+  "confirmed": true,
+  "solo": false,
+  "genre": "funk / soul / world",
+  "description": "Nine-piece original band mixing funk, soul, R&B and world music with a horn section, led by Kenyan-born singer Liz Ndichu and featuring Philadelphia musicians.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": "https://www.ndichu.com/home",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": "https://www.youtube.com/@ndichuphilly"
+  },
+  "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vy18J2EjiqRerA3RmoZ61kiH3mgEa9bYuXpgY5DELYSgIYBp--ghR-NzS49h12LMbKpaj4ns_u2FYxPDaGYLKBYey4MIBrWZ9YM3dwWLBrdOpP-0T2zok_5snJkN8P06jth0V91bfqSki7AmNXyMmd3YtRftB9ZNs9wC4qYgdTM0KEdlj66AysNETbK58=w16383",
+  "source": "https://www.tonewoodbrewing.com/events"
+ },
+ {
+  "name": "Nefesh Mountain",
+  "confirmed": true,
+  "solo": false,
+  "genre": "progressive bluegrass / Americana",
+  "description": "Progressive bluegrass and Americana band that weaves Jewish heritage and traditions into string-band music.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": "https://www.nefeshmountain.com",
+   "bandcamp": "https://nefeshmountain.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/4JpW8a54yD77lNQAyis8EL",
+   "instagram": "https://www.instagram.com/nefeshmountain/",
+   "facebook": "https://www.facebook.com/nefeshmountain/",
+   "youtube": "https://www.youtube.com/channel/UCuvFuxnqMAOJ_OhaYwCVyLg"
+  },
+  "image": "https://f4.bcbits.com/img/a2624800777_5.jpg",
+  "source": "https://nefeshmountain.bandcamp.com/"
+ },
+ {
+  "name": "Negligent Homicide",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Nematode",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Neon Rayon",
+  "confirmed": true,
+  "solo": false,
+  "genre": "synth punk / industrial rock",
+  "description": "New Jersey synth-punk band with a space-alien concept, mixing synthpop with industrial rock.",
+  "home_base": "New Jersey",
+  "links": {
+   "website": null,
+   "bandcamp": "https://neonrayon.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0035758694_23.jpg",
+  "source": "https://neonrayon.bandcamp.com/"
+ },
+ {
+  "name": "Nervous Nikki and the Chill Pills",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie folk / garage rock",
+  "description": "Phoenixville band playing indie folk and garage rock with hints of hip hop.",
+  "home_base": "Phoenixville, PA",
+  "links": {
+   "website": "https://www.nervousnikki.com",
+   "bandcamp": "https://nervousnikkiandthechillpills.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a1125674486_5.jpg",
+  "source": "https://nervousnikkiandthechillpills.bandcamp.com/"
+ },
+ {
+  "name": "Never the Name",
+  "confirmed": false,
+  "solo": false,
+  "genre": "indie rock",
+  "description": "New Jersey band on an angular indie rock bill at John & Peter's.",
+  "home_base": "New Jersey",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://johnandpeters.com/api/events"
+ },
+ {
+  "name": "New Pony Funk",
+  "confirmed": true,
+  "solo": false,
+  "genre": "funk / soul",
+  "description": "Philadelphia funk and soul band playing originals and classic covers, drawing on P-Funk, the Isley Brothers, Stevie Wonder and go-go.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": "https://www.newponyfunk.com",
+   "bandcamp": "https://newponyfunk.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": "https://www.facebook.com/new.pony.philadelphia/",
+   "youtube": "https://www.youtube.com/channel/UCZeSfe-Rpr_n9tPLjz3MODQ"
+  },
+  "image": "https://f4.bcbits.com/img/a2909125405_5.jpg",
+  "source": "https://newponyfunk.bandcamp.com/"
+ },
+ {
+  "name": "Nick Valen & The Crooks",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Night Cap",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Nightbreakers",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Nightosphere",
+  "confirmed": false,
+  "solo": false,
+  "genre": "noise rock / post-hardcore",
+  "description": "Kansas City band mixing noise rock, post-hardcore and shoegaze.",
+  "home_base": "Kansas City, MO",
+  "links": {
+   "website": null,
+   "bandcamp": "https://nightosphere.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0029071788_23.jpg",
+  "source": "https://nightosphere.bandcamp.com/"
+ },
+ {
+  "name": "Nirvani",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Nirvana tribute",
+  "description": "Nirvana tribute act recreating the band's grunge catalog live.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.brokengoblet.com/event-details/nirvani-a-nirvana-tribute-experience"
+ },
+ {
+  "name": "Nite Liters",
+  "confirmed": true,
+  "solo": false,
+  "genre": "DJ / funk / soul / disco",
+  "description": "Eastern Pennsylvania DJ collective of three (Big Sir, e-roc and ARM 18) spinning vinyl-only sets of boogie, soul, disco, funk and rock since 2018.",
+  "home_base": "Eastern PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.freewillbrewing.com/perkasie-live-music-1"
+ },
+ {
+  "name": "No Control",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "No Gods",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "No Irish Need Apply",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "No/Más",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Noah Richardson",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Nothing Wrong",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Nunslaughter",
+  "confirmed": true,
+  "solo": false,
+  "genre": "death metal / black metal",
+  "description": "Long-running Cleveland extreme metal band playing raw, old-school death and black metal.",
+  "home_base": "Cleveland, OH",
+  "links": {
+   "website": null,
+   "bandcamp": "https://nunslaughter.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0032613817_23.jpg",
+  "source": "https://nunslaughter.bandcamp.com/"
+ },
+ {
+  "name": "Nympho",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Objects",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Ocho",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Odd Men Out",
+  "confirmed": true,
+  "solo": false,
+  "genre": "metalcore / pop punk",
+  "description": "Philadelphia band mixing metalcore, emo and pop punk, a regular on heavy bills at Artie's in Frenchtown.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://oddmenout.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a3425580556_5.jpg",
+  "source": "https://oddmenout.bandcamp.com/"
+ },
+ {
+  "name": "Old Souls",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Oliver Mayman Quartet",
+  "confirmed": true,
+  "solo": false,
+  "genre": "jazz quartet",
+  "description": "Jazz quartet led by Oliver Mayman, playing standards sets in Philadelphia rooms such as the Black Squirrel Club and Chris' Jazz Cafe.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://blacksquirrelclub.com/"
+ },
+ {
+  "name": "One Alternative",
+  "confirmed": true,
+  "solo": false,
+  "genre": "instrumental fusion / jazz",
+  "description": "West Chester instrumental quintet of violin, oboe, guitar, bass and drums, blending jazz, rock, folk and classical.",
+  "home_base": "West Chester, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://onealternative.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a1511403485_5.jpg",
+  "source": "https://onealternative.bandcamp.com/"
+ },
+ {
+  "name": "One Man Dog",
+  "confirmed": true,
+  "solo": false,
+  "genre": "James Taylor tribute",
+  "description": "James Taylor tribute led by Philadelphia-area singer Ray Adkins (co-founder of The Manatees), mixing hits and deeper cuts.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.discoverlehighvalley.com/events/one-man-dog-a-james-taylor-tribute-experience-with-ray-adkins-and-band/"
+ },
+ {
+  "name": "Ornamental",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Out Past Curfew",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Overboard",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "PS Xperiment",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Palmer Squares",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Palmyra",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Pancho Bongo",
+  "confirmed": true,
+  "solo": false,
+  "genre": "salsa / Latin jazz",
+  "description": "Lehigh Valley salsa orchestra founded in 2014 by percussionist Felix \"Pancho Bongo\" Alicea Jr., playing classic salsa, merengue and Latin jazz with five to twelve players.",
+  "home_base": "Bethlehem, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.artsquest.org/event/pancho-bongo/"
+ },
+ {
+  "name": "Paper Bee",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Paper Lady",
+  "confirmed": false,
+  "solo": false,
+  "genre": "dream pop / indie rock",
+  "description": "Brooklyn four-piece playing dreamy, witchy indie rock.",
+  "home_base": "Brooklyn, NY",
+  "links": {
+   "website": null,
+   "bandcamp": "https://paperlady.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0039621149_23.jpg",
+  "source": "https://paperlady.bandcamp.com/"
+ },
+ {
+  "name": "Paper Lanterns",
+  "confirmed": true,
+  "solo": false,
+  "genre": "pop punk / power pop",
+  "description": "Philadelphia band playing pop punk and power pop.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://paperlanterns.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a1249724371_5.jpg",
+  "source": "https://paperlanterns.bandcamp.com/"
+ },
+ {
+  "name": "Paragon Ragtime Orchestra",
+  "confirmed": true,
+  "solo": false,
+  "genre": "ragtime / early American orchestra",
+  "description": "Orchestra reviving ragtime, early American popular and silent-film music in period orchestrations.",
+  "home_base": null,
+  "links": {
+   "website": "https://www.paragonragtime.com",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/paragon_ragtime_orchestra/",
+   "facebook": "https://www.facebook.com/ParagonRagtimeOrchestra/",
+   "youtube": "https://www.youtube.com/@ParagonRagtimeVideos"
+  },
+  "image": "https://www.paragonragtime.com/wp-content/uploads/2024/08/Paragon-Standing-Civic-Hall-1-1-PRO-web-homepage-scaled.jpg",
+  "source": "https://www.paragonragtime.com/"
+ },
+ {
+  "name": "Parlour Magic",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Paul Kopcienski Duo",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Peel Dream Magazine",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie pop / dream pop",
+  "description": "Los Angeles indie pop project with droning, Stereolab-style chamber pop.",
+  "home_base": "Los Angeles, CA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://peeldreammagazine.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0041135984_23.jpg",
+  "source": "https://peeldreammagazine.bandcamp.com/"
+ },
+ {
+  "name": "Peggy",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Pennydog",
+  "confirmed": true,
+  "solo": false,
+  "genre": "midwest emo / punk",
+  "description": "Philadelphia midwest-emo band.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://pennydog.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0032036783_23.jpg",
+  "source": "https://pennydog.bandcamp.com/"
+ },
+ {
+  "name": "Pentagram String Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "dark bluegrass / gothic folk",
+  "description": "Kansas City \"satanic bluegrass\" band mixing gothic folk with punk and thrash attitude and murder-ballad lyrics.",
+  "home_base": "Kansas City, MO",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://johnandpeters.com/api/events"
+ },
+ {
+  "name": "Pep Rally",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Pepperwine",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie pop / soul / funk",
+  "description": "Four-piece led by singer Kellie and guitarist Breece playing indie pop with soul, funk and groove; Musikfest regulars.",
+  "home_base": "New Jersey",
+  "links": {
+   "website": null,
+   "bandcamp": "https://pepperwine.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a1932788252_5.jpg",
+  "source": "https://pepperwine.bandcamp.com/"
+ },
+ {
+  "name": "Pete & Bas",
+  "confirmed": true,
+  "solo": false,
+  "genre": "hip hop",
+  "description": "South East London rap duo of two older MCs delivering gritty UK drill-style rhymes.",
+  "home_base": "London, UK",
+  "links": {
+   "website": null,
+   "bandcamp": "https://peteandbas.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0031130440_23.jpg",
+  "source": "https://peteandbas.bandcamp.com/"
+ },
+ {
+  "name": "Phil Engel Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "classic rock / party covers",
+  "description": "Freehold-area wedding and party band playing classic and contemporary rock covers.",
+  "home_base": "Freehold, NJ",
+  "links": {
+   "website": "https://www.philengelband.com",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": "https://www.facebook.com/PEBphilengelband/",
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.philengelband.com"
+ },
+ {
+  "name": "Philadelphia German Brass Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "German brass / oompah",
+  "description": "Traditional German brass band that has played authentic German music on the East Coast for over 70 years, a fixture at Oktoberfests.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://wwwnew.salisbury.edu/news/article/SU-Hosts-33rd-Oktoberfest-and-German-Dinner-October-11"
+ },
+ {
+  "name": "Philly Gumbo",
+  "confirmed": true,
+  "solo": false,
+  "genre": "New Orleans R&B / funk / soul",
+  "description": "Philadelphia band formed in 1980 playing New Orleans R&B and funk, Memphis soul, reggae and blues, fronted by singer India Rex.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://chestnuthilllocal.com/stories/philly-gumbo-to-bring-eclectic-grooves-to-pastorius-park,32724"
+ },
+ {
+  "name": "Pink Blush",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Pink Mountaintops",
+  "confirmed": true,
+  "solo": false,
+  "genre": "psychedelic rock / post punk",
+  "description": "Musical project of Black Mountain's Stephen McBean, playing fuzzy psych rock.",
+  "home_base": "Los Angeles, CA",
+  "links": {
+   "website": "https://www.pinkmountaintops.com",
+   "bandcamp": "https://pinkmountaintops.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/1g58rJkJZVaUGMUTHTZmYi",
+   "instagram": "https://www.instagram.com/pinkmountaintops/",
+   "facebook": "https://www.facebook.com/pinkmountaintops",
+   "youtube": "https://www.youtube.com/channel/UCpzPuc0B47Mt_jcajlkSBbg"
+  },
+  "image": "https://f4.bcbits.com/img/0034101437_23.jpg",
+  "source": "https://pinkmountaintops.bandcamp.com/"
+ },
+ {
+  "name": "Pink Soap",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Pinkshift",
+  "confirmed": true,
+  "solo": false,
+  "genre": "punk / grunge / metal",
+  "description": "Baltimore band combining punk, grunge and metal with big hooks.",
+  "home_base": "Baltimore, MD",
+  "links": {
+   "website": "https://www.pinkshiftmd.com",
+   "bandcamp": "https://pinkshift.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/pinkshiftmd/",
+   "facebook": null,
+   "youtube": "https://www.youtube.com/@Pinkshift"
+  },
+  "image": "https://f4.bcbits.com/img/0044424880_23.jpg",
+  "source": "https://pinkshift.bandcamp.com/"
+ },
+ {
+  "name": "Pissed Jeans",
+  "confirmed": true,
+  "solo": false,
+  "genre": "noise rock / hardcore punk",
+  "description": "Sub Pop noise-rock and hardcore band with sludgy riffs and sardonic lyrics, rooted in the Philadelphia and Allentown scenes.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://pissedjeans.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0036297045_23.jpg",
+  "source": "https://pissedjeans.bandcamp.com/"
+ },
+ {
+  "name": "Planette Automatic",
+  "confirmed": true,
+  "solo": false,
+  "genre": "art rock / indie rock",
+  "description": "Philadelphia art-rock band.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://planetteautomatic.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0041381890_23.jpg",
+  "source": "https://planetteautomatic.bandcamp.com/"
+ },
+ {
+  "name": "Plaque Marks",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Polyrhythmics",
+  "confirmed": true,
+  "solo": false,
+  "genre": "funk / psychedelic funk / afrobeat",
+  "description": "Seattle instrumental collective playing cinematic psych funk and modern Afrobeat.",
+  "home_base": "Seattle, WA",
+  "links": {
+   "website": "https://www.polyrhythmics.com",
+   "bandcamp": "https://polyrhythmics.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/43pamwJj22NKepRqNeS412",
+   "instagram": "http://instagram.com/polyrhythmics",
+   "facebook": "https://www.facebook.com/polyrhythmics/",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0019610483_23.jpg",
+  "source": "https://polyrhythmics.bandcamp.com/"
+ },
+ {
+  "name": "Porch Pirates",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Portrayal of Guilt",
+  "confirmed": true,
+  "solo": false,
+  "genre": "screamo / black metal / hardcore",
+  "description": "Austin band mixing screamo, hardcore and black metal into dark, abrasive music.",
+  "home_base": "Austin, TX",
+  "links": {
+   "website": "https://portrayalofguilt.com",
+   "bandcamp": "https://portrayalofguilt.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp",
+   "instagram": "http://instagram.com/portrayalofguilt",
+   "facebook": "http://facebook.com/portrayalofguilt",
+   "youtube": "https://www.youtube.com/channel/UCVUorKw6tWO9axRT-J7ZPDQ"
+  },
+  "image": "https://f4.bcbits.com/img/a0909782075_5.jpg",
+  "source": "https://portrayalofguilt.bandcamp.com/"
+ },
+ {
+  "name": "Pretty Bitter",
+  "confirmed": true,
+  "solo": false,
+  "genre": "dream pop / emo",
+  "description": "Washington, D.C.-area band playing emo-tinged dream pop.",
+  "home_base": "Washington, DC",
+  "links": {
+   "website": null,
+   "bandcamp": "https://prettybitter.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0039696134_23.jpg",
+  "source": "https://prettybitter.bandcamp.com/"
+ },
+ {
+  "name": "Prince Daddy & The Hyena",
+  "confirmed": true,
+  "solo": false,
+  "genre": "punk / emo / power pop",
+  "description": "Albany band playing loud, sprawling punk with emo and power-pop hooks.",
+  "home_base": "Albany, NY",
+  "links": {
+   "website": null,
+   "bandcamp": "https://princedaddyandthehyena.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0004093215_23.jpg",
+  "source": "https://princedaddyandthehyena.bandcamp.com/"
+ },
+ {
+  "name": "Problems",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Prodigal Sons",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Progress",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Punchline",
+  "confirmed": true,
+  "solo": false,
+  "genre": "pop punk",
+  "description": "Pittsburgh pop-punk band active since the early 2000s.",
+  "home_base": "Pittsburgh, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://punchline.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0040302752_23.jpg",
+  "source": "https://punchline.bandcamp.com/"
+ },
+ {
+  "name": "Puppy Angst",
+  "confirmed": true,
+  "solo": false,
+  "genre": "shoegaze / fuzz pop",
+  "description": "Philadelphia band playing dreamy, shoegaze-leaning fuzz pop.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://puppyangst.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0033016982_23.jpg",
+  "source": "https://puppyangst.bandcamp.com/"
+ },
+ {
+  "name": "Pure Prairie League",
+  "confirmed": true,
+  "solo": false,
+  "genre": "country rock",
+  "description": "Veteran American country-rock band best known for \"Amie\".",
+  "home_base": null,
+  "links": {
+   "website": "https://pureprairieleague.com",
+   "bandcamp": null,
+   "spotify": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s",
+   "instagram": "https://www.instagram.com/pureprairieleague/",
+   "facebook": null,
+   "youtube": "https://www.youtube.com/channel/UCtuliIWo9o0mfEsxSirk8tA"
+  },
+  "image": null,
+  "source": "https://pureprairieleague.com/"
+ },
+ {
+  "name": "Pyrrhon",
+  "confirmed": true,
+  "solo": false,
+  "genre": "technical death metal / noise",
+  "description": "New York death metal band with a chaotic, jazz-inflected, noise-heavy approach.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": null,
+   "bandcamp": "https://pyrrhonband.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0037078441_23.jpg",
+  "source": "https://pyrrhonband.bandcamp.com/"
+ },
+ {
+  "name": "Queasy",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Quicksand",
+  "confirmed": true,
+  "solo": false,
+  "genre": "post-hardcore",
+  "description": "Influential New York post-hardcore band led by Walter Schreifels, now on Epitaph.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": "https://quicksandnyc.com",
+   "bandcamp": "https://quicksand.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE",
+   "instagram": "https://www.instagram.com/qsnyc/",
+   "facebook": "https://www.facebook.com/pg/QuicksandNYC/",
+   "youtube": "https://www.youtube.com/channel/UCdRaokHvMULVPWqj4bp4MsA"
+  },
+  "image": "https://f4.bcbits.com/img/a2805793506_5.jpg",
+  "source": "https://quicksand.bandcamp.com/"
+ },
+ {
+  "name": "Quiet Man",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Qway",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "R.A.P. Ferreira",
+  "confirmed": true,
+  "solo": true,
+  "genre": "hip hop",
+  "description": "Rapper and poet (formerly Milo) making jazzy, literary underground hip hop.",
+  "home_base": "Nashville, TN",
+  "links": {
+   "website": null,
+   "bandcamp": "https://afrolab9000.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0004451843_23.jpg",
+  "source": "https://afrolab9000.bandcamp.com/"
+ },
+ {
+  "name": "RAEL",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Genesis / Peter Gabriel tribute",
+  "description": "New York and northern New Jersey tribute band recreating early Genesis and Peter Gabriel live shows.",
+  "home_base": "New York / Northern NJ",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://thecolonialtheatre.com/events/live-music/"
+ },
+ {
+  "name": "REZN",
+  "confirmed": true,
+  "solo": false,
+  "genre": "doom / psychedelic metal",
+  "description": "Chicago quartet blending heavy doom with psychedelic, prog and shoegaze textures.",
+  "home_base": "Chicago, IL",
+  "links": {
+   "website": "https://www.rezn.band",
+   "bandcamp": "https://rezzzn.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/3pDqLo5LnCyCBxhKZygkfK",
+   "instagram": "http://instagram.com/rezzzn",
+   "facebook": "http://facebook.com/reznband",
+   "youtube": "https://www.youtube.com/c/reznvisuals"
+  },
+  "image": "https://f4.bcbits.com/img/0044767249_23.jpg",
+  "source": "https://www.rezn.band"
+ },
+ {
+  "name": "RW Hellborn",
+  "confirmed": true,
+  "solo": true,
+  "genre": "punk rock / rock and roll",
+  "description": "Philadelphia punk rocker, frontman of Riverside Odds, playing raw rock and roll as a solo act.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://rwhellborn.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a1554019146_5.jpg",
+  "source": "https://rwhellborn.bandcamp.com/"
+ },
+ {
+  "name": "Random Acts of Soul",
+  "confirmed": true,
+  "solo": false,
+  "genre": "soul / Motown / party band",
+  "description": "Event and party band playing originals plus Motown, R&B, jazz and pop from the 1950s to today; has shared bills with Kindred the Family Soul and Jeff Bradshaw.",
+  "home_base": null,
+  "links": {
+   "website": "https://www.randomactsofsoul.com",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/randomactsofsoul/",
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.randomactsofsoul.com/"
+ },
+ {
+  "name": "Rat Palace",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Raue",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Reality Bites",
+  "confirmed": false,
+  "solo": false,
+  "genre": "90s tribute",
+  "description": "Tribute band covering 90s pop, rock, alternative, dance and R&B hits.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://visitcentraldelaware.com/?p=35677"
+ },
+ {
+  "name": "Rebounder",
+  "confirmed": false,
+  "solo": true,
+  "genre": "indie rock / bedroom pop",
+  "description": "New York City project making lo-fi, new-wave-tinged bedroom pop and indie rock.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": null,
+   "bandcamp": "https://rebounder.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0024986731_23.jpg",
+  "source": "https://rebounder.bandcamp.com/"
+ },
+ {
+  "name": "Red Baraat",
+  "confirmed": true,
+  "solo": false,
+  "genre": "brass band / bhangra / funk",
+  "description": "Brooklyn band led by dhol player Sunny Jain, fusing North Indian bhangra with brass, funk and jazz.",
+  "home_base": "Brooklyn, NY",
+  "links": {
+   "website": "https://www.redbaraat.com",
+   "bandcamp": null,
+   "spotify": "https://open.spotify.com/artist/5MMJUQvUcssZPb0noi7ldR",
+   "instagram": "https://www.instagram.com/redbaraat/",
+   "facebook": "https://www.facebook.com/redbaraatband/",
+   "youtube": null
+  },
+  "image": "http://static1.squarespace.com/static/5ed54e6dd748546c2e4cb6f5/t/5f33380a510f161d705322a2/1597192211967/rb-main.jpg?format=1500w",
+  "source": "https://www.redbaraat.com"
+ },
+ {
+  "name": "Red Elvises",
+  "confirmed": true,
+  "solo": false,
+  "genre": "surf rock / rockabilly",
+  "description": "Long-touring band led by Igor Yuzov playing high-energy Russian-flavored surf rock and rockabilly.",
+  "home_base": null,
+  "links": {
+   "website": "https://redelvises.com",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://instagram.com/theredelvises/",
+   "facebook": "https://www.facebook.com/igorandredelvises",
+   "youtube": "https://www.youtube.com/user/IgorAndRedElvises"
+  },
+  "image": "https://redelvises.com/wp-content/uploads/2024/05/wiSfx-UI0yY.jpg",
+  "source": "https://redelvises.com/"
+ },
+ {
+  "name": "Red Leather",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Red NOT Chili Peppers",
+  "confirmed": false,
+  "solo": false,
+  "genre": "Red Hot Chili Peppers tribute",
+  "description": "Touring Red Hot Chili Peppers tribute band.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "data/census_montco_philly.json (Ardmore Music Hall listing)"
+ },
+ {
+  "name": "Red Panda Retreat",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo / prog rock",
+  "description": "Philadelphia band playing emo with progressive-rock turns.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://redpandaretreat.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0037333062_23.jpg",
+  "source": "https://redpandaretreat.bandcamp.com/"
+ },
+ {
+  "name": "Reese Florence",
+  "confirmed": true,
+  "solo": true,
+  "genre": "singer-songwriter / soul / folk",
+  "description": "Philadelphia singer-songwriter with meditative, melancholic songs in a soft alto, mixing folk and alternative soul.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://reeseflorence.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0040869084_23.jpg",
+  "source": "https://reeseflorence.bandcamp.com/"
+ },
+ {
+  "name": "Remedy",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Remo Drive",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock / emo",
+  "description": "Minnesota indie rock band that grew out of the emo revival.",
+  "home_base": "Minnesota",
+  "links": {
+   "website": null,
+   "bandcamp": "https://remodrive.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a0748734206_5.jpg",
+  "source": "https://remodrive.bandcamp.com/"
+ },
+ {
+  "name": "Resilia",
+  "confirmed": false,
+  "solo": false,
+  "genre": "post-hardcore / prog",
+  "description": "Orlando post-hardcore band in the swancore vein, with proggy, melodic heavy rock.",
+  "home_base": "Orlando, FL",
+  "links": {
+   "website": null,
+   "bandcamp": "https://resilia.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0042819861_23.jpg",
+  "source": "https://resilia.bandcamp.com/"
+ }
+]

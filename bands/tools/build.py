@@ -39,6 +39,7 @@ DROP = {band_key(n) for n in OV.get("drop_bands", {})}
 PLAYS_NOT_BASED = {band_key(n): hb for n, hb in OV.get("plays_here_not_based", {}).items()}
 DESC_FIX = {band_key(n): d for n, d in OV.get("descriptions", {}).items()}
 DROP_VENUES = {fold(v) for v in OV.get("drop_venues", [])}
+SOLO = {band_key(n) for n in OV.get("solo_acts", {})}  # solo performers; more come from census rows and band-info passes
 
 def clean_town(t):
     t = re.sub(r"\s*\(.*?\)", "", t or "").split(" / ")[0].strip()
@@ -152,8 +153,23 @@ for f in sorted(glob.glob(str(DATA / "census_*.json"))):  # venue censuses
         add_venue(v)
     for a in rep.get("appearances", []):
         add_app(norm_app(a, a["band"]))
+        if a.get("solo"):
+            SOLO.add(band_key(a["band"]))
     for i in rep.get("band_info", []):
         add_info(i)
+        if i.get("solo"):
+            SOLO.add(band_key(i["name"]))
+for f in sorted(glob.glob(str(DATA / "bandinfo_*.json"))):  # band-info passes (briefs/band_info.md) win over crawl stubs
+    for i in json.load(open(f)):
+        if not i.get("confirmed"):
+            continue
+        if i.get("solo"):  # one person, not a band: listed only if they share bills with bands (see below)
+            SOLO.add(band_key(i["name"]))
+        cur = info.setdefault(band_key(i["name"]), {})
+        for fld in ("genre", "description", "home_base", "image"):
+            if i.get(fld):
+                cur[fld] = i[fld]
+        cur["links"] = {**(cur.get("links") or {}), **{k: v for k, v in (i.get("links") or {}).items() if v}}
 for a in apps.values():  # venues seen only in booking rows
     add_venue({"name": a["venue"], "town": a["town"], "state": a["state"], "calendar_status": "seen_in_listings"})
 
@@ -193,6 +209,23 @@ by_band = {}
 for a in local:
     by_band.setdefault(band_key(a["band"]), []).append(a)
 
+# A solo performer counts only with a booking on a band's bill (opener, shared night) or at a festival/series
+bill_acts = {}
+for a in local:
+    bill_acts.setdefault((venue_key(a["venue"], a["town"]), a["date"]), set()).add(band_key(a["band"]))
+FESTIVAL_KINDS = {"festival", "park series"}
+
+def solo_ok(key, rows):
+    for a in rows:
+        vk = venue_key(a["venue"], a["town"])
+        if re.search(r"porch", fold(a["venue"])):  # porchfests: everyone plays the same day, but not on the same bill
+            continue
+        if (venues.get(vk) or {}).get("kind") in FESTIVAL_KINDS:
+            return True
+        if any(k != key and k not in SOLO for k in bill_acts.get((vk, a["date"]), ())):
+            return True
+    return False
+
 def separate_bookings(rows):
     # Different venue or month, so one multi-day festival counts once
     return len({(venue_key(a["venue"], a["town"]), a["date"][:7]) for a in rows})
@@ -218,6 +251,10 @@ for b in based_all:  # home-base bands whose town is in range
         continue
     b = dict(b, pt=pt, appearances=sorted(by_band.get(band_key(b["name"]), []), key=lambda a: a["date"], reverse=True))
     b["plays_here"] = bool(b["appearances"])
+    if band_key(b["name"]) in SOLO:
+        if not solo_ok(band_key(b["name"]), b["appearances"]):
+            continue
+        b["solo"] = True
     if SPLIT and b["town"] == SPLIT and not TOWNS.get(f"{clean_neighborhood(b.get('neighborhood'))}, {SPLIT}, {b['state']}"):
         # No neighbourhood on file: place a city band where it plays most in the city
         in_city = [venues[venue_key(a["venue"], a["town"])]["pt"] for a in b["appearances"] if a["town"] == SPLIT]
@@ -233,6 +270,8 @@ for key, rows in by_band.items():  # bands that play here often, wherever they'r
     hb = i.get("home_base") or ""
     touring = bool(OUT_OF_STATE.search(hb) and not IN_STATE.search(hb))
     if touring and not returns_to_town(rows):  # touring acts count only if they come back
+        continue
+    if key in SOLO and not solo_ok(key, rows):
         continue
     rows.sort(key=lambda a: a["date"], reverse=True)
     vc = {}
@@ -251,7 +290,8 @@ for key, rows in by_band.items():  # bands that play here often, wherever they'r
          "genre": "" if genre.lower() in ("unknown", "n/a") else genre, "home_base": i.get("home_base"),
          "description": desc, "links": {k: v for k, v in (i.get("links") or {}).items() if v},
          "image": None if re.search(r"fbcdn|cdninstagram", i.get("image") or "") else i.get("image"),
-         "basis": "plays_here", "plays_here": True, "appearances": rows, **({"touring": True} if touring else {})}
+         "basis": "plays_here", "plays_here": True, "appearances": rows, **({"touring": True} if touring else {}),
+         **({"solo": True} if key in SOLO else {})}
     chosen[key] = b
     bands.append(b)
 

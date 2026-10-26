@@ -38,7 +38,7 @@ Skip venues that only book national arena tours. Note karaoke, DJ and open-mic-o
 - **Budget:** keep WebSearch to the number the area brief gives (default ~35). Prefer WebFetch on calendars and feeds.
 
 ## Rules for appearances
-- **Bands only** (duos OK). Skip solo artists, DJs, open-mic nights, and school or community ensembles.
+- **Bands, plus solo performers on bills:** record bands (duos count as bands). Also record solo performers, marked `"solo": true` on their rows, when they share a bill with a band (opening for one, or on the same night) or play a festival or concert series. Record solo porchfest sets too (with the flag); the build decides. Skip solo acts who only play alone (open mics, solo bar gigs), and skip DJs, open-mic nights, and school or community ensembles.
 - **Every booking counts:** record each dated band booking you find, one row per band per date, singles included. The build decides who's "local" from the totals across all venues. Treat every band the same.
 - **Bill-mates:** record the other bands on the bill too, so each band gets its own row.
 - **Only real data:** never invent dates, venues or acts.
@@ -60,7 +60,8 @@ Write ONE JSON object to `OUTPUT`, with a Python script if it's large:
   }],
   "appearances": [{"band": "...", "venue": "exact venue name as above", "town": "...", "state": "..", "date": "YYYY-MM-DD",
                    "source_url": "...", "source_type": "venue_calendar | aggregator | social_snippet | press | archive",
-                   "time": "optional", "price": "optional", "billing": "optional raw bill text", "presenter": "optional"}],
+                   "time": "optional", "price": "optional", "billing": "optional raw bill text", "presenter": "optional",
+                   "solo": "true for a solo performer, else omit"}],
   "band_info": [{
     "name": "...", "home_base": "stated home town or null", "genre": "...",
     "description": "1–2 sentences in your own words (no research notes)",

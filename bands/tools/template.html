@@ -336,6 +336,7 @@ function card(b) {
   const badge = b.basis === "based"
     ? `<span class="badge based">Based here</span>${b.plays_here ? `<span class="badge plays">Plays here often</span>` : ""}`
     : `<span class="badge plays">Plays here often</span>${b.touring ? `<span class="badge touring">Out-of-state touring</span>` : ""}`;
+  const soloBadge = b.solo ? `<span class="badge touring">Solo artist</span>` : "";
   const home = b.basis === "plays_here"
     ? `<div class="homebase">${b.home_base ? `Listed home base: ${esc(b.home_base)}` : "No home base listed"}. ${b.touring ? "Touring act that keeps coming back. " : ""}Mapped where they play most.</div>` : "";
   const apps = b.appearances || [];
@@ -356,7 +357,7 @@ function card(b) {
   const act = b.activity && b.basis === "based"
     ? `<div class="activity">${b.evidence_url ? `<a href="${esc(b.evidence_url)}" target="_blank" rel="noopener">${esc(b.activity)}</a>` : esc(b.activity)}</div>` : "";
   return `<article class="card">${img}<div>
-    <h3>${esc(b.name)}${badge}</h3>
+    <h3>${esc(b.name)}${badge}${soloBadge}</h3>
     <div class="meta"><a href="#" data-town="${esc(townKey(b))}">${esc(place)}</a>${dist ? `<span>${dist}</span>` : ""}</div>
     ${genreTags(b)}
     ${home}<p class="desc">${esc(b.description)}</p>${act}${shows}<div class="links">${links}</div></div></article>`;

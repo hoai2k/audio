@@ -5,8 +5,8 @@
   "Thursday": "national touring act now",
   "Relapsed": "no 2025-26 activity found",
   "The Wonder Years": "national touring act",
-  "Bryan Hansen Band": "only a solo set found",
-  "Sonic Foundry": "studio project, not a gigging band"
+  "Sonic Foundry": "studio project, not a gigging band",
+  "Workout For Warmth Fundraiser": "a fitness fundraiser, not a band"
  },
  "plays_here_not_based": {
   "The Last Big Band": "Berks County, Lehigh Valley and West Chester players"
@@ -31,5 +31,9 @@
   "First Unitarian Church",
   "The Union Firehouse",
   "Mill Hill Basement (Mill Hill Saloon)"
- ]
+ ],
+ "solo_acts": {
+  "Ajay": "R&B singer",
+  "Bryan Hansen Band": "played a solo set"
+ }
 }

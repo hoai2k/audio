@@ -1,0 +1,2162 @@
+[
+ {
+  "name": "The Brood",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "The Flooding",
+  "confirmed": true,
+  "solo": false,
+  "genre": "slowcore / shoegaze",
+  "description": "Heavy, slow-burning shoegaze-leaning rock band from Lawrence, Kansas, who toured the East Coast with Slow Crush and Faetooth.",
+  "home_base": "Lawrence, KS",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://en.wikipedia.org/wiki/Flooding_(band)"
+ },
+ {
+  "name": "The Jerry Go Round",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Jerry Garcia tribute",
+  "description": "Jerry Garcia tribute band that works through Garcia's solo and side-project songbook, with a different guest guitarist taking the Jerry role at each show.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://asburyparkchamber.com/event/the-jerry-go-round-featuring-jimmy-law-at-the-wonder-bar/"
+ },
+ {
+  "name": "The Local 12",
+  "confirmed": true,
+  "solo": false,
+  "genre": "rock / indie rock",
+  "description": "Rock band from the Philadelphia suburbs (South Jersey and Delaware County) that ranges from indie and alternative to classic and hard rock, splitting sets between originals and covers.",
+  "home_base": "Philadelphia suburbs (South Jersey / Delaware County)",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://shere-e-punjab.com/event/the-local-12-2/"
+ },
+ {
+  "name": "The MAKs",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie folk / folk rock",
+  "description": "Philadelphia folk and indie rock trio of three singer-songwriters, Melissa Menago, Angelique Zuppo and Karina Patricelli, built around stacked harmonies.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://themaksmusic.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0042362238_23.jpg",
+  "source": "https://themaksmusic.bandcamp.com/"
+ },
+ {
+  "name": "The Mark Feingold Jazz Group",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "The Men of Soul",
+  "confirmed": true,
+  "solo": false,
+  "genre": "soul / Motown tribute",
+  "description": "Vocal soul revue covering Motown, Philly soul, Earth, Wind & Fire, Stevie Wonder and 90s R&B.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://visitsomersetnj.org/event/soul-winter-fest-a-tribute-to-soul-music-men-of-soul-bells-2-0/"
+ },
+ {
+  "name": "The Mighty Rumble Brass Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "New Orleans brass band / funk",
+  "description": "New Jersey brass band of four horns and a funky drummer playing New Orleans second-line classics, soulful covers and gritty originals.",
+  "home_base": "New Jersey",
+  "links": {
+   "website": "https://www.mightyrumblebrassband.com/",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/mightyrumblebrassband/",
+   "facebook": "https://www.facebook.com/p/Mighty-Rumble-Brass-Band-61571503775684/",
+   "youtube": "https://www.youtube.com/@MightyRumbleBrassBand"
+  },
+  "image": null,
+  "source": "https://www.mightyrumblebrassband.com/"
+ },
+ {
+  "name": "The Miners",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alt-country",
+  "description": "Philadelphia alt-country band with pedal steel and lap steel colouring their twangy, original songs.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": "https://www.minersmusic.com/",
+   "bandcamp": "https://theminerspa.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/3xV404RqLcOVY8qGB0bAnH",
+   "instagram": "https://www.instagram.com/theminerspa/",
+   "facebook": "https://www.facebook.com/TheMinersPA/",
+   "youtube": "https://www.youtube.com/user/theminerspa"
+  },
+  "image": null,
+  "source": "https://www.minersmusic.com/"
+ },
+ {
+  "name": "The Palmer Squares",
+  "confirmed": true,
+  "solo": false,
+  "genre": "hip-hop",
+  "description": "Chicago hip-hop duo of rappers Terminal Knowledge and Acumental, known for playful, rapid-fire lyricism.",
+  "home_base": "Chicago, IL",
+  "links": {
+   "website": "https://www.palmersquares.com/",
+   "bandcamp": null,
+   "spotify": "https://open.spotify.com/artist/0W7bHqLjZ2UVlUSEWSMTXZ",
+   "instagram": "http://instagram.com/palmersquares",
+   "facebook": "https://www.facebook.com/thepalmersquares",
+   "youtube": null
+  },
+  "image": "http://static1.squarespace.com/static/5709e87b86db439cd7687dda/t/67dae479a40ee86f492e5c56/1742398585929/TPS_Logo_Text_White_trimmed.png?format=1500w",
+  "source": "https://www.palmersquares.com/"
+ },
+ {
+  "name": "The Poettes",
+  "confirmed": true,
+  "solo": false,
+  "genre": "quirky rock",
+  "description": "Philadelphia rock band playing fun, quirky, offbeat songs.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": "https://www.poettesmusic.com/",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/the.poettes",
+   "facebook": "https://www.facebook.com/groups/869769644068822",
+   "youtube": "http://www.youtube.com/@thepoettes9776"
+  },
+  "image": "https://static.wixstatic.com/media/5bc9ee_4b56f516ed9d43dd8985b818f0570829%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/5bc9ee_4b56f516ed9d43dd8985b818f0570829%7Emv2.jpg",
+  "source": "https://www.poettesmusic.com/"
+ },
+ {
+  "name": "The Rectors",
+  "confirmed": true,
+  "solo": false,
+  "genre": "psychobilly / surf punk",
+  "description": "Philadelphia psychobilly band mixing rockabilly twang, surf guitar and punk speed.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://therectors.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": "https://www.facebook.com/TheRectors/",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a0183517060_5.jpg",
+  "source": "https://therectors.bandcamp.com/album/take-you-to-church"
+ },
+ {
+  "name": "The Sam Houseal Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "folk / Americana",
+  "description": "Lehigh Valley folk and Americana band that began as jam sessions at frontman Sam Houseal's house and has released two EPs.",
+  "home_base": "Lehigh Valley, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.wfmz.com/entertainment/musicmonday/music-monday-sam-houseal-band/article_a28f4866-5d7c-4408-a3f4-752068a827fa.html"
+ },
+ {
+  "name": "The Sprawlers",
+  "confirmed": true,
+  "solo": false,
+  "genre": "rock / groove",
+  "description": "Band writing catchy original songs that blend modern sounds with classic grooves, a regular at Punjab Live in Media.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://shere-e-punjab.com/event/the-sprawlers-acrobat-alley/"
+ },
+ {
+  "name": "The Teeth",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock",
+  "description": "Philadelphia indie rock band from the 2000s, broken up in 2008 and back together since 2024 for sold-out hometown shows.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://xpn.org/the-teeth-reunion-johnny-brendas/"
+ },
+ {
+  "name": "The Tone Bandits",
+  "confirmed": true,
+  "solo": false,
+  "genre": "punk rock / rock and roll",
+  "description": "Philadelphia punk band playing loud, fast rock and roll, with members who came up in the London, New York and San Francisco scenes.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://thetonebandits.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0037759226_23.jpg",
+  "source": "https://thetonebandits.bandcamp.com/"
+ },
+ {
+  "name": "The Toxhards",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alternative rock / theatrical indie rock",
+  "description": "Los Angeles trio playing theatrical, comedic alt rock with costumes, pig suits and instrument swaps, signed to Hopeless Records.",
+  "home_base": "Los Angeles, CA",
+  "links": {
+   "website": "https://www.toxhards.com/",
+   "bandcamp": "https://thetoxhards.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/6LOm4xDQLq8kmcRaZIzB2s",
+   "instagram": "https://www.instagram.com/thetoxhards/",
+   "facebook": "https://www.facebook.com/toxhards",
+   "youtube": "https://www.youtube.com/channel/UCHT_deXjRO9jCSl146NVPew"
+  },
+  "image": "https://f4.bcbits.com/img/a4157048379_5.jpg",
+  "source": "https://www.toxhards.com/"
+ },
+ {
+  "name": "The Virgos",
+  "confirmed": true,
+  "solo": false,
+  "genre": "stoner metal / horror punk",
+  "description": "Wilkes-Barre band billing itself as Pennsylvania's heaviest, mixing stoner metal riffs with gothic hardcore and horror punk.",
+  "home_base": "Wilkes-Barre, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://thevirgos.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a3501106180_5.jpg",
+  "source": "https://thevirgos.bandcamp.com/album/lord-have-mercy"
+ },
+ {
+  "name": "The Waywoods",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock / folk pop / alt-Americana",
+  "description": "Philadelphia band playing indie rock with folk-pop melodies and alt-Americana roots.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://thewaywoods.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a1398553562_5.jpg",
+  "source": "https://thewaywoods.bandcamp.com/album/is-anyone-listening"
+ },
+ {
+  "name": "The Yellowstoners",
+  "confirmed": true,
+  "solo": false,
+  "genre": "bluegrass / folk",
+  "description": "Mandolin, guitar, banjo and bass trio playing mellow, original mountain music around northern Delaware and Chester County.",
+  "home_base": "northern Delaware",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://chestercounty.com/2024/06/27/496488/john-corrigan-and-casey-neal-of-the-yellowstoners"
+ },
+ {
+  "name": "There, There",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Radiohead tribute",
+  "description": "New York City Radiohead tribute band covering songs from across the band's catalogue.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.artsquest.org/event/there-there-a-tribute-to-radiohead/"
+ },
+ {
+  "name": "Tim Williams Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "rock / covers",
+  "description": "Collegeville rock band led by singer-songwriter Tim Williams, playing originals, request-driven cover sets and full-album tribute shows such as Matchbox Twenty's debut.",
+  "home_base": "Collegeville, PA",
+  "links": {
+   "website": "https://timwilliams.com/",
+   "bandcamp": null,
+   "spotify": "https://open.spotify.com/artist/0FPNUHGCRhjMX1h3jUcYiA",
+   "instagram": "https://instagram.com/TimWilliamsBand",
+   "facebook": "http://facebook.com/TimWilliamsBand",
+   "youtube": null
+  },
+  "image": "https://images.zoogletools.com/s:bzglfiles/u/757332/056740fff55c0f424763a04cd3e06c29aaa83fb7/original/logo-sticker-tim-williams-band-official-logo.png/!!/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
+  "source": "https://timwilliams.com/"
+ },
+ {
+  "name": "Tired Radio",
+  "confirmed": true,
+  "solo": false,
+  "genre": "punk / emo",
+  "description": "Self-described East Coast bummer punk: melodic, nostalgic punk rock with emo leanings.",
+  "home_base": "New York",
+  "links": {
+   "website": "https://www.tiredradio.com/",
+   "bandcamp": "https://tiredradio.bandcamp.com/",
+   "spotify": null,
+   "instagram": "http://www.instagram.com/tired_radio",
+   "facebook": "http://www.facebook.com/tiredradiomusic",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0026129076_23.jpg",
+  "source": "https://tiredradio.bandcamp.com/"
+ },
+ {
+  "name": "Tokyo Rose",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo / pop punk",
+  "description": "New Brunswick, New Jersey emo and pop-punk band from the early 2000s, back with new music after nearly 20 years away.",
+  "home_base": "New Brunswick, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://en.wikipedia.org/wiki/Tokyo_Rose_(band)"
+ },
+ {
+  "name": "Tramp Stamp",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Trust Fund Ozu",
+  "confirmed": true,
+  "solo": true,
+  "genre": "experimental pop",
+  "description": "Asbury Park experimental pop project created by Faye Fadem.",
+  "home_base": "Asbury Park, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": "https://trustfundozu.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0030643654_23.jpg",
+  "source": "https://trustfundozu.bandcamp.com/"
+ },
+ {
+  "name": "Two Rocks Rye",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alternative rock / grunge / blues rock",
+  "description": "Doylestown band that began as an acoustic duo and grew into a four-piece mixing grunge, blues, jazz and pop rock in its originals, plus cover sets.",
+  "home_base": "Doylestown, PA",
+  "links": {
+   "website": "https://www.tworocksrye.com/",
+   "bandcamp": null,
+   "spotify": "https://open.spotify.com/artist/1lbZSiyzcVyWGvoGiwID84",
+   "instagram": "https://instagram.com/tworocksrye",
+   "facebook": "https://www.facebook.com/tworocksrye/",
+   "youtube": "https://www.youtube.com/@tworocksrye6527"
+  },
+  "image": "http://static1.squarespace.com/static/647293868f38d4164397568f/t/64739b9e7646df790f421bb4/1685298078306/2RR-LOGO.png?format=1500w",
+  "source": "https://www.tworocksrye.com/"
+ },
+ {
+  "name": "Ty Mathis & Friends",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Ugli",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Ultra-Lite",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alternative rock / emo",
+  "description": "Philadelphia alt rock band with emo-tinged melodies.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": "http://ultra-litealt.com",
+   "bandcamp": "https://ultra-lite.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a0978863039_5.jpg",
+  "source": "https://ultra-lite.bandcamp.com/album/would-you-kindly"
+ },
+ {
+  "name": "Unholy Altar",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Unseemlier",
+  "confirmed": true,
+  "solo": false,
+  "genre": "pop punk / heavy emo",
+  "description": "Pop-punk and heavy emo band that lists Boston as home and plays the Asbury Park and Philadelphia DIY circuit.",
+  "home_base": "Boston, MA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://unseemlier.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0047140226_23.jpg",
+  "source": "https://unseemlier.bandcamp.com/"
+ },
+ {
+  "name": "Velvet",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Vilebred",
+  "confirmed": true,
+  "solo": false,
+  "genre": "rock",
+  "description": "Philadelphia-based rock band, a regular at Punjab Live in Media.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://shere-e-punjab.com/event/vilebred-friends-punjab-live-2/"
+ },
+ {
+  "name": "Wakelee",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo / indie rock",
+  "description": "Brooklyn trio, formed in 2019 by identical twins Alex and David Bulmer with Elliot Shiang, playing emo-leaning indie rock with folk touches.",
+  "home_base": "Brooklyn, NY",
+  "links": {
+   "website": "http://wakeleemusic.com",
+   "bandcamp": "https://wakelee.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6",
+   "instagram": "http://instagram.com/wakelee_",
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0046808458_23.jpg",
+  "source": "https://wakelee.bandcamp.com/"
+ },
+ {
+  "name": "We May Be Right",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Billy Joel tribute",
+  "description": "Billy Joel tribute band from Phillipsburg, New Jersey.",
+  "home_base": "Phillipsburg, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+ },
+ {
+  "name": "Wild Beyond",
+  "confirmed": true,
+  "solo": false,
+  "genre": "black metal",
+  "description": "Philadelphia black metal band.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://wildbeyond.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a0278795856_5.jpg",
+  "source": "https://wildbeyond.bandcamp.com/album/black-sites-in-lower-chambers"
+ },
+ {
+  "name": "Wim Tapley & The Cannons",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Americana / roots rock",
+  "description": "Americana songwriter Wim Tapley, raised in the Washington, D.C. suburbs and now based in Athens, Georgia, with his backing band the Cannons.",
+  "home_base": "Athens, GA",
+  "links": {
+   "website": "http://wimtapley.com",
+   "bandcamp": "https://wimtapley.bandcamp.com/",
+   "spotify": null,
+   "instagram": "http://instagram.com/wimtapley/",
+   "facebook": "https://www.facebook.com/wimtapleymusic/",
+   "youtube": "https://www.youtube.com/channel/UCMoM0VrontqfB1UEiXVYLMQ"
+  },
+  "image": "https://f4.bcbits.com/img/0041899342_23.jpg",
+  "source": "https://wimtapley.bandcamp.com/"
+ },
+ {
+  "name": "Wonder House",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Americana / indie folk / funk",
+  "description": "Seven-piece band playing original folksy, indie Americana with funk and rock grooves, drawing on the Beatles, Willie Nelson, James Brown, The Band and the Grateful Dead.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://westchesterporchfest.com/wp-content/uploads/2025/04/west-chester-porchfest-2025-schedule.pdf"
+ },
+ {
+  "name": "Youbet",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock / folk rock",
+  "description": "Brooklyn indie rock band on Hardly Art, playing hooky, folk-tinged guitar songs.",
+  "home_base": "Brooklyn, NY",
+  "links": {
+   "website": "https://www.youbet.band/",
+   "bandcamp": "https://youbetband.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI",
+   "instagram": "https://www.instagram.com/youbet/",
+   "facebook": null,
+   "youtube": "https://www.youtube.com/@youbetband"
+  },
+  "image": "https://f4.bcbits.com/img/0042747889_23.jpg",
+  "source": "https://www.youbet.band/"
+ },
+ {
+  "name": "iluvboyband",
+  "confirmed": true,
+  "solo": false,
+  "genre": "pop",
+  "description": "New York pop 'boyband' made of two sets of identical twins, a supergroup of Venus Twins and Disaster Artist.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": null,
+   "bandcamp": "https://iluvboyband.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0041598156_23.jpg",
+  "source": "https://iluvboyband.bandcamp.com/"
+ },
+ {
+  "name": "littlebird duo",
+  "confirmed": true,
+  "solo": false,
+  "genre": "folk",
+  "description": "Folk duo of Sarah Lanier and Carl Palmeri from Pennsylvania's Slate Belt.",
+  "home_base": "Slate Belt, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+ },
+ {
+  "name": "naive nature",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alternative rock / pop punk / grunge",
+  "description": "Philadelphia alt rock band mixing pop-punk hooks with grungy guitars.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://naivenature.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0040958672_23.jpg",
+  "source": "https://naivenature.bandcamp.com/"
+ },
+ {
+  "name": "13 Cavities",
+  "confirmed": true,
+  "solo": false,
+  "genre": "punk / skacore",
+  "description": "Three-piece punk and skacore band from the Philadelphia area.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://13cavities.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/13cavities/",
+   "facebook": "https://www.facebook.com/13Cavities/",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0032921257_23.jpg",
+  "source": "https://13cavities.bandcamp.com/"
+ },
+ {
+  "name": "20YearsLate",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "A Flock of Seagulls",
+  "confirmed": true,
+  "solo": false,
+  "genre": "80s new wave",
+  "description": "Synth-heavy new wave band from Liverpool, England, best known for early-80s hits like 'I Ran (So Far Away)'.",
+  "home_base": "Liverpool, UK",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.thenewtowntheatre.com/events"
+ },
+ {
+  "name": "A Place To Bury Strangers",
+  "confirmed": true,
+  "solo": false,
+  "genre": "noise rock / shoegaze / post-punk",
+  "description": "Brooklyn band playing extremely loud, feedback-drenched punk-shoegaze and noise rock.",
+  "home_base": "Brooklyn, NY",
+  "links": {
+   "website": "https://www.aplacetoburystrangers.com/",
+   "bandcamp": "https://aplacetoburystrangers.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR",
+   "instagram": "http://www.instagram.com/aptbs",
+   "facebook": "http://www.facebook.com/aplacetoburystrangers/",
+   "youtube": "https://www.youtube.com/channel/UCXrswM3b4mi7sRlQLZnp-nA"
+  },
+  "image": "https://static.wixstatic.com/media/ccd9ff_eda7c4ac8ed046448915a79790d6bf79~mv2.jpg/v1/fill/w_2500,h_1875,al_c/ccd9ff_eda7c4ac8ed046448915a79790d6bf79~mv2.jpg",
+  "source": "https://www.aplacetoburystrangers.com/"
+ },
+ {
+  "name": "AJJ",
+  "confirmed": true,
+  "solo": false,
+  "genre": "folk punk",
+  "description": "Phoenix folk-punk band known for frantic acoustic songs with dark, funny, confessional lyrics.",
+  "home_base": "Phoenix, AZ",
+  "links": {
+   "website": "https://www.ajjtheband.com/",
+   "bandcamp": "https://ajjtheband.bandcamp.com",
+   "spotify": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl",
+   "instagram": "https://instagram.com/ajjtheband",
+   "facebook": "https://facebook.com/ajjtheband",
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.ajjtheband.com/"
+ },
+ {
+  "name": "Accessory",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Acid Mothers Temple",
+  "confirmed": true,
+  "solo": false,
+  "genre": "psychedelic rock / space rock",
+  "description": "Japanese psychedelic collective playing long, freaked-out space-rock jams.",
+  "home_base": "Japan",
+  "links": {
+   "website": "https://acidmothers.com/",
+   "bandcamp": "https://acidmotherstemple.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": "http://www.facebook.com/acidmotherstempleofficial",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0020118054_23.jpg",
+  "source": "https://acidmothers.com/"
+ },
+ {
+  "name": "Adrenalize",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Def Leppard tribute",
+  "description": "Def Leppard tribute band named after the group's 1992 album, recreating the hits live.",
+  "home_base": null,
+  "links": {
+   "website": "https://adrenalizeband.com/",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/dltributeband/",
+   "facebook": "https://www.facebook.com/adrenalizeband",
+   "youtube": "https://www.youtube.com/channel/UC0-sUQIKT0PQkZS0RNAH_Qw"
+  },
+  "image": "https://img1.wsimg.com/isteam/ip/5f804155-6ab6-4baf-a021-0a81406d8047/thumbnails/thumbnail-bead23a5-ec14-4c35-9e4e-0351a4aa8337.png",
+  "source": "https://adrenalizeband.com/"
+ },
+ {
+  "name": "Afterneath",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Agriculture",
+  "confirmed": true,
+  "solo": false,
+  "genre": "black metal / experimental",
+  "description": "Los Angeles experimental black metal band (self-styled 'ecstatic black metal') blending blast beats with folk and ambient passages.",
+  "home_base": "Los Angeles, CA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.songkick.com/venues/1478523-underground-arts/gigography"
+ },
+ {
+  "name": "Alex Radus Quartet",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Americana / swing / blues",
+  "description": "Riegelsville, Pennsylvania songwriter and guitarist Alex Radus with his quartet, playing Americana, swing, blues and storytelling folk.",
+  "home_base": "Riegelsville, PA",
+  "links": {
+   "website": "http://www.alexradus.com",
+   "bandcamp": "https://alexradus.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/2t4hcLYp7ljRNtMqHIGDUr",
+   "instagram": "https://www.instagram.com/alexradusmusic/",
+   "facebook": "https://www.facebook.com/alexradusmusic/",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0027857897_23.jpg",
+  "source": "https://alexradus.bandcamp.com/"
+ },
+ {
+  "name": "Alias",
+  "confirmed": true,
+  "solo": false,
+  "genre": "rock",
+  "description": "Rock band from Whitehall, Pennsylvania, gigging around Lehigh Valley bars and beer gardens.",
+  "home_base": "Whitehall, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.reverbnation.com/aliastheband/events"
+ },
+ {
+  "name": "All Day Special",
+  "confirmed": true,
+  "solo": false,
+  "genre": "beach rock / garage rock",
+  "description": "Four-piece playing sunny beach-pop and garage rock.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://westchesterporchfest.com/wp-content/uploads/2025/04/west-chester-porchfest-2025-schedule.pdf"
+ },
+ {
+  "name": "All Systems Go",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Almost There",
+  "confirmed": true,
+  "solo": false,
+  "genre": "90s alternative rock covers",
+  "description": "High-energy cover band playing alternative rock from the 90s onward.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://shere-e-punjab.com/event/almost-there-90-beyond-2/"
+ },
+ {
+  "name": "Ambient Opera",
+  "confirmed": true,
+  "solo": false,
+  "genre": "ambient / post-rock / instrumental",
+  "description": "Phoenixville instrumental group led by Jeff Ormsby, blending ethereal synths with acoustic post-rock inspired by nature.",
+  "home_base": "Phoenixville, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://ambientopera.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0031060856_23.jpg",
+  "source": "https://ambientopera.bandcamp.com/"
+ },
+ {
+  "name": "American Soul",
+  "confirmed": true,
+  "solo": false,
+  "genre": "soul / Motown revue",
+  "description": "Soul revue with four male lead singers plus female vocalists, performing 'The Great American SoulBook' of Motown, R&B and later soul hits.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.st94.com/events/american-soul-performs-the-great-american-soulbook/"
+ },
+ {
+  "name": "American Stereo",
+  "confirmed": true,
+  "solo": false,
+  "genre": "punk / power pop / garage rock",
+  "description": "New Jersey punk band from the state's basement scene, mixing garage rock and power-pop hooks.",
+  "home_base": "New Jersey",
+  "links": {
+   "website": null,
+   "bandcamp": "https://americanstereo.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/americanstereo_nj/",
+   "facebook": "https://www.facebook.com/americanstereonj",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a1705053616_5.jpg",
+  "source": "https://americanstereo.bandcamp.com/"
+ },
+ {
+  "name": "American Vanity",
+  "confirmed": true,
+  "solo": false,
+  "genre": "party band / covers",
+  "description": "Party cover band from Mountain Top, Pennsylvania.",
+  "home_base": "Mountain Top, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+ },
+ {
+  "name": "Amorphous Blob Orchestra",
+  "confirmed": true,
+  "solo": false,
+  "genre": "punk",
+  "description": "High-energy Trenton-area punk band.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.brokengoblet.com/event-details/amorphous-blob-orchestra-w-light-beams-jelly-knives"
+ },
+ {
+  "name": "Amy Stroup",
+  "confirmed": true,
+  "solo": true,
+  "genre": "singer-songwriter / indie pop",
+  "description": "Nashville singer-songwriter writing warm, melodic indie pop; her songs often turn up in TV placements.",
+  "home_base": "Nashville, TN",
+  "links": {
+   "website": "https://amystroup.com/",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "http://instagram.com/amystroup",
+   "facebook": "https://facebook.com/amystroupmusic",
+   "youtube": "https://www.youtube.com/@AmyStroup"
+  },
+  "image": "http://static1.squarespace.com/static/558c70e9e4b086a2d280019a/t/64189a526609de78209cea1d/1679333970546/amy_sitesharing.png?format=1500w",
+  "source": "https://amystroup.com/"
+ },
+ {
+  "name": "Anders & Friends",
+  "confirmed": true,
+  "solo": false,
+  "genre": "groove / rock and soul",
+  "description": "Avant-groove dance band playing rock and soul classics.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://shere-e-punjab.com/event/anders-friends-punjab-live-media/"
+ },
+ {
+  "name": "Andorra",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Andrew Belle",
+  "confirmed": true,
+  "solo": true,
+  "genre": "singer-songwriter / indie pop",
+  "description": "Chicago-based singer-songwriter making atmospheric indie pop, touring an anniversary run of his album Black Bear.",
+  "home_base": "Chicago, IL",
+  "links": {
+   "website": "https://www.andrewbelle.com/",
+   "bandcamp": null,
+   "spotify": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY",
+   "instagram": "https://www.instagram.com/andrewbelle/",
+   "facebook": "http://facebook.com/andrewbelle",
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.andrewbelle.com/"
+ },
+ {
+  "name": "Ang & the Damn Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rockabilly / rock and roll",
+  "description": "South Philly singer Ang Bocca fronting a rotating band of friends, playing rockabilly-tinged rock and roll.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://xpn.org/stop-what-youre-doing-and-join-the-damn-band/"
+ },
+ {
+  "name": "Another Michael",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie folk / indie rock",
+  "description": "Philadelphia indie band playing gentle, homespun folk-rock songs.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://anothermichael.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": "https://www.facebook.com/anothermichaelmusic",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a1023666356_5.jpg",
+  "source": "https://anothermichael.bandcamp.com/album/pick-me-up-turn-me-upside-down"
+ },
+ {
+  "name": "Anthem",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Rush tribute",
+  "description": "Rush tribute band from Bethlehem and the Lehigh Valley.",
+  "home_base": "Bethlehem, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+ },
+ {
+  "name": "Apsalar",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie folk / ambient folk",
+  "description": "Jersey Shore indie folk act with an ambient edge.",
+  "home_base": "Asbury Park, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": "https://apsalar.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a3822568319_5.jpg",
+  "source": "https://apsalar.bandcamp.com/album/i-dont-know-anything"
+ },
+ {
+  "name": "Arcadia Grey",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo / midwest emo",
+  "description": "Chicago emo band in the sparkly, twinkly Midwest-emo tradition.",
+  "home_base": "Chicago, IL",
+  "links": {
+   "website": null,
+   "bandcamp": "https://arcadiagrey.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a0743582715_5.jpg",
+  "source": "https://arcadiagrey.bandcamp.com/track/septum-ring"
+ },
+ {
+  "name": "Arts Fishing Club",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock",
+  "description": "Indie rock band built around Christopher Kessenich's songs, from Appleton, Wisconsin.",
+  "home_base": "Appleton, WI",
+  "links": {
+   "website": "https://artsfishingclub.com/",
+   "bandcamp": "https://artsfishingclub.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/6DUKY45lfzxJLOfU0v9C0j",
+   "instagram": "http://instagram.com/artsfishingclub",
+   "facebook": "https://www.facebook.com/artsfishingclub/",
+   "youtube": "https://www.youtube.com/channel/UC_tz-lrNYSt2NmJC6eS-brQ"
+  },
+  "image": "https://f4.bcbits.com/img/0005870520_23.jpg",
+  "source": "https://artsfishingclub.com/"
+ },
+ {
+  "name": "Atomic Life",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alternative rock / post-hardcore",
+  "description": "New York alt-rock supergroup with ex-members of The Dillinger Escape Plan and Glassjaw, fronted by Adea Frances.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://moshville.co.uk/news/2025/01/nyc-alt-rock-powerhouse-atomic-life-drop-new-single-stolen-youth/"
+ },
+ {
+  "name": "Augustana",
+  "confirmed": true,
+  "solo": false,
+  "genre": "piano rock / pop rock",
+  "description": "Piano-driven pop-rock band behind 'Boston', led by Dan Layus and originally from Greenville, Illinois.",
+  "home_base": "Greenville, IL",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": "https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7",
+   "instagram": "https://www.instagram.com/augustana/",
+   "facebook": "http://www.facebook.com/augustana",
+   "youtube": "https://www.youtube.com/user/augustanaVEVO"
+  },
+  "image": null,
+  "source": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug9.pdf"
+ },
+ {
+  "name": "Awakebutstillinbed",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo / screamo",
+  "description": "Bay Area emo band known for cathartic, screamed-and-sung songs.",
+  "home_base": "Berkeley, CA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://awakebutstillinbed.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/awakebutstillinbed",
+   "facebook": "https://www.facebook.com/awakebutstillinbed/",
+   "youtube": "https://youtube.com/@awakebutstillinbed102"
+  },
+  "image": "https://f4.bcbits.com/img/0036618643_23.jpg",
+  "source": "https://awakebutstillinbed.bandcamp.com/"
+ },
+ {
+  "name": "Ayahumans",
+  "confirmed": true,
+  "solo": false,
+  "genre": "world / medicine music",
+  "description": "Philadelphia collective playing ceremonial 'healing music' drawn from African and South American ancestral traditions.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": "https://sites.google.com/view/ayahumans/home",
+   "bandcamp": "https://ayahumans.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/ayahumans/",
+   "facebook": "https://www.facebook.com/profile.php?id=61564607371117",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a4026876984_5.jpg",
+  "source": "https://ayahumans.bandcamp.com/album/agora"
+ },
+ {
+  "name": "BBD Rhythm & Blues",
+  "confirmed": true,
+  "solo": false,
+  "genre": "blues / R&B",
+  "description": "Blues and rhythm & blues band, a regular at Readington Brewery's farm shows.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://readingtonbrewery.com/events/live-music-w-bbd-rhythm-blues"
+ },
+ {
+  "name": "BREAKKER",
+  "confirmed": true,
+  "solo": false,
+  "genre": "heavy metal",
+  "description": "Philadelphia heavy metal band.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://breakker.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/Breakker_phl/",
+   "facebook": "https://www.facebook.com/profile.php?id=100095029905816",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a4047575621_5.jpg",
+  "source": "https://breakker.bandcamp.com/album/in-the-wild"
+ },
+ {
+  "name": "Babehoven",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie folk / indie rock",
+  "description": "Hudson, New York band fronted by songwriter Maya Bon with Ryan Albert, playing intimate, slow-building indie rock.",
+  "home_base": "Hudson, NY",
+  "links": {
+   "website": "https://www.babehoven.com/",
+   "bandcamp": "https://babehoven.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70",
+   "instagram": "https://www.instagram.com/babehoven/",
+   "facebook": "https://www.facebook.com/babehoven/",
+   "youtube": "https://www.youtube.com/channel/UCmlqgLk_LtO2QeLZpihz5NQ"
+  },
+  "image": "https://f4.bcbits.com/img/0046072981_23.jpg",
+  "source": "https://babehoven.bandcamp.com/"
+ },
+ {
+  "name": "Bad Luck 13 Riot Extravaganza",
+  "confirmed": true,
+  "solo": false,
+  "genre": "punk / horror punk",
+  "description": "Long-running Philadelphia punk band known for chaotic, theatrical live shows.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://badluck13riotextravaganza.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": "https://www.facebook.com/TheBadLuck13",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a3313064767_5.jpg",
+  "source": "https://badluck13riotextravaganza.bandcamp.com/"
+ },
+ {
+  "name": "Ball in the House",
+  "confirmed": true,
+  "solo": false,
+  "genre": "a cappella / pop",
+  "description": "Boston vocal group singing pop and soul hits a cappella.",
+  "home_base": "Boston, MA",
+  "links": {
+   "website": "https://www.ballinthehouse.com/",
+   "bandcamp": null,
+   "spotify": "https://open.spotify.com/artist/06IKnZaHsiOgAh3loianQ2",
+   "instagram": "http://instagram.com/ballinthehouse",
+   "facebook": "https://www.facebook.com/ballinthehouse/",
+   "youtube": null
+  },
+  "image": "http://static1.squarespace.com/static/692f0b1bc486862ad20e2c4f/t/693875788c8cf65f74bf0b28/1765307769014/BitH+Logo+CRIMSON+w+effects.jpg?format=1500w",
+  "source": "https://www.ballinthehouse.com/"
+ },
+ {
+  "name": "Balmour",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Bane",
+  "confirmed": true,
+  "solo": false,
+  "genre": "hardcore",
+  "description": "Veteran Massachusetts hardcore band, on the road with Quicksand and Hot Water Music.",
+  "home_base": "Worcester, MA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.songkick.com/venues/1478523-underground-arts/gigography"
+ },
+ {
+  "name": "Barefoot Bobby",
+  "confirmed": true,
+  "solo": false,
+  "genre": "covers / country / rock",
+  "description": "Hatfield-area cover band (Barefoot Bobby and the Breakers) playing oldies, country, rock and funk.",
+  "home_base": "Hatfield, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.bandsintown.com/a/12807713-barefoot-bobby-and-the-breakers"
+ },
+ {
+  "name": "Bass Drum of Death",
+  "confirmed": true,
+  "solo": false,
+  "genre": "garage punk",
+  "description": "Garage-punk band from Oxford, Mississippi, playing fuzzed-out, fast rock and roll.",
+  "home_base": "Oxford, MS",
+  "links": {
+   "website": "https://www.bassdrumofdeath.com/",
+   "bandcamp": null,
+   "spotify": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY",
+   "instagram": "https://www.instagram.com/bassdrumofdeath/",
+   "facebook": "https://www.facebook.com/bassdrumofdeath",
+   "youtube": "https://www.youtube.com/channel/UCz5BHlW-iq6GNMlLFDY7l9w"
+  },
+  "image": null,
+  "source": "https://www.bassdrumofdeath.com/"
+ },
+ {
+  "name": "Baths",
+  "confirmed": true,
+  "solo": true,
+  "genre": "electronic / indie pop",
+  "description": "Los Angeles producer and singer Will Wiesenfeld, making lush, glitchy electronic pop.",
+  "home_base": "Los Angeles, CA",
+  "links": {
+   "website": "https://www.baths.cc/",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.baths.cc/"
+ },
+ {
+  "name": "Battalion Zoska",
+  "confirmed": true,
+  "solo": false,
+  "genre": "street punk / Oi! / hardcore",
+  "description": "Philadelphia street punk band playing old-school Oi! and hardcore punk.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://battalionzoska.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": "https://www.facebook.com/Battalionzoska/",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0014450205_23.jpg",
+  "source": "https://battalionzoska.bandcamp.com/"
+ },
+ {
+  "name": "Bay Faction",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo / indie rock",
+  "description": "Boston emo and indie rock band.",
+  "home_base": "Boston, MA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://bayfaction.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a2153354424_5.jpg",
+  "source": "https://bayfaction.bandcamp.com/"
+ },
+ {
+  "name": "Beats Antique",
+  "confirmed": true,
+  "solo": false,
+  "genre": "world fusion / electronic",
+  "description": "Oakland trio blending electronic beats with Middle Eastern, Balkan and world music, known for theatrical live shows with belly dance.",
+  "home_base": "Oakland, CA",
+  "links": {
+   "website": "https://www.beatsantique.com/",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/beatsantique/",
+   "facebook": "https://www.facebook.com/beatsantique",
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.beatsantique.com/"
+ },
+ {
+  "name": "Ben Quad",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo",
+  "description": "Oklahoma emo band with a self-described 'butt rock' streak, mixing twinkly guitars with big riffs.",
+  "home_base": "Oklahoma",
+  "links": {
+   "website": "http://benquad.com",
+   "bandcamp": "https://benquad.bandcamp.com/",
+   "spotify": null,
+   "instagram": "http://instagram.com/benquadok",
+   "facebook": "https://www.facebook.com/benquadok/",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0036891060_23.jpg",
+  "source": "https://benquad.bandcamp.com/"
+ },
+ {
+  "name": "Best Dressed Ghost",
+  "confirmed": true,
+  "solo": false,
+  "genre": "garage punk / surf punk",
+  "description": "New Jersey garage-punk band with surf and grunge-pop leanings.",
+  "home_base": "New Jersey",
+  "links": {
+   "website": null,
+   "bandcamp": "https://bestdressedghost.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0046538396_23.jpg",
+  "source": "https://bestdressedghost.bandcamp.com/"
+ },
+ {
+  "name": "Best Shot",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Pat Benatar tribute",
+  "description": "Pat Benatar tribute band.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://njarts.net/pop-rock-october-2025"
+ },
+ {
+  "name": "BetterDucks",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alternative rock / roots rock",
+  "description": "Philadelphia-area alt rock band led by German-born songwriter Dirk Externest, drawing on R.E.M., Wilco, Tom Petty and Dire Straits.",
+  "home_base": "Philadelphia area",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.steelcityphx.com/product/betterducks-with-opener-rodeo-day-10-17/Q4KF64Z4KKXV5BABWL6FYC4D"
+ },
+ {
+  "name": "Bickel Brothers",
+  "confirmed": true,
+  "solo": false,
+  "genre": "funk / groove / blues",
+  "description": "Versatile funk, groove and blues band, a regular at Punjab Live in Media.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://shere-e-punjab.com/event/bickel-brothers-funk-groove-blues-3/"
+ },
+ {
+  "name": "Big Lazy",
+  "confirmed": true,
+  "solo": false,
+  "genre": "instrumental / cinematic surf noir",
+  "description": "New York City instrumental trio playing moody, cinematic guitar music that mixes surf, noir, twang and jazz.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": "https://www.biglazymusic.com/",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.biglazymusic.com/"
+ },
+ {
+  "name": "Big Nothing",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Big Richard",
+  "confirmed": true,
+  "solo": false,
+  "genre": "bluegrass / old-time",
+  "description": "Colorado bluegrass supergroup of four women mixing bluegrass, old-time, classical, country and pop.",
+  "home_base": "Colorado",
+  "links": {
+   "website": "https://www.bigrichardband.com/",
+   "bandcamp": "https://bigrichardband.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/bigrichardband/",
+   "facebook": "https://www.facebook.com/bigrichardband",
+   "youtube": "https://www.youtube.com/@BigRichardBand"
+  },
+  "image": "https://f4.bcbits.com/img/a4147967282_5.jpg",
+  "source": "https://www.birdhousecenter.org/events-1/big-richard"
+ },
+ {
+  "name": "Billy Futrell and the Sons of Thunder",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Bit Brigade",
+  "confirmed": true,
+  "solo": false,
+  "genre": "video game rock",
+  "description": "Athens, Georgia band that plays full NES and SNES game soundtracks as rock while a gamer speedruns the game live on stage.",
+  "home_base": "Athens, GA",
+  "links": {
+   "website": "http://www.bitbrigade.com",
+   "bandcamp": "https://bitbrigade.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": "http://www.facebook.com/bitbrigade",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0016967433_23.jpg",
+  "source": "https://bitbrigade.bandcamp.com/"
+ },
+ {
+  "name": "Black Rose",
+  "confirmed": true,
+  "solo": false,
+  "genre": "party covers / rock covers",
+  "description": "Dance-floor rock cover band, a regular at 22 West Tap & Grill in Bound Brook.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://visitsomersetnj.org/event/black-rose-live-22-west/"
+ },
+ {
+  "name": "Black Violin",
+  "confirmed": true,
+  "solo": false,
+  "genre": "classical crossover / hip-hop",
+  "description": "Florida duo of classically trained violinist and violist blending classical strings with hip-hop and R&B.",
+  "home_base": "Fort Lauderdale, FL",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/blackviolin",
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.artsquest.org/event/black-violin-full-circle-tour/"
+ },
+ {
+  "name": "Blaming Amy",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Blindspot",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Blue Jean",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Blues Beatles",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Beatles songs as blues",
+  "description": "Brazilian band reworking Beatles songs as Chicago-style blues.",
+  "home_base": "Brazil",
+  "links": {
+   "website": "https://www.bluesbeatles.com.br/",
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": "https://www.instagram.com/bluesbeatles/",
+   "facebook": "https://www.facebook.com/bluesbeatles/",
+   "youtube": null
+  },
+  "image": "https://static.wixstatic.com/media/a1f9fd_f5b906a8c8f94c6ea4ad3416e789f0b3%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/a1f9fd_f5b906a8c8f94c6ea4ad3416e789f0b3%7Emv2.jpg",
+  "source": "https://www.bluesbeatles.com.br/"
+ },
+ {
+  "name": "Bobcat",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Body Garden",
+  "confirmed": true,
+  "solo": false,
+  "genre": "ambient / experimental electronic",
+  "description": "Harrisburg-area act making ambient drone, field-recording and avant-garde electronic pop.",
+  "home_base": "Harrisburg, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://bodygarden.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/b0dy_garden/",
+   "facebook": "https://www.facebook.com/monotheorymusic/",
+   "youtube": "https://www.youtube.com/@B0DYGARD3N"
+  },
+  "image": "https://f4.bcbits.com/img/0032505525_23.jpg",
+  "source": "https://bodygarden.bandcamp.com/"
+ },
+ {
+  "name": "Body Thief",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock / math rock / post-hardcore",
+  "description": "Baltimore trio mixing math rock, post-hardcore and dancey indie rock.",
+  "home_base": "Baltimore, MD",
+  "links": {
+   "website": "http://bodythiefband.com",
+   "bandcamp": "https://bodythief.bandcamp.com/",
+   "spotify": null,
+   "instagram": "http://instagram.com/BodyThief",
+   "facebook": "http://Facebook.com/BodyThief.md",
+   "youtube": "http://www.youtube.com/user/BodyThiefband"
+  },
+  "image": "https://f4.bcbits.com/img/a0643390298_5.jpg",
+  "source": "https://bodythief.bandcamp.com/album/halfway-to-hallelujah"
+ },
+ {
+  "name": "Boltcutter",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Boo Boo Spoiler",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "BoomBox",
+  "confirmed": true,
+  "solo": false,
+  "genre": "electronic / psychedelic dance rock",
+  "description": "Muscle Shoals, Alabama duo fusing house beats with bluesy, psychedelic guitar rock.",
+  "home_base": "Muscle Shoals, AL",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.tixr.com/groups/ardmoremusichall/events/boombox-188099"
+ },
+ {
+  "name": "Borderline",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Born Without Bones",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock / emo",
+  "description": "Massachusetts rock band playing big, emo-tinged indie rock.",
+  "home_base": "Milford, MA",
+  "links": {
+   "website": "https://www.bornwithoutbones.com/",
+   "bandcamp": "https://bornwithoutbones.bandcamp.com/",
+   "spotify": "https://open.spotify.com/artist/541FGx3Aj5vHIpwFiByjFg",
+   "instagram": "http://instagram.com/bornwithoutbones",
+   "facebook": "http://www.facebook.com/bornwithoutbonesma",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0043033172_23.jpg",
+  "source": "https://www.bornwithoutbones.com/"
+ },
+ {
+  "name": "Bostyx",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Boston and Styx tribute",
+  "description": "Tribute band covering the hits of both Boston and Styx.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.brokengoblet.com/event-details/bostyx-the-ultimate-tribute-to-boston-and-styx"
+ },
+ {
+  "name": "Bourbon Neat Trio",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Brackish",
+  "confirmed": true,
+  "solo": false,
+  "genre": "punk / post-hardcore",
+  "description": "Punk and post-hardcore band writing songs about Philadelphia, with roots in New Jersey, active since 2015.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://brackish.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/brackish_/",
+   "facebook": "http://www.facebook.com/brackishtheband",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0028660713_23.jpg",
+  "source": "https://brackish.bandcamp.com/"
+ },
+ {
+  "name": "Brain Damage",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Pink Floyd tribute",
+  "description": "Pink Floyd tribute band from Deptford, New Jersey, playing East Coast stages since 2003.",
+  "home_base": "Deptford, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.artsquest.org/event/brain-damage-a-tribute-to-pink-floyd/"
+ },
+ {
+  "name": "Bren",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock",
+  "description": "Philadelphia indie rock act.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug1.pdf"
+ },
+ {
+  "name": "Bristoltooth",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie / bedroom pop",
+  "description": "Philadelphia indie band making bedroom pop in their basement.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": "http://bristoltooth.com",
+   "bandcamp": "https://bristoltooth.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0033458144_23.jpg",
+  "source": "https://bristoltooth.bandcamp.com/"
+ }
+]

@@ -1,0 +1,1154 @@
+[
+ {
+  "name": "Wall Carpets",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Wannabe",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Spice Girls tribute / 90s pop",
+  "description": "A Toronto tribute act that recreates the Spice Girls with a live band, choreography and costumes, mixing in other 90s pop hits from Britney Spears, Janet Jackson and Madonna.",
+  "home_base": "Toronto, ON",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.brokengoblet.com/event-details/wannabe-a-spice-girls-tribute-2"
+ },
+ {
+  "name": "Wave Break",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alt rock / pop punk / emo",
+  "description": "Jersey Shore alternative rock band with a pop-punk and emo edge.",
+  "home_base": "Jersey Shore, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": "https://wavebreak.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0041156859_21.jpg",
+  "source": "https://wavebreak.bandcamp.com/"
+ },
+ {
+  "name": "Waves of Soul",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Wax Future",
+  "confirmed": true,
+  "solo": false,
+  "genre": "electro-soul / funk / electronic",
+  "description": "Philadelphia live-electronic act blending funk, soul and bass-heavy electronic dance music with live guitar and synths.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://waxfuture.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0014302501_10.jpg",
+  "source": "https://waxfuture.bandcamp.com/"
+ },
+ {
+  "name": "Waxed",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Webb Chapel",
+  "confirmed": true,
+  "solo": false,
+  "genre": "experimental",
+  "description": "Philadelphia experimental project releasing lo-fi, offbeat recordings and playing the city's DIY spaces.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://webbchapel.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0028762583_21.jpg",
+  "source": "https://webbchapel.bandcamp.com/"
+ },
+ {
+  "name": "Weighing In",
+  "confirmed": true,
+  "solo": false,
+  "genre": "metalcore / deathcore",
+  "description": "Delaware five-piece pairing fast, technical progressive metalcore with crushing deathcore breakdowns.",
+  "home_base": "Magnolia, DE",
+  "links": {
+   "website": null,
+   "bandcamp": "https://weighingin.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0029704309_10.jpg",
+  "source": "https://weighingin.bandcamp.com/"
+ },
+ {
+  "name": "West 22nd",
+  "confirmed": false,
+  "solo": false,
+  "genre": "rock",
+  "description": "Austin, Texas rock band of college friends who call their genre-hopping sound \"carousel rock\" and tour nationally.",
+  "home_base": "Austin, TX",
+  "links": {
+   "website": null,
+   "bandcamp": "https://west22nd.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0042717645_21.jpg",
+  "source": "https://west22nd.bandcamp.com/"
+ },
+ {
+  "name": "Whiskey Ginger",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Whiskey Logic Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "classic rock covers",
+  "description": "Bar band playing classic rock covers spanning the 1960s through the 90s.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://shere-e-punjab.com/event/whiskey-logic-band-classic-rock-jams/"
+ },
+ {
+  "name": "Whiskey Mansion",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "White Hills",
+  "confirmed": true,
+  "solo": false,
+  "genre": "psychedelic rock / space rock",
+  "description": "New York psych-rock outfit led by Dave W. and Ego Sensation, known for heavy, droning space rock.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": null,
+   "bandcamp": "https://whitehills.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0036337891_21.jpg",
+  "source": "https://whitehills.bandcamp.com/"
+ },
+ {
+  "name": "Whole Lotta Led",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Led Zeppelin tribute",
+  "description": "A tribute band recreating the songs and stage energy of Led Zeppelin.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://visitsomersetnj.org/event/whole-lotts-led-willie-mcbrides/"
+ },
+ {
+  "name": "Whores.",
+  "confirmed": true,
+  "solo": false,
+  "genre": "noise rock",
+  "description": "Atlanta noise-rock trio with a heavy, abrasive, sludgy sound.",
+  "home_base": "Atlanta, GA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://whores.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0014876264_10.jpg",
+  "source": "https://whores.bandcamp.com/"
+ },
+ {
+  "name": "Wicked Sycamore",
+  "confirmed": true,
+  "solo": false,
+  "genre": "folk / bluegrass",
+  "description": "All-female trio from the DC/Baltimore area playing contemporary folk rooted in bluegrass and roots music, with close three-part harmonies on guitar, mandolin and cello.",
+  "home_base": "Washington, DC",
+  "links": {
+   "website": null,
+   "bandcamp": "https://wickedsycamore.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0018193361_21.jpg",
+  "source": "https://www.brandywine.org/museum/events/concerts-courtyard-wicked-sycamore-0"
+ },
+ {
+  "name": "Wil Hercek Band",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Wild Pink",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock",
+  "description": "New York indie rock band led by John Ross, playing expansive, heartland-tinged indie rock.",
+  "home_base": "New York, NY",
+  "links": {
+   "website": null,
+   "bandcamp": "https://wildpink.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0045155538_21.jpg",
+  "source": "https://wildpink.bandcamp.com/"
+ },
+ {
+  "name": "Wilson Lambert's Blue Philly Magic",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Winderman",
+  "confirmed": true,
+  "solo": false,
+  "genre": "jam / jazz fusion",
+  "description": "Billed in full as Winderman, Colman & Kimock: a jam trio of keyboardist Eli Winderman (Dopapod), bassist Jonathan Colman and drummer John Morgan Kimock that improvises on Grateful Dead, Phish and Aphex Twin material.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://johnnybrendas.com/event/winderman-colman-kimock-3/johnny-brendas/philadelphia-pennsylvania/"
+ },
+ {
+  "name": "Winslow",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Eagles tribute",
+  "description": "New Jersey tribute band covering the Eagles catalog, hits and deep cuts, plus Don Henley and Joe Walsh solo songs.",
+  "home_base": "Hunterdon County, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://countylinesmagazine.com/event/kennett-flash-18/"
+ },
+ {
+  "name": "Wiseboy Jeremy",
+  "confirmed": true,
+  "solo": true,
+  "genre": "hip-hop / underground rap",
+  "description": "Willingboro, NJ rapper making lo-fi, jazzy, soul-sampling underground hip-hop.",
+  "home_base": "Willingboro, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": "https://wiseboyjeremy.bandcamp.com/",
+   "spotify": null,
+   "instagram": "http://instagram.com/wiseboyjeremy",
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0037635809_21.jpg",
+  "source": "https://wiseboyjeremy.bandcamp.com/"
+ },
+ {
+  "name": "With Sails Ahead",
+  "confirmed": true,
+  "solo": false,
+  "genre": "post-hardcore / progressive rock",
+  "description": "Ocean/Monmouth County, NJ band playing progressive post-hardcore, together for about a decade.",
+  "home_base": "Asbury Park, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": "https://withsailsahead.bandcamp.com/",
+   "spotify": null,
+   "instagram": "http://instagram.com/withsailsahead",
+   "facebook": "http://facebook.com/withsailsahead",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0046907318_10.jpg",
+  "source": "https://withsailsahead.bandcamp.com/"
+ },
+ {
+  "name": "Wolfman Jack",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Grateful Dead tribute",
+  "description": "New England musicians recreating the Grateful Dead's early-70s, Europe '72 era as a dance band.",
+  "home_base": "New England",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://shere-e-punjab.com/event/wolfman-jack-primal-dead/"
+ },
+ {
+  "name": "Wooden Nickel Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "covers",
+  "description": "A rotating lineup of local musicians, put together by Maribyrd, playing familiar songs with big vocals and harmonies.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.flounderbrewing.com/music-and-events/wooden-nickel-band"
+ },
+ {
+  "name": "Workingman's Jed",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Workout For Warmth Fundraiser",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Worlds Greatest Dad",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Yacht Rock Gold",
+  "confirmed": true,
+  "solo": false,
+  "genre": "yacht rock tribute",
+  "description": "Also billed as Yacht Rock Gold Experience: a touring revue of late-70s and early-80s soft rock (Doobie Brothers, Steely Dan, Christopher Cross, Kenny Loggins) with several lead singers and horns.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://chestercounty.com/events/300144/yacht-rock-gold"
+ },
+ {
+  "name": "Yam Yam",
+  "confirmed": true,
+  "solo": false,
+  "genre": "funk / jazz-funk",
+  "description": "Central Pennsylvania five-piece instrumental funk band with keys and saxophone, mixing originals with jazz-funk covers.",
+  "home_base": "Harrisburg, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://yamyamband.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0029274476_23.jpg",
+  "source": "https://yamyamband.bandcamp.com/"
+ },
+ {
+  "name": "Yarn",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Americana / jam / country rock",
+  "description": "Americana and jam-rock group based in Brooklyn and Raleigh, with a 70s country-rock and Southern-rock flavor and a long-running New Jersey following.",
+  "home_base": "Brooklyn, NY / Raleigh, NC",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://explorewarren.org/events/yarn-roys-hall-2"
+ },
+ {
+  "name": "Yawn Mower",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alternative / indie rock",
+  "description": "Asbury Park, NJ alternative and indie-rock crew with a fuzzy, wide-ranging sound.",
+  "home_base": "Asbury Park, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": "https://yawnmower.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0045287438_21.jpg",
+  "source": "https://yawnmower.bandcamp.com/"
+ },
+ {
+  "name": "Ye Vagabonds",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Irish folk",
+  "description": "Irish folk group built around brothers Brían and Diarmuid Mac Gloinn, mixing traditional songs and originals with sibling harmonies and a broad acoustic and electric lineup.",
+  "home_base": "Dublin, Ireland",
+  "links": {
+   "website": null,
+   "bandcamp": "https://yevagabonds.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0005943430_21.jpg",
+  "source": "https://johnnybrendas.com/event/ye-vagabonds/johnny-brendas/philadelphia-pennsylvania/"
+ },
+ {
+  "name": "Yesterday's News",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Young Culture",
+  "confirmed": true,
+  "solo": false,
+  "genre": "pop punk",
+  "description": "Albany, NY pop-punk band that played its farewell headline tour in late 2025.",
+  "home_base": "Albany, NY",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://newenglandsounds.com/?p=39714"
+ },
+ {
+  "name": "Young Gun Silver Fox",
+  "confirmed": true,
+  "solo": false,
+  "genre": "soul / yacht rock / soft rock",
+  "description": "Duo of Andy Platts and Shawn Lee making smooth, 70s-style soul and West Coast soft rock.",
+  "home_base": "UK",
+  "links": {
+   "website": null,
+   "bandcamp": "https://younggunsilverfox.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0007937484_21.jpg",
+  "source": "https://web.archive.org/web/20251007225759/https://apboardwalk.com/wp-json/apb/v1/shows"
+ },
+ {
+  "name": "Your Neighbors",
+  "confirmed": true,
+  "solo": false,
+  "genre": "pop / rock / hip-hop",
+  "description": "Self-deprecating project led by one songwriter who works with hired producers and players, jumping genres from dad rock to hip-hop with near-monthly releases.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://web.archive.org/web/20250216141426/https://johnnybrendas.com/event/your-neighbors-2/johnny-brendas/philadelphia-pennsylvania/"
+ },
+ {
+  "name": "You’re Laughing",
+  "confirmed": true,
+  "solo": false,
+  "genre": "rock / indie rock",
+  "description": "Philadelphia rock band with a skewed, wiry take on guitar rock.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://yourelaughing.bandcamp.com",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/yourelaughing_/",
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0041565970_101.jpg",
+  "source": "https://yourelaughing.bandcamp.com"
+ },
+ {
+  "name": "Zach & Sam",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Zach and Cat",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Zeruel",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "Zimmy Shelter",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Bob Dylan tribute",
+  "description": "Jersey Shore Bob Dylan tribute band fronted by Chris Fay, which also stages Dylan-and-the-Grateful-Dead tribute nights.",
+  "home_base": "Jersey Shore, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://apboardwalk.com/wp-json/apb/v1/shows"
+ },
+ {
+  "name": "Zorn",
+  "confirmed": true,
+  "solo": false,
+  "genre": "metal-punk / crust / d-beat",
+  "description": "Theatrical Philadelphia metal-punk band mixing crust, d-beat and rock and roll.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://zornphilly.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0037539333_10.jpg",
+  "source": "https://zornphilly.bandcamp.com/"
+ },
+ {
+  "name": "deerking",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alternative rock",
+  "description": "Philadelphia alternative rock band.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://deerking.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/a2595163573_5.jpg",
+  "source": "https://deerking.bandcamp.com/"
+ },
+ {
+  "name": "dreamfone",
+  "confirmed": true,
+  "solo": false,
+  "genre": "alt-pop / indie pop",
+  "description": "Alt-pop band formed in 2021, known for dreamy synths and introspective lyrics; its 2023 debut album postMANIC drew millions of streams.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://web.archive.org/web/20250216141426/https://johnnybrendas.com/event/your-neighbors-2/johnny-brendas/philadelphia-pennsylvania/"
+ },
+ {
+  "name": "eliora",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "febuary",
+  "confirmed": false,
+  "solo": false,
+  "genre": "screamo / post-hardcore",
+  "description": "Female-fronted screamo band from Las Vegas, formed in 2023, drawing on post-hardcore, emo and math rock.",
+  "home_base": "Las Vegas, NV",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.elcorazonseattle.com/shows/burndown-tour-2026-feat-febuary-27-oct"
+ },
+ {
+  "name": "gre/ay",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "grāvelōrd",
+  "confirmed": true,
+  "solo": false,
+  "genre": "progressive metalcore / melodic metal",
+  "description": "Medford, NJ band formed in 2016 playing progressive metalcore with melodic metal leanings.",
+  "home_base": "Medford, NJ",
+  "links": {
+   "website": null,
+   "bandcamp": "https://gravelord.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://instagram.com/gravelordofficial",
+   "facebook": "https://www.facebook.com/gravelordmetal",
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0015701811_10.jpg",
+  "source": "https://gravelord.bandcamp.com/"
+ },
+ {
+  "name": "harf",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "j ember",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "lespecial",
+  "confirmed": true,
+  "solo": false,
+  "genre": "prog rock / jam / metal",
+  "description": "Connecticut power trio of multi-instrumentalists mixing heavy prog, jam and electronic influences.",
+  "home_base": "Connecticut",
+  "links": {
+   "website": null,
+   "bandcamp": "https://lespecial.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0040902602_21.jpg",
+  "source": "https://lespecial.bandcamp.com/"
+ },
+ {
+  "name": "lighthearted",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie folk",
+  "description": "Indie-folk band from Athens, Georgia, fronted by identical twin sisters Gracie Huffman and Eliza Lemmon, with lush arrangements and close harmonies.",
+  "home_base": "Athens, GA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://lightheartedband.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0046593436_23.jpg",
+  "source": "https://web.archive.org/web/20261002144138/https://www.tixr.com/groups/milkboy/events/kate-stephenson-lighthearted-200058"
+ },
+ {
+  "name": "mila culpa",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "of Montreal",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie pop / psychedelic pop",
+  "description": "Long-running Athens, Georgia indie-pop group led by Kevin Barnes, known for flamboyant, psychedelic, glam-tinged pop.",
+  "home_base": "Athens, GA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://ofmontreal.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0044025896_21.jpg",
+  "source": "https://ofmontreal.bandcamp.com/"
+ },
+ {
+  "name": "screenager",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "smut",
+  "confirmed": true,
+  "solo": false,
+  "genre": "indie rock",
+  "description": "Chicago indie rock band (originally from Cincinnati) with a dreamy, guitar-driven sound, on Bayonet Records.",
+  "home_base": "Chicago, IL",
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://www.philthymag.com/smut-hoping-to-be-possessed-at-johnny-brendas-2-1-w-bad-bad-hats/"
+ },
+ {
+  "name": "sports.",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "sunshy",
+  "confirmed": false,
+  "solo": false,
+  "genre": null,
+  "description": null,
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": null
+ },
+ {
+  "name": "the olllam",
+  "confirmed": true,
+  "solo": false,
+  "genre": "Celtic / post-rock",
+  "description": "Transatlantic collective blending Irish traditional music with Detroit psychedelic post-rock, featuring piper John McSherry and Vulfpeck's Joe Dart.",
+  "home_base": "Michigan",
+  "links": {
+   "website": null,
+   "bandcamp": "https://theolllam.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0046015844_21.jpg",
+  "source": "https://web.archive.org/web/20251028205809/https://johnnybrendas.com/event/the-olllam/johnny-brendas/philadelphia-pennsylvania/"
+ },
+ {
+  "name": "twentythreenineteen",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo / pop punk / indie rock",
+  "description": "Philadelphia emo and pop-punk band, with releases on Hopeless Records.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://twentythreenineteen.bandcamp.com/",
+   "spotify": null,
+   "instagram": "http://www.instagram.com/xxiiixix",
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0038589511_21.jpg",
+  "source": "https://twentythreenineteen.bandcamp.com/"
+ },
+ {
+  "name": "whitepicketfence",
+  "confirmed": true,
+  "solo": false,
+  "genre": "noise punk / post-punk",
+  "description": "Guitar-and-drums duo of Chris Lauterbach (Your Majesty) and Katy Otto (Trophy Wife) playing loud, noisy, DC-punk-inspired songs.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": "https://whitepicketfenceband.bandcamp.com/",
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0045635261_10.jpg",
+  "source": "https://whitepicketfenceband.bandcamp.com/"
+ },
+ {
+  "name": "wonderglu",
+  "confirmed": true,
+  "solo": false,
+  "genre": "emo / bedroom pop / post-hardcore",
+  "description": "Philadelphia project mixing emo, bedroom pop and post-hardcore, from acoustic songs to punk.",
+  "home_base": "Philadelphia, PA",
+  "links": {
+   "website": null,
+   "bandcamp": "https://wonderglu.bandcamp.com/",
+   "spotify": null,
+   "instagram": "https://www.instagram.com/wonderglu/",
+   "facebook": null,
+   "youtube": null
+  },
+  "image": "https://f4.bcbits.com/img/0047316637_21.jpg",
+  "source": "https://wonderglu.bandcamp.com/"
+ },
+ {
+  "name": "Pennington Station Band",
+  "confirmed": true,
+  "solo": false,
+  "genre": "acoustic rock / classic covers",
+  "description": "Local band playing acoustic rock and harmony-driven classics at community concerts.",
+  "home_base": null,
+  "links": {
+   "website": null,
+   "bandcamp": null,
+   "spotify": null,
+   "instagram": null,
+   "facebook": null,
+   "youtube": null
+  },
+  "image": null,
+  "source": "https://planetprinceton.com/event/woolsey-park-concerts-in-the-park/2026-08-19/"
+ }
+]

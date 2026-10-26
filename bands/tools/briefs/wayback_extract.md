@@ -13,7 +13,7 @@ Hand this to an agent together with:
 For each venue folder, read its `DIGEST.md` and pull out every dated band booking in `WINDOW`, one row per band per date. This needs no web access: read the local files only.
 - **Dates:** use the structured-data block, `[YYYY-MM-DD]` markers or dates in the text. If a listing shows month and day but no year, infer the year from the capture date: a listing captured in Oct 2025 showing "Feb 22" means 2026 if it's under "upcoming", or 2025 if it's under "past events". If you can't tell, skip it.
 - **Duplicates:** the same show often appears in many captures. Record it once, and use the earliest capture that shows it as `source_url`.
-- **Bands only:** skip solo acts, DJs, open mics, trivia, comedy, karaoke and cancelled shows. Split multi-band bills into separate rows, and keep the raw bill text in `billing`.
+- **Bands, plus solo performers on band bills:** solo performers who share a bill with a band, or play a festival, get rows marked `"solo": true`. Skip solo-only nights, DJs, open mics, trivia, comedy, karaoke and cancelled shows. Split multi-band bills into separate rows, and keep the raw bill text in `billing`.
 - **Extra details:** if the page gives a time or price, keep it.
 
 ## Output
