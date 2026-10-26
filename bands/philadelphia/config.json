@@ -1,0 +1,154 @@
+{
+  "name": "Philadelphia",
+  "title": "Philadelphia",
+  "title_em": "Local Bands and Venues",
+  "home": "Center City",
+  "center": [
+    39.9526,
+    -75.1652
+  ],
+  "radius_km": 70,
+  "date_from": "2025-01-01",
+  "date_to": "2026-12-31",
+  "updated": "2026-10-26",
+  "theme": "theme.css",
+  "masthead": "masthead.html",
+  "fonts": "https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Libre+Caslon+Display&family=Source+Sans+3:wght@400;500;600&display=swap",
+  "split_town": "Philadelphia",
+  "regions": [
+    {
+      "name": "Center City & Old City",
+      "center": [
+        39.951,
+        -75.158
+      ],
+      "split": true
+    },
+    {
+      "name": "South Philly",
+      "center": [
+        39.926,
+        -75.168
+      ],
+      "split": true
+    },
+    {
+      "name": "University City",
+      "center": [
+        39.953,
+        -75.193
+      ],
+      "split": true
+    },
+    {
+      "name": "West Philly",
+      "center": [
+        39.952,
+        -75.22
+      ],
+      "split": true
+    },
+    {
+      "name": "Fishtown, Kensington & River Wards",
+      "center": [
+        39.978,
+        -75.13
+      ],
+      "split": true
+    },
+    {
+      "name": "North Philly",
+      "center": [
+        39.995,
+        -75.16
+      ],
+      "split": true
+    },
+    {
+      "name": "Northwest Philly",
+      "center": [
+        40.04,
+        -75.2
+      ],
+      "split": true
+    },
+    {
+      "name": "Northeast Philly",
+      "center": [
+        40.05,
+        -75.06
+      ],
+      "split": true
+    },
+    {
+      "name": "Montgomery County",
+      "center": [
+        40.16,
+        -75.3
+      ],
+      "states": [
+        "PA"
+      ]
+    },
+    {
+      "name": "Bucks County",
+      "center": [
+        40.28,
+        -75.03
+      ],
+      "states": [
+        "PA"
+      ]
+    },
+    {
+      "name": "Delaware County",
+      "center": [
+        39.92,
+        -75.38
+      ],
+      "states": [
+        "PA"
+      ]
+    },
+    {
+      "name": "Chester County",
+      "center": [
+        40.0,
+        -75.65
+      ],
+      "states": [
+        "PA"
+      ]
+    },
+    {
+      "name": "South Jersey",
+      "center": [
+        39.87,
+        -75.03
+      ],
+      "states": [
+        "NJ"
+      ]
+    },
+    {
+      "name": "Trenton & Mercer",
+      "center": [
+        40.27,
+        -74.72
+      ],
+      "states": [
+        "NJ"
+      ]
+    },
+    {
+      "name": "Wilmington & Delaware",
+      "center": [
+        39.74,
+        -75.57
+      ],
+      "states": [
+        "DE"
+      ]
+    }
+  ]
+}

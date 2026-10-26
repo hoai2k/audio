@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Local Bands and Venues</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Libre+Caslon+Text:ital@1&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root { --paper: #f4eee2; --panel: #fbf8f1; --ink: #22292b; --muted: #6c6a62; --line: #e1d8c6; --river: #2c5f6e; --brick: #9a3b24; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --paper: #13181b; --panel: #1a2125; --ink: #ece6da; --muted: #a49f93; --line: #2b383b; --river: #7fb2bf; --brick: #e08b6f; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.5 Inter, system-ui, sans-serif; }
+main { max-width: 760px; margin: 0 auto; padding: 56px 16px; }
+h1 { font: 700 clamp(30px, 6vw, 44px)/1.1 Fraunces, Georgia, serif; margin: 0 0 8px; }
+p.lede { color: var(--muted); margin: 0 0 28px; }
+.cities { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+a.city { display: block; text-decoration: none; color: inherit; background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; border-top: 5px solid var(--c); }
+a.city:hover { border-color: var(--c); }
+a.city h2 { margin: 0 0 4px; font: 700 24px/1.2 var(--f); color: var(--c); }
+a.city span { color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Local Bands and Venues</h1>
+  <p class="lede">Maps of the bands that live and play within about an hour of each town, and the venues that book them.</p>
+  <div class="cities">
+    <a class="city" href="lambertville/" style="--c: var(--river); --f: Fraunces, Georgia, serif">
+      <h2>Lambertville</h2><span>The Delaware River towns, Bucks, Hunterdon, the Lehigh Valley and Central Jersey</span>
+    </a>
+    <a class="city" href="philadelphia/" style="--c: var(--brick); --f: 'Libre Caslon Text', Georgia, serif">
+      <h2><i>Philadelphia</i></h2><span>The city's neighbourhoods, the Main Line, Delco, Chester County, South Jersey and Wilmington</span>
+    </a>
+  </div>
+</main>
+</body>
+</html>

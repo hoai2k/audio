@@ -1,0 +1,273 @@
+{
+ "venues": [
+  {
+   "name": "Woolsey Park Concerts in the Park",
+   "town": "Hopewell Township",
+   "state": "NJ",
+   "address": "203 Washington Crossing-Pennington Road, Hopewell Township, NJ",
+   "kind": "park series",
+   "website": "https://planetprinceton.com/event/woolsey-park-concerts-in-the-park/2026-08-19/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "partial",
+   "coverage": "164 archived planetprinceton.com captures, 2025-10-03 to 2026-10-09",
+   "source_url": "https://web.archive.org/web/20260516105333/https://planetprinceton.com/event/4th-of-july-car-show-community-concert-and-hopewell-valley-fireworks/",
+   "notes": "Captures are general Planet Princeton event pages (none of the Concerts in the Park series itself). Only Woolsey Park mention: 2026-06-27 Hopewell Valley 4th of July car show + community concert, no act named. No band rows."
+  },
+  {
+   "name": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "address": "Routes 202 & 263, Lahaska, PA 18931",
+   "kind": "other",
+   "website": "https://peddlersvillage.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "archived captures 2025-10-17 to 2026-10-12; schedules seen: Nissley Vineyards Oct 25 2025-Jan 31 2026 and May 2-Aug 30 2026, Red Fox Lounge Nov 20-Dec 19 2025 and May 14-Aug 20 2026, Tunes at Noon May 15-Aug 28 2026",
+   "source_url": "https://peddlersvillage.com/",
+   "notes": "Shopping village with several stages: Nissley Vineyards weekend music, Red Fox Lounge 'Local Picks' Thursdays, Bucks Fever Tunes at Noon on the main green, festivals. Mostly solo acoustic performers (skipped). Skipped school/community ensembles (CB jazz ensembles, Central Bucks Groove Cuts Rock Band, School of Rock Doylestown, choirs, Philadelphia Bronze, carolers/Spiced Punch). Festival pages (Apple Festival, OctoberFeast, Scarecrow Festival) name no acts. Dec 2025 event-page captures were garbled (gzip saved as text) and unreadable."
+  }
+ ],
+ "appearances": [
+  {
+   "band": "Seperatr Band",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2025-11-08",
+   "source_url": "https://web.archive.org/web/20251101035352/https://peddlersvillage.com/event/nissleymusic25/2025-11-01/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Seperatr Band"
+  },
+  {
+   "band": "Mike & Jen",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2025-11-09",
+   "source_url": "https://web.archive.org/web/20251101035352/https://peddlersvillage.com/event/nissleymusic25/2025-11-01/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Mike & Jen"
+  },
+  {
+   "band": "Waterfront Blue",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2025-11-29",
+   "source_url": "https://web.archive.org/web/20251101035352/https://peddlersvillage.com/event/nissleymusic25/2025-11-01/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Waterfront Blue"
+  },
+  {
+   "band": "Far Out Folks",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2025-11-30",
+   "source_url": "https://web.archive.org/web/20251101035352/https://peddlersvillage.com/event/nissleymusic25/2025-11-01/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Far Out Folks"
+  },
+  {
+   "band": "Chris Alan Duo",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2025-12-21",
+   "source_url": "https://web.archive.org/web/20251101035352/https://peddlersvillage.com/event/nissleymusic25/2025-11-01/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Chris Alan Duo"
+  },
+  {
+   "band": "Mike & Jen",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-01-03",
+   "source_url": "https://web.archive.org/web/20251101035352/https://peddlersvillage.com/event/nissleymusic25/2025-11-01/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Mike & Jen"
+  },
+  {
+   "band": "Far Out Folks",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-01-25",
+   "source_url": "https://web.archive.org/web/20251101035352/https://peddlersvillage.com/event/nissleymusic25/2025-11-01/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Far Out Folks"
+  },
+  {
+   "band": "Waterfront Blue",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-01-31",
+   "source_url": "https://web.archive.org/web/20251101035352/https://peddlersvillage.com/event/nissleymusic25/2025-11-01/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Waterfront Blue"
+  },
+  {
+   "band": "Chris Alan Duo",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-05-10",
+   "source_url": "https://web.archive.org/web/20260517214931/https://peddlersvillage.com/event/nissleymusic26/2026-05-23/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Chris Alan Duo"
+  },
+  {
+   "band": "Mike & Jen",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-06-06",
+   "source_url": "https://web.archive.org/web/20260517214931/https://peddlersvillage.com/event/nissleymusic26/2026-05-23/",
+   "source_type": "archive",
+   "time": "2-5 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Mike & Jen"
+  },
+  {
+   "band": "Far Out Folks",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-07-12",
+   "source_url": "https://web.archive.org/web/20260517214931/https://peddlersvillage.com/event/nissleymusic26/2026-05-23/",
+   "source_type": "archive",
+   "time": "1-4 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Far Out Folks"
+  },
+  {
+   "band": "Waterfront Blue",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://web.archive.org/web/20260517214931/https://peddlersvillage.com/event/nissleymusic26/2026-05-23/",
+   "source_type": "archive",
+   "time": "2-5 PM",
+   "billing": "Nissley Vineyards (Music @ Nissley Vineyards): Waterfront Blue"
+  },
+  {
+   "band": "Jen Walton & Krista Parrish",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2025-11-20",
+   "source_url": "https://web.archive.org/web/20251128174248/https://peddlersvillage.com/event/enchanted-evenings25/2025-11-28/",
+   "source_type": "archive",
+   "time": "5:30-7:30 PM",
+   "billing": "Red Fox Lounge (Enchanted Evenings entertainment schedule): Jen Walton & Krista Parrish"
+  },
+  {
+   "band": "Jen Walton & Krista Parrish",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2025-12-18",
+   "source_url": "https://web.archive.org/web/20251128174248/https://peddlersvillage.com/event/enchanted-evenings25/2025-11-28/",
+   "source_type": "archive",
+   "time": "5:30-7:30 PM",
+   "billing": "Red Fox Lounge (Enchanted Evenings entertainment schedule): Jen Walton & Krista Parrish"
+  },
+  {
+   "band": "2D",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-07-09",
+   "source_url": "https://web.archive.org/web/20260517220332/https://peddlersvillage.com/event/local-picks-at-red-fox-lounge/2026-05-21/",
+   "source_type": "archive",
+   "time": "5:30-7:30 PM",
+   "billing": "Red Fox Lounge (Local Picks, Thursdays): 2D"
+  },
+  {
+   "band": "2D",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-08-20",
+   "source_url": "https://web.archive.org/web/20260517220332/https://peddlersvillage.com/event/local-picks-at-red-fox-lounge/2026-05-21/",
+   "source_type": "archive",
+   "time": "5:30-7:30 PM",
+   "billing": "Red Fox Lounge (Local Picks, Thursdays): 2D"
+  },
+  {
+   "band": "The Abandoned Lounge",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-05-15",
+   "source_url": "https://web.archive.org/web/20260517234907/https://peddlersvillage.com/event/tunes-at-noon/2026-05-22/",
+   "source_type": "archive",
+   "time": "12-1 PM",
+   "billing": "Main Green (Bucks Fever Tunes at Noon, with Central Bucks Chamber of Commerce): The Abandoned Lounge",
+   "price": "free"
+  },
+  {
+   "band": "Too Many Cooks",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-05-22",
+   "source_url": "https://web.archive.org/web/20260517234907/https://peddlersvillage.com/event/tunes-at-noon/2026-05-22/",
+   "source_type": "archive",
+   "time": "12-1 PM",
+   "billing": "Main Green (Bucks Fever Tunes at Noon, with Central Bucks Chamber of Commerce): Too Many Cooks",
+   "price": "free"
+  },
+  {
+   "band": "Breakfast at Judy's",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-06-12",
+   "source_url": "https://web.archive.org/web/20260517234907/https://peddlersvillage.com/event/tunes-at-noon/2026-05-22/",
+   "source_type": "archive",
+   "time": "12-1 PM",
+   "billing": "Main Green (Bucks Fever Tunes at Noon, with Central Bucks Chamber of Commerce): Breakfast at Judy's",
+   "price": "free"
+  },
+  {
+   "band": "Good Intentions",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-06-19",
+   "source_url": "https://web.archive.org/web/20260517234907/https://peddlersvillage.com/event/tunes-at-noon/2026-05-22/",
+   "source_type": "archive",
+   "time": "12-1 PM",
+   "billing": "Main Green (Bucks Fever Tunes at Noon, with Central Bucks Chamber of Commerce): Good Intentions",
+   "price": "free"
+  },
+  {
+   "band": "Cheaky",
+   "venue": "Peddler's Village",
+   "town": "Lahaska",
+   "state": "PA",
+   "date": "2026-07-17",
+   "source_url": "https://web.archive.org/web/20260517234907/https://peddlersvillage.com/event/tunes-at-noon/2026-05-22/",
+   "source_type": "archive",
+   "time": "12-1 PM",
+   "billing": "Main Green (Bucks Fever Tunes at Noon, with Central Bucks Chamber of Commerce): Cheaky",
+   "price": "free"
+  }
+ ],
+ "notes": "Woolsey: no band data in captures. Peddler's Village: '2D' (Red Fox) assumed a duo from the name; Waterfront Blue and Far Out Folks assumed groups from their names; 'Rangers Nouveau Band-Carm Solo' (Tunes at Noon 2026-07-31) skipped as ambiguous; 'Dr. Jeff' treated as solo. Several Dec 2025 captures (Local Picks 12-04/12-11, Nissley 12-13/12-21/12-28, food trucks, cookie nights) are binary garbage in the cache."
+}

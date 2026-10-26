@@ -1,0 +1,26 @@
+/* Lambertville: river town. Delaware blues, brick and towpath green; Fraunces + Inter. */
+:root {
+  --paper: #f4eee2; --panel: #fbf8f1; --ink: #22292b; --muted: #6c6a62; --line: #e1d8c6;
+  --river: #2c5f6e; --river-deep: #1d4350; --river-soft: #dce8e9;
+  --brick: #a5432a; --brick-soft: #f3dfd5; --towpath: #6d7d4b; --chip: #efe7d7;
+  --serif: "Fraunces", Georgia, "Times New Roman", serif;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --shadow: 0 1px 0 rgba(60,40,20,.05), 0 6px 18px -10px rgba(60,40,20,.25);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #12191b; --panel: #182124; --ink: #ece6da; --muted: #a49f93; --line: #2b383b;
+    --river: #7fb2bf; --river-deep: #0d2a33; --river-soft: #1d3238;
+    --brick: #e58a6c; --brick-soft: #3a231b; --towpath: #a9b97f; --chip: #212c2f;
+    --shadow: 0 6px 18px -10px rgba(0,0,0,.6);
+  }
+}
+
+/* Masthead: river, bridge, towpath */
+.masthead { position: relative; color: #f7f1e4; background: linear-gradient(180deg, #1d4350 0%, #2c5f6e 70%, #3b7181 100%); overflow: hidden; }
+.masthead .inner { position: relative; z-index: 2; max-width: 1400px; margin: 0 auto; padding: 24px 24px 62px; }
+.masthead h1 { font: 700 clamp(28px, 4.6vw, 48px)/1.04 var(--serif); margin: 0; letter-spacing: -.015em; }
+.masthead .inner { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 24px; }
+.masthead .period { margin: 0; font-size: 13.5px; color: #d6e4e5; }
+.masthead h1 em { font-style: italic; font-weight: 500; color: #f2c9a8; }
+.masthead svg.bridge { position: absolute; left: 0; right: 0; bottom: 0; width: 100%; height: 92px; z-index: 1; }

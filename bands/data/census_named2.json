@@ -1,0 +1,4555 @@
+{
+ "venues": [
+  {
+   "name": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "address": "25 Bridge Street, Lambertville, NJ 08530 (public entrance through Bucks Coffee Shop)",
+   "kind": "DIY",
+   "website": "https://soupconsalon.club/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "crawled",
+   "coverage": "Oct 2024–Dec 2026 full site calendar (events.php + every event.php detail page, incl. unlisted ids)",
+   "source_url": "https://soupconsalon.club/events.php",
+   "notes": "501(c)3 artist collective gallery; very active DIY noise/punk/indie/psych bills most Saturdays, plus Friday open mic, Thursday Bucket-o-Jams, NoFi-NJ Avant Mic, DJ dance parties. Also runs a community calendar listing other Lambertville-area events. Hosts the RRAT Club series."
+  },
+  {
+   "name": "RRAT Club",
+   "town": "Lumberville",
+   "state": "PA",
+   "address": "PO Box 55, Lumberville, PA 18933 (mailing address only; no fixed room)",
+   "kind": "promoter",
+   "website": "https://rratclub.com (Wix domain, currently unpublished/404)",
+   "facebook": null,
+   "instagram": "https://www.instagram.com/rratclub/",
+   "music_frequency": "occasional",
+   "calendar_status": "social_only",
+   "coverage": "Aug 2025–Mar 2026, only via shows posted on the Soupçon Salon calendar",
+   "source_url": "https://www.instagram.com/rratclub/",
+   "notes": "\"River Radical Art Team\" (IG bio: est. 2022, DRV DIY). A Delaware River Valley DIY promoter/art collective, not a venue: it presents shows at Soupçon Salon (Lambertville) and Starving Artist Cafe (Stockton). Its appearances are recorded under those venues with presenter=\"RRAT Club\". Instagram grid could not be read for dates; web search found nothing else."
+  },
+  {
+   "name": "Starving Artist Cafe",
+   "town": "Stockton",
+   "state": "NJ",
+   "address": "18 Bridge Street, Stockton, NJ",
+   "kind": "restaurant",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "partial",
+   "coverage": "one RRAT Club show (Aug 2025) seen on Soupçon calendar; own calendar not checked",
+   "source_url": "https://soupconsalon.club/event.php?id=219",
+   "notes": "Cafe hosting at least one RRAT Club punk show (BYOB, all ages). Own listings not crawled."
+  },
+  {
+   "name": "Shadfest Locals Night",
+   "town": "Lambertville",
+   "state": "NJ",
+   "address": "Municipal parking lot, N. Union & Church Streets, Lambertville",
+   "kind": "festival",
+   "website": "https://soupconsalon.club/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "crawled",
+   "coverage": "2025 and 2026 editions (Soupçon calendar)",
+   "source_url": "https://soupconsalon.club/event.php?id=489",
+   "notes": "Free open-air Shad Festival eve concert by Soupçon Salon and the Chamber of Commerce. Solo acts left out (Brian Dale Allen Strouse \"full band\" 2025, Ruby West 2026)."
+  },
+  {
+   "name": "The Church (Hampton)",
+   "town": "Hampton",
+   "state": "NJ",
+   "address": null,
+   "kind": "DIY",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "partial",
+   "coverage": "one event May 2025",
+   "source_url": "https://soupconsalon.club/event.php?id=131",
+   "notes": "Private/member-hosted space; one record-release party listed."
+  },
+  {
+   "name": "Unchanged Mind Records",
+   "town": "Lambertville",
+   "state": "NJ",
+   "address": "1 Church St, Lambertville, NJ",
+   "kind": "other",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "partial",
+   "coverage": "Mar & Oct 2025 events on Soupçon calendar",
+   "source_url": "https://soupconsalon.club/event.php?id=299",
+   "notes": "Record shop with occasional experimental shows (Halloween 2025: Charmaine Lee, Jake Latakas Orrall, both solo, not recorded). Co-presents noise shows at Soupçon."
+  },
+  {
+   "name": "Union Coffee",
+   "town": "Lambertville",
+   "state": "NJ",
+   "address": "49 North Union Street, Lambertville, NJ",
+   "kind": "coffeehouse",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "partial",
+   "coverage": "Nov 2024–Feb 2026 Soupçon-presented Sunday shows",
+   "source_url": "https://soupconsalon.club/event.php?id=204",
+   "notes": "Soupçon Salon Presents afternoon sets; all solo or uncertain acts (Kailey Rocker, Matt Kresge, The Astrolabe, Kimberleigh Rose etc.), so no bands recorded."
+  },
+  {
+   "name": "Mini Mega Electric Gallery",
+   "town": "Doylestown",
+   "state": "PA",
+   "address": "25 North Main Street, Doylestown, PA 18901",
+   "kind": "other",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "partial",
+   "coverage": "Oct 2025 (2 shows on Soupçon calendar)",
+   "source_url": "https://soupconsalon.club/event.php?id=280",
+   "notes": "Art/oddities/tattoo gallery with \"Tiny Couch Sessions\" of touring solo songwriters (Thomas Walsh, Clem Snide); solo, not recorded."
+  },
+  {
+   "name": "Dharma Bums",
+   "town": "New Hope",
+   "state": "PA",
+   "address": "4935 River Road, New Hope, PA",
+   "kind": "restaurant",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "partial",
+   "coverage": "one WDVR Unplugged broadcast Aug 2026",
+   "source_url": "https://soupconsalon.club/event.php?id=581",
+   "notes": "WDVR Unplugged live broadcast; Chris Lyons (with band) not recorded as a band."
+  },
+  {
+   "name": "Lambertville Elks Lodge 1070",
+   "town": "Lambertville",
+   "state": "NJ",
+   "address": null,
+   "kind": "open mic",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "partial",
+   "coverage": "2025–2026 Soupçon calendar",
+   "source_url": "https://soupconsalon.club/event.php?id=331",
+   "notes": "Only karaoke, Bucket-o-Jams and a donation drive listed; not crawled further."
+  },
+  {
+   "name": "Lambertville Porchfest",
+   "town": "Lambertville",
+   "state": "NJ",
+   "address": "Downtown Lambertville",
+   "kind": "festival",
+   "website": "https://www.lambertvilleporchfest.com",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "partial",
+   "coverage": "dates only: 2025-10-04, 2026-10-03 (Soupçon hosts a Klines Court stage)",
+   "source_url": "https://soupconsalon.club/event.php?id=242",
+   "notes": "Lineups live on lambertvilleporchfest.com; not crawled in this task."
+  }
+ ],
+ "appearances": [
+  {
+   "band": "Evil Sword",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-01-18",
+   "source_url": "https://soupconsalon.club/event.php?id=50",
+   "source_type": "venue_calendar",
+   "bill": [
+    "West Jersey Airport",
+    "Corpse Farmer",
+    "Piss Elf"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "West Jersey Airport",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-01-18",
+   "source_url": "https://soupconsalon.club/event.php?id=50",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Evil Sword",
+    "Corpse Farmer",
+    "Piss Elf"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Corpse Farmer",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-01-18",
+   "source_url": "https://soupconsalon.club/event.php?id=50",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Evil Sword",
+    "West Jersey Airport",
+    "Piss Elf"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Piss Elf",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-01-18",
+   "source_url": "https://soupconsalon.club/event.php?id=50",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Evil Sword",
+    "West Jersey Airport",
+    "Corpse Farmer"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "The Swiss Guard",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-01-24",
+   "source_url": "https://soupconsalon.club/event.php?id=31",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Song People",
+    "Those Looks"
+   ],
+   "time": "7:00PM doors",
+   "price": "$10 cover"
+  },
+  {
+   "band": "Song People",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-01-24",
+   "source_url": "https://soupconsalon.club/event.php?id=31",
+   "source_type": "venue_calendar",
+   "bill": [
+    "The Swiss Guard",
+    "Those Looks"
+   ],
+   "time": "7:00PM doors",
+   "price": "$10 cover"
+  },
+  {
+   "band": "Those Looks",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-01-24",
+   "source_url": "https://soupconsalon.club/event.php?id=31",
+   "source_type": "venue_calendar",
+   "bill": [
+    "The Swiss Guard",
+    "Song People"
+   ],
+   "time": "7:00PM doors",
+   "price": "$10 cover"
+  },
+  {
+   "band": "The Playful Bunch",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-03-15",
+   "source_url": "https://soupconsalon.club/event.php?id=73",
+   "source_type": "venue_calendar",
+   "bill": [
+    "NaOCl",
+    "Earth-Rim Walker",
+    "Spandex Model"
+   ],
+   "time": "8:00PM",
+   "billing": "Noise Night"
+  },
+  {
+   "band": "NaOCl",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-03-15",
+   "source_url": "https://soupconsalon.club/event.php?id=73",
+   "source_type": "venue_calendar",
+   "bill": [
+    "The Playful Bunch",
+    "Earth-Rim Walker",
+    "Spandex Model"
+   ],
+   "time": "8:00PM",
+   "billing": "Noise Night"
+  },
+  {
+   "band": "Earth-Rim Walker",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-03-15",
+   "source_url": "https://soupconsalon.club/event.php?id=73",
+   "source_type": "venue_calendar",
+   "bill": [
+    "The Playful Bunch",
+    "NaOCl",
+    "Spandex Model"
+   ],
+   "time": "8:00PM",
+   "billing": "Noise Night"
+  },
+  {
+   "band": "Spandex Model",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-03-15",
+   "source_url": "https://soupconsalon.club/event.php?id=73",
+   "source_type": "venue_calendar",
+   "bill": [
+    "The Playful Bunch",
+    "NaOCl",
+    "Earth-Rim Walker"
+   ],
+   "time": "8:00PM",
+   "billing": "Noise Night"
+  },
+  {
+   "band": "Rubix Pube",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-03-29",
+   "source_url": "https://soupconsalon.club/event.php?id=80",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Indigo Ranch",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-04-12",
+   "source_url": "https://soupconsalon.club/event.php?id=82",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Markiemodel"
+   ],
+   "time": "8:00PM",
+   "price": "$10",
+   "billing": "Darkwave"
+  },
+  {
+   "band": "Markiemodel",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-04-12",
+   "source_url": "https://soupconsalon.club/event.php?id=82",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Indigo Ranch"
+   ],
+   "time": "8:00PM",
+   "price": "$10",
+   "billing": "Darkwave"
+  },
+  {
+   "band": "Corpse Farmer",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-04-19",
+   "source_url": "https://soupconsalon.club/event.php?id=79",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Necrophiliac Yacht Club",
+    "Messiahnide",
+    "West Jersey Airport"
+   ]
+  },
+  {
+   "band": "Necrophiliac Yacht Club",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-04-19",
+   "source_url": "https://soupconsalon.club/event.php?id=79",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Corpse Farmer",
+    "Messiahnide",
+    "West Jersey Airport"
+   ]
+  },
+  {
+   "band": "Messiahnide",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-04-19",
+   "source_url": "https://soupconsalon.club/event.php?id=79",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Corpse Farmer",
+    "Necrophiliac Yacht Club",
+    "West Jersey Airport"
+   ]
+  },
+  {
+   "band": "West Jersey Airport",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-04-19",
+   "source_url": "https://soupconsalon.club/event.php?id=79",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Corpse Farmer",
+    "Necrophiliac Yacht Club",
+    "Messiahnide"
+   ]
+  },
+  {
+   "band": "Bitter Wish",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-03",
+   "source_url": "https://soupconsalon.club/event.php?id=106",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Heavenly Bodies"
+   ]
+  },
+  {
+   "band": "Heavenly Bodies",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-03",
+   "source_url": "https://soupconsalon.club/event.php?id=106",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Bitter Wish"
+   ]
+  },
+  {
+   "band": "Luna Honey",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-10",
+   "source_url": "https://soupconsalon.club/event.php?id=86",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Oldest Sea",
+    "Ecology Homestones"
+   ]
+  },
+  {
+   "band": "Oldest Sea",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-10",
+   "source_url": "https://soupconsalon.club/event.php?id=86",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Luna Honey",
+    "Ecology Homestones"
+   ]
+  },
+  {
+   "band": "Ecology Homestones",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-10",
+   "source_url": "https://soupconsalon.club/event.php?id=86",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Luna Honey",
+    "Oldest Sea"
+   ]
+  },
+  {
+   "band": "Relief",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-17",
+   "source_url": "https://soupconsalon.club/event.php?id=127",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Pleasure Garden",
+    "Oedipus Daughter"
+   ],
+   "time": "8:00PM",
+   "billing": "May Noise Night"
+  },
+  {
+   "band": "Pleasure Garden",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-17",
+   "source_url": "https://soupconsalon.club/event.php?id=127",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Relief",
+    "Oedipus Daughter"
+   ],
+   "time": "8:00PM",
+   "billing": "May Noise Night"
+  },
+  {
+   "band": "Oedipus Daughter",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-17",
+   "source_url": "https://soupconsalon.club/event.php?id=127",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Relief",
+    "Pleasure Garden"
+   ],
+   "time": "8:00PM",
+   "billing": "May Noise Night"
+  },
+  {
+   "band": "B6",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-24",
+   "source_url": "https://soupconsalon.club/event.php?id=118",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "doors 7:30PM, music 8-11PM",
+   "billing": "Bass 6 Project"
+  },
+  {
+   "band": "Jimmy Velour",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-31",
+   "source_url": "https://soupconsalon.club/event.php?id=195",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Nimf",
+    "Three Days to Santa Fe"
+   ],
+   "time": "doors 7:30PM",
+   "price": "$10",
+   "billing": "A Night of Aural Indulgence"
+  },
+  {
+   "band": "Nimf",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-31",
+   "source_url": "https://soupconsalon.club/event.php?id=195",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Jimmy Velour",
+    "Three Days to Santa Fe"
+   ],
+   "time": "doors 7:30PM",
+   "price": "$10",
+   "billing": "A Night of Aural Indulgence"
+  },
+  {
+   "band": "Three Days to Santa Fe",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-05-31",
+   "source_url": "https://soupconsalon.club/event.php?id=195",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Jimmy Velour",
+    "Nimf"
+   ],
+   "time": "doors 7:30PM",
+   "price": "$10",
+   "billing": "A Night of Aural Indulgence"
+  },
+  {
+   "band": "Joy on Fire",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-06-28",
+   "source_url": "https://soupconsalon.club/event.php?id=91",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Alpha Rabbit",
+    "Dinner"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Alpha Rabbit",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-06-28",
+   "source_url": "https://soupconsalon.club/event.php?id=91",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire",
+    "Dinner"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Dinner",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-06-28",
+   "source_url": "https://soupconsalon.club/event.php?id=91",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire",
+    "Alpha Rabbit"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "PCRV",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-06-29",
+   "source_url": "https://soupconsalon.club/event.php?id=162",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Viator",
+    "Bugger",
+    "Evil Bong",
+    "Relief"
+   ],
+   "time": "6:00PM",
+   "billing": "June Noise Night"
+  },
+  {
+   "band": "Viator",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-06-29",
+   "source_url": "https://soupconsalon.club/event.php?id=162",
+   "source_type": "venue_calendar",
+   "bill": [
+    "PCRV",
+    "Bugger",
+    "Evil Bong",
+    "Relief"
+   ],
+   "time": "6:00PM",
+   "billing": "June Noise Night"
+  },
+  {
+   "band": "Bugger",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-06-29",
+   "source_url": "https://soupconsalon.club/event.php?id=162",
+   "source_type": "venue_calendar",
+   "bill": [
+    "PCRV",
+    "Viator",
+    "Evil Bong",
+    "Relief"
+   ],
+   "time": "6:00PM",
+   "billing": "June Noise Night"
+  },
+  {
+   "band": "Evil Bong",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-06-29",
+   "source_url": "https://soupconsalon.club/event.php?id=162",
+   "source_type": "venue_calendar",
+   "bill": [
+    "PCRV",
+    "Viator",
+    "Bugger",
+    "Relief"
+   ],
+   "time": "6:00PM",
+   "billing": "June Noise Night"
+  },
+  {
+   "band": "Relief",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-06-29",
+   "source_url": "https://soupconsalon.club/event.php?id=162",
+   "source_type": "venue_calendar",
+   "bill": [
+    "PCRV",
+    "Viator",
+    "Bugger",
+    "Evil Bong"
+   ],
+   "time": "6:00PM",
+   "billing": "June Noise Night"
+  },
+  {
+   "band": "Slime",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-04",
+   "source_url": "https://soupconsalon.club/event.php?id=194",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Outdoor Horse Shrine",
+    "Slow Tongued Beauty",
+    "MJE",
+    "DDU",
+    "Cofounder",
+    "Petite Mort"
+   ],
+   "time": "7:00PM",
+   "billing": "July 4th Noise Explosion"
+  },
+  {
+   "band": "Outdoor Horse Shrine",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-04",
+   "source_url": "https://soupconsalon.club/event.php?id=194",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slime",
+    "Slow Tongued Beauty",
+    "MJE",
+    "DDU",
+    "Cofounder",
+    "Petite Mort"
+   ],
+   "time": "7:00PM",
+   "billing": "July 4th Noise Explosion"
+  },
+  {
+   "band": "Slow Tongued Beauty",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-04",
+   "source_url": "https://soupconsalon.club/event.php?id=194",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slime",
+    "Outdoor Horse Shrine",
+    "MJE",
+    "DDU",
+    "Cofounder",
+    "Petite Mort"
+   ],
+   "time": "7:00PM",
+   "billing": "July 4th Noise Explosion"
+  },
+  {
+   "band": "MJE",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-04",
+   "source_url": "https://soupconsalon.club/event.php?id=194",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slime",
+    "Outdoor Horse Shrine",
+    "Slow Tongued Beauty",
+    "DDU",
+    "Cofounder",
+    "Petite Mort"
+   ],
+   "time": "7:00PM",
+   "billing": "July 4th Noise Explosion"
+  },
+  {
+   "band": "DDU",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-04",
+   "source_url": "https://soupconsalon.club/event.php?id=194",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slime",
+    "Outdoor Horse Shrine",
+    "Slow Tongued Beauty",
+    "MJE",
+    "Cofounder",
+    "Petite Mort"
+   ],
+   "time": "7:00PM",
+   "billing": "July 4th Noise Explosion"
+  },
+  {
+   "band": "Cofounder",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-04",
+   "source_url": "https://soupconsalon.club/event.php?id=194",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slime",
+    "Outdoor Horse Shrine",
+    "Slow Tongued Beauty",
+    "MJE",
+    "DDU",
+    "Petite Mort"
+   ],
+   "time": "7:00PM",
+   "billing": "July 4th Noise Explosion"
+  },
+  {
+   "band": "Petite Mort",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-04",
+   "source_url": "https://soupconsalon.club/event.php?id=194",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slime",
+    "Outdoor Horse Shrine",
+    "Slow Tongued Beauty",
+    "MJE",
+    "DDU",
+    "Cofounder"
+   ],
+   "time": "7:00PM",
+   "billing": "July 4th Noise Explosion"
+  },
+  {
+   "band": "Body Garden",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-12",
+   "source_url": "https://soupconsalon.club/event.php?id=176",
+   "source_type": "venue_calendar",
+   "bill": [
+    "PTSD",
+    "Chasing Ghosts",
+    "Storage Locker Suicide"
+   ]
+  },
+  {
+   "band": "PTSD",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-12",
+   "source_url": "https://soupconsalon.club/event.php?id=176",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Body Garden",
+    "Chasing Ghosts",
+    "Storage Locker Suicide"
+   ]
+  },
+  {
+   "band": "Chasing Ghosts",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-12",
+   "source_url": "https://soupconsalon.club/event.php?id=176",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Body Garden",
+    "PTSD",
+    "Storage Locker Suicide"
+   ]
+  },
+  {
+   "band": "Storage Locker Suicide",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-12",
+   "source_url": "https://soupconsalon.club/event.php?id=176",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Body Garden",
+    "PTSD",
+    "Chasing Ghosts"
+   ]
+  },
+  {
+   "band": "Meteor Police",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-19",
+   "source_url": "https://soupconsalon.club/event.php?id=128",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Blood Moons",
+    "Northern Liberties",
+    "Portal Hex"
+   ],
+   "time": "7:30PM",
+   "price": "$10"
+  },
+  {
+   "band": "Blood Moons",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-19",
+   "source_url": "https://soupconsalon.club/event.php?id=128",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Meteor Police",
+    "Northern Liberties",
+    "Portal Hex"
+   ],
+   "time": "7:30PM",
+   "price": "$10"
+  },
+  {
+   "band": "Northern Liberties",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-19",
+   "source_url": "https://soupconsalon.club/event.php?id=128",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Meteor Police",
+    "Blood Moons",
+    "Portal Hex"
+   ],
+   "time": "7:30PM",
+   "price": "$10"
+  },
+  {
+   "band": "Portal Hex",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-19",
+   "source_url": "https://soupconsalon.club/event.php?id=128",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Meteor Police",
+    "Blood Moons",
+    "Northern Liberties"
+   ],
+   "time": "7:30PM",
+   "price": "$10"
+  },
+  {
+   "band": "Skives",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-26",
+   "source_url": "https://soupconsalon.club/event.php?id=126",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Uncle Blender",
+    "Street Rat",
+    "Honorable Demons",
+    "Relief"
+   ],
+   "time": "7:00PM",
+   "billing": "Lambertville Comic and Zine Con After Party"
+  },
+  {
+   "band": "Uncle Blender",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-26",
+   "source_url": "https://soupconsalon.club/event.php?id=126",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Skives",
+    "Street Rat",
+    "Honorable Demons",
+    "Relief"
+   ],
+   "time": "7:00PM",
+   "billing": "Lambertville Comic and Zine Con After Party"
+  },
+  {
+   "band": "Street Rat",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-26",
+   "source_url": "https://soupconsalon.club/event.php?id=126",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Skives",
+    "Uncle Blender",
+    "Honorable Demons",
+    "Relief"
+   ],
+   "time": "7:00PM",
+   "billing": "Lambertville Comic and Zine Con After Party"
+  },
+  {
+   "band": "Honorable Demons",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-26",
+   "source_url": "https://soupconsalon.club/event.php?id=126",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Skives",
+    "Uncle Blender",
+    "Street Rat",
+    "Relief"
+   ],
+   "time": "7:00PM",
+   "billing": "Lambertville Comic and Zine Con After Party"
+  },
+  {
+   "band": "Relief",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-26",
+   "source_url": "https://soupconsalon.club/event.php?id=126",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Skives",
+    "Uncle Blender",
+    "Street Rat",
+    "Honorable Demons"
+   ],
+   "time": "7:00PM",
+   "billing": "Lambertville Comic and Zine Con After Party"
+  },
+  {
+   "band": "Mountain Movers",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-30",
+   "source_url": "https://soupconsalon.club/event.php?id=120",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Spectre Folk",
+    "Human Adult Band"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Spectre Folk",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-30",
+   "source_url": "https://soupconsalon.club/event.php?id=120",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Mountain Movers",
+    "Human Adult Band"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Human Adult Band",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-07-30",
+   "source_url": "https://soupconsalon.club/event.php?id=120",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Mountain Movers",
+    "Spectre Folk"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Stroboseth",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-09",
+   "source_url": "https://soupconsalon.club/event.php?id=206",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Frog Myst",
+    "Bugger",
+    "Earth-Rim Walker"
+   ],
+   "time": "7:00PM",
+   "price": "$10",
+   "billing": "Furious Fantasy III (Foul Depths & Unchanged Mind)"
+  },
+  {
+   "band": "Frog Myst",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-09",
+   "source_url": "https://soupconsalon.club/event.php?id=206",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Stroboseth",
+    "Bugger",
+    "Earth-Rim Walker"
+   ],
+   "time": "7:00PM",
+   "price": "$10",
+   "billing": "Furious Fantasy III (Foul Depths & Unchanged Mind)"
+  },
+  {
+   "band": "Bugger",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-09",
+   "source_url": "https://soupconsalon.club/event.php?id=206",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Stroboseth",
+    "Frog Myst",
+    "Earth-Rim Walker"
+   ],
+   "time": "7:00PM",
+   "price": "$10",
+   "billing": "Furious Fantasy III (Foul Depths & Unchanged Mind)"
+  },
+  {
+   "band": "Earth-Rim Walker",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-09",
+   "source_url": "https://soupconsalon.club/event.php?id=206",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Stroboseth",
+    "Frog Myst",
+    "Bugger"
+   ],
+   "time": "7:00PM",
+   "price": "$10",
+   "billing": "Furious Fantasy III (Foul Depths & Unchanged Mind)"
+  },
+  {
+   "band": "LOSE",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-16",
+   "source_url": "https://soupconsalon.club/event.php?id=220",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:00PM",
+   "billing": "RRAT CLUB: LOSE TOUR (+2-3 bands TBA)",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "B6",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-18",
+   "source_url": "https://soupconsalon.club/event.php?id=197",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "8:00PM",
+   "billing": "B6 Live"
+  },
+  {
+   "band": "Ketchel & Creeksnake",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-23",
+   "source_url": "https://soupconsalon.club/event.php?id=83",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Greg McGarvey's Dead Painters",
+    "The Sound Experiment",
+    "Righteous Jolly"
+   ],
+   "time": "6-10PM",
+   "price": "$10 at the door"
+  },
+  {
+   "band": "Greg McGarvey's Dead Painters",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-23",
+   "source_url": "https://soupconsalon.club/event.php?id=83",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ketchel & Creeksnake",
+    "The Sound Experiment",
+    "Righteous Jolly"
+   ],
+   "time": "6-10PM",
+   "price": "$10 at the door"
+  },
+  {
+   "band": "The Sound Experiment",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-23",
+   "source_url": "https://soupconsalon.club/event.php?id=83",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ketchel & Creeksnake",
+    "Greg McGarvey's Dead Painters",
+    "Righteous Jolly"
+   ],
+   "time": "6-10PM",
+   "price": "$10 at the door"
+  },
+  {
+   "band": "Righteous Jolly",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-08-23",
+   "source_url": "https://soupconsalon.club/event.php?id=83",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ketchel & Creeksnake",
+    "Greg McGarvey's Dead Painters",
+    "The Sound Experiment"
+   ],
+   "time": "6-10PM",
+   "price": "$10 at the door"
+  },
+  {
+   "band": "Bride Riot",
+   "venue": "Starving Artist Cafe",
+   "town": "Stockton",
+   "state": "NJ",
+   "date": "2025-08-29",
+   "source_url": "https://soupconsalon.club/event.php?id=219",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Leadpetal"
+   ],
+   "time": "8-10PM",
+   "price": "$10 suggested donation, all ages, BYOB",
+   "billing": "RRAT CLUB PRESENTS",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "Leadpetal",
+   "venue": "Starving Artist Cafe",
+   "town": "Stockton",
+   "state": "NJ",
+   "date": "2025-08-29",
+   "source_url": "https://soupconsalon.club/event.php?id=219",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Bride Riot"
+   ],
+   "time": "8-10PM",
+   "price": "$10 suggested donation, all ages, BYOB",
+   "billing": "RRAT CLUB PRESENTS",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "ASPS",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-09-07",
+   "source_url": "https://soupconsalon.club/event.php?id=224",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Drums Like Machine Guns",
+    "Embarker"
+   ],
+   "time": "7:00PM",
+   "billing": "September Noise Night"
+  },
+  {
+   "band": "Drums Like Machine Guns",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-09-07",
+   "source_url": "https://soupconsalon.club/event.php?id=224",
+   "source_type": "venue_calendar",
+   "bill": [
+    "ASPS",
+    "Embarker"
+   ],
+   "time": "7:00PM",
+   "billing": "September Noise Night"
+  },
+  {
+   "band": "Embarker",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-09-07",
+   "source_url": "https://soupconsalon.club/event.php?id=224",
+   "source_type": "venue_calendar",
+   "bill": [
+    "ASPS",
+    "Drums Like Machine Guns"
+   ],
+   "time": "7:00PM",
+   "billing": "September Noise Night"
+  },
+  {
+   "band": "B6",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-09-20",
+   "source_url": "https://soupconsalon.club/event.php?id=261",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "billing": "B6 Live"
+  },
+  {
+   "band": "Human Adult Band",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-09-25",
+   "source_url": "https://soupconsalon.club/event.php?id=262",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Bugger",
+    "Jewel Eye"
+   ],
+   "time": "7:30PM"
+  },
+  {
+   "band": "Bugger",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-09-25",
+   "source_url": "https://soupconsalon.club/event.php?id=262",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Human Adult Band",
+    "Jewel Eye"
+   ],
+   "time": "7:30PM"
+  },
+  {
+   "band": "Jewel Eye",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-09-25",
+   "source_url": "https://soupconsalon.club/event.php?id=262",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Human Adult Band",
+    "Bugger"
+   ],
+   "time": "7:30PM"
+  },
+  {
+   "band": "Liz Amaral Trio",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-09-27",
+   "source_url": "https://soupconsalon.club/event.php?id=246",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Creek Radio"
+   ],
+   "price": "TBD",
+   "billing": "DRC (Delaware River Crew) Live!"
+  },
+  {
+   "band": "Creek Radio",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-09-27",
+   "source_url": "https://soupconsalon.club/event.php?id=246",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Liz Amaral Trio"
+   ],
+   "price": "TBD",
+   "billing": "DRC (Delaware River Crew) Live!"
+  },
+  {
+   "band": "Spit Shine",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-10-11",
+   "source_url": "https://soupconsalon.club/event.php?id=266",
+   "source_type": "venue_calendar",
+   "bill": [
+    "The Golden Grass",
+    "Psychic Bison"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "The Golden Grass",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-10-11",
+   "source_url": "https://soupconsalon.club/event.php?id=266",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Spit Shine",
+    "Psychic Bison"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Psychic Bison",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-10-11",
+   "source_url": "https://soupconsalon.club/event.php?id=266",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Spit Shine",
+    "The Golden Grass"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Buck Gooter",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-10-18",
+   "source_url": "https://soupconsalon.club/event.php?id=211",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Corpse Farmer",
+    "Nimf"
+   ]
+  },
+  {
+   "band": "Corpse Farmer",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-10-18",
+   "source_url": "https://soupconsalon.club/event.php?id=211",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Buck Gooter",
+    "Nimf"
+   ]
+  },
+  {
+   "band": "Nimf",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-10-18",
+   "source_url": "https://soupconsalon.club/event.php?id=211",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Buck Gooter",
+    "Corpse Farmer"
+   ]
+  },
+  {
+   "band": "Feaster",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-01",
+   "source_url": "https://soupconsalon.club/event.php?id=222",
+   "source_type": "venue_calendar",
+   "bill": [
+    "El Dingo",
+    "Doctor Shickadance"
+   ],
+   "time": "doors 7PM",
+   "price": "$10 at the door",
+   "billing": "RRATCLUB: Feaster + El Dingo split single release",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "El Dingo",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-01",
+   "source_url": "https://soupconsalon.club/event.php?id=222",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Feaster",
+    "Doctor Shickadance"
+   ],
+   "time": "doors 7PM",
+   "price": "$10 at the door",
+   "billing": "RRATCLUB: Feaster + El Dingo split single release",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "Doctor Shickadance",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-01",
+   "source_url": "https://soupconsalon.club/event.php?id=222",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Feaster",
+    "El Dingo"
+   ],
+   "time": "doors 7PM",
+   "price": "$10 at the door",
+   "billing": "RRATCLUB: Feaster + El Dingo split single release",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "Joy on Fire",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-08",
+   "source_url": "https://soupconsalon.club/event.php?id=227",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Mildwood"
+   ]
+  },
+  {
+   "band": "Mildwood",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-08",
+   "source_url": "https://soupconsalon.club/event.php?id=227",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire"
+   ]
+  },
+  {
+   "band": "Living Hour",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-15",
+   "source_url": "https://soupconsalon.club/event.php?id=225",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:30PM",
+   "billing": "Living Hour: Internal Drone Infinity Tour"
+  },
+  {
+   "band": "B6",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-15",
+   "source_url": "https://soupconsalon.club/event.php?id=288",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "8:00PM",
+   "billing": "Live music with B6"
+  },
+  {
+   "band": "Chloroform Gay Sex Fantasy",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-20",
+   "source_url": "https://soupconsalon.club/event.php?id=325",
+   "source_type": "venue_calendar",
+   "bill": [
+    "NaOCl",
+    "MSDS",
+    "Splooge Receptacle",
+    "Foxes Playing on the Side of the Highway",
+    "Happy Accidents"
+   ],
+   "time": "7:00PM",
+   "billing": "November Noise Night"
+  },
+  {
+   "band": "NaOCl",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-20",
+   "source_url": "https://soupconsalon.club/event.php?id=325",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Chloroform Gay Sex Fantasy",
+    "MSDS",
+    "Splooge Receptacle",
+    "Foxes Playing on the Side of the Highway",
+    "Happy Accidents"
+   ],
+   "time": "7:00PM",
+   "billing": "November Noise Night"
+  },
+  {
+   "band": "MSDS",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-20",
+   "source_url": "https://soupconsalon.club/event.php?id=325",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Chloroform Gay Sex Fantasy",
+    "NaOCl",
+    "Splooge Receptacle",
+    "Foxes Playing on the Side of the Highway",
+    "Happy Accidents"
+   ],
+   "time": "7:00PM",
+   "billing": "November Noise Night"
+  },
+  {
+   "band": "Splooge Receptacle",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-20",
+   "source_url": "https://soupconsalon.club/event.php?id=325",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Chloroform Gay Sex Fantasy",
+    "NaOCl",
+    "MSDS",
+    "Foxes Playing on the Side of the Highway",
+    "Happy Accidents"
+   ],
+   "time": "7:00PM",
+   "billing": "November Noise Night"
+  },
+  {
+   "band": "Foxes Playing on the Side of the Highway",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-20",
+   "source_url": "https://soupconsalon.club/event.php?id=325",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Chloroform Gay Sex Fantasy",
+    "NaOCl",
+    "MSDS",
+    "Splooge Receptacle",
+    "Happy Accidents"
+   ],
+   "time": "7:00PM",
+   "billing": "November Noise Night"
+  },
+  {
+   "band": "Happy Accidents",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-20",
+   "source_url": "https://soupconsalon.club/event.php?id=325",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Chloroform Gay Sex Fantasy",
+    "NaOCl",
+    "MSDS",
+    "Splooge Receptacle",
+    "Foxes Playing on the Side of the Highway"
+   ],
+   "time": "7:00PM",
+   "billing": "November Noise Night"
+  },
+  {
+   "band": "Ski Team",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-22",
+   "source_url": "https://soupconsalon.club/event.php?id=308",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Hubbell Benson"
+   ],
+   "time": "doors 7:30PM, music 8PM"
+  },
+  {
+   "band": "Hubbell Benson",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-22",
+   "source_url": "https://soupconsalon.club/event.php?id=308",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ski Team"
+   ],
+   "time": "doors 7:30PM, music 8PM"
+  },
+  {
+   "band": "Whip Appeal",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-28",
+   "source_url": "https://soupconsalon.club/event.php?id=292",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "8:00PM"
+  },
+  {
+   "band": "B6",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-11-29",
+   "source_url": "https://soupconsalon.club/event.php?id=215",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "8:00PM",
+   "billing": "Sagittarius Birthday Celebration"
+  },
+  {
+   "band": "B6",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-12-06",
+   "source_url": "https://soupconsalon.club/event.php?id=287",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Slow Noche",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-12-27",
+   "source_url": "https://soupconsalon.club/event.php?id=281",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Hubbell Benson",
+    "Brandyn Andyny",
+    "That Geode"
+   ],
+   "time": "7:00PM",
+   "billing": "DRC Presents"
+  },
+  {
+   "band": "Hubbell Benson",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-12-27",
+   "source_url": "https://soupconsalon.club/event.php?id=281",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slow Noche",
+    "Brandyn Andyny",
+    "That Geode"
+   ],
+   "time": "7:00PM",
+   "billing": "DRC Presents"
+  },
+  {
+   "band": "Brandyn Andyny",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-12-27",
+   "source_url": "https://soupconsalon.club/event.php?id=281",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slow Noche",
+    "Hubbell Benson",
+    "That Geode"
+   ],
+   "time": "7:00PM",
+   "billing": "DRC Presents"
+  },
+  {
+   "band": "That Geode",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-12-27",
+   "source_url": "https://soupconsalon.club/event.php?id=281",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slow Noche",
+    "Hubbell Benson",
+    "Brandyn Andyny"
+   ],
+   "time": "7:00PM",
+   "billing": "DRC Presents"
+  },
+  {
+   "band": "Acid 87",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-03",
+   "source_url": "https://soupconsalon.club/event.php?id=340",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Exhibit A",
+    "Jewel Eye"
+   ]
+  },
+  {
+   "band": "Exhibit A",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-03",
+   "source_url": "https://soupconsalon.club/event.php?id=340",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Acid 87",
+    "Jewel Eye"
+   ]
+  },
+  {
+   "band": "Jewel Eye",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-03",
+   "source_url": "https://soupconsalon.club/event.php?id=340",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Acid 87",
+    "Exhibit A"
+   ]
+  },
+  {
+   "band": "Blindsider",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-10",
+   "source_url": "https://soupconsalon.club/event.php?id=339",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Jawdust",
+    "Chem!cal X",
+    "Shock of Being"
+   ],
+   "time": "doors 7:30PM, music 8PM",
+   "price": "$10"
+  },
+  {
+   "band": "Jawdust",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-10",
+   "source_url": "https://soupconsalon.club/event.php?id=339",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Blindsider",
+    "Chem!cal X",
+    "Shock of Being"
+   ],
+   "time": "doors 7:30PM, music 8PM",
+   "price": "$10"
+  },
+  {
+   "band": "Chem!cal X",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-10",
+   "source_url": "https://soupconsalon.club/event.php?id=339",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Blindsider",
+    "Jawdust",
+    "Shock of Being"
+   ],
+   "time": "doors 7:30PM, music 8PM",
+   "price": "$10"
+  },
+  {
+   "band": "Shock of Being",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-10",
+   "source_url": "https://soupconsalon.club/event.php?id=339",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Blindsider",
+    "Jawdust",
+    "Chem!cal X"
+   ],
+   "time": "doors 7:30PM, music 8PM",
+   "price": "$10"
+  },
+  {
+   "band": "Big Acid",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-17",
+   "source_url": "https://soupconsalon.club/event.php?id=298",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Corpse Farmer",
+    "Heavy Flow"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Corpse Farmer",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-17",
+   "source_url": "https://soupconsalon.club/event.php?id=298",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Big Acid",
+    "Heavy Flow"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Heavy Flow",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-17",
+   "source_url": "https://soupconsalon.club/event.php?id=298",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Big Acid",
+    "Corpse Farmer"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Ken Mujo",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-31",
+   "source_url": "https://soupconsalon.club/event.php?id=301",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Problem Addict",
+    "Uncle Blender",
+    "Bugger",
+    "Teddy Grump"
+   ],
+   "time": "doors 6PM, music 7PM",
+   "price": "$10 at the door",
+   "billing": "RRATCLUB PRESENTS",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "Problem Addict",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-31",
+   "source_url": "https://soupconsalon.club/event.php?id=301",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ken Mujo",
+    "Uncle Blender",
+    "Bugger",
+    "Teddy Grump"
+   ],
+   "time": "doors 6PM, music 7PM",
+   "price": "$10 at the door",
+   "billing": "RRATCLUB PRESENTS",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "Uncle Blender",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-31",
+   "source_url": "https://soupconsalon.club/event.php?id=301",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ken Mujo",
+    "Problem Addict",
+    "Bugger",
+    "Teddy Grump"
+   ],
+   "time": "doors 6PM, music 7PM",
+   "price": "$10 at the door",
+   "billing": "RRATCLUB PRESENTS",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "Bugger",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-31",
+   "source_url": "https://soupconsalon.club/event.php?id=301",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ken Mujo",
+    "Problem Addict",
+    "Uncle Blender",
+    "Teddy Grump"
+   ],
+   "time": "doors 6PM, music 7PM",
+   "price": "$10 at the door",
+   "billing": "RRATCLUB PRESENTS",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "Teddy Grump",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-01-31",
+   "source_url": "https://soupconsalon.club/event.php?id=301",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ken Mujo",
+    "Problem Addict",
+    "Uncle Blender",
+    "Bugger"
+   ],
+   "time": "doors 6PM, music 7PM",
+   "price": "$10 at the door",
+   "billing": "RRATCLUB PRESENTS",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "Markiemodel",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-02-07",
+   "source_url": "https://soupconsalon.club/event.php?id=354",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Indigo Ranch",
+    "Stiff Curls"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Indigo Ranch",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-02-07",
+   "source_url": "https://soupconsalon.club/event.php?id=354",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Markiemodel",
+    "Stiff Curls"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Stiff Curls",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-02-07",
+   "source_url": "https://soupconsalon.club/event.php?id=354",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Markiemodel",
+    "Indigo Ranch"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Necrophiliac Yacht Club",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-02-28",
+   "source_url": "https://soupconsalon.club/event.php?id=377",
+   "source_type": "venue_calendar",
+   "bill": [
+    "AstroKatz",
+    "Corpse Farmer",
+    "Pern"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "AstroKatz",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-02-28",
+   "source_url": "https://soupconsalon.club/event.php?id=377",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Necrophiliac Yacht Club",
+    "Corpse Farmer",
+    "Pern"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Corpse Farmer",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-02-28",
+   "source_url": "https://soupconsalon.club/event.php?id=377",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Necrophiliac Yacht Club",
+    "AstroKatz",
+    "Pern"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Pern",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-02-28",
+   "source_url": "https://soupconsalon.club/event.php?id=377",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Necrophiliac Yacht Club",
+    "AstroKatz",
+    "Corpse Farmer"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Hop",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-01",
+   "source_url": "https://soupconsalon.club/event.php?id=413",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Island Queen Satan Flowers"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Island Queen Satan Flowers",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-01",
+   "source_url": "https://soupconsalon.club/event.php?id=413",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Hop"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Nimf",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-07",
+   "source_url": "https://soupconsalon.club/event.php?id=356",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Back Pain",
+    "Jimmy Velour"
+   ],
+   "time": "7:30PM",
+   "price": "$10",
+   "billing": "NIMF Album Release"
+  },
+  {
+   "band": "Back Pain",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-07",
+   "source_url": "https://soupconsalon.club/event.php?id=356",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Nimf",
+    "Jimmy Velour"
+   ],
+   "time": "7:30PM",
+   "price": "$10",
+   "billing": "NIMF Album Release"
+  },
+  {
+   "band": "Jimmy Velour",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-07",
+   "source_url": "https://soupconsalon.club/event.php?id=356",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Nimf",
+    "Back Pain"
+   ],
+   "time": "7:30PM",
+   "price": "$10",
+   "billing": "NIMF Album Release"
+  },
+  {
+   "band": "Dr Now",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-12",
+   "source_url": "https://soupconsalon.club/event.php?id=426",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ouchie",
+    "Immortality Machine"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Ouchie",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-12",
+   "source_url": "https://soupconsalon.club/event.php?id=426",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Dr Now",
+    "Immortality Machine"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Immortality Machine",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-12",
+   "source_url": "https://soupconsalon.club/event.php?id=426",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Dr Now",
+    "Ouchie"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Creek Radio",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-14",
+   "source_url": "https://soupconsalon.club/event.php?id=429",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:00PM",
+   "billing": "Creek Radio and TBA"
+  },
+  {
+   "band": "Larval Organs",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-21",
+   "source_url": "https://soupconsalon.club/event.php?id=358",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "billing": "RRATCLUB PRESENTS touring artists (Brook Pridemore solo not recorded)",
+   "presenter": "RRAT Club"
+  },
+  {
+   "band": "Gaia Raga",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-22",
+   "source_url": "https://soupconsalon.club/event.php?id=466",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "6:00PM",
+   "billing": "Album release show"
+  },
+  {
+   "band": "Enjoy Being",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-03-28",
+   "source_url": "https://soupconsalon.club/event.php?id=398",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:00PM",
+   "price": "$10"
+  },
+  {
+   "band": "Hubbell Benson",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-04",
+   "source_url": "https://soupconsalon.club/event.php?id=389",
+   "source_type": "venue_calendar",
+   "bill": []
+  },
+  {
+   "band": "Human Adult Band",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-09",
+   "source_url": "https://soupconsalon.club/event.php?id=395",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Clotting",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-11",
+   "source_url": "https://soupconsalon.club/event.php?id=403",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Cranial Explosion",
+    "Unsaid",
+    "Manifested Homicide"
+   ],
+   "time": "8:00PM",
+   "billing": "Clotting first show"
+  },
+  {
+   "band": "Cranial Explosion",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-11",
+   "source_url": "https://soupconsalon.club/event.php?id=403",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Clotting",
+    "Unsaid",
+    "Manifested Homicide"
+   ],
+   "time": "8:00PM",
+   "billing": "Clotting first show"
+  },
+  {
+   "band": "Unsaid",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-11",
+   "source_url": "https://soupconsalon.club/event.php?id=403",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Clotting",
+    "Cranial Explosion",
+    "Manifested Homicide"
+   ],
+   "time": "8:00PM",
+   "billing": "Clotting first show"
+  },
+  {
+   "band": "Manifested Homicide",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-11",
+   "source_url": "https://soupconsalon.club/event.php?id=403",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Clotting",
+    "Cranial Explosion",
+    "Unsaid"
+   ],
+   "time": "8:00PM",
+   "billing": "Clotting first show"
+  },
+  {
+   "band": "Spectre Folk",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-23",
+   "source_url": "https://soupconsalon.club/event.php?id=412",
+   "source_type": "venue_calendar",
+   "bill": [
+    "West Jersey Airport"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "West Jersey Airport",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-23",
+   "source_url": "https://soupconsalon.club/event.php?id=412",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Spectre Folk"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Soraia",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-25",
+   "source_url": "https://soupconsalon.club/event.php?id=318",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Our Bodies Themselves",
+    "Idiot Kids"
+   ],
+   "time": "doors 7PM, music 8-12",
+   "price": "$10 suggested donation",
+   "billing": "Order of the Winking Star: Hunch Comics #6 release"
+  },
+  {
+   "band": "Our Bodies Themselves",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-25",
+   "source_url": "https://soupconsalon.club/event.php?id=318",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Soraia",
+    "Idiot Kids"
+   ],
+   "time": "doors 7PM, music 8-12",
+   "price": "$10 suggested donation",
+   "billing": "Order of the Winking Star: Hunch Comics #6 release"
+  },
+  {
+   "band": "Idiot Kids",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-25",
+   "source_url": "https://soupconsalon.club/event.php?id=318",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Soraia",
+    "Our Bodies Themselves"
+   ],
+   "time": "doors 7PM, music 8-12",
+   "price": "$10 suggested donation",
+   "billing": "Order of the Winking Star: Hunch Comics #6 release"
+  },
+  {
+   "band": "Jimmy Velour",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-05-02",
+   "source_url": "https://soupconsalon.club/event.php?id=406",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:00PM doors",
+   "billing": "Jimmy Velour and TBA"
+  },
+  {
+   "band": "Joy on Fire",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-05-16",
+   "source_url": "https://soupconsalon.club/event.php?id=353",
+   "source_type": "venue_calendar",
+   "bill": [
+    "The Swiss Guard",
+    "Heavy Flow",
+    "Brandyn Andyny"
+   ]
+  },
+  {
+   "band": "The Swiss Guard",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-05-16",
+   "source_url": "https://soupconsalon.club/event.php?id=353",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire",
+    "Heavy Flow",
+    "Brandyn Andyny"
+   ]
+  },
+  {
+   "band": "Heavy Flow",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-05-16",
+   "source_url": "https://soupconsalon.club/event.php?id=353",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire",
+    "The Swiss Guard",
+    "Brandyn Andyny"
+   ]
+  },
+  {
+   "band": "Brandyn Andyny",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-05-16",
+   "source_url": "https://soupconsalon.club/event.php?id=353",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire",
+    "The Swiss Guard",
+    "Heavy Flow"
+   ]
+  },
+  {
+   "band": "War Mountain",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-05-23",
+   "source_url": "https://soupconsalon.club/event.php?id=418",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "doors 7PM, show 7:30PM",
+   "price": "$10 suggested donation"
+  },
+  {
+   "band": "Hubbell Benson",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-05-30",
+   "source_url": "https://soupconsalon.club/event.php?id=417",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Jimmy Velour"
+   ],
+   "time": "doors 7PM",
+   "price": "$10"
+  },
+  {
+   "band": "Jimmy Velour",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-05-30",
+   "source_url": "https://soupconsalon.club/event.php?id=417",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Hubbell Benson"
+   ],
+   "time": "doors 7PM",
+   "price": "$10"
+  },
+  {
+   "band": "Blood Moons",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-06",
+   "source_url": "https://soupconsalon.club/event.php?id=445",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Meteor Police",
+    "Yupanki",
+    "Northern Liberties"
+   ],
+   "time": "doors 7PM",
+   "price": "$15"
+  },
+  {
+   "band": "Meteor Police",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-06",
+   "source_url": "https://soupconsalon.club/event.php?id=445",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Blood Moons",
+    "Yupanki",
+    "Northern Liberties"
+   ],
+   "time": "doors 7PM",
+   "price": "$15"
+  },
+  {
+   "band": "Yupanki",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-06",
+   "source_url": "https://soupconsalon.club/event.php?id=445",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Blood Moons",
+    "Meteor Police",
+    "Northern Liberties"
+   ],
+   "time": "doors 7PM",
+   "price": "$15"
+  },
+  {
+   "band": "Northern Liberties",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-06",
+   "source_url": "https://soupconsalon.club/event.php?id=445",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Blood Moons",
+    "Meteor Police",
+    "Yupanki"
+   ],
+   "time": "doors 7PM",
+   "price": "$15"
+  },
+  {
+   "band": "Corpse Farmer",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-20",
+   "source_url": "https://soupconsalon.club/event.php?id=425",
+   "source_type": "venue_calendar",
+   "bill": [
+    "West Jersey Airport",
+    "Messiahnide",
+    "Doctor Shickadance"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "West Jersey Airport",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-20",
+   "source_url": "https://soupconsalon.club/event.php?id=425",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Corpse Farmer",
+    "Messiahnide",
+    "Doctor Shickadance"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Messiahnide",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-20",
+   "source_url": "https://soupconsalon.club/event.php?id=425",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Corpse Farmer",
+    "West Jersey Airport",
+    "Doctor Shickadance"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Doctor Shickadance",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-20",
+   "source_url": "https://soupconsalon.club/event.php?id=425",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Corpse Farmer",
+    "West Jersey Airport",
+    "Messiahnide"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Problem Addict",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-25",
+   "source_url": "https://soupconsalon.club/event.php?id=470",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Dark Surfers",
+    "Horse Breakfast"
+   ],
+   "time": "7:00PM",
+   "billing": "Problem Addict \"Live From The Emergency Room\" record release"
+  },
+  {
+   "band": "Dark Surfers",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-25",
+   "source_url": "https://soupconsalon.club/event.php?id=470",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Problem Addict",
+    "Horse Breakfast"
+   ],
+   "time": "7:00PM",
+   "billing": "Problem Addict \"Live From The Emergency Room\" record release"
+  },
+  {
+   "band": "Horse Breakfast",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-06-25",
+   "source_url": "https://soupconsalon.club/event.php?id=470",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Problem Addict",
+    "Dark Surfers"
+   ],
+   "time": "7:00PM",
+   "billing": "Problem Addict \"Live From The Emergency Room\" record release"
+  },
+  {
+   "band": "Brainwash Victim",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-12",
+   "source_url": "https://soupconsalon.club/event.php?id=546",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Bugger",
+    "Nocturnal Kites",
+    "Uncle Blender",
+    "Ring Sour"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Bugger",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-12",
+   "source_url": "https://soupconsalon.club/event.php?id=546",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Brainwash Victim",
+    "Nocturnal Kites",
+    "Uncle Blender",
+    "Ring Sour"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Nocturnal Kites",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-12",
+   "source_url": "https://soupconsalon.club/event.php?id=546",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Brainwash Victim",
+    "Bugger",
+    "Uncle Blender",
+    "Ring Sour"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Uncle Blender",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-12",
+   "source_url": "https://soupconsalon.club/event.php?id=546",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Brainwash Victim",
+    "Bugger",
+    "Nocturnal Kites",
+    "Ring Sour"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Ring Sour",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-12",
+   "source_url": "https://soupconsalon.club/event.php?id=546",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Brainwash Victim",
+    "Bugger",
+    "Nocturnal Kites",
+    "Uncle Blender"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "AstroKatz",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-18",
+   "source_url": "https://soupconsalon.club/event.php?id=496",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Killbarron",
+    "Pern",
+    "MXTCHXLL"
+   ],
+   "time": "doors 7PM, music 8PM",
+   "price": "$10"
+  },
+  {
+   "band": "Killbarron",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-18",
+   "source_url": "https://soupconsalon.club/event.php?id=496",
+   "source_type": "venue_calendar",
+   "bill": [
+    "AstroKatz",
+    "Pern",
+    "MXTCHXLL"
+   ],
+   "time": "doors 7PM, music 8PM",
+   "price": "$10"
+  },
+  {
+   "band": "Pern",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-18",
+   "source_url": "https://soupconsalon.club/event.php?id=496",
+   "source_type": "venue_calendar",
+   "bill": [
+    "AstroKatz",
+    "Killbarron",
+    "MXTCHXLL"
+   ],
+   "time": "doors 7PM, music 8PM",
+   "price": "$10"
+  },
+  {
+   "band": "MXTCHXLL",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-18",
+   "source_url": "https://soupconsalon.club/event.php?id=496",
+   "source_type": "venue_calendar",
+   "bill": [
+    "AstroKatz",
+    "Killbarron",
+    "Pern"
+   ],
+   "time": "doors 7PM, music 8PM",
+   "price": "$10"
+  },
+  {
+   "band": "Slime Queen",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-22",
+   "source_url": "https://soupconsalon.club/event.php?id=545",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Bingo Breakdancing",
+    "Ronald Reagan? The Actor?",
+    "Death Envy"
+   ],
+   "time": "7:00PM",
+   "billing": "The Cringecore Cringe Tour 2"
+  },
+  {
+   "band": "Bingo Breakdancing",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-22",
+   "source_url": "https://soupconsalon.club/event.php?id=545",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slime Queen",
+    "Ronald Reagan? The Actor?",
+    "Death Envy"
+   ],
+   "time": "7:00PM",
+   "billing": "The Cringecore Cringe Tour 2"
+  },
+  {
+   "band": "Ronald Reagan? The Actor?",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-22",
+   "source_url": "https://soupconsalon.club/event.php?id=545",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slime Queen",
+    "Bingo Breakdancing",
+    "Death Envy"
+   ],
+   "time": "7:00PM",
+   "billing": "The Cringecore Cringe Tour 2"
+  },
+  {
+   "band": "Death Envy",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-22",
+   "source_url": "https://soupconsalon.club/event.php?id=545",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slime Queen",
+    "Bingo Breakdancing",
+    "Ronald Reagan? The Actor?"
+   ],
+   "time": "7:00PM",
+   "billing": "The Cringecore Cringe Tour 2"
+  },
+  {
+   "band": "Cartoon",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-25",
+   "source_url": "https://soupconsalon.club/event.php?id=427",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Stiff Curls",
+    "Exhibit A"
+   ],
+   "time": "7:00PM",
+   "billing": "Lambertville Comic and Zine Con 4 After party"
+  },
+  {
+   "band": "Stiff Curls",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-25",
+   "source_url": "https://soupconsalon.club/event.php?id=427",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Cartoon",
+    "Exhibit A"
+   ],
+   "time": "7:00PM",
+   "billing": "Lambertville Comic and Zine Con 4 After party"
+  },
+  {
+   "band": "Exhibit A",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-07-25",
+   "source_url": "https://soupconsalon.club/event.php?id=427",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Cartoon",
+    "Stiff Curls"
+   ],
+   "time": "7:00PM",
+   "billing": "Lambertville Comic and Zine Con 4 After party"
+  },
+  {
+   "band": "ASPS",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-02",
+   "source_url": "https://soupconsalon.club/event.php?id=548",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Relief",
+    "Brain Strain"
+   ]
+  },
+  {
+   "band": "Relief",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-02",
+   "source_url": "https://soupconsalon.club/event.php?id=548",
+   "source_type": "venue_calendar",
+   "bill": [
+    "ASPS",
+    "Brain Strain"
+   ]
+  },
+  {
+   "band": "Brain Strain",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-02",
+   "source_url": "https://soupconsalon.club/event.php?id=548",
+   "source_type": "venue_calendar",
+   "bill": [
+    "ASPS",
+    "Relief"
+   ]
+  },
+  {
+   "band": "Adventure Lost",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-08",
+   "source_url": "https://soupconsalon.club/event.php?id=498",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ear of the Tiger",
+    "Loose Panic",
+    "Brandyn Andyny",
+    "Hubbell Benson",
+    "Gayberg",
+    "Skaht Kpraille"
+   ],
+   "time": "all day from noon",
+   "price": "fundraiser",
+   "billing": "SoupSTOCK one-day festival"
+  },
+  {
+   "band": "Ear of the Tiger",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-08",
+   "source_url": "https://soupconsalon.club/event.php?id=498",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Adventure Lost",
+    "Loose Panic",
+    "Brandyn Andyny",
+    "Hubbell Benson",
+    "Gayberg",
+    "Skaht Kpraille"
+   ],
+   "time": "all day from noon",
+   "price": "fundraiser",
+   "billing": "SoupSTOCK one-day festival"
+  },
+  {
+   "band": "Loose Panic",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-08",
+   "source_url": "https://soupconsalon.club/event.php?id=498",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Adventure Lost",
+    "Ear of the Tiger",
+    "Brandyn Andyny",
+    "Hubbell Benson",
+    "Gayberg",
+    "Skaht Kpraille"
+   ],
+   "time": "all day from noon",
+   "price": "fundraiser",
+   "billing": "SoupSTOCK one-day festival"
+  },
+  {
+   "band": "Brandyn Andyny",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-08",
+   "source_url": "https://soupconsalon.club/event.php?id=498",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Adventure Lost",
+    "Ear of the Tiger",
+    "Loose Panic",
+    "Hubbell Benson",
+    "Gayberg",
+    "Skaht Kpraille"
+   ],
+   "time": "all day from noon",
+   "price": "fundraiser",
+   "billing": "SoupSTOCK one-day festival"
+  },
+  {
+   "band": "Hubbell Benson",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-08",
+   "source_url": "https://soupconsalon.club/event.php?id=498",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Adventure Lost",
+    "Ear of the Tiger",
+    "Loose Panic",
+    "Brandyn Andyny",
+    "Gayberg",
+    "Skaht Kpraille"
+   ],
+   "time": "all day from noon",
+   "price": "fundraiser",
+   "billing": "SoupSTOCK one-day festival"
+  },
+  {
+   "band": "Gayberg",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-08",
+   "source_url": "https://soupconsalon.club/event.php?id=498",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Adventure Lost",
+    "Ear of the Tiger",
+    "Loose Panic",
+    "Brandyn Andyny",
+    "Hubbell Benson",
+    "Skaht Kpraille"
+   ],
+   "time": "all day from noon",
+   "price": "fundraiser",
+   "billing": "SoupSTOCK one-day festival"
+  },
+  {
+   "band": "Skaht Kpraille",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-08",
+   "source_url": "https://soupconsalon.club/event.php?id=498",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Adventure Lost",
+    "Ear of the Tiger",
+    "Loose Panic",
+    "Brandyn Andyny",
+    "Hubbell Benson",
+    "Gayberg"
+   ],
+   "time": "all day from noon",
+   "price": "fundraiser",
+   "billing": "SoupSTOCK one-day festival"
+  },
+  {
+   "band": "Joy on Fire",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-15",
+   "source_url": "https://soupconsalon.club/event.php?id=387",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Ronald Reagan? The Actor?",
+    "Brandyn Andyny"
+   ]
+  },
+  {
+   "band": "Ronald Reagan? The Actor?",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-15",
+   "source_url": "https://soupconsalon.club/event.php?id=387",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire",
+    "Brandyn Andyny"
+   ]
+  },
+  {
+   "band": "Brandyn Andyny",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-15",
+   "source_url": "https://soupconsalon.club/event.php?id=387",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire",
+    "Ronald Reagan? The Actor?"
+   ]
+  },
+  {
+   "band": "Poppa Raga",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-22",
+   "source_url": "https://soupconsalon.club/event.php?id=524",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:00PM",
+   "billing": "Poppa Raga's Magical Mystery Tour"
+  },
+  {
+   "band": "Dark Surfers",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-23",
+   "source_url": "https://soupconsalon.club/event.php?id=573",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "8:00PM",
+   "billing": "title: Chris Lyons, Ruby Lou and Dark Surfers; body: whip appeal and ruby lou on tour"
+  },
+  {
+   "band": "Oral Fixation",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-29",
+   "source_url": "https://soupconsalon.club/event.php?id=536",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Creek Radio"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Creek Radio",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-08-29",
+   "source_url": "https://soupconsalon.club/event.php?id=536",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Oral Fixation"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Mr. Unloved",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-09-05",
+   "source_url": "https://soupconsalon.club/event.php?id=512",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Uncle Shake",
+    "Prize Winning Jim Dandy",
+    "Ken Mujo"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Uncle Shake",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-09-05",
+   "source_url": "https://soupconsalon.club/event.php?id=512",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Mr. Unloved",
+    "Prize Winning Jim Dandy",
+    "Ken Mujo"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Prize Winning Jim Dandy",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-09-05",
+   "source_url": "https://soupconsalon.club/event.php?id=512",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Mr. Unloved",
+    "Uncle Shake",
+    "Ken Mujo"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Ken Mujo",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-09-05",
+   "source_url": "https://soupconsalon.club/event.php?id=512",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Mr. Unloved",
+    "Uncle Shake",
+    "Prize Winning Jim Dandy"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Whole Wheat",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-09-12",
+   "source_url": "https://soupconsalon.club/event.php?id=609",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Human Adult Band"
+   ],
+   "time": "doors 7PM",
+   "price": "$10-20 NOTAFLOF"
+  },
+  {
+   "band": "Human Adult Band",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-09-12",
+   "source_url": "https://soupconsalon.club/event.php?id=609",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Whole Wheat"
+   ],
+   "time": "doors 7PM",
+   "price": "$10-20 NOTAFLOF"
+  },
+  {
+   "band": "Nimf",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-10-17",
+   "source_url": "https://soupconsalon.club/event.php?id=540",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Exhibit A"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Exhibit A",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-10-17",
+   "source_url": "https://soupconsalon.club/event.php?id=540",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Nimf"
+   ],
+   "time": "8:00PM"
+  },
+  {
+   "band": "Joy on Fire",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-10-24",
+   "source_url": "https://soupconsalon.club/event.php?id=422",
+   "source_type": "venue_calendar",
+   "bill": [
+    "The Extensions",
+    "Those Looks"
+   ],
+   "billing": "JOY ON FIRE album release party (Scenes)"
+  },
+  {
+   "band": "The Extensions",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-10-24",
+   "source_url": "https://soupconsalon.club/event.php?id=422",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire",
+    "Those Looks"
+   ],
+   "billing": "JOY ON FIRE album release party (Scenes)"
+  },
+  {
+   "band": "Those Looks",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-10-24",
+   "source_url": "https://soupconsalon.club/event.php?id=422",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Joy on Fire",
+    "The Extensions"
+   ],
+   "billing": "JOY ON FIRE album release party (Scenes)"
+  },
+  {
+   "band": "Skaht Kpraille",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-10-31",
+   "source_url": "https://soupconsalon.club/event.php?id=629",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "10:00PM",
+   "billing": "Halloween AfterParty"
+  },
+  {
+   "band": "The Swiss Guard",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-07",
+   "source_url": "https://soupconsalon.club/event.php?id=603",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Hubbell Benson",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-14",
+   "source_url": "https://soupconsalon.club/event.php?id=565",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "doors 7:30PM",
+   "price": "$10 NOTAFLOF",
+   "billing": "Hubbell Benson + TBA"
+  },
+  {
+   "band": "Blinder",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-15",
+   "source_url": "https://soupconsalon.club/event.php?id=596",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Whirly Bird",
+    "West Jersey Airport"
+   ],
+   "time": "6:00PM"
+  },
+  {
+   "band": "Whirly Bird",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-15",
+   "source_url": "https://soupconsalon.club/event.php?id=596",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Blinder",
+    "West Jersey Airport"
+   ],
+   "time": "6:00PM"
+  },
+  {
+   "band": "West Jersey Airport",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-15",
+   "source_url": "https://soupconsalon.club/event.php?id=596",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Blinder",
+    "Whirly Bird"
+   ],
+   "time": "6:00PM"
+  },
+  {
+   "band": "Period Bomb",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-18",
+   "source_url": "https://soupconsalon.club/event.php?id=624",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Rubix Pube",
+    "Corpse Farmer"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Rubix Pube",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-18",
+   "source_url": "https://soupconsalon.club/event.php?id=624",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Period Bomb",
+    "Corpse Farmer"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Corpse Farmer",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-18",
+   "source_url": "https://soupconsalon.club/event.php?id=624",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Period Bomb",
+    "Rubix Pube"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Modern Death",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-28",
+   "source_url": "https://soupconsalon.club/event.php?id=564",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Uranium Party"
+   ],
+   "time": "7:00PM",
+   "price": "$15 at the door",
+   "billing": "Knob Night II (benefit)"
+  },
+  {
+   "band": "Uranium Party",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-11-28",
+   "source_url": "https://soupconsalon.club/event.php?id=564",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Modern Death"
+   ],
+   "time": "7:00PM",
+   "price": "$15 at the door",
+   "billing": "Knob Night II (benefit)"
+  },
+  {
+   "band": "Whole Wheat",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-12-03",
+   "source_url": "https://soupconsalon.club/event.php?id=615",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Human Adult Band",
+    "Toads"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Human Adult Band",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-12-03",
+   "source_url": "https://soupconsalon.club/event.php?id=615",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Whole Wheat",
+    "Toads"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Toads",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-12-03",
+   "source_url": "https://soupconsalon.club/event.php?id=615",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Whole Wheat",
+    "Human Adult Band"
+   ],
+   "time": "7:00PM"
+  },
+  {
+   "band": "Loose Panic",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-12-05",
+   "source_url": "https://soupconsalon.club/event.php?id=591",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:00PM",
+   "billing": "Loose Panic + TBA (three-band bill)"
+  },
+  {
+   "band": "Exhibit A",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-12-12",
+   "source_url": "https://soupconsalon.club/event.php?id=549",
+   "source_type": "venue_calendar",
+   "bill": [
+    "90eeze"
+   ]
+  },
+  {
+   "band": "90eeze",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-12-12",
+   "source_url": "https://soupconsalon.club/event.php?id=549",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Exhibit A"
+   ]
+  },
+  {
+   "band": "Corpse Farmer",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-12-19",
+   "source_url": "https://soupconsalon.club/event.php?id=628",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:00PM",
+   "billing": "A veRY MerrY CoRpSeMaS (bands TBA)"
+  },
+  {
+   "band": "Brandyn Andyny",
+   "venue": "Soupçon Salon Gallery",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-12-26",
+   "source_url": "https://soupconsalon.club/event.php?id=597",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "7:00PM",
+   "billing": "Brandyn Andyny + TBA"
+  },
+  {
+   "band": "Bird Folk",
+   "venue": "Shadfest Locals Night",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-04-25",
+   "source_url": "https://soupconsalon.club/event.php?id=123",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Clover & Sundream"
+   ],
+   "time": "6-9PM",
+   "price": "free",
+   "billing": "Soupçon Salon + Greater Lambertville Chamber of Commerce"
+  },
+  {
+   "band": "Clover & Sundream",
+   "venue": "Shadfest Locals Night",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2025-04-25",
+   "source_url": "https://soupconsalon.club/event.php?id=123",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Bird Folk"
+   ],
+   "time": "6-9PM",
+   "price": "free",
+   "billing": "Soupçon Salon + Greater Lambertville Chamber of Commerce"
+  },
+  {
+   "band": "Pyrenesia",
+   "venue": "Shadfest Locals Night",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-24",
+   "source_url": "https://soupconsalon.club/event.php?id=489",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Lounge Night Road Show"
+   ],
+   "time": "5-8PM",
+   "billing": "Soupçon Salon + Greater Lambertville Chamber of Commerce"
+  },
+  {
+   "band": "Lounge Night Road Show",
+   "venue": "Shadfest Locals Night",
+   "town": "Lambertville",
+   "state": "NJ",
+   "date": "2026-04-24",
+   "source_url": "https://soupconsalon.club/event.php?id=489",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Pyrenesia"
+   ],
+   "time": "5-8PM",
+   "billing": "Soupçon Salon + Greater Lambertville Chamber of Commerce"
+  },
+  {
+   "band": "Those Looks",
+   "venue": "The Church (Hampton)",
+   "town": "Hampton",
+   "state": "NJ",
+   "date": "2025-05-03",
+   "source_url": "https://soupconsalon.club/event.php?id=131",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Slow Noche"
+   ],
+   "time": "5:00PM",
+   "billing": "Those Looks EP release party (member-hosted, not official Soupçon)"
+  },
+  {
+   "band": "Slow Noche",
+   "venue": "The Church (Hampton)",
+   "town": "Hampton",
+   "state": "NJ",
+   "date": "2025-05-03",
+   "source_url": "https://soupconsalon.club/event.php?id=131",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Those Looks"
+   ],
+   "time": "5:00PM",
+   "billing": "Those Looks EP release party (member-hosted, not official Soupçon)"
+  },
+  {
+   "band": "Those Looks",
+   "venue": "John & Peter's",
+   "town": "New Hope",
+   "state": "PA",
+   "date": "2025-11-23",
+   "source_url": "https://soupconsalon.club/event.php?id=333",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Little Hag"
+   ],
+   "time": "3-6PM",
+   "billing": "Sunday Funday Afternoon Show"
+  },
+  {
+   "band": "Little Hag",
+   "venue": "John & Peter's",
+   "town": "New Hope",
+   "state": "PA",
+   "date": "2025-11-23",
+   "source_url": "https://soupconsalon.club/event.php?id=333",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Those Looks"
+   ],
+   "time": "3-6PM",
+   "billing": "Sunday Funday Afternoon Show"
+  },
+  {
+   "band": "Those Looks",
+   "venue": "John & Peter's",
+   "town": "New Hope",
+   "state": "PA",
+   "date": "2026-05-09",
+   "source_url": "https://soupconsalon.club/event.php?id=515",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Lo-Priestess",
+    "Floating"
+   ],
+   "time": "music 8:30PM"
+  },
+  {
+   "band": "Lo-Priestess",
+   "venue": "John & Peter's",
+   "town": "New Hope",
+   "state": "PA",
+   "date": "2026-05-09",
+   "source_url": "https://soupconsalon.club/event.php?id=515",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Those Looks",
+    "Floating"
+   ],
+   "time": "music 8:30PM"
+  },
+  {
+   "band": "Floating",
+   "venue": "John & Peter's",
+   "town": "New Hope",
+   "state": "PA",
+   "date": "2026-05-09",
+   "source_url": "https://soupconsalon.club/event.php?id=515",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Those Looks",
+    "Lo-Priestess"
+   ],
+   "time": "music 8:30PM"
+  },
+  {
+   "band": "War Mountain",
+   "venue": "Dharma Bums",
+   "town": "New Hope",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://soupconsalon.club/event.php?id=581",
+   "source_type": "venue_calendar",
+   "bill": [],
+   "time": "5-7PM",
+   "price": "$10 suggested donation",
+   "billing": "WDVR Unplugged (live radio broadcast)"
+  },
+  {
+   "band": "Exhibit A",
+   "venue": "Flemington DIY",
+   "town": "Flemington",
+   "state": "NJ",
+   "date": "2026-05-06",
+   "source_url": "https://soupconsalon.club/event.php?id=514",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Relief"
+   ],
+   "time": "6:30-10PM",
+   "price": "$10-$15 suggested donation, all ages"
+  },
+  {
+   "band": "Relief",
+   "venue": "Flemington DIY",
+   "town": "Flemington",
+   "state": "NJ",
+   "date": "2026-05-06",
+   "source_url": "https://soupconsalon.club/event.php?id=514",
+   "source_type": "venue_calendar",
+   "bill": [
+    "Exhibit A"
+   ],
+   "time": "6:30-10PM",
+   "price": "$10-$15 suggested donation, all ages"
+  }
+ ],
+ "band_info": [
+  {
+   "name": "West Jersey Airport",
+   "home_base": null,
+   "genre": "noise / experimental",
+   "description": "Experimental act that recurs on Corpse Farmer-curated bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Corpse Farmer",
+   "home_base": "Lambertville, NJ",
+   "genre": "instrumental sludge",
+   "description": "Lambertville instrumental sludge band playing \"NJ scuzz\"; a Soupçon Salon regular that also curates its own bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Swiss Guard",
+   "home_base": "Delaware Valley",
+   "genre": "rock",
+   "description": "Delaware Valley rock band fronted by Justin Pope, mixing originals with covers.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Those Looks",
+   "home_base": "Lambertville, NJ",
+   "genre": "dream pop",
+   "description": "Lambertville \"velvetwave\" dream-pop band on Mint 400 Records.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "NaOCl",
+   "home_base": "New Jersey",
+   "genre": "noise",
+   "description": "New Jersey noise act.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Earth-Rim Walker",
+   "home_base": null,
+   "genre": "dungeon synth",
+   "description": "Local \"dungeon explorer\" act.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Rubix Pube",
+   "home_base": null,
+   "genre": "punk",
+   "description": "Punk band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Indigo Ranch",
+   "home_base": null,
+   "genre": "darkwave",
+   "description": "Darkwave band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Markiemodel",
+   "home_base": null,
+   "genre": "darkwave / electronic",
+   "description": "Darkwave/electronic act tied to House Of The Model.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Necrophiliac Yacht Club",
+   "home_base": null,
+   "genre": "metal / punk",
+   "description": "Heavy act on Corpse Farmer bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Messiahnide",
+   "home_base": null,
+   "genre": "metal",
+   "description": "Heavy act on Corpse Farmer bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Relief",
+   "home_base": "Lambertville, NJ",
+   "genre": "sound art / noise",
+   "description": "Local \"down market sound art\" noise project from Church St.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "B6",
+   "home_base": null,
+   "genre": "jazz-funk fusion",
+   "description": "Funk, jazz and ambient fusion group built around a Bass-6 guitar and horns.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Jimmy Velour",
+   "home_base": null,
+   "genre": "velvet wave",
+   "description": "Lambertville act billed as \"velvet wave\".",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Nimf",
+   "home_base": "Ireland",
+   "genre": "experimental",
+   "description": "Irish experimental act that played and released an album at Soupçon.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Joy on Fire",
+   "home_base": "Trenton, NJ / Harlem, NY",
+   "genre": "jazz-rock",
+   "description": "Sax, bass and drums jazz-punk trio; house band on Chris Gethard's That Show, releasing its 7th album Scenes in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Bugger",
+   "home_base": null,
+   "genre": "noise",
+   "description": "Noise act from \"down the road\" that plays many Soupçon noise and RRAT bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Meteor Police",
+   "home_base": null,
+   "genre": "punk / rock",
+   "description": "Band (also listed as \"Meter Police\").",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Blood Moons",
+   "home_base": null,
+   "genre": "ambient / rock",
+   "description": "Band (also listed as \"Bloodmoons\").",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Northern Liberties",
+   "home_base": "Philadelphia, PA",
+   "genre": "punk / rock",
+   "description": "Philadelphia rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Uncle Blender",
+   "home_base": null,
+   "genre": "punk / noise",
+   "description": "DIY act on RRAT Club and zine-con bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Spectre Folk",
+   "home_base": "Western Massachusetts",
+   "genre": "indie psych",
+   "description": "Western Massachusetts indie psych band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Human Adult Band",
+   "home_base": "Lambertville area, NJ",
+   "genre": "heavy psych / free rock",
+   "description": "Long-running local heavy-psych, free-rock noise band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "ASPS",
+   "home_base": null,
+   "genre": "noise",
+   "description": "Noise act.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Jewel Eye",
+   "home_base": null,
+   "genre": "experimental",
+   "description": "Experimental act.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Creek Radio",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Local band associated with the Delaware River Crew (DRC) shows.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Doctor Shickadance",
+   "home_base": null,
+   "genre": "punk",
+   "description": "DIY band on RRAT Club and Corpse Farmer bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Hubbell Benson",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Indie rock act on many Lambertville bills, often paired with Jimmy Velour.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Slow Noche",
+   "home_base": null,
+   "genre": "indie",
+   "description": "Local band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Brandyn Andyny",
+   "home_base": null,
+   "genre": "experimental / dream rock",
+   "description": "Duo of Brandon Anthony (guitar) and Andy (drums/sax) playing ethereal instrumental music.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Exhibit A",
+   "home_base": "Lambertville, NJ",
+   "genre": "post-punk / no wave",
+   "description": "Lambertville angular post-punk and no-wave band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Heavy Flow",
+   "home_base": "New Jersey",
+   "genre": "sludge / grunge blues",
+   "description": "New Jersey duo playing grungy blues and sludge with double vocals.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Ken Mujo",
+   "home_base": null,
+   "genre": "punk",
+   "description": "DIY act on RRAT Club bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Problem Addict",
+   "home_base": null,
+   "genre": "punk",
+   "description": "Punk band that released \"Live From The Emergency Room\" in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Stiff Curls",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "AstroKatz",
+   "home_base": null,
+   "genre": "metal",
+   "description": "Metal band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Pern",
+   "home_base": null,
+   "genre": "metal",
+   "description": "Metal band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "War Mountain",
+   "home_base": null,
+   "genre": "country",
+   "description": "Local country trio with three-part harmonies.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Dark Surfers",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Ronald Reagan? The Actor?",
+   "home_base": null,
+   "genre": "progressive surf rock",
+   "description": "Progressive surf-rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Loose Panic",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band; debut album Weightbearing out June 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Skaht Kpraille",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Whole Wheat",
+   "home_base": "Toms River, NJ",
+   "genre": "outsider alt",
+   "description": "Toms River outsider alt band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  }
+ ],
+ "notes": "Soupçon Salon: all 480 listed events plus 159 unlisted event ids were fetched; unlisted ids were drafts or duplicates only. Wayback CDX added nothing beyond what the live site still shows (its event pages stay up after the date). Left out as solo, DJ or open-mic acts: Bill Nace, Christian Mirande, Apologist, Ankylosaurus, Jair-Rohm Parker Wells, Jake Latakas Orrall, Frank Hurricane, Tracy Trance, Kilynn Lunsford, Dave Smolen, Matt Simon, Kimberleigh Rose, Brandon Anthony (solo), Flux in a Constant State (Matt Hurley), Ron Schneiderman, Matt Krefting, King Darves, Mike Polizze, Chris Lyons, Dani Sundream, Clover Stieve, Sweet Pete, Rachel Rosemarie, Ollie Thrice, Nikki Nailbomb, Brook Pridemore, Kailey Rocker, Mandy Valentine, Emily Robb, Jasper Lee, Rich Cahill, the electronic Knob Night producers (iff, chad rulette, evantr0nic, data_wolf, paul.giess), Edley O'Dowd, Rodney Omen, John Patrick Starling, Drew Davis, M. Sidnam, the SoupSTOCK solo slots, the Forever King Clark / Karsyn Wagner / Leah Thompson / Jess Ruiz songwriters, and all DJs. Also left out: Friday open mics, Bucket-o-Jams, NoFi-NJ Avant Mic, drag shows, dance parties, rehearsals, and the Feb 22 2026 Whip Appeal show, which was canceled for snow. Many noise and experimental names (e.g. NaOCl, Spandex Model, Oldest Sea, Ecology Homestones, PCRV, Viator, MJE, DDU, Cofounder, Petite Mort, Body Garden, Stroboseth, MSDS, Splooge Receptacle, Enjoy Being, Earth-Rim Walker, Jewel Eye) may be one-person projects; they were kept because they have act names. Two run-on titles were split by guesswork: Jul 4 2025 into Slime / Outdoor Horse Shrine / Slow Tongued Beauty / MJE / DDU / Cofounder / Petite Mort, and Jul 22 2026 into Slime Queen / Bingo Breakdancing / Ronald Reagan? The Actor? / Death Envy. Spelling variants were merged: Meter/Meteor Police, Bloodmoons/Blood Moons, Wholewheat/Whole Wheat, [Exhibit: A]/Exhibit A, Markie Model/Markiemodel, and Brandon Anthony and Andy Dreamos = Brandyn Andyny. TBA slots and bills listed only as 'bands TBA' are not filled in. Some site times show AM by mistake (e.g. 7:00AM); the body text was used where it gives a time. RRAT Club is a promoter collective ('River Radical Art Team', Lumberville PA PO box), not a venue. Its 5 known shows came from the Soupçon calendar. The rratclub.com Wix site is unpublished, the Instagram grid has no readable dates, and about 8 web searches found nothing else (no Facebook, Bandcamp or Songkick hits). Other promoters seen on the calendar: DRC (Delaware River Crew), Foul Depths, Order of the Winking Star, House Of The Model. Extra fields per appearance: bill (other bands that night), time, price, billing, presenter."
+}

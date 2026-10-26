@@ -1,0 +1,5775 @@
+{
+ "venues": [
+  {
+   "name": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "address": "23 E Lancaster Ave, Ardmore, PA 19003",
+   "kind": "club",
+   "website": "https://ardmoremusichall.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "nightly",
+   "calendar_status": "crawled",
+   "coverage": "Jan 2025–Apr 2027 (homepage JSON-LD + 13 monthly Wayback snapshots; some months missing)",
+   "source_url": "https://ardmoremusichall.com/",
+   "notes": "Rising Sun Presents room; mostly national/touring and regional tribute acts; all band bookings recorded."
+  },
+  {
+   "name": "Concerts Under the Stars (Upper Merion Township Building Park)",
+   "town": "King of Prussia",
+   "state": "PA",
+   "address": "175 W Valley Forge Rd, King of Prussia, PA 19406",
+   "kind": "park series",
+   "website": "https://concertsunderthestarskop.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "none (2026 season over; site shows no past lineup)",
+   "source_url": "https://concertsunderthestarskop.com/",
+   "notes": "Rising Sun Presents summer series, 40th season 2026; tribute/national acts (Grateful Shred, Indigo Girls per tourism listing)."
+  },
+  {
+   "name": "Bryn Mawr Twilight Concerts",
+   "town": "Bryn Mawr",
+   "state": "PA",
+   "address": null,
+   "kind": "park series",
+   "website": "https://brynmawrtwilightconcerts.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "none (site shows stale 2024 placeholder)",
+   "source_url": "https://brynmawrtwilightconcerts.com/",
+   "notes": "Gazebo series by Rising Sun Presents, May 29–Sep 6 2026; named acts in tourism listing but no dated lineup found."
+  },
+  {
+   "name": "Ardmore Rock N' Ride",
+   "town": "Ardmore",
+   "state": "PA",
+   "address": null,
+   "kind": "festival",
+   "website": "https://ardmorerocknride.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "partial",
+   "coverage": "Aug 2025 date only",
+   "source_url": "https://ardmorerocknride.com/",
+   "notes": "Narberth Ambulance fundraiser with multi-stage music by Rising Sun Presents; lineup not posted after event."
+  },
+  {
+   "name": "Colonial Theatre",
+   "town": "Phoenixville",
+   "state": "PA",
+   "address": "227 Bridge St, Phoenixville, PA 19460",
+   "kind": "theater",
+   "website": "https://thecolonialtheatre.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "several per month",
+   "calendar_status": "crawled",
+   "coverage": "Oct 2026–May 2027 site listing (past shows not listed)",
+   "source_url": "https://thecolonialtheatre.com/events/live-music/",
+   "notes": "Mostly national touring acts; only regional bands/tributes recorded."
+  },
+  {
+   "name": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "address": "203 Bridge St, Phoenixville, PA 19460",
+   "kind": "coffeehouse",
+   "website": "https://www.steelcityphx.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "Oct–Nov 2026 ticket products (sitemap); 2025–26 archived product titles without reliable years",
+   "source_url": "https://www.steelcityphx.com/concerts-and-events",
+   "notes": "BYOB-era coffeehouse/brewery, weekend shows of local acts, weekly open mics. Calendar is JS (Square); dated via ticket pages."
+  },
+  {
+   "name": "Molly Maguire's Irish Restaurant & Pub",
+   "town": "Phoenixville",
+   "state": "PA",
+   "address": "197 Bridge St, Phoenixville, PA 19460",
+   "kind": "bar",
+   "website": "https://www.mollymaguiresphoenixville.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "current week + 3 Wayback snapshots (Dec 2025, Apr 2026, Oct 2026)",
+   "source_url": "https://www.mollymaguiresphoenixville.com/music/",
+   "notes": "Friday/Saturday bands and DJs; page shows only the current week."
+  },
+  {
+   "name": "Stable 12 Brewing Company",
+   "town": "Phoenixville",
+   "state": "PA",
+   "address": "368 Bridge St, Phoenixville, PA 19460",
+   "kind": "brewery",
+   "website": "https://www.stable12.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "crawled",
+   "coverage": "Sep–Dec 2026 Google-calendar feed (earlier months not served)",
+   "source_url": "https://www.stable12.com/events/",
+   "notes": "Calendar shows trivia/specials/sports only; no band bookings in window."
+  },
+  {
+   "name": "Root Down Brewing",
+   "town": "Phoenixville",
+   "state": "PA",
+   "address": null,
+   "kind": "brewery",
+   "website": "https://rootdownbrewing.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "monthly",
+   "calendar_status": "crawled",
+   "coverage": "current events page",
+   "source_url": "https://rootdownbrewing.com/rootdown-events/",
+   "notes": "Events page lists monthly Punk Rock Flea Market (DJs) and Science on Tap; no bands named."
+  },
+  {
+   "name": "Bistro on Bridge",
+   "town": "Phoenixville",
+   "state": "PA",
+   "address": null,
+   "kind": "restaurant",
+   "website": "https://bistroonbridge.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "crawled",
+   "coverage": "Jan 2025–Dec 2026 events API (3 events, none bands)",
+   "source_url": "https://bistroonbridge.com/events/",
+   "notes": "No band bookings in its event calendar."
+  },
+  {
+   "name": "Phoenixville Firebird Festival",
+   "town": "Phoenixville",
+   "state": "PA",
+   "address": null,
+   "kind": "festival",
+   "website": "https://www.firebirdfestival.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "https://www.firebirdfestival.com/",
+   "notes": "December bonfire festival with live performances (Dec 13 2025 at Reservoir Park); no band lineup found online."
+  },
+  {
+   "name": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "address": "238 E High St, Pottstown, PA 19464",
+   "kind": "bar",
+   "website": "https://www.visitrivet.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "several per month",
+   "calendar_status": "partial",
+   "coverage": "Jun 2025–Feb 2027 (live page + Wayback snapshots Jun/Oct/Nov 2025, Mar 2026; gaps)",
+   "source_url": "https://www.visitrivet.com/events/",
+   "notes": "Event hall/bar with local cover, tribute and metal bands, monthly Last Big Band jazz nights, free summer outdoor concerts."
+  },
+  {
+   "name": "Sly Fox Brewing (Pottstown)",
+   "town": "Pottstown",
+   "state": "PA",
+   "address": null,
+   "kind": "brewery",
+   "website": "https://www.slyfoxbeer.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "partial",
+   "coverage": "May 2026 Bock Fest press listing",
+   "source_url": "https://www.phillyvoice.com/sly-fox-bock-fest-goat-race-pottstown-may-3-2026/",
+   "notes": "Site rate-limited (429); festivals (Bock Fest, Can Jam) with bands."
+  },
+  {
+   "name": "Sunnybrook Ballroom",
+   "town": "Pottstown",
+   "state": "PA",
+   "address": "50 Sunnybrook Rd, Pottstown, PA 19464",
+   "kind": "club",
+   "website": "https://www.sunnybrookballroom.net/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "partial",
+   "coverage": "Dec 2026 NYE listing only",
+   "source_url": "https://www.sunnybrookballroom.net/",
+   "notes": "Historic ballroom; dance events and occasional bands (Bacon Brothers per Songkick; Erich Cawalla & The Uptown Band NYE 2026)."
+  },
+  {
+   "name": "Lower Pottsgrove Summer Concert Series (Sanatoga Park)",
+   "town": "Pottstown",
+   "state": "PA",
+   "address": null,
+   "kind": "park series",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "dates only (Sundays Jun 28–Aug 2 2026), no lineup",
+   "source_url": "https://www.lowerpottsgrove.org/news_detail_T21_R196.php",
+   "notes": "Sanatoga Park band shell; bands not named online."
+  },
+  {
+   "name": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "address": null,
+   "kind": "bar",
+   "website": "https://thestraydogtavern.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "Jul 2025 (Wayback), Oct 2026 live page, plus band-site listings",
+   "source_url": "https://thestraydogtavern.com/events",
+   "notes": "Friday/Saturday bands (opener 5–8, main act 8–11); annual Jamtoberfest."
+  },
+  {
+   "name": "Skippack Days",
+   "town": "Skippack",
+   "state": "PA",
+   "address": null,
+   "kind": "festival",
+   "website": "https://skippackvillage.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "https://skippackvillage.com/event/skippack-days/",
+   "notes": "Village festival; music mentioned but no bands named."
+  },
+  {
+   "name": "Lower Frederick Summer Concert Series (Cuddy Park)",
+   "town": "Lower Frederick",
+   "state": "PA",
+   "address": null,
+   "kind": "park series",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "monthly",
+   "calendar_status": "crawled",
+   "coverage": "Jul 2025–Sep 2026 township events API",
+   "source_url": "https://lowerfrederick.org/events/",
+   "notes": "Township concerts at Cuddy Park (near Zieglerville/Schwenksville)."
+  },
+  {
+   "name": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "address": "1323 Salford Station Rd, Harleysville, PA 19438",
+   "kind": "festival",
+   "website": "https://folkfest.org/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "crawled",
+   "coverage": "2026 performer list with day tags; 2025 lineup (no per-act days)",
+   "source_url": "https://folkfest.org/performers/",
+   "notes": "Old Pool Farm, Harleysville/Schwenksville; Aug 13–16 2026. 2025 acts not recorded (no per-act dates); only bands/duos recorded."
+  },
+  {
+   "name": "Well Crafted Beer Co. (Lansdale)",
+   "town": "Lansdale",
+   "state": "PA",
+   "address": "310 Madison St, Lansdale, PA 19446",
+   "kind": "brewery",
+   "website": "https://www.wellcraftedbeer.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "current events page (names only 'live entertainment'/TBA)",
+   "source_url": "https://www.wellcraftedbeer.com/home/lansdale/events",
+   "notes": "Wix site; books local musicians months ahead, monthly Philly Folk Music night; specific acts rarely posted online."
+  },
+  {
+   "name": "Well Crafted Beer Co. (Ambler)",
+   "town": "Ambler",
+   "state": "PA",
+   "address": "300 Brookside Ave Bldg 19, Ambler, PA 19002",
+   "kind": "brewery",
+   "website": "https://www.wellcraftedbeer.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "social_only",
+   "coverage": "none",
+   "source_url": "https://www.wellcraftedbeer.com/ambler",
+   "notes": "Second taproom; events page JS-only."
+  },
+  {
+   "name": "The Underground at Round Guys Brewing",
+   "town": "Lansdale",
+   "state": "PA",
+   "address": "324 W Main St, Lansdale, PA 19446",
+   "kind": "club",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "https://www.valleyforge.org/things-to-do/arts-culture/music/concert-venues/",
+   "notes": "Listed by Valley Forge Tourism as a speakeasy hosting local bands; roundguysbrewery.com is parked; brewery now 'Round Guys ... featuring Harper & Penny's'. Status of music unclear."
+  },
+  {
+   "name": "White's Road Park Concert Series",
+   "town": "Lansdale",
+   "state": "PA",
+   "address": "400 White's Rd, Lansdale, PA 19446",
+   "kind": "park series",
+   "website": "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "crawled",
+   "coverage": "2026 season (Jun–Sep)",
+   "source_url": "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series",
+   "notes": "Lansdale Borough Tuesday concerts. A search snippet showed an earlier variant of the 2026 lineup; borough page used."
+  },
+  {
+   "name": "Lansdale First Fridays",
+   "town": "Lansdale",
+   "state": "PA",
+   "address": null,
+   "kind": "festival",
+   "website": "https://www.discoverlansdale.org/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "monthly",
+   "calendar_status": "partial",
+   "coverage": "Oct 2026 page only",
+   "source_url": "https://www.discoverlansdale.org/first-friday.html",
+   "notes": "Discover Lansdale monthly street event May–Nov with a main stage."
+  },
+  {
+   "name": "Lansdale Founders Day",
+   "town": "Lansdale",
+   "state": "PA",
+   "address": null,
+   "kind": "festival",
+   "website": "https://www.discoverlansdale.org/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "crawled",
+   "coverage": "2026",
+   "source_url": "https://www.discoverlansdale.org/founders-day.html",
+   "notes": "Late-August town day with a music stage."
+  },
+  {
+   "name": "Lansdale Beer Tasting Festival",
+   "town": "Lansdale",
+   "state": "PA",
+   "address": null,
+   "kind": "festival",
+   "website": "https://www.discoverlansdale.org/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "crawled",
+   "coverage": "2026",
+   "source_url": "https://www.discoverlansdale.org/beer-tasting-festival.html",
+   "notes": "Memorial Park, September."
+  },
+  {
+   "name": "Towamencin Concert Series (Fischer's Park)",
+   "town": "Towamencin",
+   "state": "PA",
+   "address": null,
+   "kind": "park series",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "https://valleyforge.org/events/concerts-and-live-music/outdoor-summer-concerts/",
+   "notes": "Thursday concerts June–Aug; tourism page names Shot of Southern, Mike Greer & Company, Hindsight but no dates; township page JS-only."
+  },
+  {
+   "name": "Montgomery Township Summer Concerts",
+   "town": "Montgomeryville",
+   "state": "PA",
+   "address": "1030 Horsham Rd, Montgomeryville, PA 18936",
+   "kind": "park series",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "crawled",
+   "coverage": "2026 season (Jun 17–Aug 5)",
+   "source_url": "https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374",
+   "notes": "Wednesday concerts on the Community & Rec Center lawn."
+  },
+  {
+   "name": "Lower Gwynedd Summer Concert Series (Pen Ambler Park)",
+   "town": "Lower Gwynedd",
+   "state": "PA",
+   "address": "351 Mathers Rd, Ambler, PA 19002",
+   "kind": "park series",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "monthly",
+   "calendar_status": "crawled",
+   "coverage": "2026 season",
+   "source_url": "https://lowergwynedd.org/resources/calendar/event-details/?id=8820",
+   "notes": "Wednesday 5:30 pm amphitheater concerts May–July."
+  },
+  {
+   "name": "North Wales Concerts in the Park (Parkside Place)",
+   "town": "North Wales",
+   "state": "PA",
+   "address": null,
+   "kind": "park series",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "https://valleyforge.org/events/concerts-and-live-music/outdoor-summer-concerts/",
+   "notes": "Wednesdays Jun 18–Aug 13 2026 at Debarth Amphitheater; no lineup found."
+  },
+  {
+   "name": "Soul Brothers Meats",
+   "town": "North Wales",
+   "state": "PA",
+   "address": null,
+   "kind": "restaurant",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "social_only",
+   "coverage": "single band-site listing (Apr 2026)",
+   "source_url": "https://www.thedishonestfiddlers.com/",
+   "notes": "BBQ spot that hosts occasional bands."
+  },
+  {
+   "name": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "address": null,
+   "kind": "festival",
+   "website": "https://amblerfest.org/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "crawled",
+   "coverage": "2025 and 2026 lineups",
+   "source_url": "https://amblerfest.org/2026-music-fest/",
+   "notes": "Two-day June street festival, Cavalier Dr lot stage."
+  },
+  {
+   "name": "Ambler First Fridays",
+   "town": "Ambler",
+   "state": "PA",
+   "address": null,
+   "kind": "festival",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "monthly",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "https://amblermainstreet.org/first-fridays-in-ambler/",
+   "notes": "Ambler Main Street summer First Fridays; performers not listed."
+  },
+  {
+   "name": "Tannery Run Brew Works",
+   "town": "Ambler",
+   "state": "PA",
+   "address": null,
+   "kind": "brewery",
+   "website": "https://tanneryrun.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "crawled",
+   "coverage": "current SpotHopper events (trivia/D&D only)",
+   "source_url": "https://tanneryrun.com/ambler-ambler-tannery-run-brew-works-events",
+   "notes": "No bands on current calendar."
+  },
+  {
+   "name": "Forest & Main Brewing",
+   "town": "Ambler",
+   "state": "PA",
+   "address": null,
+   "kind": "brewery",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "https://forestandmain.com/",
+   "notes": "No events calendar on site."
+  },
+  {
+   "name": "Iron Abbey",
+   "town": "Horsham",
+   "state": "PA",
+   "address": null,
+   "kind": "restaurant",
+   "website": "https://ironabbey.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "crawled",
+   "coverage": "Jan 2025–Nov 2026 events API",
+   "source_url": "https://ironabbey.com/events/",
+   "notes": "Gastropub; 2025 'Live Music Fridays' were solo performers; no bands found."
+  },
+  {
+   "name": "Poppy's Tavern",
+   "town": "Hatfield",
+   "state": "PA",
+   "address": "64 E Lincoln Ave, Hatfield, PA 19440",
+   "kind": "bar",
+   "website": "https://poppystavern.net/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "blocked",
+   "coverage": "none",
+   "source_url": "https://poppystavern.net/events",
+   "notes": "Events page has no listings; Bandsintown lists 4 undated-year shows but blocks fetching (403)."
+  },
+  {
+   "name": "Franconia Township Summer Concerts",
+   "town": "Franconia",
+   "state": "PA",
+   "address": null,
+   "kind": "park series",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "annual",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none (page shows 2011–2018 recaps only)",
+   "source_url": "https://franconiatownship.org/details/parks-recreation/summer-concerts/",
+   "notes": "Annual summer concert in Franconia Community Park (Souderton/Telford area)."
+  },
+  {
+   "name": "The Royal",
+   "town": "Glenside",
+   "state": "PA",
+   "address": null,
+   "kind": "club",
+   "website": "https://www.theroyalglenside.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "blocked",
+   "coverage": "none",
+   "source_url": "https://www.theroyalglenside.com/tickets",
+   "notes": "Music-only listening room opened 2021; Wix calendar and sitemap blocked by bot check; weekly open mic."
+  },
+  {
+   "name": "Keswick Theatre",
+   "town": "Glenside",
+   "state": "PA",
+   "address": "291 N Keswick Ave, Glenside, PA 19038",
+   "kind": "theater",
+   "website": "https://www.keswicktheatre.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "several per month",
+   "calendar_status": "partial",
+   "coverage": "not crawled for bands (national/tribute tours)",
+   "source_url": "https://www.keswicktheatre.com/events",
+   "notes": "Books national tours and touring tributes; rarely locals."
+  },
+  {
+   "name": "Abington Art Center Summer Concert Series",
+   "town": "Jenkintown",
+   "state": "PA",
+   "address": "515 Meetinghouse Rd, Jenkintown, PA 19046",
+   "kind": "park series",
+   "website": "https://abingtonartcenter.org/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "crawled",
+   "coverage": "2026 season",
+   "source_url": "https://abingtonartcenter.org/concert-series/",
+   "notes": "Thursday concerts on the Alverthorpe Manor lawn; opener 6:30 / headliner 7:15."
+  },
+  {
+   "name": "Hatboro Second Saturday",
+   "town": "Hatboro",
+   "state": "PA",
+   "address": null,
+   "kind": "festival",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "monthly",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "https://patch.com/pennsylvania/horsham/ev--second-saturday-hatboro",
+   "notes": "Monthly downtown event with live music at shops/restaurants; secondsaturdayhatboro.com no longer resolves."
+  },
+  {
+   "name": "Valley Forge Casino Resort (Valley Tavern)",
+   "town": "King of Prussia",
+   "state": "PA",
+   "address": null,
+   "kind": "club",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "blocked",
+   "coverage": "none",
+   "source_url": "https://vfcasino.boydgaming.com/",
+   "notes": "Casino with Valley Tavern bar bands and The Venue; site is a JS shell."
+  },
+  {
+   "name": "Conshohocken Brewing Co.",
+   "town": "Conshohocken",
+   "state": "PA",
+   "address": null,
+   "kind": "brewery",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "https://www.conshohockenbrewing.com/events-spaces",
+   "notes": "Squarespace site with event-space info only; no music calendar."
+  },
+  {
+   "name": "Royersford Victory Park Summer Concert Series",
+   "town": "Royersford",
+   "state": "PA",
+   "address": null,
+   "kind": "park series",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "monthly",
+   "calendar_status": "partial",
+   "coverage": "2026 dates only (Jul 19, Aug 1), no performers",
+   "source_url": "https://www.royersfordrecreation.com/royersford-park-and-recreation-events",
+   "notes": "Borough rec series; performers not listed."
+  },
+  {
+   "name": "Act II Playhouse",
+   "town": "Ambler",
+   "state": "PA",
+   "address": "56 E Butler Ave, Ambler, PA 19002",
+   "kind": "theater",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "partial",
+   "coverage": "not crawled",
+   "source_url": "https://www.timeout.com/philadelphia/theater/act-ii-playhouse",
+   "notes": "130-seat professional theater; occasional concerts, mostly plays."
+  },
+  {
+   "name": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "1201 N Frankford Ave, Philadelphia, PA 19125",
+   "kind": "club",
+   "website": "https://johnnybrendas.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "nightly",
+   "calendar_status": "crawled",
+   "coverage": "Mar 2025–Nov 2026 (live + 16 monthly Wayback snapshots; Jan–Feb 2025 not covered)",
+   "source_url": "https://johnnybrendas.com/",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded."
+  },
+  {
+   "name": "Kung Fu Necktie",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "1250 N Front St, Philadelphia, PA 19122",
+   "kind": "club",
+   "website": "https://kungfunecktie.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "nightly",
+   "calendar_status": "partial",
+   "coverage": "scattered Wayback snapshots 2025–2026 + live",
+   "source_url": "https://kungfunecktie.com/",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded."
+  },
+  {
+   "name": "MilkBoy Philadelphia",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "1100 Chestnut St, Philadelphia, PA 19107",
+   "kind": "club",
+   "website": "https://milkboyphilly.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "nightly",
+   "calendar_status": "partial",
+   "coverage": "Oct 2026–Apr 2027 live listing only",
+   "source_url": "https://milkboyphilly.com/",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded."
+  },
+  {
+   "name": "Chris' Jazz Cafe",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "1421 Sansom St, Philadelphia, PA 19102",
+   "kind": "club",
+   "website": "https://www.chrisjazzcafe.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "nightly",
+   "calendar_status": "partial",
+   "coverage": "Oct 2026–Jan 2027 live listing",
+   "source_url": "https://www.chrisjazzcafe.com/",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded. Named local ensembles only (leader-billed combos skipped)."
+  },
+  {
+   "name": "PhilaMOCA",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "531 N 12th St, Philadelphia, PA 19123",
+   "kind": "arts center",
+   "website": "https://www.philamoca.org/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "several per month",
+   "calendar_status": "partial",
+   "coverage": "live listing Oct–Dec 2026 checked; few matching bands",
+   "source_url": "https://www.philamoca.org/",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded. Mostly film/cult cinema; no cross-matched bands found."
+  },
+  {
+   "name": "Ortlieb's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "847 N 3rd St, Philadelphia, PA 19123",
+   "kind": "bar",
+   "website": "https://ortliebsphilly.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "nightly",
+   "calendar_status": "blocked",
+   "coverage": "none (Eventbrite widget, not parsed)",
+   "source_url": "https://ortliebsphilly.com/",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded."
+  },
+  {
+   "name": "Tattooed Mom",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "530 South St, Philadelphia, PA 19147",
+   "kind": "bar",
+   "website": "https://www.tattooedmomphilly.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "occasional",
+   "calendar_status": "crawled",
+   "coverage": "Jan 2025–Dec 2026 events API (546 events)",
+   "source_url": "https://www.tattooedmomphilly.com/",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded. Events are mostly drag, comedy, karaoke, art; band shows rare."
+  },
+  {
+   "name": "South Jazz Kitchen",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "600 N Broad St, Philadelphia, PA 19130",
+   "kind": "club",
+   "website": "https://www.southjazzkitchen.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "nightly",
+   "calendar_status": "partial",
+   "coverage": "homepage only (no event data parsed)",
+   "source_url": "https://www.southjazzkitchen.com/",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded."
+  },
+  {
+   "name": "Bourbon & Branch",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "705 N 2nd St, Philadelphia, PA 19123",
+   "kind": "bar",
+   "website": "https://www.bourbonandbranch.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "several per month",
+   "calendar_status": "blocked",
+   "coverage": "none (Squarespace events collection empty via JSON)",
+   "source_url": "https://www.bourbonandbranch.com/events",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded."
+  },
+  {
+   "name": "Fergie's Pub",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": "1214 Sansom St, Philadelphia, PA 19107",
+   "kind": "bar",
+   "website": "https://fergies.com/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "not crawled (events page is quizzo/sessions)",
+   "source_url": "https://fergies.com/events",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded."
+  },
+  {
+   "name": "The Fallser Club",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": null,
+   "kind": "club",
+   "website": "https://thefallserclub.org/",
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "weekly",
+   "calendar_status": "partial",
+   "coverage": "not crawled",
+   "source_url": "https://thefallserclub.org/event-calendar/",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded. East Falls members' club with folk/roots shows."
+  },
+  {
+   "name": "The Grape Room",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": null,
+   "kind": "bar",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded. (Manayunk) Could not verify a working website; not crawled."
+  },
+  {
+   "name": "Dawson Street Pub",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": null,
+   "kind": "bar",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded. (Manayunk) Could not verify a working website; not crawled."
+  },
+  {
+   "name": "The Pharmacy",
+   "town": "Philadelphia",
+   "state": "PA",
+   "address": null,
+   "kind": "bar",
+   "website": null,
+   "facebook": null,
+   "instagram": null,
+   "music_frequency": "unknown",
+   "calendar_status": "no_online_calendar",
+   "coverage": "none",
+   "source_url": "",
+   "notes": "Philadelphia room: only bands that also appear elsewhere in the census data or are clearly Philly-local (in prior Philly band list) recorded. (Point Breeze) Could not verify a working website; not crawled."
+  }
+ ],
+ "appearances": [
+  {
+   "band": "Brownstein Family Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-03",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/brownstein-family-band-ft-members-of-the-disco-biscuits-eggy-126224",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Candy Volcano",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-04",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-bowie-birthday-bash-featuring-candy-volcano-115124",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Superunknown",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/superunknown-chris-cornell-tribute-116730",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Unforgettable Fire",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/unforgettable-fire-u2-tribute-115136",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Ledbetters",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-18",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-ledbetters-pearl-jam-tribute-115140",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tell Me Lies",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-19",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/tell-me-lies-fleetwood-mac-tribute-115151",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Badfish",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-24",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/badfish-a-tribute-to-sublime-gimme-the-gold-tour-2025-115479",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Dave Matthews Tribute Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-25",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-dave-matthews-tribute-band-115164",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Grateful Dub",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-31",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/grateful-dub-reggae-infused-tribute-to-the-grateful-dead-roots-of-creation-119503",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Roots of Creation",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-01-31",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/grateful-dub-reggae-infused-tribute-to-the-grateful-dead-roots-of-creation-119503",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Soulive",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-01",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/soulive-night-1--119270",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Soulive",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-02",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/soulive-night-2--119271",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Rush Experience",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-03",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-rush-experience-115222",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Drive-By Truckers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-04",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/drive-by-truckers-southern-rock-opera-revisited-sold-out--117533",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Legwarmers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-08",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-legwarmers-the-ultimate-80s-tribute-band-117065",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Cymande",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/cymande-107840",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-16",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-grateful-dead-tribute-122638",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Brown Sugar",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/rolling-stones-vs-the-beatles-ft-brown-sugar-newspaper-taxis-126520",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Newspaper Taxis",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/rolling-stones-vs-the-beatles-ft-brown-sugar-newspaper-taxis-126520",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Rebirth Brass Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-21",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/rebirth-brass-band-118170",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Big Head Todd and The Monsters",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/big-head-todd-and-the-monsters-sold-out--108604",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Born to Run",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-23",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/an-american-classic-bruce-vs-petty-ft-born-to-run-down-the-dream-122826",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Down The Dream",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-23",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/an-american-classic-bruce-vs-petty-ft-born-to-run-down-the-dream-122826",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Bad Plus",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-24",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-bad-plus-108548",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Low Cut Connie",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-02-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-connie-club-starring-low-cut-connie-special-guests-126365",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "TAUK",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-01",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/tauk-122147",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Sam Grisman Project",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-06",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/sam-grisman-project-126521",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "God Street Wine",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-08",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/god-street-wine-115343",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tophouse",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-09",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/tophouse-115289",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Joe Russo's Selcouth Quartet",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/joe-russo-s-selcouth-quartet-121422",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steal Your Peach",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/steal-your-peach-grateful-dead-allman-brothers-mashup-122666",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Travelin' McCourys",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-16",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-travelin-mccourys-126756",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Yonder Mountain String Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/yonder-mountain-string-band-117176",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Wheatus",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-23",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/wheatus-112305",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Melvin Seals & JGB",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/melvin-seals-jgb-122942",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Mason Porter",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/mason-porter-frog-holler-129165",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Frog Holler",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-03-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/mason-porter-frog-holler-129165",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Red NOT Chili Peppers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-04",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/red-not-chili-peppers-123383",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Amish Outlaws",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-05",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-amish-outlaws-121695",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Raw-Soul Rebels Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-13",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/etana-raw-soul-rebels-band-131803",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Modern Bliss",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-13",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/modern-bliss-123098",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "A Flock Of Seagulls",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/a-flock-of-seagulls-133316",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Electron",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-18",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/electron-126071",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-18",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-album-release-130393",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jawn of the Dead",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-20",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/jawn-of-the-dead-jah-people-128212",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jah People",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-20",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/jawn-of-the-dead-jah-people-128212",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Low Cut Connie",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-25",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-connie-club-starring-low-cut-connie-special-guests-132922",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Brown Sugar",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/rolling-stones-vs-the-beatles-ft-brown-sugar-newspaper-taxis-126520",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Newspaper Taxis",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-04-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/rolling-stones-vs-the-beatles-ft-brown-sugar-newspaper-taxis-126520",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "L.A. Guns",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-01",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/l-a-guns-123582",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Chameleons",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-02",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-chameleons-twin-tribes-130873",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Twin Tribes",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-02",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-chameleons-twin-tribes-130873",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Grateful Shred",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-03",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/grateful-shred-129990",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "River Whyless",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-09",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/brett-dennen-river-whyless-spring-road-trip-128565",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Unlimited Devotion",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-09",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/unlimited-devotion-131481",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Dandy Warhols",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-dandy-warhols-131038",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Pink Talking Fish",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/pink-talking-fish-playing-the-music-of-pink-floyd-talking-heads-phish-123654",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jerry's Middle Finger",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-18",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/jerry-s-middle-finger-jerry-garcia-band-tribute-131867",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Innocence Mission",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-05-24",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-innocence-mission-133459",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Boat House Row",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-08",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/boat-house-row-yacht-rock-experience-132950",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Save Ferris",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-09",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/save-ferris-132954",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "North Mississippi Allstars",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-13",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/north-mississippi-allstars-132962",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Chestnut Grove",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/chestnut-grove-jr-everhart-cosmic-guilt-hezekiah-jones-133360",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hezekiah Jones",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/chestnut-grove-jr-everhart-cosmic-guilt-hezekiah-jones-133360",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Reverend Horton Heat",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-reverend-horton-heat-128009",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steel Pulse",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-20",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/steel-pulse-133090",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steel Pulse",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-21",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/steel-pulse-50th-anniversary-tour-133090",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Mission UK",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-mission-uk-130054",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Echoes",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/echoes-the-american-pink-floyd-133519",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hindley Street Country Club",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-06-29",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/hindley-street-country-club-142986",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-07-05",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/dead-white-blue-splintered-sunlight-grateful-dead-tribute-136288",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The County Jawn",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-07-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-county-jawn-ft-angelconcepcion-and-lucas-wolfe-127850",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The New Deal",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-07-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-new-deal-joe-russo-136169",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "WCK Trio",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-07-16",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/midnight-gumbo-ft-wck-trio-eli-winderman-jonathan-colman-john-morgan-kimock-special-guests-144727",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steely Dead",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-07-18",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/steely-dead-playing-the-music-of-steely-dan-grateful-dead-139284",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Rose City Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-07-19",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/rose-city-band-132706",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Femi Kuti & The Positive Force",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-07-23",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/femi-kuti-the-positive-force-130277",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Souls Of Mischief",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-07-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/souls-of-mischief-139969",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-08-02",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-grateful-dead-tribute-135579",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Bill Frisell Trio",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-08-03",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/bill-frisell-trio-132546",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Robert Jon & the Wreck",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-08-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/robert-jon-the-wreck-129992",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Broken Arrow",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-08-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/broken-arrow-a-tribute-to-neil-young-144332",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Karl Denson's Tiny Universe",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-05",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/karl-denson-s-tiny-universe-145029",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Damn The Torpedoes",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-06",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/damn-the-torpedoes-tom-petty-tribute-135893",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Legwarmers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-07",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-legwarmers-the-ultimate-80s-tribute-band-133318",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Superchunk",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/superchunk-135568",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Lucero",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-16",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/lucero-135522",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "W.I.T.C.H. (We Intend to Cause Havoc)",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-23",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/w-i-t-c-h-we-intend-to-cause-havoc--135894",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Black Uhuru",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-26",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/black-uhuru-133945",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Jayhawks",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-jayhawks-139968",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "David Uosikkinen's In The Pocket",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/david-uosikkinen-s-in-the-pocket-136849",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hiromi's Sonicwonder",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-09-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/hiromi-s-sonicwonder-142363",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Brent Cobb & The Fixin's",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-10-09",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/brent-cobb-the-fixin-s-136877",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "GoGo Penguin",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-10-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/gogo-penguin-137524",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Mr. Greengenes",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-10-31",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/mr-greengenes-137559",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Boyce Avenue",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-11-07",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/boyce-avenue-142100",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Lone Bellow",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-11-13",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-lone-bellow-137134",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tropidelic",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-11-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/tropidelic-136994",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The New Mastersounds",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-11-21",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-new-mastersounds-138940",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "AMH 10-Ticket Hall Pass 2025 - 2026",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-11-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/amh-10-ticket-hall-pass-2025-2026-166139",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Too Many Zooz",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-10",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/too-many-zooz-145582",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Bumpin Uglies + Ballyhoo!",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/bumpin-uglies-ballyhoo--150682",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hoots & Hellmouth 20th Anniversary Celebration",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-13",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/hoots-hellmouth-20th-anniversary-celebration-154992",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Home for the Holidays ft. Tom Hamilton & Special Guests",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/home-for-the-holidays-ft-tom-hamilton-special-guests-160472",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The String Queens",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-string-queens-137115",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Dogs In A Pile with opening Jazz Set by Cats In A Stack and ft The Ocean Avenue Stompers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-19",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/dogs-in-a-pile-with-opening-jazz-set-by-cats-in-a-stack-and-ft-the-ocean-avenue-stompers-166196",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Dogs In A Pile",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-19",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/dogs-in-a-pile-153552",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Dogs In A Pile with opening Acoustic set by \"Murray's Law\" and ft special guest Steve Kimock",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/dogs-in-a-pile-with-opening-acoustic-set-by-murray-s-law-and-ft-special-guest-steve-kimock-166205",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Start Making Sense",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/start-making-sense-talking-heads-tribute-156314",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-grateful-dead-tribute-138549",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Alex & The Kaleidoscope",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-31",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/alex-the-kaleidoscope-163428",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Low Cut Connie",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2025-12-31",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/low-cut-connie-151802",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Countdown to Ecstasy",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-09",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/countdown-to-ecstasy-steely-dan-tribute-minute-by-minute-michael-mcdonald-doobie-brothers-tribute-156309",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Unforgettable Fire",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-10",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/unforgettable-fire-u2-tribute-138567",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tell Me Lies",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/tell-me-lies-fleetwood-mac-tribute-138570",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Luciano",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/luciano-163207",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Don Was & The Pan-Detroit Ensemble",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/don-was-the-pan-detroit-ensemble-sold-out--154604",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Ledbetters",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-ledbetters-pearl-jam-tribute-band-154228",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Railroad Earth",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-18",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/railroad-earth-162444",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Rush Experience",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-19",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-rush-experience-154726",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Beats Antique",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/beats-antique-159607",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "LaMP",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-23",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/lamp-159659",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Lettuce",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-24",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/lettuce-sold-out--148712",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Badfish",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/badfish-a-tribute-to-sublime-154747",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Taper's Choice",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-01-31",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/taper-s-choice-154608",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-01",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-grateful-dead-tribute-159592",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Dave Matthews Tribute Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-07",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-dave-matthews-tribute-band-138574",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Red NOT Chili Peppers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-13",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/red-not-chili-peppers-a-tribute-to-rhcp-160334",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Legwarmers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-legwarmers-the-ultimate-80s-tribute-band-159597",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "TAUK",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/tauk-156663",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "SZN4",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/szn4-161587",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Say She She",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-19",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/say-she-she-156557",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Drink The Sea",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-20",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/drink-the-sea-156786",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Strumbellas",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-21",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-strumbellas-148553",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Yonder Mountain String Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/yonder-mountain-string-band-156553",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Skeleton Crewe Quintet",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-23",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/skeleton-crewe-quintet-165144",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Nashville Nights Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-nashville-nights-band-the-ultimate-90-s-country-experience-with-arron-chavers-162432",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Everyone Orchestra",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-02-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/everyone-orchestra-conducted-by-matt-butler-166920",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Melvin Seals & JGB",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-02",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/melvin-seals-jgb-159614",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Nathan Evans and The Saint Phnx Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-03",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/nathan-evans-and-the-saint-phnx-band-160219",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "moe.",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-05",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/moe--159836",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Joy Formidable",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-08",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-joy-formidable-160339",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Spafford",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/spafford-166810",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steal Your Peach",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/steal-your-peach-allman-brothers-x-grateful-dead-mashup-160333",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Los Straitjackets",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/los-straitjackets-deke-dickerson-rockin-dance-party-159629",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Travelin' McCourys",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-20",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-travelin-mccourys-171134",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Pink Talking Fish",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-21",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/pink-talking-fish-a-fusion-of-pink-floyd-talking-heads-and-phish-165281",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Infamous Stringdusters",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-21",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-infamous-stringdusters-160319",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Chuck Prophet & His Cumbia Shoes",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-26",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/chuck-prophet-his-cumbia-shoes-160450",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Amish Outlaws",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-amish-outlaws-160349",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Newspaper Taxis",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-newspaper-taxis-the-beatles-tribute-brown-sugar-the-rolling-stones-tribute--169961",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Brown Sugar",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-03-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-newspaper-taxis-the-beatles-tribute-brown-sugar-the-rolling-stones-tribute--169961",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "JOSEPH",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-02",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/joseph-163692",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Moonchild",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-04",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/moonchild-161376",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "phoffman (of Greensky Bluegrass)",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-08",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/phoffman-of-greensky-bluegrass--171035",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jake Xerxes Fussell with Sam Amidon",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-10",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/jake-xerxes-fussell-with-sam-amidon-167821",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Shadowgrass",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/shadowgrass-163139",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Anders Osborne",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/anders-osborne-171533",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-grateful-dead-tribute-167487",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Whitney",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/whitney-157061",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Fantastic Cat",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/fantastic-cat-166943",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Modern Bliss",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-19",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/modern-bliss-172423",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Dogs Play Dead - A Grateful Dead tribute by Dogs In A Pile",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-20",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/dogs-play-dead-a-grateful-dead-tribute-by-dogs-in-a-pile-181587",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Duane Betts & Palmetto Motel",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-24",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/duane-betts-palmetto-motel-163690",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Soulive",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-25",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/soulive-160762",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Stick Men",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-04-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/stick-men-171561",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Dave Alvin & Jimmie Dale Gilmore",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-01",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/dave-alvin-jimmie-dale-gilmore-almost-acoustic-duo-177852",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Big Something",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-02",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/big-something-168389",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Orchard Lounge",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-03",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/orchard-lounge-170157",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Brian Fallon",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-04",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/brian-fallon-172994",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Paul Gilbert",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-06",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/paul-gilbert-171640",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Bill Callahan",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-07",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/bill-callahan-175763",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Cass McCombs + Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-08",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/cass-mccombs-band-168369",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Unlimited Devotion",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-08",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/unlimited-devotion-176278",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Unlimited Devotion '26",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-09",
+   "source_url": "",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Joy Formidable",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-13",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-joy-formidable-160339",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Butchy & Friends",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/butchy-friends-184322",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hezekiah Jones + Mason Porter + Chris Kasper",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-24",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/hezekiah-jones-mason-porter-chris-kasper-171575",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Lady Alma & Vertical Current",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-24",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/lady-alma-vertical-current-neighbors-helping-neighbors-on-the-main-line-fundraiser-178414",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steely Dead",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-29",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/steely-dead-a-sonic-fusion-of-the-grateful-dead-and-steely-dan-168367",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Broken Arrow",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-05-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/broken-arrow-neil-young-tribute-175516",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Reprise",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-06-05",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/reprise-phish-tribute-168490",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Covet",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-06-06",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/covet-170050",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Futurebirds",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-06-09",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/futurebirds-169959",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Robyn Hitchcock",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-06-13",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/robyn-hitchcock-176722",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The County Jawn",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-06-20",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-county-jawn-184406",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Roger Clyne & The Peacemakers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-06-26",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/roger-clyne-the-peacemakers-166918",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Bricklin and Their Philly Heroes",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-06-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/bricklin-and-their-philly-heroes-184419",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Circles Around The Sun",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-06-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/circles-around-the-sun-175714",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Dead, White & Blue ft. Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-07-03",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/dead-white-blue-ft-splintered-sunlight-grateful-dead-tribute-sold-out--197384",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Echoes",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-07-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/echoes-the-american-pink-floyd-tribute-182909",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Grunge-a-palooza",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-07-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/grunge-a-palooza-tributes-to-chris-cornell-pearl-jam-nirvana-183090",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Little Mermen",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-07-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-little-mermen-the-princess-pals-the-ultimate-disney-tribute-band-184667",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Robert Jon & the Wreck",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-07-16",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/robert-jon-the-wreck-175702",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Lotus - Eat the Light 10th Anniversary Show",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-07-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/lotus-eat-the-light-10th-anniversary-show-176073",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "New Potato Caboose",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-07-25",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/new-potato-caboose-190669",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Oliver Hazard",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-07-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/oliver-hazard-188756",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Alice Unchained",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-07-31",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/alice-unchained-30th-anniversary-celebration-of-alice-in-chains-unplugged-170162",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Mitch-A-Palooza",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-08-01",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/mitch-a-palooza-168366",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-08-01",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-grateful-dead-tribute-165287",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Fink",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-08-04",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/fink-169015",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Dumpstaphunk",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/dumpstaphunk-184422",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Matteo Mancuso",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/matteo-mancuso-183756",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Classic Albums Live! ft. Rolling Stones, Black Crowes, & Aerosmith Tributes",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-08-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/classic-albums-live-ft-rolling-stones-black-crowes-aerosmith-tributes-189882",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "She Fest",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-08-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/she-fest-the-ladies-of-she-195329",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Damn the Torpedoes",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-05",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/damn-the-torpedoes-a-tribute-to-tom-petty-the-heartbreakers-175719",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Philly Tribute to the Clash - London Calling",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-06",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/philly-tribute-to-the-clash-london-calling-194978",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "DeVotchKa performs \"Little Miss Sunshine\"",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/devotchka-performs-little-miss-sunshine--169964",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "John Craigie",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-12",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/john-craigie-181743",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jervis Campbell",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/jervis-campbell-189390",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Philly Loves Wilco",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-18",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/philly-loves-wilco-yankee-hotel-foxtrot-25th-anniversary-195015",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Whitney",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-19",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/whitney-157061",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Damien Jurado",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-20",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/damien-jurado-170055",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tophouse",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-20",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/tophouse-175934",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Pokey LaFarge",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/pokey-lafarge-183903",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "David Uosikkinen's In The Pocket",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/david-uosikkinen-s-in-the-pocket-176114",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Fastball",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-29",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/fastball-197894",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tim Williams Band",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-09-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/matchbox-30-yourself-or-someone-like-you-30th-anniversary-performance-by-tim-williams-band-168676",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Ted Leo and the Pharmacists",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-02",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/ted-leo-and-the-pharmacists-197715",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Little Mermen",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-04",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-little-mermen-the-princess-pals-the-ultimate-disney-tribute-band-184667",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "White Denim",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-06",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/white-denim-183400",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Superunknown",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-10",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/superunknown-chris-cornell-tribute-169962",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-grateful-dead-tribute-195012",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jerry's Middle Finger",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/jerry-s-middle-finger-a-tribute-to-jerry-garcia-band-197654",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "BoomBox",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-17",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/boombox-188099",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Brothers Comatose",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-brothers-comatose-191232",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Legwarmers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-24",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-legwarmers-the-ultimate-80s-tribute-band-187552",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Skeleton Crewe Quintet",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-25",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/skeleton-crewe-quintet-165144",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Bogmen",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-bogmen-202325",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steal Your Peach",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-29",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/steal-your-peach-allman-brothers-x-grateful-dead-mashup-197898",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steal Your Peach",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-30",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/steal-your-peach-allman-brothers-x-grateful-dead-mashup-197898",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Built To Spill",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-10-31",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/built-to-spill-194711",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "East Nash Grass",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-02",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/willi-carlisle-east-nash-grass-191240",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hiss Golden Messenger",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-05",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/hiss-golden-messenger-176105",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Donna The Buffalo",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-06",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/donna-the-buffalo-assembly-of-dust-189133",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Assembly of Dust",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-06",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/donna-the-buffalo-assembly-of-dust-189133",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Eggy",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-07",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/eggy-172605",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Ellie's Beat Garden",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-08",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/ellie-s-beat-garden-199904",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "the olllam",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-09",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-olllam-175647",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Daniel Lanois Trio",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/daniel-lanois-trio-200773",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "John Scofield's Electrospective",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-14",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/john-scofield-s-electrospective-sold-out--182651",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "John Scofield's Electrospective (2nd Night Added!)",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-16",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/john-scofield-s-electrospective-2nd-night-added--191084",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "John Scofield's Electrospective",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-16",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/john-scofield-s-electrospective-191084",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Breaks",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-19",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-breaks-eddie-roberts-robert-walter-stanton-moore-191238",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tommy Conwell & the Young Rumblers",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-22",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/tommy-conwell-the-young-rumblers-169960",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight (30th Anniversary Celebration)",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-26",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-30th-anniversary-celebration--170052",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-26",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-grateful-dead-tribute-170052",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Huffamoose",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/huffamoose-hezekiah-jones-203149",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hezekiah Jones",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/huffamoose-hezekiah-jones-203149",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Boat House Row",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-11-29",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/boat-house-row-yacht-rock-experience-190868",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Daniel Donato's Cosmic Country",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-12-04",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/daniel-donato-s-cosmic-country-197478",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Come Together",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-12-11",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/come-together-a-philly-tribute-to-the-beatles-abbey-road-203415",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Disco Biscuits",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-12-15",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/the-disco-biscuits-bisco-sixer-26-210185",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Splintered Sunlight",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-12-27",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/splintered-sunlight-grateful-dead-tribute-203286",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Start Making Sense",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-12-28",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/start-making-sense-talking-heads-tribute-202422",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Melvin Seals & JGB",
+   "venue": "Ardmore Music Hall",
+   "town": "Ardmore",
+   "state": "PA",
+   "date": "2026-12-31",
+   "source_url": "https://www.tixr.com/groups/ardmoremusichall/events/melvin-seals-jgb-195534",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "RAEL",
+   "venue": "Colonial Theatre",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-11-06",
+   "source_url": "https://thecolonialtheatre.com/events/live-music/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Boat House Row",
+   "venue": "Colonial Theatre",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-11-27",
+   "source_url": "https://thecolonialtheatre.com/events/live-music/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Eric Mintel Quartet",
+   "venue": "Colonial Theatre",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-11-28",
+   "source_url": "https://thecolonialtheatre.com/events/live-music/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Start Making Sense",
+   "venue": "Colonial Theatre",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-12-26",
+   "source_url": "https://thecolonialtheatre.com/events/live-music/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tucked In",
+   "venue": "Colonial Theatre",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2025-09-12",
+   "source_url": "https://thecolonialtheatre.com/events/live-music/tucked-in/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Whiskeyhickon Boys",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-10-24",
+   "source_url": "https://www.steelcityphx.com/product/228-productions-presents-the-whiskey-funeral-tacos-show-10-24/HIRG6I6O4LU5JJY4RCDO337V",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Wedding Funeral",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-10-24",
+   "source_url": "https://www.steelcityphx.com/product/228-productions-presents-the-whiskey-funeral-tacos-show-10-24/HIRG6I6O4LU5JJY4RCDO337V",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tacos For Breakfast",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-10-24",
+   "source_url": "https://www.steelcityphx.com/product/228-productions-presents-the-whiskey-funeral-tacos-show-10-24/HIRG6I6O4LU5JJY4RCDO337V",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Mighty Manatees",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-11-28",
+   "source_url": "https://www.steelcityphx.com/product/4th-annual-friendsgiving-with-the-mighty-manatees-11-28/55544B2QI2TI4IH2JI6BXVHQ",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Ambient Opera",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-11-07",
+   "source_url": "https://www.steelcityphx.com/product/ambient-opera-and-pau-d-arco-11-7/MPY5PBT22HRZXKWDCWTVDAXE",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Pau d'Arco",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-11-07",
+   "source_url": "https://www.steelcityphx.com/product/ambient-opera-and-pau-d-arco-11-7/MPY5PBT22HRZXKWDCWTVDAXE",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "BetterDucks",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-10-17",
+   "source_url": "https://www.steelcityphx.com/product/betterducks-with-opener-rodeo-day-10-17/Q4KF64Z4KKXV5BABWL6FYC4D",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Rodeo Day",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-10-17",
+   "source_url": "https://www.steelcityphx.com/product/betterducks-with-opener-rodeo-day-10-17/Q4KF64Z4KKXV5BABWL6FYC4D",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jug Hollow",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-10-30",
+   "source_url": "https://www.steelcityphx.com/product/jug-hollow-with-special-guest-tracy-colletto-10-30/XMPVV35XORYW7XFUWVS66MYG",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Edge Hill Rounders",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-10-10",
+   "source_url": "https://www.steelcityphx.com/product/pfs-mac-presents-the-edge-hill-rounders-and-cubizm-s-album-release-show-10-10/TPNJTPULGREWIRTKPALQ66S6",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "CubiZm",
+   "venue": "Steel City Coffeehouse & Brewery",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-10-10",
+   "source_url": "https://www.steelcityphx.com/product/pfs-mac-presents-the-edge-hill-rounders-and-cubizm-s-album-release-show-10-10/TPNJTPULGREWIRTKPALQ66S6",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Deep Space 90's",
+   "venue": "Molly Maguire's Irish Restaurant & Pub",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-10-23",
+   "source_url": "https://www.mollymaguiresphoenixville.com/music/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hot Dammit",
+   "venue": "Molly Maguire's Irish Restaurant & Pub",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2025-12-05",
+   "source_url": "https://web.archive.org/web/20251205112831/https://www.mollymaguiresphoenixville.com/music/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Leading Zero",
+   "venue": "Molly Maguire's Irish Restaurant & Pub",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2025-12-06",
+   "source_url": "https://web.archive.org/web/20251205112831/https://www.mollymaguiresphoenixville.com/music/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Lunar Ballooners",
+   "venue": "Molly Maguire's Irish Restaurant & Pub",
+   "town": "Phoenixville",
+   "state": "PA",
+   "date": "2026-04-18",
+   "source_url": "https://web.archive.org/web/20260419014955/https://www.mollymaguiresphoenixville.com/music/",
+   "source_type": "archive"
+  },
+  {
+   "band": "High Tide",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-06-06",
+   "source_url": "https://web.archive.org/web/20250602043255/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-06-11",
+   "source_url": "https://web.archive.org/web/20250602043255/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "High Life",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-06-20",
+   "source_url": "https://web.archive.org/web/20250602043255/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Pure Petty",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-06-21",
+   "source_url": "https://web.archive.org/web/20250602043255/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Moderate Rock",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-07-11",
+   "source_url": "https://web.archive.org/web/20250602043255/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Radiant Sons",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-07-25",
+   "source_url": "https://web.archive.org/web/20250602043255/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Caya Sol Reggae Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-08-01",
+   "source_url": "https://web.archive.org/web/20250602043255/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Throdl",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-08-16",
+   "source_url": "https://web.archive.org/web/20250602043255/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Uptown Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-10-24",
+   "source_url": "https://web.archive.org/web/20250602043255/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Bloom & Decay",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-11-07",
+   "source_url": "https://web.archive.org/web/20251107175934/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-11-12",
+   "source_url": "https://web.archive.org/web/20251016033825/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-12-17",
+   "source_url": "https://web.archive.org/web/20251016033825/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Bunchafunk",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-12-12",
+   "source_url": "https://web.archive.org/web/20251107175934/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2025-10-08",
+   "source_url": "https://www.jazznearyou.com/bethlehem/events/the-last-big-band-at-rivet-canteen-and-assembly-on-october-8",
+   "source_type": "aggregator"
+  },
+  {
+   "band": "The Radiant Sons",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-03-14",
+   "source_url": "https://web.archive.org/web/20260314101000/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Hammersheep",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-03-28",
+   "source_url": "https://web.archive.org/web/20260314101000/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Ultimate Live eviL",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-03-28",
+   "source_url": "https://web.archive.org/web/20260314101000/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-04-08",
+   "source_url": "https://web.archive.org/web/20260314101000/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Bloom & Decay",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-04-11",
+   "source_url": "https://web.archive.org/web/20260314101000/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "Psycho '78",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-04-24",
+   "source_url": "https://web.archive.org/web/20260314101000/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Gentleman Ghosts",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-04-24",
+   "source_url": "https://web.archive.org/web/20260314101000/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-05-06",
+   "source_url": "https://web.archive.org/web/20260314101000/https://www.visitrivet.com/events/",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-05-13",
+   "source_url": "https://www.jazznearyou.com/world/events/the-last-big-band-at-rivet-canteen-and-assembly-on-may-13",
+   "source_type": "aggregator"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-06-10",
+   "source_url": "https://www.jazznearyou.com/world/events/the-last-big-band-at-rivet-canteen-and-assembly-on-june-10",
+   "source_type": "aggregator"
+  },
+  {
+   "band": "Knitebitch",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-11-06",
+   "source_url": "https://www.visitrivet.com/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-11-11",
+   "source_url": "https://www.visitrivet.com/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Radiant Sons",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-11-20",
+   "source_url": "https://www.visitrivet.com/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Denim and Leather",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-11-28",
+   "source_url": "https://www.visitrivet.com/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hammersheep",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-11-28",
+   "source_url": "https://www.visitrivet.com/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Last Big Band",
+   "venue": "Rivet Canteen & Assembly",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-12-09",
+   "source_url": "https://www.visitrivet.com/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Emil Schanta Band",
+   "venue": "Sly Fox Brewing (Pottstown)",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-05-03",
+   "source_url": "https://www.phillyvoice.com/sly-fox-bock-fest-goat-race-pottstown-may-3-2026/",
+   "source_type": "press"
+  },
+  {
+   "band": "Erich Cawalla & The Uptown Band",
+   "venue": "Sunnybrook Ballroom",
+   "town": "Pottstown",
+   "state": "PA",
+   "date": "2026-12-31",
+   "source_url": "https://allevents.in/pottstown/music",
+   "source_type": "aggregator"
+  },
+  {
+   "band": "Montoj",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2025-07-11",
+   "source_url": "https://web.archive.org/web/20260117042129/https://thestraydogtavern.com/events",
+   "source_type": "archive"
+  },
+  {
+   "band": "Romeo Delight",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2025-07-12",
+   "source_url": "https://web.archive.org/web/20260117042129/https://thestraydogtavern.com/events",
+   "source_type": "archive"
+  },
+  {
+   "band": "Hot Sauce Junkies",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2025-07-18",
+   "source_url": "https://web.archive.org/web/20260117042129/https://thestraydogtavern.com/events",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Ledbetters",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2025-07-19",
+   "source_url": "https://web.archive.org/web/20260117042129/https://thestraydogtavern.com/events",
+   "source_type": "archive"
+  },
+  {
+   "band": "The Ledbetters",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2026-10-03",
+   "source_url": "https://www.eventbrite.ca/d/pa--telford/all-events/",
+   "source_type": "aggregator"
+  },
+  {
+   "band": "Montoj",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2026-10-16",
+   "source_url": "https://thestraydogtavern.com/events",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "SideArm",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2026-10-23",
+   "source_url": "https://thestraydogtavern.com/events",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Devlin",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2026-10-24",
+   "source_url": "https://thestraydogtavern.com/events",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Night of the Rockin' Dead",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2026-10-30",
+   "source_url": "https://thestraydogtavern.com/events",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Keystone Breakers",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2026-11-05",
+   "source_url": "https://thekeystonebreakers.com/",
+   "source_type": "press"
+  },
+  {
+   "band": "The Keystone Breakers",
+   "venue": "Stray Dog Tavern",
+   "town": "Skippack",
+   "state": "PA",
+   "date": "2026-12-03",
+   "source_url": "https://thekeystonebreakers.com/",
+   "source_type": "press"
+  },
+  {
+   "band": "The Dishonest Fiddlers",
+   "venue": "Soul Brothers Meats",
+   "town": "North Wales",
+   "state": "PA",
+   "date": "2026-04-25",
+   "source_url": "https://www.thedishonestfiddlers.com/",
+   "source_type": "press"
+  },
+  {
+   "band": "The Left Edge",
+   "venue": "Lower Frederick Summer Concert Series (Cuddy Park)",
+   "town": "Lower Frederick",
+   "state": "PA",
+   "date": "2025-07-02",
+   "source_url": "https://lowerfrederick.org/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Smooth Riders",
+   "venue": "Lower Frederick Summer Concert Series (Cuddy Park)",
+   "town": "Lower Frederick",
+   "state": "PA",
+   "date": "2025-08-07",
+   "source_url": "https://lowerfrederick.org/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Mighty Manatees",
+   "venue": "Lower Frederick Summer Concert Series (Cuddy Park)",
+   "town": "Lower Frederick",
+   "state": "PA",
+   "date": "2025-08-28",
+   "source_url": "https://lowerfrederick.org/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Shabbey Road",
+   "venue": "Lower Frederick Summer Concert Series (Cuddy Park)",
+   "town": "Lower Frederick",
+   "state": "PA",
+   "date": "2026-07-23",
+   "source_url": "https://lowerfrederick.org/events/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Adam Ezra Group",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Big Richard",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Campbell Brothers",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Damn Tall Buildings",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Damn Tall Buildings",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Dirk & Amelia Powell",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Edge Hill Rounders",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Gather Round",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Gathering Time",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Great Groove Band",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Great Groove Band",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Great Groove Band",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "House of Hamill",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "J.D. Malone and The Experts",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "J.D. Webb and The Good God Damn",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jack Murray & The Blue Tarp Wranglers",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jerron Paxton & Dennis Lichtman",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Kate Gaffney & Ben Chandler",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Kicking Down Doors",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Kieran Kane & Rayna Gellert",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Kieran Kane & Rayna Gellert",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Lazy Villains",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Lazy Villains",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-13",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Leftover Salmon",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Mason Porter",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Philadelphia Ceili Group",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "RUNA",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "RUNA",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Roberta Faceplant",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-13",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Terrance Simien & The Zydeco Experience",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Terrance Simien & The Zydeco Experience",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Describers",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Describers",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Levins",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Levins",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Levins",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-14",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The MAKs",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-16",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Tisburys",
+   "venue": "Philadelphia Folk Festival",
+   "town": "Upper Salford",
+   "state": "PA",
+   "date": "2026-08-15",
+   "source_url": "https://folkfest.org/performers/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Mike Guldin and Rollin' & Tumblin'",
+   "venue": "White's Road Park Concert Series",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-06-30",
+   "source_url": "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "SuperNaturals",
+   "venue": "White's Road Park Concert Series",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-07-07",
+   "source_url": "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hindsight",
+   "venue": "White's Road Park Concert Series",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-07-14",
+   "source_url": "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "AM Radio Tribute Band",
+   "venue": "White's Road Park Concert Series",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-08-11",
+   "source_url": "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Cherry Lane Band",
+   "venue": "White's Road Park Concert Series",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-08-18",
+   "source_url": "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Wonton Soups",
+   "venue": "White's Road Park Concert Series",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-08-25",
+   "source_url": "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Mike Greer & Co.",
+   "venue": "White's Road Park Concert Series",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-09-08",
+   "source_url": "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "A Common Thread",
+   "venue": "Lansdale Founders Day",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-08-29",
+   "source_url": "https://www.discoverlansdale.org/founders-day.html",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Mike Greer & Co.",
+   "venue": "Lansdale Beer Tasting Festival",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-09-12",
+   "source_url": "https://www.discoverlansdale.org/beer-tasting-festival.html",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Philadelphia German Brass Band",
+   "venue": "Lansdale First Fridays",
+   "town": "Lansdale",
+   "state": "PA",
+   "date": "2026-10-02",
+   "source_url": "https://www.discoverlansdale.org/first-friday.html",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "AM Radio Tribute Band",
+   "venue": "Montgomery Township Summer Concerts",
+   "town": "Montgomeryville",
+   "state": "PA",
+   "date": "2026-06-17",
+   "source_url": "https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Greaseband",
+   "venue": "Montgomery Township Summer Concerts",
+   "town": "Montgomeryville",
+   "state": "PA",
+   "date": "2026-06-24",
+   "source_url": "https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Mighty Manatees",
+   "venue": "Montgomery Township Summer Concerts",
+   "town": "Montgomeryville",
+   "state": "PA",
+   "date": "2026-07-08",
+   "source_url": "https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Highway Run",
+   "venue": "Montgomery Township Summer Concerts",
+   "town": "Montgomeryville",
+   "state": "PA",
+   "date": "2026-07-15",
+   "source_url": "https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "309 Express",
+   "venue": "Montgomery Township Summer Concerts",
+   "town": "Montgomeryville",
+   "state": "PA",
+   "date": "2026-07-22",
+   "source_url": "https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Mike Greer & Co.",
+   "venue": "Montgomery Township Summer Concerts",
+   "town": "Montgomeryville",
+   "state": "PA",
+   "date": "2026-07-29",
+   "source_url": "https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Vintage Vibes Band",
+   "venue": "Montgomery Township Summer Concerts",
+   "town": "Montgomeryville",
+   "state": "PA",
+   "date": "2026-08-05",
+   "source_url": "https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Grundles",
+   "venue": "Lower Gwynedd Summer Concert Series (Pen Ambler Park)",
+   "town": "Lower Gwynedd",
+   "state": "PA",
+   "date": "2026-05-27",
+   "source_url": "https://lowergwynedd.org/resources/calendar/event-details/?id=8820",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Hindsight",
+   "venue": "Lower Gwynedd Summer Concert Series (Pen Ambler Park)",
+   "town": "Lower Gwynedd",
+   "state": "PA",
+   "date": "2026-06-24",
+   "source_url": "https://lowergwynedd.org/resources/calendar/event-details/?id=8821",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Barefoot Bobby",
+   "venue": "Lower Gwynedd Summer Concert Series (Pen Ambler Park)",
+   "town": "Lower Gwynedd",
+   "state": "PA",
+   "date": "2026-07-22",
+   "source_url": "https://lowergwynedd.org/resources/calendar/event-details/?id=8819",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "West Philly Orchestra",
+   "venue": "Abington Art Center Summer Concert Series",
+   "town": "Jenkintown",
+   "state": "PA",
+   "date": "2026-06-25",
+   "source_url": "https://abingtonartcenter.org/concert-series/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Limit",
+   "venue": "Abington Art Center Summer Concert Series",
+   "town": "Jenkintown",
+   "state": "PA",
+   "date": "2026-07-30",
+   "source_url": "https://abingtonartcenter.org/concert-series/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Yesterday's Gone",
+   "venue": "Abington Art Center Summer Concert Series",
+   "town": "Jenkintown",
+   "state": "PA",
+   "date": "2026-07-30",
+   "source_url": "https://abingtonartcenter.org/concert-series/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steal the Night",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-13",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Verdict Reggae Soca Band",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-13",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Alex Shillo & Badlands",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-13",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Fallon's Religion",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Reddio",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Bare Knuckle Boxers",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Ear Me Now",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Ndichu",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Parkway Soul",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Jessie's Girl",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2025-06-14",
+   "source_url": "https://amblerfest.org/2025-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Steal the Night",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2026-06-19",
+   "source_url": "https://amblerfest.org/2026-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "UC3",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2026-06-19",
+   "source_url": "https://amblerfest.org/2026-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Sensational Soul Cruisers",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2026-06-19",
+   "source_url": "https://amblerfest.org/2026-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Fallon's Religion",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2026-06-20",
+   "source_url": "https://amblerfest.org/2026-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Reservoir Hill",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2026-06-20",
+   "source_url": "https://amblerfest.org/2026-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Main Street Band",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2026-06-20",
+   "source_url": "https://amblerfest.org/2026-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Verdict Reggae Soca Band",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2026-06-20",
+   "source_url": "https://amblerfest.org/2026-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Mike DelGuidice Band",
+   "venue": "Ambler Arts & Music Festival",
+   "town": "Ambler",
+   "state": "PA",
+   "date": "2026-06-20",
+   "source_url": "https://amblerfest.org/2026-music-fest/",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Psychic Wars",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2025-03-29",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Remember Sports",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2025-04-15",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Friends of Jerry",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2025-08-16",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "DeStructos",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2025-08-24",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "My Wife's an Angel",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-01-16",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tucked In",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-01-30",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Stinking Lizaveta",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-09-26",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "My Wife's an Angel",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-10-31",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Slomo Sapiens",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-10-31",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "DeStructos",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-11-18",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Carnivorous Bells",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-11-18",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Mesh",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-11-18",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Roberta Faceplant",
+   "venue": "Johnny Brenda's",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-11-21",
+   "source_url": "https://johnnybrendas.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Full Bush",
+   "venue": "Kung Fu Necktie",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2025-03-13",
+   "source_url": "https://kungfunecktie.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Pretty Jane",
+   "venue": "Kung Fu Necktie",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2025-10-24",
+   "source_url": "https://kungfunecktie.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Remember Sports",
+   "venue": "Kung Fu Necktie",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-02-21",
+   "source_url": "https://kungfunecktie.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "L.M.I.",
+   "venue": "Kung Fu Necktie",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-02-27",
+   "source_url": "https://kungfunecktie.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "My Wife's an Angel",
+   "venue": "Kung Fu Necktie",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-03-06",
+   "source_url": "https://kungfunecktie.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "The Kels",
+   "venue": "Kung Fu Necktie",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-06-17",
+   "source_url": "https://kungfunecktie.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Tokyo Rose",
+   "venue": "Kung Fu Necktie",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-06-20",
+   "source_url": "https://kungfunecktie.com/ (live + Wayback snapshots)",
+   "source_type": "venue_calendar"
+  },
+  {
+   "band": "Surfing For Daisy",
+   "venue": "MilkBoy Philadelphia",
+   "town": "Philadelphia",
+   "state": "PA",
+   "date": "2026-11-23",
+   "source_url": "https://www.tixr.com/groups/milkboy/events/surfing-for-daisy-199207",
+   "source_type": "venue_calendar"
+  }
+ ],
+ "band_info": [
+  {
+   "name": "Splintered Sunlight",
+   "home_base": "Philadelphia, PA",
+   "genre": "Grateful Dead tribute",
+   "description": "Philly-area Dead tribute band going since 1992, led by guitarist Butchy Sochorow; long a staple of Ardmore and Jersey Shore stages.",
+   "links": {
+    "website": "https://www.splinteredsunlight.com",
+    "bandcamp": null,
+    "instagram": "https://www.instagram.com/splinteredsunlight_official",
+    "facebook": "https://www.facebook.com/SplinteredSun",
+    "spotify": null,
+    "youtube": "https://www.youtube.com/@SplinteredSunlight_official"
+   },
+   "image": "https://static.wixstatic.com/media/87f42a_69d7a33b5ce441adaba6fe43c5bc3b08~mv2.jpeg"
+  },
+  {
+   "name": "The Last Big Band",
+   "home_base": "Pottstown, PA",
+   "genre": "Big band jazz",
+   "description": "17-piece jazz orchestra founded in 2002 by trombonist Jim Zoller and trumpeter Roger Morgan. It plays swing-era and newer big-band charts, including originals by its own arrangers, at a monthly residency in downtown Pottstown.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Ledbetters",
+   "home_base": null,
+   "genre": "Pearl Jam tribute",
+   "description": "Pearl Jam tribute band that co-headlines with Superunknown at Musikfest Cafe.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Legwarmers",
+   "home_base": "Washington, DC area",
+   "genre": "1980s tribute",
+   "description": "Costumed '80s cover band that tours East Coast clubs with a full decade-hits show.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Steal Your Peach",
+   "home_base": null,
+   "genre": "Tribute (Allman Brothers / Grateful Dead)",
+   "description": "Mashup tribute blending Allman Brothers and Grateful Dead songs; a recurring Ardmore booking.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Soulive",
+   "home_base": "New York",
+   "genre": "Funk / soul-jazz",
+   "description": "Organ-guitar-drums funk trio; played multi-night runs at Ardmore Music Hall.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Brown Sugar",
+   "home_base": null,
+   "genre": "Rolling Stones tribute",
+   "description": "Rolling Stones tribute that pairs with Beatles tribute The Newspaper Taxis for 'Stones vs. Beatles' nights.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Newspaper Taxis",
+   "home_base": null,
+   "genre": "Beatles tribute",
+   "description": "Beatles tribute band, often billed against Rolling Stones tribute Brown Sugar.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Low Cut Connie",
+   "home_base": "Philadelphia",
+   "genre": "Rock and roll",
+   "description": "Philadelphia piano-driven rock and roll band; hosts 'Connie Club' nights at Ardmore.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Melvin Seals & JGB",
+   "home_base": null,
+   "genre": "Jam / Jerry Garcia Band",
+   "description": "Long-running Jerry Garcia Band lineup led by organist Melvin Seals.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Boat House Row",
+   "home_base": "Philadelphia, PA",
+   "genre": "Yacht rock tribute",
+   "description": "Costumed six-piece of Philly music veterans playing soft-rock hits by Hall & Oates, Steely Dan, Toto and friends.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Start Making Sense",
+   "home_base": null,
+   "genre": "Tribute (Talking Heads)",
+   "description": "Talking Heads tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Mighty Manatees",
+   "home_base": "Philadelphia suburbs",
+   "genre": "Rock / reggae / roots dance band",
+   "description": "Party band mixing rock, reggae, blues, ska and zydeco; plays township park series and an annual Friendsgiving show at Steel City.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Radiant Sons",
+   "home_base": null,
+   "genre": "Classic rock covers",
+   "description": "Cover band playing rock hits from the '60s through the 2000s; a regular at Rivet in Pottstown.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Great Groove Band",
+   "home_base": null,
+   "genre": "Folk / roots",
+   "description": "Ensemble featured across several days of the 2026 Philadelphia Folk Festival.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Levins",
+   "home_base": null,
+   "genre": "Folk duo",
+   "description": "Husband-and-wife folk duo; played three days of the 2026 Philadelphia Folk Festival.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Mike Greer & Co.",
+   "home_base": null,
+   "genre": "Acoustic classic rock",
+   "description": "Classic-rock repertoire delivered with an acoustic, harmony-forward approach; booked at Free Will roughly every quarter.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "My Wife's an Angel",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Band that recurs on J&P bills with Shaper, Debris and Feaster.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Superunknown",
+   "home_base": null,
+   "genre": "Soundgarden / Chris Cornell tribute",
+   "description": "Soundgarden and Chris Cornell tribute band, paired with The Ledbetters.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Unforgettable Fire",
+   "home_base": null,
+   "genre": "U2 tribute",
+   "description": "Touring U2 tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Tell Me Lies",
+   "home_base": null,
+   "genre": "Fleetwood Mac tribute",
+   "description": "Fleetwood Mac celebration act playing Ardmore and the Colonial.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Badfish",
+   "home_base": null,
+   "genre": "Sublime tribute",
+   "description": "Touring tribute to Sublime.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Dave Matthews Tribute Band",
+   "home_base": null,
+   "genre": "Dave Matthews Band tribute",
+   "description": "Touring tribute to Dave Matthews Band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Rush Experience",
+   "home_base": null,
+   "genre": "Rush tribute",
+   "description": "Tribute act recreating Rush concerts.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "TAUK",
+   "home_base": "New York",
+   "genre": "Instrumental rock / jam",
+   "description": "Instrumental progressive jam band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Tophouse",
+   "home_base": null,
+   "genre": "Folk / bluegrass-pop",
+   "description": "Touring string-band-influenced pop group.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Travelin' McCourys",
+   "home_base": "Nashville",
+   "genre": "Bluegrass",
+   "description": "Bluegrass band built around the McCoury family.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Yonder Mountain String Band",
+   "home_base": "Colorado",
+   "genre": "Progressive bluegrass",
+   "description": "Jamgrass string band that tours nationally.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Mason Porter",
+   "home_base": "Philadelphia",
+   "genre": "Americana / folk-rock",
+   "description": "Philly-area Americana band; played Ardmore Music Hall and the Philadelphia Folk Festival.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Red NOT Chili Peppers",
+   "home_base": null,
+   "genre": "Red Hot Chili Peppers tribute",
+   "description": "Touring Red Hot Chili Peppers tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Amish Outlaws",
+   "home_base": "Lancaster, PA",
+   "genre": "Party / cover band",
+   "description": "Lancaster's well-known party band, whose gimmick is former Amish members playing pop and rock hits.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Modern Bliss",
+   "home_base": null,
+   "genre": "Jam",
+   "description": "Jam band with repeat Ardmore Music Hall dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Unlimited Devotion",
+   "home_base": null,
+   "genre": "Grateful Dead tribute",
+   "description": "Grateful Dead tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Pink Talking Fish",
+   "home_base": null,
+   "genre": "Tribute fusion",
+   "description": "Band that fuses Pink Floyd, Talking Heads and Phish material.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Jerry's Middle Finger",
+   "home_base": null,
+   "genre": "Jerry Garcia Band tribute",
+   "description": "Tribute to the Jerry Garcia Band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Hezekiah Jones",
+   "home_base": "Philadelphia, PA",
+   "genre": "Indie folk",
+   "description": "Loose collective of Philly-area musicians built around songwriter Raphael Cutrufello's literate folk songs.",
+   "links": {
+    "website": "http://www.hezekiahjones.com",
+    "bandcamp": "https://hezekiahjones.bandcamp.com",
+    "instagram": null,
+    "facebook": "http://www.facebook.com/pages/Hezekiah-Jones/52539712326",
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://f4.bcbits.com/img/0025404679_10.jpg"
+  },
+  {
+   "name": "Steel Pulse",
+   "home_base": "Birmingham, UK",
+   "genre": "Reggae",
+   "description": "Veteran UK roots-reggae band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Echoes",
+   "home_base": null,
+   "genre": "Pink Floyd tribute",
+   "description": "'The American Pink Floyd' tribute show.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The County Jawn",
+   "home_base": "Philadelphia area",
+   "genre": "Country",
+   "description": "Philly-area country showcase band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Steely Dead",
+   "home_base": null,
+   "genre": "Tribute (Steely Dan / Grateful Dead)",
+   "description": "Band playing the music of Steely Dan and the Grateful Dead.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Robert Jon & the Wreck",
+   "home_base": "California",
+   "genre": "Southern rock",
+   "description": "Touring Southern rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Broken Arrow",
+   "home_base": null,
+   "genre": "Neil Young tribute",
+   "description": "Neil Young tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "David Uosikkinen's In The Pocket",
+   "home_base": "Philadelphia",
+   "genre": "Philly rock tribute",
+   "description": "Project led by the Hooters' drummer playing classic Philadelphia songs with guest singers.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Skeleton Crewe Quintet",
+   "home_base": null,
+   "genre": "Jam",
+   "description": "Quintet booked twice at Ardmore Music Hall in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Joy Formidable",
+   "home_base": "Wales",
+   "genre": "Alternative rock",
+   "description": "Welsh alternative rock trio.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Whitney",
+   "home_base": "Chicago",
+   "genre": "Indie folk-rock",
+   "description": "Chicago indie band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Little Mermen",
+   "home_base": null,
+   "genre": "Disney tribute",
+   "description": "Disney-songs tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "John Scofield's Electrospective",
+   "home_base": null,
+   "genre": "Jazz fusion",
+   "description": "Guitarist John Scofield's electric retrospective band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Tucked In",
+   "home_base": "Phoenixville, PA",
+   "genre": "Indie folk / indie rock",
+   "description": "Three-piece indie folk-rock group (Gunnar Teel, Shae Ferguson, Dan Rodgers) that started as a Brooklyn duo and relocated to the Phoenixville area. Their songs draw on life in suburban Pennsylvania.",
+   "links": {
+    "website": "https://www.tuckedintheband.com/",
+    "bandcamp": null,
+    "instagram": "https://www.instagram.com/tuckedintheband/",
+    "facebook": null,
+    "spotify": "https://open.spotify.com/artist/0ZHvolFmMS5v1paPJb6RVl",
+    "youtube": "https://www.youtube.com/channel/UCEjo6eBOgDehr0FmvzzGx6Q"
+   },
+   "image": "https://static.wixstatic.com/media/7342bd_6738c083ddea474ab1776ef4f15abd8e~mv2.jpg"
+  },
+  {
+   "name": "The Edge Hill Rounders",
+   "home_base": "Philadelphia area",
+   "genre": "Folk / folk-rock",
+   "description": "Acoustic folk band with close harmonies, mandolin and fiddle; three albums with radio play.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Bloom & Decay",
+   "home_base": null,
+   "genre": "Grateful Dead tribute",
+   "description": "Grateful Dead tribute that reworks the songs with a psychedelic edge; recurring at Rivet.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Hammersheep",
+   "home_base": null,
+   "genre": "Hard rock / metal",
+   "description": "Heavy rock band that plays metal double bills at Rivet in Pottstown.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Montoj",
+   "home_base": null,
+   "genre": "Rock",
+   "description": "Band with repeat Friday bookings at the Stray Dog Tavern in Skippack.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Keystone Breakers",
+   "home_base": "Southeastern PA",
+   "genre": "Cosmic country / Southern rock / Americana",
+   "description": "Southeastern PA band (since 2014) mixing 70s country, cosmic country and Southern rock with originals and three-part harmonies.",
+   "links": {
+    "website": "https://thekeystonebreakers.com/",
+    "bandcamp": null,
+    "instagram": "https://instagram.com/thekeystonebreakers",
+    "facebook": "https://www.facebook.com/thekeystonebreakers",
+    "spotify": "https://open.spotify.com/artist/32znKfP5KlFbiAjWc1yhMW",
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Damn Tall Buildings",
+   "home_base": null,
+   "genre": "String band",
+   "description": "Acoustic string band at the 2026 Philadelphia Folk Festival.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Kieran Kane & Rayna Gellert",
+   "home_base": null,
+   "genre": "Old-time / folk duo",
+   "description": "Songwriter and fiddler duo.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Lazy Villains",
+   "home_base": null,
+   "genre": "Folk / roots",
+   "description": "Band that played two days of the 2026 Philadelphia Folk Festival.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "RUNA",
+   "home_base": null,
+   "genre": "Celtic",
+   "description": "Celtic band with Irish and Scottish roots material.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Roberta Faceplant",
+   "home_base": "Philadelphia, PA",
+   "genre": "Country / cowpunk",
+   "description": "Five-piece outlaw Americana outfit led by Katie Feeney, mixing honky-tonk with a punk sneer and plenty of humor.",
+   "links": {
+    "website": "https://www.robertafaceplant.com",
+    "bandcamp": "https://robertafaceplant.bandcamp.com",
+    "instagram": "https://instagram.com/robertafaceplant/",
+    "facebook": "http://www.facebook.com/robertafaceplant",
+    "spotify": "https://open.spotify.com/artist/1LR5n6xYSGMIzjWiT8iwYB",
+    "youtube": "https://www.youtube.com/@robertafaceplant"
+   },
+   "image": "https://f4.bcbits.com/img/0040352008_10.jpg"
+  },
+  {
+   "name": "Terrance Simien & The Zydeco Experience",
+   "home_base": "Louisiana",
+   "genre": "Zydeco",
+   "description": "Grammy-winning zydeco band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "The Describers",
+   "home_base": null,
+   "genre": "Folk / roots",
+   "description": "Band booked on two days of the 2026 Philadelphia Folk Festival.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Hindsight",
+   "home_base": null,
+   "genre": "Classic rock covers",
+   "description": "Cover band on the Montco township park-concert circuit (Lansdale, Lower Gwynedd).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "AM Radio Tribute Band",
+   "home_base": null,
+   "genre": "'60s–'70s pop tribute",
+   "description": "Plays AM-radio hits of the '60s and early '70s at township summer concerts.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Steal the Night",
+   "home_base": "Ambler, PA",
+   "genre": "Hard rock",
+   "description": "Five-piece hard rock band of Ambler natives and Wissahickon grads, formed in 2018 and playing originals.",
+   "links": {
+    "website": "https://sites.google.com/view/steal-the-night/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://amblerfest.org/wp-content/uploads/2025/05/Post-Steal-The-Night.jpg"
+  },
+  {
+   "name": "The Verdict Reggae Soca Band",
+   "home_base": null,
+   "genre": "Reggae / soca",
+   "description": "Reggae and soca band that has headlined the Ambler Arts & Music Festival two years running.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Fallon's Religion",
+   "home_base": null,
+   "genre": "Southern rock / gospel-tinged duo",
+   "description": "Songwriting duo of Dan Bell and Melanie Fallon with bluesy, soulful material.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Remember Sports",
+   "home_base": "Philadelphia, PA",
+   "genre": "Indie rock",
+   "description": "Philadelphia four-piece playing hooky, scrappy indie rock fronted by Catherine Dwyer. Their 2026 album was cut with Steve Albini's old Electrical Audio studio in Chicago.",
+   "links": {
+    "website": "https://www.remembersports.com",
+    "bandcamp": "https://remembersports.bandcamp.com",
+    "instagram": "https://www.instagram.com/remembersportsband/",
+    "facebook": "https://www.facebook.com/remembersportsband/",
+    "spotify": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc",
+    "youtube": "https://www.youtube.com/@remembersports"
+   },
+   "image": "https://f4.bcbits.com/img/0041584237_10.jpg"
+  },
+  {
+   "name": "DeStructos",
+   "home_base": "Philadelphia, PA",
+   "genre": "Synth-punk / new wave",
+   "description": "Philly duo making jittery, sci-fi-flavored new wave punk with B-52's-style weirdness.",
+   "links": {
+    "website": null,
+    "bandcamp": "https://destructos.bandcamp.com",
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://f4.bcbits.com/img/a0061713686_10.jpg"
+  },
+  {
+   "name": "Dan Wilkins Quartet",
+   "home_base": "Philadelphia",
+   "genre": "Jazz",
+   "description": "Saxophonist Dan Wilkins's quartet, a Chris' Jazz Cafe booking.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  },
+  {
+   "name": "Chris Oatts Pretty Big Band",
+   "home_base": "Philadelphia",
+   "genre": "Big band jazz",
+   "description": "Saxophonist Chris Oatts's mid-size jazz ensemble.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null
+  }
+ ],
+ "notes": "Montgomery County PA + Phoenixville + restricted Philadelphia rooms. Many Montco bars/breweries run JS-only (Wix/Square/GoDaddy) calendars or post only to Facebook/Instagram, so lineups came from live pages, Wayback snapshots (Internet Archive was heavily rate-limited; many snapshot fetches failed), township park-series pages and a few band sites. Ardmore Music Hall is a Montco venue but books mostly national/tribute acts; all of its band bookings are recorded. Philadelphia restriction: at Johnny Brenda's, Kung Fu Necktie and MilkBoy only bands that already appear in the shared census data (other areas' crawls + earlier Philly band list) were recorded; at Chris' Jazz Cafe only named local ensembles. Philadelphia Folk Festival 2026 acts recorded on each day tag shown on its performer page; 2025 acts skipped (no per-act dates). Not reached: Poppy's Tavern (no listings; Bandsintown 403), The Royal Glenside (Wix bot check), Valley Forge Casino (JS), Ortlieb's (Eventbrite widget), Round Guys Underground (site parked), Towamencin/North Wales park lineups (not online). Community bands (Montgomery County Concert Band) skipped. Steel City's archived 2025–26 shows (e.g. 92nd Street, Girls From Mars, John Byrne Band, River Drivers, Kid Davis & the Bullets) have month/day slugs but no reliable year, so they were not recorded."
+}

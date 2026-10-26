@@ -1,0 +1,869 @@
+[
+  {
+    "name": "Sweet Pill",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Emo / indie rock",
+    "description": "Six-piece emo band whose big, tumbling guitars and Zayna Youssef's acrobatic vocals have made them one of the city's fastest-rising rock acts.",
+    "links": {
+      "bandcamp": "https://sw33tpill.bandcamp.com",
+      "instagram": "https://instagram.com/sweetpilll"
+    },
+    "image": "https://f4.bcbits.com/img/0041971050_10.jpg",
+    "activity": "Released Still There's a Glow (Mar 13, 2026); headlined Underground Arts at Philly Music Fest, Oct 16, 2026",
+    "evidence_url": "https://xpn.org/jazz-metal-indie-rock-more-in-store-for-philly-music-fest-2026/"
+  },
+  {
+    "name": "Bleary Eyed",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Shoegaze / indie rock",
+    "description": "Fuzzed-out, hazy guitar band working the slacker-shoegaze side of Philly indie.",
+    "links": {
+      "bandcamp": "https://blearyeyed.bandcamp.com",
+      "facebook": "https://www.facebook.com/blearyeyedband/?fref=ts",
+      "instagram": "https://www.instagram.com/blearyeyedband/"
+    },
+    "image": "https://f4.bcbits.com/img/0039360388_10.jpg",
+    "activity": "Released Easy (Jul 25, 2025) and single Wander (Sep 22, 2026); played Philly Music Fest at Underground Arts, Oct 17, 2026",
+    "evidence_url": "https://blearyeyed.bandcamp.com/album/easy"
+  },
+  {
+    "name": "Radiator Hospital",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Power pop / indie rock",
+    "description": "Long-running Philly indie band built around Sam Cook-Parrott's hooky, heart-on-sleeve power-pop songs.",
+    "links": {
+      "bandcamp": "https://radiatorhospital.bandcamp.com",
+      "instagram": "https://www.instagram.com/radiatorhospital"
+    },
+    "image": "https://f4.bcbits.com/img/0045062102_10.jpg",
+    "activity": "Released Distorting Time (Aug 14, 2026)",
+    "evidence_url": "https://radiatorhospital.bandcamp.com/album/distorting-time"
+  },
+  {
+    "name": "Catbite",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Ska / ska-punk",
+    "description": "Ska band formed in 2018 that channels 2 Tone energy into short, catchy songs with a pointed edge; on Bad Time Records.",
+    "links": {
+      "bandcamp": "https://catbite.bandcamp.com",
+      "website": "http://www.catbite.net",
+      "instagram": "http://www.instagram.com/catbiteband",
+      "facebook": "http://www.facebook.com/catbiteband"
+    },
+    "image": "https://f4.bcbits.com/img/0038804574_10.jpg",
+    "activity": "Released Doom Garden EP on Bad Time Records (May 9, 2025)",
+    "evidence_url": "https://catbite.bandcamp.com/album/doom-garden"
+  },
+  {
+    "name": "Low Cut Connie",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Rock and roll",
+    "description": "Adam Weiner's piano-pounding rock and roll band, famous for sweaty, theatrical live shows.",
+    "links": {
+      "bandcamp": "https://lcclitusa.bandcamp.com",
+      "website": "https://lowcutconnie.com/",
+      "facebook": "https://www.facebook.com/lowcutconnie",
+      "instagram": "https://www.instagram.com/lowcutconnie",
+      "youtube": "https://www.youtube.com/lowcutconnie",
+      "spotify": "https://open.spotify.com/artist/4taNHtYxfIWIHu07FBw7ih"
+    },
+    "image": "https://f4.bcbits.com/img/0045931192_10.jpg",
+    "activity": "Released Livin in the USA (Jul 3, 2026)",
+    "evidence_url": "https://lcclitusa.bandcamp.com/album/livin-in-the-usa-explicit"
+  },
+  {
+    "name": "Carly Cosgrove",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Emo / math rock",
+    "description": "Trio of Lucas Naylor, Helen Barsz and Tyler Kramer playing twisty, sing-along emo with a goofy streak.",
+    "links": {
+      "bandcamp": "https://carlycosgrove.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0035874893_10.jpg",
+    "activity": "Released Live from Union Transfer (Mar 6, 2026)",
+    "evidence_url": "https://carlycosgrove.bandcamp.com/album/live-from-union-transfer"
+  },
+  {
+    "name": "Thee Peecock Angels",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Alternative punk",
+    "description": "DIY alternative punk band tied to the Camden County collective Terminal City Records.",
+    "links": {
+      "bandcamp": "https://theepeecockangels.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0012190500_10.jpg",
+    "activity": "Released Valley of the Underdog I (Oct 13, 2026)",
+    "evidence_url": "https://theepeecockangels.bandcamp.com/album/valley-of-the-underdog-i"
+  },
+  {
+    "name": "Quarry",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie rock / Americana",
+    "description": "Formed in 2024, a four-piece mixing 90s indie rock, twangy Americana and heartfelt punk.",
+    "links": {
+      "bandcamp": "https://quarrymusic.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0046676422_10.jpg",
+    "activity": "Released Different Ghosts (Oct 2, 2026)",
+    "evidence_url": "https://quarrymusic.bandcamp.com/album/different-ghosts"
+  },
+  {
+    "name": "The Tisburys",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Rock / heartland indie",
+    "description": "Rock band with a classic heartland streak, releasing on Double Helix and SofaBurn Records.",
+    "links": {
+      "bandcamp": "https://tisburys.bandcamp.com",
+      "facebook": "https://www.facebook.com/tisburyO/",
+      "instagram": "https://www.instagram.com/the_tisburys/",
+      "youtube": "https://www.youtube.com/@the_tisburys"
+    },
+    "image": "https://f4.bcbits.com/img/0047270067_10.jpg",
+    "activity": "New album A Still Life Revisited (Double Helix / SofaBurn), listed on Bandcamp for Oct 30, 2026",
+    "evidence_url": "https://tisburys.bandcamp.com/album/a-still-live-revisited"
+  },
+  {
+    "name": "A Country Western",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie rock / slowcore",
+    "description": "Four-piece (Derek, Garrett, Erik and Paris) playing slow-burning, countrified indie rock.",
+    "links": {
+      "bandcamp": "https://acountrywestern.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0047246866_10.jpg",
+    "activity": "Released Audition Tape (Oct 21, 2026)",
+    "evidence_url": "https://acountrywestern.bandcamp.com/album/audition-tape"
+  },
+  {
+    "name": "Queen of Jeans",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": "South Philly",
+    "genre": "Indie pop / rock",
+    "description": "Trio of Miri, Mattie and Andrew whose name nods to their South Philly roots; dreamy, girl-group-tinged indie rock.",
+    "links": {
+      "bandcamp": "https://queenofjeans.bandcamp.com",
+      "facebook": "https://www.facebook.com/queenofjeansmusic",
+      "instagram": "http://instagram.com/queenofjeans"
+    },
+    "image": "https://f4.bcbits.com/img/0046969249_10.jpg",
+    "activity": "Bandcamp announces new album hard/SWEET (out Oct 9) with tour merch posted Oct 2026",
+    "evidence_url": "https://queenofjeans.bandcamp.com/"
+  },
+  {
+    "name": "Nothing",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Shoegaze / alternative rock",
+    "description": "Heavy, noisy shoegaze band led by Domenic Palermo; one of Philly's best-known exports in the genre.",
+    "links": {
+      "bandcamp": "https://nothing.bandcamp.com",
+      "website": "http://www.bandofNOTHING.com",
+      "instagram": "http://www.instagram.com/bandofnothing",
+      "facebook": "https://www.facebook.com/BANDOFNOTHING"
+    },
+    "image": "https://f4.bcbits.com/img/0041568319_10.jpg",
+    "activity": "Released a short history of decay (Feb 27, 2026)",
+    "evidence_url": "https://nothing.bandcamp.com/album/a-short-history-of-decay"
+  },
+  {
+    "name": "Bardo Pond",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Psychedelic rock / noise",
+    "description": "Veteran psych band whose droning, feedback-heavy jams have been a fixture since the early 90s.",
+    "links": {
+      "bandcamp": "https://bardopondmusic.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0009261581_10.jpg",
+    "activity": "Released Volume 6 (Apr 18, 2026)",
+    "evidence_url": "https://bardopondmusic.bandcamp.com/album/volume-6"
+  },
+  {
+    "name": "Sadurn",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie folk",
+    "description": "Four-piece (G, Jon, Amelia and Tabitha) playing tender, twangy indie folk.",
+    "links": {
+      "bandcamp": "https://sadurn.bandcamp.com",
+      "instagram": "http://www.instagram.com/sadurn___"
+    },
+    "image": "https://f4.bcbits.com/img/0027437458_10.jpg",
+    "activity": "Released The Underworld (Oct 16, 2026)",
+    "evidence_url": "https://sadurn.bandcamp.com/album/the-underworld"
+  },
+  {
+    "name": "Sunfields",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie folk",
+    "description": "Self-described indie folk(s) from Philly writing warm, harmony-led songs.",
+    "links": {
+      "bandcamp": "https://sunfields.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0046088678_10.jpg",
+    "activity": "Released Thank You For Being Here (Aug 14, 2026)",
+    "evidence_url": "https://sunfields.bandcamp.com/album/thank-you-for-being-here-2"
+  },
+  {
+    "name": "Hurry",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Power pop / indie rock",
+    "description": "Matt Scottoline's band, writing sunny, guitar-heavy power pop with a 90s alt-rock crunch.",
+    "links": {
+      "bandcamp": "https://hurrymusic.com"
+    },
+    "image": "https://f4.bcbits.com/img/0044525690_10.jpg",
+    "activity": "Released Zoned Out (Jul 10, 2026)",
+    "evidence_url": "https://hurrymusic.com/album/zoned-out"
+  },
+  {
+    "name": "Honey Radar",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Lo-fi psych pop",
+    "description": "Lo-fi, fractured psych-pop guitar band with a prolific release schedule.",
+    "links": {
+      "bandcamp": "https://honeyradar.com"
+    },
+    "image": "https://f4.bcbits.com/img/0002425384_10.jpg",
+    "activity": "Released Let's Talk About Swimming (Aug 7, 2026)",
+    "evidence_url": "https://honeyradar.com/album/lets-talk-about-swimming"
+  },
+  {
+    "name": "Secret Address",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie rock",
+    "description": "Indie rock band that bills itself as 'a somewhat naive but good-natured confidant'.",
+    "links": {
+      "bandcamp": "https://secretaddress.bandcamp.com",
+      "instagram": "https://www.instagram.com/secretaddressband/"
+    },
+    "image": "https://f4.bcbits.com/img/0044397543_10.jpg",
+    "activity": "Released A Typical Day... (Apr 18, 2026)",
+    "evidence_url": "https://secretaddress.bandcamp.com/album/a-typical-day"
+  },
+  {
+    "name": "Soul Glo",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Hardcore punk / rap",
+    "description": "Explosive hardcore band that fuses screamed punk with rap and electronics; one of the city's most acclaimed heavy acts.",
+    "links": {
+      "bandcamp": "https://soulglophl.bandcamp.com",
+      "facebook": "https://www.facebook.com/soulglophilly"
+    },
+    "image": "https://f4.bcbits.com/img/0047264990_10.jpg",
+    "activity": "New album NA I'M GON GRAB ALLAT up for pre-order on Bandcamp, releasing Jan 15, 2027",
+    "evidence_url": "https://soulglophl.bandcamp.com/album/na-im-gon-grab-allat"
+  },
+  {
+    "name": "Devil Master",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Blackened punk / metal",
+    "description": "Corpse-painted band blending black metal with deathrock and punk, rooted in 'the darkest alleys of old Philadelphia'.",
+    "links": {
+      "bandcamp": "https://devilmaster.bandcamp.com",
+      "facebook": "https://www.facebook.com/devilisyourmaster",
+      "instagram": "https://www.instagram.com/devilisyourmaster/"
+    },
+    "image": "https://f4.bcbits.com/img/0045970883_10.jpg",
+    "activity": "Released third album Bloody Dreams (Sep 4, 2026)",
+    "evidence_url": "https://devilmaster.bandcamp.com/album/bloody-dreams"
+  },
+  {
+    "name": "The HIRS Collective",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Grindcore / hardcore",
+    "description": "Queer and trans grindcore collective making short, furious, politically direct hardcore; on Get Better Records.",
+    "links": {
+      "bandcamp": "https://hirs.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0030284606_10.jpg",
+    "activity": "Released Empty Urn (Sep 11, 2026)",
+    "evidence_url": "https://hirs.bandcamp.com/album/empty-urn"
+  },
+  {
+    "name": "Good Pollution",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Punk",
+    "description": "Tongue-in-cheek punk band that calls itself 'the only live brand in Philadelphia'.",
+    "links": {
+      "bandcamp": "https://goodpollution.bandcamp.com",
+      "instagram": "https://www.instagram.com/good_pollution/"
+    },
+    "image": "https://f4.bcbits.com/img/0046106104_10.jpg",
+    "activity": "Released Gross World (Jul 23, 2026)",
+    "evidence_url": "https://goodpollution.bandcamp.com/album/gross-world"
+  },
+  {
+    "name": "The Dead Milkmen",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Punk / post-punk",
+    "description": "Philly's famous smart-aleck punk band, formed in 1983 and reunited since the late 2000s.",
+    "links": {
+      "bandcamp": "https://thedeadmilkmen1.bandcamp.com",
+      "youtube": "https://www.youtube.com/channel/UCkjW5QhdWDB2zPV3RtZaAUg",
+      "facebook": "https://www.facebook.com/thedeadmilkmen",
+      "instagram": "https://www.instagram.com/deadmilkmenofficial/",
+      "website": "http://deadmilkmen.com/"
+    },
+    "image": "https://f4.bcbits.com/img/0022030791_10.jpg",
+    "activity": "Released single Santa Claus is Coming for Your Eyes / Here for Now (Dec 19, 2025)",
+    "evidence_url": "https://thedeadmilkmen1.bandcamp.com/album/santa-claus-is-coming-for-your-eyes-here-for-now"
+  },
+  {
+    "name": "Los Güeys",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": "South Philly",
+    "genre": "Punk / Latin punk",
+    "description": "Noisy, fearless punk band 'made in South Philly' singing in Spanish.",
+    "links": {
+      "bandcamp": "https://losgueys.bandcamp.com",
+      "spotify": "https://open.spotify.com/artist/2sArS1AnryREJSJcREifzX"
+    },
+    "image": "https://f4.bcbits.com/img/0045779497_10.jpg",
+    "activity": "Released Demo '26 (Jun 27, 2026)",
+    "evidence_url": "https://losgueys.bandcamp.com/album/demo-26"
+  },
+  {
+    "name": "Constanza y el Peso de Existir",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Emo / emocore (Spanish-language)",
+    "description": "Spanish-language 'emocore latino' band working in raw, emotional post-hardcore.",
+    "links": {
+      "bandcamp": "https://constanzayelpesodeexistir.bandcamp.com"
+    },
+    "image": null,
+    "activity": "Released DESPOJO (Oct 10, 2026)",
+    "evidence_url": "https://constanzayelpesodeexistir.bandcamp.com/album/despojo"
+  },
+  {
+    "name": "Caged",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Doom metal",
+    "description": "Self-described 'miserable doom from Philadelphia', slow and crushing.",
+    "links": {
+      "bandcamp": "https://cageddoom.bandcamp.com",
+      "linktree": "http://linktr.ee/Caged",
+      "instagram": "https://www.instagram.com/cageddoom/"
+    },
+    "image": "https://f4.bcbits.com/img/0047616380_10.jpg",
+    "activity": "Opened for The Dillinger Escape Plan at Underground Arts, Philly Music Fest, Oct 15, 2026",
+    "evidence_url": "https://whyy.org/articles/philly-music-fest-2026/"
+  },
+  {
+    "name": "Crypt Sermon",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Epic doom metal",
+    "description": "Epic doom metal band with soaring clean vocals in the Candlemass tradition.",
+    "links": {
+      "bandcamp": "https://cryptsermon.bandcamp.com",
+      "facebook": "http://www.facebook.com/CryptSermon",
+      "instagram": "https://www.instagram.com/cryptsermon/",
+      "linktree": "https://linktr.ee/cryptsermon",
+      "website": "http://www.cryptsermon.com"
+    },
+    "image": "https://f4.bcbits.com/img/0035586532_10.jpg",
+    "activity": "Released Saturnian Appendices (Aug 8, 2025)",
+    "evidence_url": "https://cryptsermon.bandcamp.com/album/saturnian-appendices"
+  },
+  {
+    "name": "Heavy Temple",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Stoner / doom rock",
+    "description": "Fuzz-heavy stoner-doom trio on Magnetic Eye Records.",
+    "links": {
+      "bandcamp": "https://heavytemple.bandcamp.com",
+      "facebook": "https://www.facebook.com/HeavyTemple",
+      "instagram": "https://www.instagram.com/heavytemple"
+    },
+    "image": "https://f4.bcbits.com/img/0047012709_10.jpg",
+    "activity": "Released Live From the Inner Sanctum (Oct 9, 2026); booked for Mojave Experience, Mar 2027",
+    "evidence_url": "https://heavytemple.bandcamp.com/album/live-from-the-inner-sanctum"
+  },
+  {
+    "name": "Crum Creek",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Heavy rock / sludge",
+    "description": "Trio of Will (drums), John (guitar, vocals) and Brandon (bass, tapes) making heavy, murky rock.",
+    "links": {
+      "bandcamp": "https://crumcreek.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0035050563_10.jpg",
+    "activity": "Released Let The Devil Out (Feb 13, 2026)",
+    "evidence_url": "https://crumcreek.bandcamp.com/album/let-the-devil-out"
+  },
+  {
+    "name": "Mosin Nagant",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Punk / crust",
+    "description": "'Tank punk' band straddling NJ and PA, playing heavy, militant punk.",
+    "links": {
+      "bandcamp": "https://mosinnagant.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0038356232_10.jpg",
+    "activity": "Released As If We're Blessed To Be Alive (Jun 25, 2026)",
+    "evidence_url": "https://mosinnagant.bandcamp.com/album/as-if-were-blessed-to-be-alive"
+  },
+  {
+    "name": "Muscle Tough",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Funk / jazz fusion / jam",
+    "description": "Trio playing heavily improvised mixes of modal jazz, funk and psychedelia, known for wild live sets.",
+    "links": {
+      "bandcamp": "https://muscletough.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0023562073_10.jpg",
+    "activity": "Released TOO Tough 2 Tough (Aug 7, 2026); played Ardmore Music Hall with Soulive, Apr 24, 2026",
+    "evidence_url": "https://muscletough.bandcamp.com/album/too-tough-2-tough"
+  },
+  {
+    "name": "Bark Culture",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Jazz (vibraphone trio)",
+    "description": "Vibraphonist Victor Vieira-Branco's trio with John Moran on bass and Joey Sullivan on drums.",
+    "links": {
+      "bandcamp": "https://barkculture.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0047830063_10.jpg",
+    "activity": "Released The Giant is Awkward (Jun 5, 2026)",
+    "evidence_url": "https://barkculture.bandcamp.com/album/the-giant-is-awkward"
+  },
+  {
+    "name": "Phil Giordano Jazz Orchestra",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Big band jazz",
+    "description": "Big band led by Phil Giordano.",
+    "links": {
+      "bandcamp": "https://philgiordanojazzorchestra.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0047985044_10.jpg",
+    "activity": "Released The Music's The Thing (Oct 15, 2026)",
+    "evidence_url": "https://philgiordanojazzorchestra.bandcamp.com/album/the-musics-the-thing"
+  },
+  {
+    "name": "Odyssey Lab",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Jazz / funk / jam",
+    "description": "Saxophonist Mike LaBombard's group mixing jazz, funk and jam-band grooves.",
+    "links": {
+      "bandcamp": "https://odysseylab.bandcamp.com",
+      "instagram": "https://www.instagram.com/odyssey_lab/",
+      "facebook": "https://www.facebook.com/odysseylabmusic"
+    },
+    "image": "https://f4.bcbits.com/img/0023815404_10.jpg",
+    "activity": "Released Live @ Into The Pines (Jul 10, 2026)",
+    "evidence_url": "https://odysseylab.bandcamp.com/album/live-into-the-pines"
+  },
+  {
+    "name": "Channel Collective",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Improvised jazz",
+    "description": "Rotating ensemble led by multi-instrumentalist Jon Thompson and drummer Justin Leigh, recording spontaneous improvised and composed music.",
+    "links": {
+      "bandcamp": "https://channelcollective.bandcamp.com",
+      "instagram": "https://www.instagram.com/channel_collective/"
+    },
+    "image": "https://f4.bcbits.com/img/0031792985_10.jpg",
+    "activity": "Released The Wind Does Not Hear (Mar 30, 2026) and Rain Parade (Mar 21, 2025)",
+    "evidence_url": "https://channelcollective.bandcamp.com/album/the-wind-does-not-hear"
+  },
+  {
+    "name": "Imaginary Lines Quartet",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Free jazz / improvisation",
+    "description": "Freely improvising quartet of Walter Gershon and Jonathan Kay (saxophones), Joe Sorbara (drums) and Brandon Davis (bass).",
+    "links": {
+      "bandcamp": "https://imaginarylinesquartet.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0038691901_10.jpg",
+    "activity": "Released Passport Sessions (Feb 14, 2025)",
+    "evidence_url": "https://imaginarylinesquartet.bandcamp.com/album/passport-sessions"
+  },
+  {
+    "name": "Yolanda Wisher & The Afroeaters",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Jazz / poetry / soul",
+    "description": "Jazz band fronted by former Philadelphia Poet Laureate Yolanda Wisher, setting her poems to blues, soul and jazz.",
+    "links": {
+      "bandcamp": "https://afroeaters.bandcamp.com",
+      "website": "http://yolandawisher.com"
+    },
+    "image": "https://f4.bcbits.com/img/0042926458_10.jpg",
+    "activity": "Released nature gurl (Apr 22, 2026)",
+    "evidence_url": "https://afroeaters.bandcamp.com/album/nature-gurl"
+  },
+  {
+    "name": "Dans La Rue",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Funk / jazz",
+    "description": "Instrumental group playing 'groovy tunes out of Philly'.",
+    "links": {
+      "bandcamp": "https://danslaruemusic.bandcamp.com",
+      "linktree": "https://linktr.ee/danslaruemusic"
+    },
+    "image": "https://f4.bcbits.com/img/0040901901_10.jpg",
+    "activity": "Released PORTOKÁLI (Oct 16, 2025)",
+    "evidence_url": "https://danslaruemusic.bandcamp.com/album/portok-li"
+  },
+  {
+    "name": "Street Beans",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Funk / street jazz",
+    "description": "Band that brings busking-style street music to the stage, aiming to get audiences out of their seats.",
+    "links": {
+      "bandcamp": "https://streetbeans.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0039619316_10.jpg",
+    "activity": "Released DON'T SLEEP (May 25, 2025)",
+    "evidence_url": "https://streetbeans.bandcamp.com/album/dont-sleep"
+  },
+  {
+    "name": "The Magnetones",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Soul / funk / highlife",
+    "description": "Seven-piece instrumental ensemble led by trumpeter John Slavin, blending classic soul, New Orleans funk, West African highlife and psych fusion.",
+    "links": {
+      "bandcamp": "https://themagnetones.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0046379307_10.jpg",
+    "activity": "Self-titled debut album listed on Bandcamp for Nov 6, 2026",
+    "evidence_url": "https://themagnetones.bandcamp.com/album/the-magnetones"
+  },
+  {
+    "name": "The Ultimates",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Soul / vocal group",
+    "description": "Vocal group singing soulful ballads, covers and originals in the classic Philly harmony tradition.",
+    "links": {
+      "bandcamp": "https://theultimates.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0042358199_10.jpg",
+    "activity": "Released I Love You Still (Jan 12, 2026)",
+    "evidence_url": "https://theultimates.bandcamp.com/album/i-love-you-still"
+  },
+  {
+    "name": "Market East",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Soul / R&B",
+    "description": "Band named after the Center City corridor, whose debut album French Street is out now.",
+    "links": {
+      "bandcamp": "https://marketeast.bandcamp.com",
+      "website": "http://www.marketeastmusic.com",
+      "instagram": "http://www.instagram.com/marketeastmusic",
+      "facebook": "http://www.facebook.com/marketeastmusic"
+    },
+    "image": "https://f4.bcbits.com/img/0040557784_10.jpg",
+    "activity": "Released French Street Instrumentals (Oct 6, 2026)",
+    "evidence_url": "https://marketeast.bandcamp.com/album/french-street-instrumentals"
+  },
+  {
+    "name": "Tall Bones",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Soul / psych pop",
+    "description": "Trio of Ryan Balkonis, David Shaw and Nicholas Kearns making 'silky sweet' soul-tinged pop.",
+    "links": {
+      "bandcamp": "https://tallestbones.bandcamp.com",
+      "instagram": "http://instagram.com/thetallbones",
+      "linktree": "http://linktr.ee/tallbones"
+    },
+    "image": "https://f4.bcbits.com/img/0026147618_10.jpg",
+    "activity": "Released Sequin Sunset (May 1, 2026)",
+    "evidence_url": "https://tallestbones.bandcamp.com/album/sequin-sunset"
+  },
+  {
+    "name": "The Real Feel",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Funk rock",
+    "description": "Groove-infused rock band that 'funks your soul from Feeladelphia'.",
+    "links": {
+      "bandcamp": "https://therealfeel.bandcamp.com",
+      "website": "http://www.therealfeelband.com",
+      "facebook": "http://www.facebook.com/realfeelband",
+      "reverbnation": "http://www.reverbnation.com/therealfeel"
+    },
+    "image": "https://f4.bcbits.com/img/0032707449_10.jpg",
+    "activity": "Released SHORT (Dec 2, 2025)",
+    "evidence_url": "https://therealfeel.bandcamp.com/album/short-2"
+  },
+  {
+    "name": "Solar Circuit",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Jamtronica",
+    "description": "Improvising 'jamtronic trance fusion' band in the Disco Biscuits / STS9 lineage.",
+    "links": {
+      "bandcamp": "https://solarcircuit.bandcamp.com",
+      "website": "https://www.solarcircuitmusic.com",
+      "facebook": "https://www.facebook.com/SolarCircuitMusic/"
+    },
+    "image": "https://f4.bcbits.com/img/0025760293_10.jpg",
+    "activity": "Released live set from Johnny Brenda's (Apr 25, 2026); played Philly Music Fest at MilkBoy, Oct 15, 2026",
+    "evidence_url": "https://solarcircuit.bandcamp.com/album/20260425-philadelphia-pa-johnny-brendas"
+  },
+  {
+    "name": "Lotus",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Jamtronica / psychedelic rock",
+    "description": "Long-running instrumental jam band blending psychedelic rock with electronic dance music.",
+    "links": {
+      "bandcamp": "https://lotusvibes.bandcamp.com",
+      "website": "http://lotusvibes.com",
+      "youtube": "https://youtube.com/lotusvibes",
+      "instagram": "https://www.instagram.com/lotusinstagram/"
+    },
+    "image": "https://f4.bcbits.com/img/0033293267_10.jpg",
+    "activity": "Released 1996 Electronic (Sep 11, 2026)",
+    "evidence_url": "https://lotusvibes.bandcamp.com/album/1996-electronic"
+  },
+  {
+    "name": "Jackson Pines",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Folk / Americana",
+    "description": "Acoustic folk act steeped in the Pine Barrens, compared by critics to a mix of country blues and Paul Simon-style folk rock.",
+    "links": {
+      "bandcamp": "https://jacksonpines.bandcamp.com",
+      "website": "http://www.jacksonpines.com/",
+      "instagram": "http://www.instagram.com/jacksonpines/",
+      "facebook": "http://www.facebook.com/jacksonpinesnj/"
+    },
+    "image": "https://f4.bcbits.com/img/0027049157_10.jpg",
+    "activity": "Released Wheel (Feb 6, 2026)",
+    "evidence_url": "https://jacksonpines.bandcamp.com/album/wheel"
+  },
+  {
+    "name": "Midnight on the Water",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "String band / old-time",
+    "description": "Trio of string musicians playing old-time and folk tunes with a playful, post-apocalyptic backstory.",
+    "links": {
+      "bandcamp": "https://midnightonthewater.bandcamp.com",
+      "website": "https://www.midnightonthewater.com/",
+      "instagram": "https://www.instagram.com/midnightonthewater/",
+      "facebook": "https://www.facebook.com/midnightonthewater/"
+    },
+    "image": "https://f4.bcbits.com/img/0040908985_10.jpg",
+    "activity": "Released Stardrops Volume 2 (May 17, 2026)",
+    "evidence_url": "https://midnightonthewater.bandcamp.com/album/stardrops-volume-2"
+  },
+  {
+    "name": "Heartwood Celts",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Irish / Celtic folk",
+    "description": "Irish traditional and Celtic rock band playing sea shanties and folk at pubs, festivals and Renaissance faires.",
+    "links": {
+      "bandcamp": "https://heartwoodcelts.bandcamp.com",
+      "linktree": "http://linktr.ee/heartwoodcelts",
+      "facebook": "http://facebook.com/heartwoodcelts",
+      "instagram": "http://instagram.com/heartwoodcelts"
+    },
+    "image": "https://f4.bcbits.com/img/0043523576_10.jpg",
+    "activity": "Released St. Patrick's Day LIVE at J.A. Heneghan's (Sep 4, 2026)",
+    "evidence_url": "https://heartwoodcelts.bandcamp.com/album/st-patricks-day-live-at-j-a-heneghans"
+  },
+  {
+    "name": "Cowboy Death",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Cowpunk / country",
+    "description": "Country-punk outfit 'riding horses through the streets of Philadelphia since 2024'.",
+    "links": {
+      "bandcamp": "https://deathcowboydeath.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0042931466_10.jpg",
+    "activity": "Released Skeeto West (Feb 27, 2026)",
+    "evidence_url": "https://deathcowboydeath.bandcamp.com/album/skeeto-west"
+  },
+  {
+    "name": "Harold James and the Ramblers",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Country / Americana",
+    "description": "Harold Messinger and James Pollard Jr with Philly and Nashville players, writing classic-leaning country and Americana.",
+    "links": {
+      "bandcamp": "https://haroldjamesandtheramblers.bandcamp.com",
+      "website": "http://haroldjamesmusic.com"
+    },
+    "image": "https://f4.bcbits.com/img/0041763284_10.jpg",
+    "activity": "Released Good Ol' American Dude (May 18, 2026) and Luckless and Lonesome (Jul 4, 2026)",
+    "evidence_url": "https://haroldjamesandtheramblers.bandcamp.com/album/luckless-and-lonesome"
+  },
+  {
+    "name": "The Fine Vintages",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Acoustic / classic rock covers",
+    "description": "Acoustic trio playing harmony-rich originals and classic rock covers from the 60s onward; a working local gigging band.",
+    "links": {
+      "bandcamp": "https://thefinevintages.bandcamp.com",
+      "facebook": "https://www.facebook.com/thefinevintages/",
+      "instagram": "https://www.instagram.com/thefinevintages/"
+    },
+    "image": "https://f4.bcbits.com/img/0048120103_10.jpg",
+    "activity": "Released She Danced (Oct 22, 2026)",
+    "evidence_url": "https://thefinevintages.bandcamp.com/album/she-danced"
+  },
+  {
+    "name": "River Full of Fruit",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Freak folk",
+    "description": "Chinese-American freak-folk ensemble.",
+    "links": {
+      "bandcamp": "https://riverfulloffruit.bandcamp.com",
+      "instagram": "http://instagram.com/riverfulloffruit"
+    },
+    "image": "https://f4.bcbits.com/img/0048193579_10.jpg",
+    "activity": "Released Cathexis (Feb 21, 2026)",
+    "evidence_url": "https://riverfulloffruit.bandcamp.com/album/cathexis"
+  },
+  {
+    "name": "Howe & Al",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Folk / family music",
+    "description": "Duo of two old pals writing songs for children and adults alike.",
+    "links": {
+      "bandcamp": "https://howeandal.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0041113488_10.jpg",
+    "activity": "Released Bug/Stumped (Oct 23, 2026)",
+    "evidence_url": "https://howeandal.bandcamp.com/album/bug-stumped"
+  },
+  {
+    "name": "Mariposas Galácticas",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": "West Philly",
+    "genre": "Cumbia / klezmer punk",
+    "description": "Large cumbia-klezmer-punk band, formed in West Philly, blending Andean Indigenous music with punkified Jewish melodies.",
+    "links": {
+      "bandcamp": "https://mariposasgalacticas.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0041998504_10.jpg",
+    "activity": "Released Asi Se Goza con Las Mariposas (Dec 11, 2025)",
+    "evidence_url": "https://mariposasgalacticas.bandcamp.com/album/asi-se-goza-con-las-mariposas"
+  },
+  {
+    "name": "Kuf Knotz & Christine Elise",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Hip-hop / live instrumentation",
+    "description": "Duo pairing MC Kuf Knotz with harpist, guitarist and singer Christine Elise for live-played, positive hip-hop.",
+    "links": {
+      "bandcamp": "https://kufknotzchristineelise.bandcamp.com",
+      "website": "https://www.kufknotz.com/"
+    },
+    "image": "https://f4.bcbits.com/img/0038506664_10.jpg",
+    "activity": "Released Grow. (Mar 7, 2025)",
+    "evidence_url": "https://kufknotzchristineelise.bandcamp.com/album/grow"
+  },
+  {
+    "name": "Box of Books",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Folk / bluegrass-tinged indie",
+    "description": "Folk band pairing indie-rock songwriting with an old-fashioned bluegrass lilt, full of literary references.",
+    "links": {},
+    "image": null,
+    "activity": "Opened for Pressing Strings at MilkBoy Philly, Aug 21, 2026",
+    "evidence_url": "https://app.ckord.com/performances/034ce938-3cdd-437e-a5fe-221bd6056bb7"
+  }
+]

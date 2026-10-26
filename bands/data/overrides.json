@@ -1,0 +1,35 @@
+{
+ "_about": "Hand corrections applied by tools/build.py. Keys are band names; matching ignores case, punctuation and a leading 'The'.",
+ "drop_bands": {
+  "The Bouncing Souls": "national touring act now",
+  "Thursday": "national touring act now",
+  "Relapsed": "no 2025-26 activity found",
+  "The Wonder Years": "national touring act",
+  "Bryan Hansen Band": "only a solo set found",
+  "Sonic Foundry": "studio project, not a gigging band"
+ },
+ "plays_here_not_based": {
+  "The Last Big Band": "Berks County, Lehigh Valley and West Chester players"
+ },
+ "descriptions": {
+  "The Frost Duo": "Scranton-based jazz duo."
+ },
+ "town_names": {
+  "Upper Bucks County": "Quakertown"
+ },
+ "drop_venues": [],
+ "neighborhood_names": {
+  "West Philadelphia": "West Philly",
+  "Baltimore Ave": "Cedar Park",
+  "South Street": "Queen Village",
+  "South Street West": "Graduate Hospital",
+  "North Broad": "North Philly",
+  "Gayborhood": "Midtown Village"
+ },
+ "public_diy_venues": [
+  "Soupçon Salon Gallery",
+  "First Unitarian Church",
+  "The Union Firehouse",
+  "Mill Hill Basement (Mill Hill Saloon)"
+ ]
+}

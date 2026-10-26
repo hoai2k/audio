@@ -1,0 +1,25 @@
+{
+  "name": "Lambertville",
+  "title": "Lambertville",
+  "title_em": "Local Bands and Venues",
+  "home": "Lambertville",
+  "center": [40.3654, -74.9429],
+  "radius_km": 82,
+  "date_from": "2025-01-01",
+  "date_to": "2026-12-31",
+  "updated": "2026-10-26",
+  "theme": "theme.css",
+  "masthead": "masthead.html",
+  "fonts": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap",
+  "split_town": null,
+  "regions": [
+    {"name": "Hunterdon & the River Towns", "center": [40.47, -74.90], "states": ["NJ"]},
+    {"name": "Bucks County", "center": [40.32, -75.05], "states": ["PA"]},
+    {"name": "Central Jersey", "center": [40.40, -74.55], "states": ["NJ"]},
+    {"name": "Lehigh Valley & Warren", "center": [40.68, -75.30]},
+    {"name": "Philadelphia & Montgomery County", "center": [40.05, -75.22], "states": ["PA"]},
+    {"name": "South Jersey", "center": [39.93, -74.98], "states": ["NJ"]},
+    {"name": "Jersey Shore", "center": [40.22, -74.08], "states": ["NJ"]},
+    {"name": "Morris County", "center": [40.86, -74.50], "states": ["NJ"]}
+  ]
+}

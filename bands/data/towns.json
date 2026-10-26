@@ -1,0 +1,678 @@
+{
+"Abington, PA": [
+40.1207,
+-75.1179
+],
+"Allamuchy, NJ": [
+40.921,
+-74.811
+],
+"Allentown, PA": [
+40.6084,
+-75.4902
+],
+"Ambler, PA": [
+40.1543,
+-75.2216
+],
+"Annandale, NJ": [
+40.6409,
+-74.881
+],
+"Ardmore, PA": [
+40.0068,
+-75.2852
+],
+"Asbury Park, NJ": [
+40.2204,
+-74.0121
+],
+"Barrington, NJ": [
+39.8648,
+-75.0552
+],
+"Basking Ridge, NJ": [
+40.7062,
+-74.5493
+],
+"Bedminster, NJ": [
+40.6807,
+-74.6454
+],
+"Bella Vista, Philadelphia, PA": [
+39.939,
+-75.159
+],
+"Belle Mead, NJ": [
+40.4673,
+-74.6421
+],
+"Belvidere, NJ": [
+40.8298,
+-75.0777
+],
+"Bensalem, PA": [
+40.1046,
+-74.9518
+],
+"Bernardsville, NJ": [
+40.7187,
+-74.5693
+],
+"Bethlehem, PA": [
+40.6259,
+-75.3705
+],
+"Blairstown, NJ": [
+40.9832,
+-74.959
+],
+"Blue Bell, PA": [
+40.1523,
+-75.2663
+],
+"Bordentown, NJ": [
+40.1462,
+-74.7118
+],
+"Bound Brook, NJ": [
+40.5684,
+-74.5385
+],
+"Branchburg, NJ": [
+40.5604,
+-74.7085
+],
+"Brewerytown, Philadelphia, PA": [
+39.979,
+-75.182
+],
+"Bridgewater, NJ": [
+40.6009,
+-74.6482
+],
+"Bristol Township, PA": [
+40.1218,
+-74.8641
+],
+"Bristol, PA": [
+40.1007,
+-74.8518
+],
+"Bryn Mawr, PA": [
+40.0218,
+-75.3163
+],
+"Califon, NJ": [
+40.7193,
+-74.8357
+],
+"Callowhill, Philadelphia, PA": [
+39.9595,
+-75.156
+],
+"Cedar Park, Philadelphia, PA": [
+39.948,
+-75.216
+],
+"Center City, Philadelphia, PA": [
+39.9512,
+-75.165
+],
+"Cherry Hill, NJ": [
+39.9348,
+-75.0307
+],
+"Chestnut Hill, Philadelphia, PA": [
+40.076,
+-75.208
+],
+"Clinton, NJ": [
+40.6368,
+-74.9099
+],
+"Cobbs Creek, Philadelphia, PA": [
+39.948,
+-75.24
+],
+"Collegeville, PA": [
+40.1857,
+-75.4516
+],
+"Collingswood, NJ": [
+39.9182,
+-75.0713
+],
+"Columbia, NJ": [
+40.924,
+-75.096
+],
+"Conshohocken, PA": [
+40.0793,
+-75.3016
+],
+"Dover, NJ": [
+40.884,
+-74.5621
+],
+"Doylestown, PA": [
+40.3101,
+-75.1299
+],
+"East Falls, Philadelphia, PA": [
+40.011,
+-75.189
+],
+"East Kensington, Philadelphia, PA": [
+39.979,
+-75.124
+],
+"East Passyunk, Philadelphia, PA": [
+39.928,
+-75.165
+],
+"Easton, PA": [
+40.6884,
+-75.2207
+],
+"Edison, NJ": [
+40.5187,
+-74.4121
+],
+"Emmaus, PA": [
+40.5395,
+-75.4968
+],
+"Ewing, NJ": [
+40.2698,
+-74.7996
+],
+"Fairmount, Philadelphia, PA": [
+39.967,
+-75.175
+],
+"Falls Township, PA": [
+40.179,
+-74.784
+],
+"Finesville, NJ": [
+40.6015,
+-75.1677
+],
+"Fishtown, Philadelphia, PA": [
+39.974,
+-75.133
+],
+"Flemington, NJ": [
+40.5123,
+-74.8593
+],
+"Fort Washington, PA": [
+40.1418,
+-75.2094
+],
+"Frankford, Philadelphia, PA": [
+40.023,
+-75.085
+],
+"Franklin Township, NJ": [
+40.4936,
+-74.5235
+],
+"Freehold, NJ": [
+40.2601,
+-74.2738
+],
+"Frenchtown, NJ": [
+40.5262,
+-75.0616
+],
+"Germantown, Philadelphia, PA": [
+40.035,
+-75.175
+],
+"Glen Gardner, NJ": [
+40.6968,
+-74.9407
+],
+"Glenside, PA": [
+40.1023,
+-75.1521
+],
+"Graduate Hospital, Philadelphia, PA": [
+39.942,
+-75.178
+],
+"Hackettstown, NJ": [
+40.854,
+-74.8291
+],
+"Haddon Township, NJ": [
+39.9126,
+-75.0627
+],
+"Hamilton, NJ": [
+40.2115,
+-74.6796
+],
+"Hampton, NJ": [
+40.7073,
+-74.956
+],
+"Harleysville, PA": [
+40.2796,
+-75.3871
+],
+"Harmony Township, NJ": [
+40.746,
+-75.129
+],
+"Hatboro, PA": [
+40.1748,
+-75.1068
+],
+"Hatfield, PA": [
+40.2798,
+-75.2991
+],
+"High Bridge, NJ": [
+40.667,
+-74.896
+],
+"Highland Park, NJ": [
+40.4959,
+-74.4243
+],
+"Hightstown, NJ": [
+40.2696,
+-74.5232
+],
+"Hillsborough, NJ": [
+40.4976,
+-74.674
+],
+"Hope, NJ": [
+40.9101,
+-74.9677
+],
+"Hopewell Township, NJ": [
+40.3426,
+-74.7841
+],
+"Hopewell, NJ": [
+40.389,
+-74.7621
+],
+"Horsham, PA": [
+40.1782,
+-75.1285
+],
+"Huntingdon Valley, PA": [
+40.129,
+-75.0499
+],
+"Jenkintown, PA": [
+40.0957,
+-75.1252
+],
+"Kensington, Philadelphia, PA": [
+39.99,
+-75.129
+],
+"King of Prussia, PA": [
+40.0893,
+-75.3963
+],
+"Lahaska, PA": [
+40.3462,
+-75.0313
+],
+"Lake Como, NJ": [
+40.1598,
+-74.0282
+],
+"Lambertville, NJ": [
+40.3654,
+-74.9429
+],
+"Langhorne, PA": [
+40.1745,
+-74.9227
+],
+"Lansdale, PA": [
+40.2415,
+-75.2838
+],
+"Lawrenceville, NJ": [
+40.2968,
+-74.7296
+],
+"Lebanon, NJ": [
+40.6418,
+-74.836
+],
+"Lehigh Valley, PA": [
+40.66,
+-75.42
+],
+"Levittown, PA": [
+40.1551,
+-74.8288
+],
+"Logan Square, Philadelphia, PA": [
+39.958,
+-75.171
+],
+"Long Branch, NJ": [
+40.3043,
+-73.9924
+],
+"Lopatcong Township, NJ": [
+40.706,
+-75.155
+],
+"Manayunk, Philadelphia, PA": [
+40.026,
+-75.224
+],
+"Manville, NJ": [
+40.5409,
+-74.5877
+],
+"Mayfair, Philadelphia, PA": [
+40.035,
+-75.053
+],
+"Metuchen, NJ": [
+40.5432,
+-74.3632
+],
+"Midtown Village, Philadelphia, PA": [
+39.949,
+-75.161
+],
+"Milford, NJ": [
+40.5687,
+-75.0946
+],
+"Montgomery, NJ": [
+40.4262,
+-74.6779
+],
+"Montgomeryville, PA": [
+40.2473,
+-75.2435
+],
+"Moorestown, NJ": [
+39.969,
+-74.9488
+],
+"Morris Plains, NJ": [
+40.8218,
+-74.481
+],
+"Morristown, NJ": [
+40.7968,
+-74.4815
+],
+"Mount Holly, NJ": [
+39.9929,
+-74.7871
+],
+"Mt Airy, Philadelphia, PA": [
+40.058,
+-75.19
+],
+"Nazareth, PA": [
+40.7404,
+-75.3096
+],
+"Neshanic Station, NJ": [
+40.5104,
+-74.731
+],
+"New Brunswick, NJ": [
+40.4862,
+-74.4518
+],
+"New Hope, PA": [
+40.3643,
+-74.9513
+],
+"Newtown, PA": [
+40.2293,
+-74.9368
+],
+"Norristown, PA": [
+40.1215,
+-75.3399
+],
+"North Philly, Philadelphia, PA": [
+39.99,
+-75.155
+],
+"North Plainfield, NJ": [
+40.6301,
+-74.4274
+],
+"North Wales, PA": [
+40.211,
+-75.2782
+],
+"Northeast Philly, Philadelphia, PA": [
+40.05,
+-75.06
+],
+"Northern Liberties, Philadelphia, PA": [
+39.965,
+-75.142
+],
+"Old City, Philadelphia, PA": [
+39.9522,
+-75.144
+],
+"Olde Kensington, Philadelphia, PA": [
+39.972,
+-75.142
+],
+"Pennington, NJ": [
+40.3284,
+-74.7907
+],
+"Pennsport, Philadelphia, PA": [
+39.928,
+-75.148
+],
+"Perkasie, PA": [
+40.372,
+-75.2927
+],
+"Philadelphia, PA": [
+39.9526,
+-75.1652
+],
+"Phillipsburg, NJ": [
+40.6937,
+-75.1902
+],
+"Phoenixville, PA": [
+40.1304,
+-75.5149
+],
+"Pipersville, PA": [
+40.429,
+-75.1052
+],
+"Plymouth Meeting, PA": [
+40.1023,
+-75.2744
+],
+"Point Breeze, Philadelphia, PA": [
+39.933,
+-75.18
+],
+"Poplar, Philadelphia, PA": [
+39.968,
+-75.153
+],
+"Port Richmond, Philadelphia, PA": [
+39.985,
+-75.11
+],
+"Pottstown, PA": [
+40.2454,
+-75.6496
+],
+"Princeton, NJ": [
+40.3573,
+-74.6672
+],
+"Quakertown, PA": [
+40.4418,
+-75.3416
+],
+"Queen Village, Philadelphia, PA": [
+39.938,
+-75.15
+],
+"Raritan, NJ": [
+40.5695,
+-74.6329
+],
+"Readington, NJ": [
+40.5687,
+-74.7377
+],
+"Red Bank, NJ": [
+40.3471,
+-74.0643
+],
+"Ringoes, NJ": [
+40.4276,
+-74.8604
+],
+"Rittenhouse, Philadelphia, PA": [
+39.9496,
+-75.172
+],
+"Rockaway, NJ": [
+40.9012,
+-74.5143
+],
+"Rocky Hill, NJ": [
+40.3998,
+-74.6377
+],
+"Roxborough, Philadelphia, PA": [
+40.035,
+-75.22
+],
+"Royersford, PA": [
+40.1843,
+-75.538
+],
+"Sellersville, PA": [
+40.3537,
+-75.3049
+],
+"Sergeantsville, NJ": [
+40.4459,
+-74.9446
+],
+"Skillman, NJ": [
+40.419,
+-74.7149
+],
+"Skippack, PA": [
+40.2226,
+-75.3988
+],
+"Society Hill, Philadelphia, PA": [
+39.944,
+-75.147
+],
+"Somerset, NJ": [
+40.4976,
+-74.4885
+],
+"Somerville, NJ": [
+40.5743,
+-74.6099
+],
+"Souderton, PA": [
+40.3118,
+-75.3252
+],
+"South Philly, Philadelphia, PA": [
+39.925,
+-75.168
+],
+"Spring Garden, Philadelphia, PA": [
+39.963,
+-75.162
+],
+"Spruce Hill, Philadelphia, PA": [
+39.952,
+-75.208
+],
+"Stockton, NJ": [
+40.4087,
+-74.9785
+],
+"Telford, PA": [
+40.322,
+-75.3279
+],
+"Titusville, NJ": [
+40.3029,
+-74.8724
+],
+"Trenton, NJ": [
+40.2171,
+-74.7429
+],
+"University City, Philadelphia, PA": [
+39.953,
+-75.196
+],
+"Upper Salford, PA": [
+40.291,
+-75.433
+],
+"Washington Crossing, PA": [
+40.2937,
+-74.8735
+],
+"Washington Square West, Philadelphia, PA": [
+39.946,
+-75.16
+],
+"Washington, NJ": [
+40.7584,
+-74.9793
+],
+"West Philly, Philadelphia, PA": [
+39.955,
+-75.22
+],
+"West Windsor, NJ": [
+40.2973,
+-74.6252
+],
+"Whitehouse Station, NJ": [
+40.6151,
+-74.7704
+],
+"Willow Grove, PA": [
+40.144,
+-75.1157
+],
+"Wyncote, PA": [
+40.0937,
+-75.1488
+],
+"Yardley, PA": [
+40.2457,
+-74.846
+]
+}
