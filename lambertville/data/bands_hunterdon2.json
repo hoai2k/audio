@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Creeping Charlie",
+    "town": "Hampton",
+    "state": "NJ",
+    "genre": "Rock / American roots",
+    "description": "Five-piece roots-rock band fronted by singer Jeff Van Newkirk and singer/bassist Elizabeth Manner, known for high-energy live sets mixing rock and Americana.",
+    "links": {
+      "bandcamp": "https://creepingcharlie.bandcamp.com",
+      "facebook": "https://www.facebook.com/creepingcharlieband/"
+    },
+    "image": "https://f4.bcbits.com/img/a3784953567_5.jpg",
+    "activity": "Played the Roy's Garage porch (103 N Union St) at Lambertville Porchfest, Oct 3, 2026 (official porch map).",
+    "evidence_url": "http://www.lambertvilleporchfest.com/map"
+  },
+  {
+    "name": "Pyrenesia",
+    "town": "Lambertville",
+    "state": "NJ",
+    "genre": "Gypsy jazz / klezmer / folk",
+    "description": "Acoustic quartet (violin, accordion, guitar, bass) that blends vintage swing with gypsy jazz, klezmer and tango. Their 2019 debut Off-Beat Symphony got strong notices in NJ press.",
+    "links": {
+      "bandcamp": "https://pyrenesia.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0034265167_23.jpg",
+    "activity": "Released the live album 'Live From The Birdhouse' (recorded in Lambertville) Apr 10, 2026; New Jersey Stage Song of the Week Apr 2026; shows at Lambertville Shad Fest and Godfrey Daniels in spring 2026.",
+    "evidence_url": "https://www.newjerseystage.com/articles2/2026/04/24/makin-waves-song-of-the-week-dance-of-the-waxwing-by-pyrenesia"
+  },
+  {
+    "name": "Necrophiliac Yacht Club",
+    "town": "Lambertville",
+    "state": "NJ",
+    "genre": "Sludge / hardcore punk",
+    "description": "Trio (Spencer Johnson, Kevin Harvey, Jesse Somogyi) that bills its heavy, sludgy hardcore as 'funeral groove'.",
+    "links": {
+      "bandcamp": "https://thenecrophiliacyachtclub.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0039506047_10.jpg",
+    "activity": "Released the single 'Mourning Sun' Apr 23, 2026, ahead of the upcoming EP 'Thank You For Your Loss'. The album 'Spectral Migraines' came out in 2025.",
+    "evidence_url": "https://thenecrophiliacyachtclub.bandcamp.com/track/mourning-sun"
+  },
+  {
+    "name": "West Jersey Airport",
+    "town": "Lambertville",
+    "state": "NJ",
+    "genre": "Noise rock / psychedelic rock",
+    "description": "Four-piece band playing downtuned noise and psych rock. They have played Flemington DIY bills alongside other local underground acts.",
+    "links": {
+      "bandcamp": "https://westjerseyairport.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0039852739_23.jpg",
+    "activity": "Album 'Downtuned Delights' released May 23, 2025 (recorded 2024 in Raritan, NJ); the band's page lists a booking contact.",
+    "evidence_url": "https://westjerseyairport.bandcamp.com/album/downtuned-delights"
+  },
+  {
+    "name": "Clice",
+    "town": "Lambertville",
+    "state": "NJ",
+    "genre": "Shoegaze / punk",
+    "description": "New four-piece (two guitars, bass, drums) playing what they call 'punk fueled shoegaze'.",
+    "links": {
+      "bandcamp": "https://clice.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0046482379_23.jpg",
+    "activity": "Released 'clice demos vol. 1' in Aug 2026, plus a single on Aug 10, 2026.",
+    "evidence_url": "https://clice.bandcamp.com/track/killing-my-memory-demo"
+  },
+  {
+    "name": "Proboscis",
+    "town": "Lambertville",
+    "state": "NJ",
+    "genre": "Shoegaze / metal",
+    "description": "Duo fusing shoegaze and metal, with songs about insects, biology and decay.",
+    "links": {
+      "bandcamp": "https://proboscis-music.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0031324858_23.jpg",
+    "activity": "Released 'Wasps In The Mouths of Shaky Snakes - Demos' on Aug 28, 2025, plus a live sessions release.",
+    "evidence_url": "https://proboscis-music.bandcamp.com/album/wasps-in-the-mouths-of-shaky-snakes-demos"
+  },
+  {
+    "name": "The Pleebs",
+    "town": "Flemington",
+    "state": "NJ",
+    "genre": "Pop punk",
+    "description": "Pop-punk band in Flemington's DIY scene. They have played Flemington DIY and venues as far as Brooklyn.",
+    "links": {
+      "bandcamp": "https://thepleebsnj.bandcamp.com",
+      "instagram": "https://www.instagram.com/thepleebsnj"
+    },
+    "image": "https://f4.bcbits.com/img/a0423886845_5.jpg",
+    "activity": "Played Lucky 13 Saloon in Brooklyn on Mar 21, 2026, and released that set as 'Live from Lucky 13' on Apr 20, 2026. Also on a 2025 Flemington DIY bill (Songkick).",
+    "evidence_url": "https://thepleebsnj.bandcamp.com/album/live-from-lucky-13"
+  },
+  {
+    "name": "A Killer Ostrich",
+    "town": "Flemington",
+    "state": "NJ",
+    "genre": "Grindcore / sludge",
+    "description": "Four-piece playing grind and sludge that they jokingly call 'birdcore', from the heart of NJ.",
+    "links": {
+      "bandcamp": "https://akillerostrich.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0044286907_23.jpg",
+    "activity": "Released the album 'Old Hat' Apr 1, 2026 (members Cleo Becc, Dom Capasso, Robert Gardner, Aidan Elwood).",
+    "evidence_url": "https://akillerostrich.bandcamp.com/album/old-hat"
+  },
+  {
+    "name": "Pizza Steve",
+    "town": "Flemington",
+    "state": "NJ",
+    "genre": "Instrumental noise rock",
+    "description": "Instrumental noise-rock and sludge trio with a sense of humor. Guitarist Robert Gardner also plays bass in A Killer Ostrich.",
+    "links": {
+      "bandcamp": "https://pizzastevenj.bandcamp.com",
+      "facebook": "http://www.facebook.com/pizzastevenj",
+      "instagram": "https://www.instagram.com/pizza.steve420/"
+    },
+    "image": "https://f4.bcbits.com/img/0036414468_23.jpg",
+    "activity": "Debut EP 'Coffee Milk' released Feb 25, 2025.",
+    "evidence_url": "https://pizzastevenj.bandcamp.com/album/coffee-milk"
+  },
+  {
+    "name": "Anachoret",
+    "town": "Clinton",
+    "state": "NJ",
+    "genre": "Heavy psychedelia / doom / krautrock",
+    "description": "Heavy psych band 'born from the forests of New Jersey', drawing on trance-like krautrock and doom.",
+    "links": {
+      "bandcamp": "https://anachoret7.bandcamp.com",
+      "instagram": "http://www.instagram.com/anachoret_official",
+      "facebook": "http://www.facebook.com/anachoret777"
+    },
+    "image": "https://f4.bcbits.com/img/0035794159_23.jpg",
+    "activity": "Released the compilation 'Repatriation of the Nomad' Jan 1, 2026, including a brand-new track that marks the band's new direction.",
+    "evidence_url": "https://anachoret7.bandcamp.com/album/repatriation-of-the-nomad-2"
+  },
+  {
+    "name": "Coward's Justice",
+    "town": "Califon",
+    "state": "NJ",
+    "genre": "Metalcore / hardcore",
+    "description": "Band that bills itself as 'Dirty Jersey metalcore', playing heavy hardcore-leaning metal.",
+    "links": {
+      "bandcamp": "https://cowardsjustice.bandcamp.com",
+      "linktree": "https://linktr.ee/cowardsjustice"
+    },
+    "image": "https://f4.bcbits.com/img/a4210493223_5.jpg",
+    "activity": "Released the 'Reformer EP' Apr 10, 2026.",
+    "evidence_url": "https://cowardsjustice.bandcamp.com/track/bystander"
+  },
+  {
+    "name": "Sonic Foundry",
+    "town": "Hopewell",
+    "state": "NJ",
+    "genre": "Ambient electronic / space rock",
+    "description": "Group project joining the Dorety Brothers (of Dimension Step) with guitarist Karl Fury, blending keyboards, guitar and percussive synthesis into progressive space music.",
+    "links": {
+      "bandcamp": "https://sonicfoundry.bandcamp.com",
+      "youtube": "https://www.youtube.com/user/DoretyBrothersMusic"
+    },
+    "image": "https://f4.bcbits.com/img/0043268891_23.jpg",
+    "activity": "Released the album 'Second Production' May 3, 2026.",
+    "evidence_url": "https://sonicfoundry.bandcamp.com/album/second-production"
+  },
+  {
+    "name": "10PENNY",
+    "town": "Glen Gardner",
+    "state": "NJ",
+    "genre": "Punk / grunge / alt-rock",
+    "description": "Punk and grunge-leaning rock act from Glen Gardner in northern Hunterdon, tied to the local underground 'Punks in the Pool' DIY shows.",
+    "links": {
+      "bandcamp": "https://10pennynj.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0039237284_23.jpg",
+    "activity": "Released the album 'Vendetta' on Jun 1, 2025. An earlier 10penny page has a 'Live on Main' release.",
+    "evidence_url": "https://10pennynj.bandcamp.com/album/vendetta"
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "name": "The Aardvarks",
+    "town": "Allentown (Lehigh Valley)",
+    "state": "PA",
+    "genre": "Rock / party cover band",
+    "description": "Long-running Lehigh Valley party band that has been playing since the early 2000s. Their sets mix classic rock, funk, soul, punk and current dance hits.",
+    "links": {
+      "website": "http://www.theaardvarks.net/",
+      "facebook": "https://www.facebook.com/theaardvarkslehighvalleypa/"
+    },
+    "image": "https://www.artsquest.org/app/uploads/2026/04/MFC_TheAardvarks_1920x1080-1280x720.jpg",
+    "activity": "Played Levitt Pavilion SteelStacks Sept 11, 2026; Musikfest Cafe show Nov 13, 2026",
+    "evidence_url": "https://www.artsquest.org/event/the-aardvarks-11-13-26/"
+  },
+  {
+    "name": "Eighteenth Hour",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Original rock",
+    "description": "Bethlehem rock band that writes its own songs in a vintage rock-and-roll style. They have put out seven albums and three acoustic EPs since forming in 2000.",
+    "links": {},
+    "image": "https://npr.brightspotcdn.com/dims4/default/3baab38/2147483647/strip/true/crop/1080x1080+0+0/resize/254x254!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fd8%2F4d1120604b079b5e33ad5435d515%2F20feb2026-eighteenth-hour-elevator-full-band-7.png",
+    "activity": "25th-anniversary show at Godfrey Daniels, Bethlehem, March 7, 2026; new material planned for 2026",
+    "evidence_url": "https://www.wdiy.org/community-calendar/event/eighteenth-hour-celebrating-25-years-of-original-rock-songwriting-11-03-2026-01-17-42"
+  },
+  {
+    "name": "Smooth Retsina Glow",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Rock (originals and covers)",
+    "description": "Busy Lehigh Valley band formed in 2019. They have six albums of original music and also play cover sets spanning the 1960s to today, at roughly 200 shows a year.",
+    "links": {},
+    "image": "https://pabaconfest.com/wp-content/uploads/2026/07/smoothretsinaglow.png",
+    "activity": "Won a Battle of the Bands in Dec 2025; on the PA Bacon Fest bill in Easton, Nov 7, 2026",
+    "evidence_url": "https://pabaconfest.com/performers/smooth-retsina-glow/"
+  },
+  {
+    "name": "Starting Tomorrow",
+    "town": "Lehigh Valley",
+    "state": "PA",
+    "genre": "Cover band (rock, pop, country, alternative)",
+    "description": "Lehigh Valley party cover band formed in 2016, known for mashups across six decades of hits. They are Musikfest regulars.",
+    "links": {
+      "website": "https://bookstartingtomorrow.com/",
+      "facebook": "https://www.facebook.com/thestartingtomorrowband/",
+      "instagram": "https://www.instagram.com/thestartingtomorrowband/"
+    },
+    "image": "https://images.squarespace-cdn.com/content/v1/66abc0b6f501296ac8db5361/18604d7a-5410-4807-8ead-5a9ed586f570/Starting+Tomorrow+Clips-3-2.png",
+    "activity": "2026 schedule includes Musikfest, Rivals (Easton), Phillipsburg Rib Cook Off and PA Bacon Fest (Nov 8, 2026)",
+    "evidence_url": "https://bookstartingtomorrow.com/"
+  },
+  {
+    "name": "Co. Spirals",
+    "town": "Lehigh Valley",
+    "state": "PA",
+    "genre": "Psychedelic country",
+    "description": "Four-piece formed in 2023 that pairs reverb-heavy psych guitar with outlaw-country twang. Their 2026 album is Deep Dark Canyon of Nothing.",
+    "links": {
+      "website": "https://www.cospirals.com/",
+      "instagram": "https://www.instagram.com/co.spirals/",
+      "facebook": "https://www.facebook.com/p/Co-Spirals-61557021475217/",
+      "bandcamp": "https://cospirals.bandcamp.com/",
+      "spotify": "https://open.spotify.com/artist/1B1wvfM520BNWXSjVLalUh",
+      "youtube": "https://www.youtube.com/channel/UCgzlby0QJ_ZX0qHqX1l2QSg"
+    },
+    "image": "https://static.wixstatic.com/media/a24e40_8e4346d5941d48a7b19568f17a34ad4b~mv2.jpg",
+    "activity": "Released an album in 2026; on the PA Bacon Fest bill in Easton, Nov 7, 2026",
+    "evidence_url": "https://pabaconfest.com/performers/co-spirals/"
+  },
+  {
+    "name": "Willowbrook",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Midwest emo / indie rock",
+    "description": "Bethlehem indie band that mixes emo with energetic indie rock. They came up through house shows and small local venues.",
+    "links": {
+      "instagram": "https://www.instagram.com/willowbrooklive/",
+      "bandcamp": "https://willowbrooklive.bandcamp.com/"
+    },
+    "image": "https://f4.bcbits.com/img/0044398324_10.jpg",
+    "activity": "On the PA Bacon Fest bill in Easton, Nov 8, 2026",
+    "evidence_url": "https://pabaconfest.com/performers/willowbrook/"
+  },
+  {
+    "name": "Higbee",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Indie rock / \"farm emo\"",
+    "description": "Bethlehem band from the Lehigh Valley DIY scene with introspective songs and loud live shows. Their debut EP, It All Falls Apart, came out in 2025.",
+    "links": {
+      "instagram": "https://www.instagram.com/higbeemusic/",
+      "bandcamp": "https://higbee.bandcamp.com/"
+    },
+    "image": "https://pabaconfest.com/wp-content/uploads/2026/07/485178804_1180528466985983_7077652726984210415_n.jpg",
+    "activity": "Debut EP in 2025; on the PA Bacon Fest bill in Easton, Nov 8, 2026",
+    "evidence_url": "https://pabaconfest.com/performers/higbee/"
+  },
+  {
+    "name": "Lunar Pools",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Indie / alternative",
+    "description": "Bethlehem band whose Bandcamp includes the album Subtle Textures and the single Craters.",
+    "links": {
+      "instagram": "https://www.instagram.com/lunarpools_lv/",
+      "bandcamp": "https://lunarpools.bandcamp.com/"
+    },
+    "image": "https://f4.bcbits.com/img/0043191156_10.jpg",
+    "activity": "On the PA Bacon Fest bill in Easton, Nov 7, 2026",
+    "evidence_url": "https://pabaconfest.com/performers/lunar-pools/"
+  },
+  {
+    "name": "Lilly Moss & The Steel Ponies",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Country",
+    "description": "Bethlehem-born country singer, about 21, with a strong voice and a high-energy band. She was named ArtsQuest's Emerging Artist of the Year, and her originals have been featured on Spotify country playlists.",
+    "links": {
+      "website": "https://www.lillymoss.com/",
+      "instagram": "https://www.instagram.com/lillymoss.music/",
+      "tiktok": "https://www.tiktok.com/@lillymoss.music",
+      "youtube": "https://youtube.com/@lillymoss",
+      "linktree": "https://ffm.bio/lillymossmusic"
+    },
+    "image": "https://static.wixstatic.com/media/24332c_3b26b7e498944a8c926c0d394d832743~mv2.jpg",
+    "activity": "Opened for Russell Dickerson at Musikfest 2026; PA Bacon Fest Nov 8, 2026; opening for Darius Rucker at Lafayette College, Nov 20, 2026",
+    "evidence_url": "https://www.lillymoss.com/"
+  },
+  {
+    "name": "Me At The Zoo",
+    "town": "Easton (label base; plays mostly in Bethlehem)",
+    "state": "PA",
+    "genre": "Indie / post-punk / lo-fi",
+    "description": "Four-piece fronted by songwriter Rob I. Miller, on Easton's Vacant Stare Records. Their scrappy indie and post-punk record Vol. 1 was tracked at the Milford Opera House.",
+    "links": {
+      "website": "http://www.meatthezoo.co",
+      "instagram": "https://www.instagram.com/_meatthezoo",
+      "spotify": "https://open.spotify.com/artist/4eMaG24pllI4rcGCXwJ6hJ",
+      "bandcamp": "https://vacantstarerecords.bandcamp.com/album/vol-1"
+    },
+    "image": "https://f4.bcbits.com/img/a2858088693_10.jpg",
+    "activity": "Released Vol. 1 on April 17, 2026; many 2026 shows (National Sokol's in Bethlehem, Funhouse, Frenchtown Riverfest, The Vault in Milford NJ Nov 13)",
+    "evidence_url": "http://www.meatthezoo.co"
+  },
+  {
+    "name": "Leadpetal",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Alt-rock / grunge / riot grrrl",
+    "description": "Lehigh Valley alt-rock band with grunge, punk and metal influences that started as a winner of LVGR's Band Factory program. Their debut album, Glass Teeth, came out in April 2025.",
+    "links": {},
+    "image": "https://thebrownandwhite.com/wp-content/uploads/2026/04/IMG_8017-e1776272868622.jpeg",
+    "activity": "Profiled by Lehigh's Brown and White in April 2026; headlined Soft Machine Gallery in Allentown, July 17, 2026",
+    "evidence_url": "https://thebrownandwhite.com/2026/04/16/leadpetal-lehigh-valley-grunge-riot-grrrl-band/"
+  },
+  {
+    "name": "Billy Bauer Band",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Jam / heartland rock",
+    "description": "A fixture of the Lehigh Valley scene for about two decades. Billy Bauer's original songs pair jam-band grooves with heartland storytelling, and electric violin is a big part of the sound. They also play an occasional Dave Matthews Band tribute.",
+    "links": {
+      "website": "https://www.billybauerband.com/home",
+      "facebook": "https://www.facebook.com/billybauerband",
+      "instagram": "https://www.instagram.com/official.billybauerband/"
+    },
+    "image": "https://www.artsquest.org/app/uploads/2026/03/MFC_BillyBauer_1920x1080-1280x720.jpg",
+    "activity": "Played Musikfest Aug 2025; Musikfest Cafe show Sept 18, 2026",
+    "evidence_url": "https://www.artsquest.org/event/billy-bauer-band-tribute-to-dave-matthews-band/"
+  },
+  {
+    "name": "Hector Rosado y su Orquesta Hache",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Salsa / Latin",
+    "description": "Salsa orchestra led by percussionist Hector Rosado, who grew up on Bethlehem's South Side and has had a long career in Latin music. He also leads a Latin jazz ensemble.",
+    "links": {},
+    "image": "https://www.artsquest.org/app/uploads/2026/04/sabor_Hector-Rosado-1920x1080-1-1280x720.jpg",
+    "activity": "Opened ArtsQuest's Sabor! Latin Festival at Levitt Pavilion SteelStacks, June 26, 2026",
+    "evidence_url": "https://www.artsquest.org/event/hector-rosado-y-su-orq-hache/"
+  },
+  {
+    "name": "Craig Thatcher Band",
+    "town": "Lehigh Valley",
+    "state": "PA",
+    "genre": "Blues / rock",
+    "description": "Band led by veteran Lehigh Valley guitarist and Martin Guitar clinician Craig Thatcher, performing since 1992. They mix blues, rock and funk, and also do Clapton tribute shows.",
+    "links": {
+      "website": "https://www.craigthatcher.com/"
+    },
+    "image": null,
+    "activity": "On the 2026 Levitt Pavilion SteelStacks schedule for Aug 27, 2026 (also played there Aug 2025)",
+    "evidence_url": "https://www.lehighvalleypublicmedia.org/local-news/music-is-power-top-punk-rockabilly-band-favorite-masked-surf-rockers-festivals-tributed-and-more-set-for-levitt-pavilion-lineup"
+  },
+  {
+    "name": "Steel Hemlock",
+    "town": "Lehigh Valley",
+    "state": "PA",
+    "genre": "Alt-country / rock / grunge",
+    "description": "Four-piece fronted by a woman, formed in 2023, that sits between country, rock and grunge. They released the EP Pardon the Mess in 2024 and are writing a first full-length album.",
+    "links": {},
+    "image": "https://www.artsquest.org/app/uploads/2026/05/HMS_SteelHemlock_1920x1080-1280x720.jpg",
+    "activity": "Played ArtsQuest's Memorial Day Celebration, Bethlehem, May 23, 2026",
+    "evidence_url": "https://www.artsquest.org/event/steel-hemlock/"
+  },
+  {
+    "name": "The Swell",
+    "town": "Bethlehem",
+    "state": "PA",
+    "genre": "Rock / blues cover band",
+    "description": "Bethlehem cover band led by brothers Travis and Tanner Brown, started during the pandemic and built up through social media videos. They play classic and modern rock, slide-guitar blues and rock and roll.",
+    "links": {},
+    "image": "https://www.artsquest.org/app/uploads/2026/05/HMS_TheSwell_1920x1080-1280x720.jpg",
+    "activity": "Played ArtsQuest Center's Williams Brew Stage, May 23, 2026",
+    "evidence_url": "https://www.artsquest.org/event/the-swell/"
+  },
+  {
+    "name": "Slingshot Dakota",
+    "town": "Allentown",
+    "state": "PA",
+    "genre": "Indie rock / punk",
+    "description": "Duo of keyboardist-singer Carly Comando and drummer Tom Patterson. Their big, punchy indie rock has a punk edge, and they have long been a Lehigh Valley favorite.",
+    "links": {
+      "website": "http://www.slingshotdakotamusic.com",
+      "bandcamp": "https://slingshotdakota.bandcamp.com/",
+      "facebook": "http://www.facebook.com/slingshotdakota"
+    },
+    "image": "https://f4.bcbits.com/img/0015644823_10.jpg",
+    "activity": "Opened for Low Cut Connie at Union Terrace Amphitheater, Allentown, May 22, 2026",
+    "evidence_url": "https://www.artsquest.org/event/low-cut-connie-with-slingshot-dakota/"
+  },
+  {
+    "name": "Relapsed",
+    "town": "Easton",
+    "state": "PA",
+    "genre": "Melodic death / thrash metal",
+    "description": "Easton metal band that blends melodic death metal, thrash and sludge. They have several albums on Bandcamp.",
+    "links": {
+      "bandcamp": "https://relapsed.bandcamp.com/",
+      "instagram": "https://www.instagram.com/relapsed_band/",
+      "youtube": "https://www.youtube.com/channel/UCvmgHBsK5rKQCF7T1up-rYQ"
+    },
+    "image": "https://f4.bcbits.com/img/0038802114_10.jpg",
+    "activity": "Most recent album, Take Back the Reins, released Nov 8, 2024; no 2025-26 shows confirmed",
+    "evidence_url": "https://relapsed.bandcamp.com/"
+  }
+]

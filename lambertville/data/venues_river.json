@@ -1,0 +1,6025 @@
+{
+ "venues_crawled": [
+  {
+   "venue": "John & Peter's",
+   "town": "New Hope",
+   "state": "PA",
+   "source_url": "https://johnandpeters.com/api/events",
+   "coverage": "JSON feed: Oct 2025 - Dec 2026 (238 events)"
+  },
+  {
+   "venue": "John & Peter's",
+   "town": "New Hope",
+   "state": "PA",
+   "source_url": "https://web.archive.org/web/2025*/https://www.johnandpeters.com/",
+   "coverage": "Wayback homepage snapshots Jan-Sep 2025 (monthly listings; March 2025 mostly missing); Songkick gigography used for a few gaps"
+  },
+  {
+   "venue": "Triumph Brewing Co. New Hope",
+   "town": "New Hope",
+   "state": "PA",
+   "source_url": "https://web.archive.org/web/2025*/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/*",
+   "coverage": "Wayback: Jan, Mar-Jul, Oct 2025 (other months unpublished when archived). Venue closed permanently 2026-03-09."
+  },
+  {
+   "venue": "Havana",
+   "town": "New Hope",
+   "state": "PA",
+   "source_url": "https://www.havananewhope.com/shows",
+   "coverage": "Wayback snapshots + live: Apr 2025 - Dec 2026 (Jan-Mar 2025 snapshots truncated)"
+  },
+  {
+   "venue": "New Hope Winery",
+   "town": "New Hope",
+   "state": "PA",
+   "source_url": "https://newhopewinery.com/events/",
+   "coverage": "Sep-Dec 2025 (Wayback) and Oct 2026 - Jan 2027 (live); mostly national acts and tributes"
+  },
+  {
+   "venue": "Artie's Bar & Grill",
+   "town": "Frenchtown",
+   "state": "NJ",
+   "source_url": "https://www.artiesbarandgrill.com/events-one",
+   "coverage": "Full Squarespace calendar Jan 2025 - Nov 2026 (154 events)"
+  },
+  {
+   "venue": "Hopewell Valley Vineyards",
+   "town": "Pennington",
+   "state": "NJ",
+   "source_url": "https://www.hopewellvalleyvineyards.com/musicevents",
+   "coverage": "Squarespace calendar Apr - Dec 2026 (134 events; 2025 not retained)"
+  },
+  {
+   "venue": "Peddler's Village (incl. Cock 'n Bull / Red Fox Lounge, Nissley Vineyards)",
+   "town": "Lahaska",
+   "state": "PA",
+   "source_url": "https://peddlersvillage.com/wp-json/tribe/events/v1/events",
+   "coverage": "Events API 2025-2026: Tunes at Noon 2025-2026, Red Fox Lounge Aug-Nov 2026, Nissley Sep 2026 - Jan 2027, 2026 festivals"
+  },
+  {
+   "venue": "Flemington DIY",
+   "town": "Flemington",
+   "state": "NJ",
+   "source_url": "https://www.songkick.com/venues/4485013-flemington-diy/gigography",
+   "coverage": "Songkick gigography Feb 2025 - Sep 2026"
+  },
+  {
+   "venue": "Birdhouse Center for the Arts",
+   "town": "Lambertville",
+   "state": "NJ",
+   "source_url": "https://www.birdhousecenter.org/event-pages-sitemap.xml",
+   "coverage": "All concert event pages 2025-2026 (mostly touring folk/trad acts)"
+  },
+  {
+   "venue": "Hopewell Porchfest",
+   "town": "Hopewell",
+   "state": "NJ",
+   "source_url": "https://mercerme.com/hopewell-porchfest-returns/",
+   "coverage": "2025 partial lineup (7 named acts); 2026 lineup not found"
+  },
+  {
+   "venue": "Woolsey Park Concerts in the Park",
+   "town": "Hopewell Township",
+   "state": "NJ",
+   "source_url": "https://planetprinceton.com/event/woolsey-park-concerts-in-the-park/2026-08-19/",
+   "coverage": "2026 series (3 concerts)"
+  }
+ ],
+ "bands": [
+  {
+   "name": "Feaster",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Original rock band and one of the most frequent bill-fillers at John & Peter's, often sharing nights with St. James & the Apostles and My Wife's an Angel.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-03-07",
+     "source_url": "https://www.songkick.com/venues/73450-john-and-peters/gigography"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-18",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-04",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-30",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-27",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-04-17",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-17",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "St. James & the Apostles",
+   "home_base": "Philadelphia, PA",
+   "genre": "psychedelic soul / gospel rock",
+   "description": "Philadelphia band formed as a trio in 2010 that the venue bills as cultist psychedelic family-gospel; organ-driven, now a five-piece.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": "https://www.youtube.com/watch?v=K1T1dado4yc"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-03",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-02-20",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-06-13",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "The Cryptkeeper Five",
+   "home_base": "New Jersey",
+   "genre": "garage / rock and roll",
+   "description": "Long-running New Jersey rock and roll outfit that turns up on J&P's heavier weekend bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-02-20",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-22",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Joy On Fire",
+   "home_base": "Philadelphia, PA",
+   "genre": "jazz-punk / experimental rock",
+   "description": "Sax, bass and drums trio playing loud, weird jazz-rock; a regular on J&P's experimental nights.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": "https://www.youtube.com/@joyonfireband"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-07",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-16",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-05",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-05",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Thieves in Paris",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Rock band that has shared several J&P bills with Joy On Fire.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-07",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-05",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Dream Punch",
+   "home_base": null,
+   "genre": "indie / punk",
+   "description": "Band that has opened twice for Joy On Fire at John & Peter's.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-07",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-05",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Reeder Station",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Rock band with repeat John & Peter's dates in 2025 and 2026, sometimes paired with Hubbell Benson or RW Hellborn.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-01",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-04",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Rainbow Fresh",
+   "home_base": "Montclair, NJ",
+   "genre": "classic-rock-flavoured originals",
+   "description": "Montclair four-piece (Rich Seiner, Chip Moore, Martin and John Purcell) gigging around NY/NJ/PA; a fixture at both John & Peter's and Hopewell Valley Vineyards.",
+   "links": {
+    "website": "https://rainbowfreshmusic.com/home",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-02-01",
+     "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-04",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-06",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-01",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-02-06",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-07-04",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-21",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-02",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-11-13",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-brswh-ab836-yrpmw-fl9fj-rr3fn-z7yfp-a332g-rx9f4-t7zhs-mgcwn-998cg"
+    }
+   ]
+  },
+  {
+   "name": "Sports on the Radio",
+   "home_base": "Asbury Park, NJ",
+   "genre": "emo / indie rock",
+   "description": "Asbury Park band fronted by Chris Cicio, mixing emo, indie rock and garage-tinged alt-rock.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": "https://www.youtube.com/@sportsontheradio"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-11",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-02-21",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "The Swiss Guard",
+   "home_base": "Delaware River valley",
+   "genre": "rock and roll",
+   "description": "Independent rock and roll band from the banks of the Delaware that has been playing J&P since at least 2018.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": "https://www.facebook.com/theSwissGuard",
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-01-18",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-06-20",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "The Extensions",
+   "home_base": "New Jersey",
+   "genre": "angular indie rock",
+   "description": "New Jersey indie rock band with an angular, post-punk edge.",
+   "links": {
+    "website": "https://linktr.ee/theextensions",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-20",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-04-18",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-16",
+     "source_url": "https://www.songkick.com/venues/73450-john-and-peters/gigography"
+    }
+   ]
+  },
+  {
+   "name": "Earthwyrm",
+   "home_base": "New Jersey",
+   "genre": "indie rock",
+   "description": "Band that has headlined and shared multi-band J&P bills with The Extensions.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-28",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-20",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Honey Spot Blvd",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band that calls John & Peter's its natural habitat; returns for no-cover nights.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-17",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-06-06",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-25",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Full Bush",
+   "home_base": null,
+   "genre": "punk / rock",
+   "description": "Rock band on J&P's loud weekend bills in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-29",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-04",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Broad Street Union",
+   "home_base": "Philadelphia area",
+   "genre": "roots / rock",
+   "description": "Band that has supported Porcelain Petals and New Orleans Gator Tales at J&P.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-30",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-15",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Dirty Soap (Blue Band)",
+   "home_base": null,
+   "genre": "rockabilly / blues",
+   "description": "Act billed as Dirty Soap (March 2026, with King Sickabilly) and Dirty Soap Blue Band (October 2026); likely the same group.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-20",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-03",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "The PLIBmen",
+   "home_base": "Philadelphia, PA",
+   "genre": "party / rock ensemble",
+   "description": "Self-described as Philly's premier PLIBeration ensemble; also billed simply as PLIB.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": "https://youtu.be/C-eSEVAU_gQ"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-23",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-06",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-03",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Mike Montrey Band",
+   "home_base": "Bucks County, PA",
+   "genre": "Americana fusion",
+   "description": "Guitarist-songwriter Mike Montrey's band: soaring guitar, harmonies and Americana-fusion originals; also hosts J&P songwriter showcases.",
+   "links": {
+    "website": "https://mikemontreyband.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://img1.wsimg.com/isteam/ip/97565fd3-6169-4017-833f-023e72a122de/S_A7R06152.jpg",
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-12",
+     "source_url": "https://web.archive.org/web/20250121225445/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-05",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-19",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Last Legs",
+   "home_base": null,
+   "genre": "indie / punk",
+   "description": "Band with four J&P dates between July 2025 and March 2026, often topping multi-band bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-19",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-16",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-20",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-21",
+     "source_url": "https://www.songkick.com/venues/73450-john-and-peters/gigography"
+    }
+   ]
+  },
+  {
+   "name": "Separatr",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Band on three J&P indie bills in the first half of 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-18",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-19",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-17",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    }
+   ]
+  },
+  {
+   "name": "We're Ghosts Now",
+   "home_base": null,
+   "genre": "indie / emo",
+   "description": "Band that has played three J&P multi-band shows in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-19",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-19",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-15",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Mischief Night",
+   "home_base": null,
+   "genre": "indie / punk",
+   "description": "Band on J&P bills with Kiersten Blue and Ruby Bones.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-02-15",
+     "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-15",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "My Wife's an Angel",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Band that recurs on J&P bills with Shaper, Debris and Feaster.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-03",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-24",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-17",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Shaper",
+   "home_base": null,
+   "genre": "heavy / noise rock",
+   "description": "Heavy band that has played J&P regularly since 2024.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-03",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-28",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-29",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Debris",
+   "home_base": null,
+   "genre": "punk / noise",
+   "description": "Band on J&P's heavy bills with Shaper and Full Bush.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-24",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-29",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Alpha Rabbit",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Band headlining multi-band J&P nights in 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-25",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-29",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-22",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Fossils From The Future",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Band on two J&P bills in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-02-21",
+     "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-25",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    }
+   ]
+  },
+  {
+   "name": "Loose Panic",
+   "home_base": "NJ / NYC / Philadelphia",
+   "genre": "indie rock",
+   "description": "Indie rock band split across NJ, NYC and Philly; plays J&P and Hopewell Porchfest.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": "https://www.youtube.com/watch?v=WleHKwZPdZ0"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-02-28",
+     "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-02",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "Hopewell Porchfest",
+     "town": "Hopewell",
+     "state": "NJ",
+     "date": "2025-09-13",
+     "source_url": "https://mercerme.com/hopewell-porchfest-returns/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-02-27",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "The Canning Company",
+   "home_base": "Clinton, NJ",
+   "genre": "jam band / Americana",
+   "description": "Clinton, NJ jam band founded in 2023, rooted in Americana and long improvised stretches.",
+   "links": {
+    "website": "https://www.thecanningcompanyband.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-13",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-14",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-01-11",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "The Azures",
+   "home_base": null,
+   "genre": "psychedelic rock",
+   "description": "Psych-rock band inspired by the beats and the psychedelic era, with grunge, delta blues and prog in the mix.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": "https://youtu.be/TnGnJWrFgR4"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-17",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "Flemington DIY",
+     "town": "Flemington",
+     "state": "NJ",
+     "date": "2025-12-14",
+     "source_url": "https://www.songkick.com/venues/4485013-flemington-diy/gigography"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-06-11",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Hollow Howl",
+   "home_base": "New Jersey",
+   "genre": "dark post-punk",
+   "description": "New Jersey band playing dark post-punk with international influences.",
+   "links": {
+    "website": "https://www.hollowhowl.com/",
+    "bandcamp": null,
+    "instagram": "https://www.instagram.com/hollowhowlband/",
+    "facebook": null,
+    "spotify": null,
+    "youtube": "https://www.youtube.com/channel/UCDLD389etAWshlsJ7NpuYhA"
+   },
+   "image": "https://static1.squarespace.com/static/690d4c0a94a6996468cc2adc/t/6a765244f152fe65a72078c6/1786139204278/wendigen+crystals+letterpress+web+header.jpg?format=1500w",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-01-02",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "Flemington DIY",
+     "town": "Flemington",
+     "state": "NJ",
+     "date": "2026-03-27",
+     "source_url": "https://www.songkick.com/venues/4485013-flemington-diy/gigography"
+    }
+   ]
+  },
+  {
+   "name": "We Used To Cut The Grass",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Band that has played both John & Peter's and Flemington DIY.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-12",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "Flemington DIY",
+     "town": "Flemington",
+     "state": "NJ",
+     "date": "2026-08-07",
+     "source_url": "https://www.songkick.com/venues/4485013-flemington-diy/gigography"
+    }
+   ]
+  },
+  {
+   "name": "Ski Team",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Band that shared a J&P bill with Feaster and Those Looks and later played the Birdhouse with No Sailor.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-27",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "Birdhouse Center for the Arts",
+     "town": "Lambertville",
+     "state": "NJ",
+     "date": "2026-06-06",
+     "source_url": "https://www.birdhousecenter.org/events-1/no-sailor-ski-team"
+    }
+   ]
+  },
+  {
+   "name": "Hope Well",
+   "home_base": null,
+   "genre": "feel-good rock",
+   "description": "Rock band of friends (Rhoads, Consoli, Doron, Wijaya) writing hooky songs about daily life.",
+   "links": {
+    "website": "https://www.hopewellband.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-15",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-19",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "DITCH",
+   "home_base": "Point Pleasant, PA",
+   "genre": "country",
+   "description": "Country trio from Point Pleasant, PA (Charlie, Rico and J.Rock) that plays J&P matinees.",
+   "links": {
+    "website": null,
+    "bandcamp": "https://digditch.bandcamp.com/",
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://f4.bcbits.com/img/0036828534_23.jpg",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-24",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-12",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-25",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "T-Bird & Rico (Lounge Night)",
+   "home_base": "New Hope area",
+   "genre": "semi-unplugged covers duo",
+   "description": "Monthly Lounge Night duo of Tony Artur (Brother Eye, Mayflys) and Eric Litts (The Rips, Ditch) playing rock, pop, soul and country standards.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-28",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-02-25",
+     "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-29",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-29",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-24",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-29",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-28",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-20",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-03",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Trifecta",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band with repeat J&P weeknight dates in 2025 and early 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-19",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-31",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-01-03",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Trip Dogs",
+   "home_base": null,
+   "genre": "punk country",
+   "description": "Self-described rip-snorting punk-country, 12-bar band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-05",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-30",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-04-04",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Black Cat Habitat",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band that has played J&P since 2018 and still turns up several times a year.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-25",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-08",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-22",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Old Refuge",
+   "home_base": null,
+   "genre": "folk / Americana",
+   "description": "Act that plays J&P matinees in duo and trio form.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-04",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-02-01",
+     "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-12",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    }
+   ]
+  },
+  {
+   "name": "Righteous Jolly",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band on three J&P bills in 2025, including with St. James & the Apostles and Black Market Opera.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-02-14",
+     "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-03",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-05",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    }
+   ]
+  },
+  {
+   "name": "Bitchfork",
+   "home_base": null,
+   "genre": "punk",
+   "description": "Punk band with two June J&P shows.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-20",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-06-19",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Grand Sedan",
+   "home_base": "central New Jersey",
+   "genre": "indie rock / Madchester groove",
+   "description": "Seven-piece central NJ groove-oriented indie band (started 2024) drawing on shoegaze, Britpop and funk.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-31",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-24",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Fellaheen",
+   "home_base": null,
+   "genre": "roots rock",
+   "description": "Trio (Joe Borthwick, Bruce Hanson, Kerry Watson) reuniting 15 years after their album Death & Frolic.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-20",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-09",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Rich Cahill & The Lonely Lands / Rich Cahill Band",
+   "home_base": null,
+   "genre": "rock / Americana",
+   "description": "Songwriter Rich Cahill's band, billed as The Lonely Lands in 2025 and the Rich Cahill Band in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-25",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-14",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Brian St John Band",
+   "home_base": "Sussex County, NJ",
+   "genre": "roots rock",
+   "description": "Band of Sussex County songwriter-guitarist Brian St. John, a recurring J&P matinee act.",
+   "links": {
+    "website": null,
+    "bandcamp": "https://brianstjohn.bandcamp.com/",
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-01",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-28",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-14",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Bakersfield",
+   "home_base": "Philadelphia area",
+   "genre": "country rock / Bakersfield sound",
+   "description": "Six Philly-area musicians playing tribute to the 1960s-70s California country and country-rock sound.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-01-26",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-cdcac-p55zx-fjxsl-76dbn-emm8e"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-11-30",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-cdcac-p55zx-fjxsl-76dbn-emm8e-43c5k"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-12-28",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-cdcac-p55zx-fjxsl-76dbn-emm8e-43c5k-82rkp"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-01-16",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-03-22",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-cdcac-p55zx-fjxsl-76dbn-emm8e-43c5k-82rkp-cmbr6"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-05-31",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-cdcac-p55zx-fjxsl-76dbn-emm8e-43c5k-82rkp-cmbr6-ek5ys-3ny4x"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-09-13",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-cdcac-p55zx-fjxsl-76dbn-emm8e-43c5k-82rkp-cmbr6-ek5ys-3ny4x-yetwp"
+    }
+   ]
+  },
+  {
+   "name": "New Yacht City",
+   "home_base": null,
+   "genre": "yacht rock",
+   "description": "Yacht-rock band playing John & Peter's matinees and Hopewell Valley Vineyards weekends.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-26",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-25",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-31",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-19",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-d4c34-plmtd-cyx42"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-11-27",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-brswh-ab836-yrpmw-fl9fj-rr3fn-z7yfp-a332g-rx9f4-t7zhs-mgcwn-998cg-les4g-kad2k-b32ls"
+    }
+   ]
+  },
+  {
+   "name": "The Black Market Opera",
+   "home_base": "Philadelphia area",
+   "genre": "post-punk / indie rock",
+   "description": "Philly-area post-punk band fronted by After The Fall's John Madeley.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-05",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-06-26",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Bar Dust",
+   "home_base": "Philadelphia, PA",
+   "genre": "Pogues tribute / Irish punk",
+   "description": "Philadelphia Pogues tribute formed in 2023 with members of The Menzingers, Modern Baseball and Darla; plays around St. Patrick's Day.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": "https://youtu.be/8ZJyRbUnGPc"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-03-17",
+     "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-17",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Jelly Knives",
+   "home_base": null,
+   "genre": "indie / punk",
+   "description": "Band on two 2025 J&P bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-02-20",
+     "source_url": "https://www.songkick.com/venues/73450-john-and-peters/gigography"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-26",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    }
+   ]
+  },
+  {
+   "name": "Applied Knowledge",
+   "home_base": null,
+   "genre": "punk",
+   "description": "Punk band that opened for Dayglo Abortions at J&P.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-02-20",
+     "source_url": "https://www.songkick.com/venues/73450-john-and-peters/gigography"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-07",
+     "source_url": "https://www.songkick.com/venues/73450-john-and-peters/gigography"
+    }
+   ]
+  },
+  {
+   "name": "Psychic Bison",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band on two J&P bills (with Feaster in 2025, Full Bush in 2026).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-18",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-04",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "El Dingo",
+   "home_base": null,
+   "genre": "punk",
+   "description": "Band that opened for The Queers and later played with Feaster at J&P.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-10",
+     "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-04-17",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Stinking Lizaveta",
+   "home_base": "Philadelphia, PA",
+   "genre": "instrumental doom / heavy rock",
+   "description": "Long-running Philadelphia instrumental heavy trio.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-13",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-21",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Above The Moon",
+   "home_base": null,
+   "genre": "indie rock",
+   "description": "Band on J&P multi-band bills in 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-18",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-25",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Dark Surfers",
+   "home_base": null,
+   "genre": "surf / rock",
+   "description": "Band that has opened for Chris Harford and the Rich Cahill Band at J&P.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-10",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-14",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Other Mother Brothers Band",
+   "home_base": null,
+   "genre": "rock / jam",
+   "description": "Band featured at a 2025 Sam Ryan Sessions night and on its own J&P date.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-05",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-03",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dirk Quinn Band",
+   "home_base": "Philadelphia area",
+   "genre": "funk / jazz-rock",
+   "description": "Guitarist Dirk Quinn's instrumental groove band, a Triumph New Hope regular.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-03",
+     "source_url": "https://web.archive.org/web/20250121225445/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-03-14",
+     "source_url": "https://web.archive.org/web/20250321112414/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-22",
+     "source_url": "https://web.archive.org/web/20250524131328/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-06"
+    }
+   ]
+  },
+  {
+   "name": "Jay Sanford Band",
+   "home_base": null,
+   "genre": "rock / covers",
+   "description": "Band with four Triumph New Hope Saturday dates in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-25",
+     "source_url": "https://web.archive.org/web/20250121225445/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-19",
+     "source_url": "https://web.archive.org/web/20250321094442/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-04"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-10",
+     "source_url": "https://web.archive.org/web/20250422170922/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-21",
+     "source_url": "https://web.archive.org/web/20250524131328/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-06"
+    }
+   ]
+  },
+  {
+   "name": "Rachel and Ty",
+   "home_base": null,
+   "genre": "acoustic duo",
+   "description": "Duo playing Sunday afternoons at Triumph New Hope.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-03-02",
+     "source_url": "https://web.archive.org/web/20250321112414/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-13",
+     "source_url": "https://web.archive.org/web/20250321094442/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-04"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-01",
+     "source_url": "https://web.archive.org/web/20250524131328/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-06"
+    }
+   ]
+  },
+  {
+   "name": "Traveling Soleburys",
+   "home_base": "Solebury, PA area",
+   "genre": "rock / covers",
+   "description": "Band named for the Solebury area with repeat Triumph New Hope dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-31",
+     "source_url": "https://web.archive.org/web/20250121225445/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-03-28",
+     "source_url": "https://web.archive.org/web/20250321112414/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    }
+   ]
+  },
+  {
+   "name": "Stringbean and the Boardwalk Social Club",
+   "home_base": null,
+   "genre": "roots / swing",
+   "description": "Band with two Triumph New Hope dates in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-03-21",
+     "source_url": "https://web.archive.org/web/20250321112414/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-08",
+     "source_url": "https://web.archive.org/web/20250524131328/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-06"
+    }
+   ]
+  },
+  {
+   "name": "Robert Lanter Trio",
+   "home_base": null,
+   "genre": "jazz",
+   "description": "Jazz trio with repeat Triumph New Hope dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-04",
+     "source_url": "https://web.archive.org/web/20250321094442/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-04"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-23",
+     "source_url": "https://web.archive.org/web/20250422170922/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    }
+   ]
+  },
+  {
+   "name": "Widely Grown",
+   "home_base": null,
+   "genre": "jam / rock",
+   "description": "Band with two spring 2025 Triumph New Hope dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-25",
+     "source_url": "https://web.archive.org/web/20250321094442/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-04"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-30",
+     "source_url": "https://web.archive.org/web/20250422170922/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    }
+   ]
+  },
+  {
+   "name": "Mosey Beat",
+   "home_base": null,
+   "genre": "rock / groove",
+   "description": "Band with two 2025 Triumph New Hope dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-26",
+     "source_url": "https://web.archive.org/web/20250321094442/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-04"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-12",
+     "source_url": "https://web.archive.org/web/20250612152032/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-07"
+    }
+   ]
+  },
+  {
+   "name": "Atmospheric Trio",
+   "home_base": null,
+   "genre": "jazz",
+   "description": "Trio with two Sunday afternoons at Triumph New Hope.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-04",
+     "source_url": "https://web.archive.org/web/20250422170922/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-06",
+     "source_url": "https://web.archive.org/web/20250612152032/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-07"
+    }
+   ]
+  },
+  {
+   "name": "HighRidge Runners",
+   "home_base": null,
+   "genre": "bluegrass / string band",
+   "description": "String band with two Triumph New Hope dates in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-16",
+     "source_url": "https://web.archive.org/web/20250422170922/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-27",
+     "source_url": "https://web.archive.org/web/20250612152032/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-07"
+    }
+   ]
+  },
+  {
+   "name": "Solomon Dub Band",
+   "home_base": null,
+   "genre": "reggae / dub",
+   "description": "Reggae-dub band with two Triumph New Hope Saturdays.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-17",
+     "source_url": "https://web.archive.org/web/20250422170922/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-18",
+     "source_url": "https://web.archive.org/web/20250915161720/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-10"
+    }
+   ]
+  },
+  {
+   "name": "Abe Ovadia Trio",
+   "home_base": null,
+   "genre": "jazz guitar trio",
+   "description": "Guitarist Abe Ovadia's jazz trio.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-25",
+     "source_url": "https://web.archive.org/web/20250422170922/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-19",
+     "source_url": "https://web.archive.org/web/20250915161720/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-10"
+    }
+   ]
+  },
+  {
+   "name": "Luca and the Leftovers",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band with two 2025 Triumph New Hope Saturdays.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-05",
+     "source_url": "https://web.archive.org/web/20250612152032/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-07"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-25",
+     "source_url": "https://web.archive.org/web/20250915161720/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-10"
+    }
+   ]
+  },
+  {
+   "name": "Drew Blue and the Magoos",
+   "home_base": null,
+   "genre": "blues / rock",
+   "description": "Band with two 2025 Triumph New Hope Saturdays (once billed as Blue Drew and the Magoos).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-24",
+     "source_url": "https://web.archive.org/web/20250121225445/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-07",
+     "source_url": "https://web.archive.org/web/20250524131328/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-06"
+    }
+   ]
+  },
+  {
+   "name": "Bad Hombres",
+   "home_base": null,
+   "genre": "rock / covers",
+   "description": "Band playing Triumph New Hope and Hopewell Valley Vineyards.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-02",
+     "source_url": "https://web.archive.org/web/20250422170922/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-26",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-d4c34-plmtd-cyx42-retdb"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-11-14",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-brswh-ab836-yrpmw-fl9fj-rr3fn-z7yfp-a332g-rx9f4-t7zhs-mgcwn-998cg-les4g"
+    }
+   ]
+  },
+  {
+   "name": "McMillan & Co",
+   "home_base": null,
+   "genre": "rock / covers",
+   "description": "Band playing Triumph New Hope and Hopewell Valley Vineyards.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-11",
+     "source_url": "https://web.archive.org/web/20250321094442/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-04"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-04-17",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/event-one-rg2bh-mx2wm-3ea3j-6wjjy"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-26",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-30",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-brswh-ab836-yrpmw-fl9fj-rr3fn-z7yfp-a332g-rx9f4-t7zhs"
+    }
+   ]
+  },
+  {
+   "name": "Jim Mitchell and the Repeat Offenders",
+   "home_base": null,
+   "genre": "rock / blues",
+   "description": "Band that played both Artie's and Triumph New Hope in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-03-14",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/the-big-hix-at-arties-country-fun-at-its-best-lszal-gtey7-wypw3-s44bb"
+    },
+    {
+     "venue": "Triumph Brewing Co. New Hope (closed Mar 2026)",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-06",
+     "source_url": "https://web.archive.org/web/20250524131328/https://www.triumphbrewing.com/new-hope/live-music-events-new-hope/?monthyear=2025-06"
+    }
+   ]
+  },
+  {
+   "name": "Reel 2 Real Country Band",
+   "home_base": null,
+   "genre": "country covers",
+   "description": "Country cover band and the most frequent act at Artie's, playing roughly monthly.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-01-03",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-01-18",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-pld22-x8et9"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-02-16",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-03-07",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-y76rj"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-04-04",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-y76rj-walds"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-12-21",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-y76rj-rh3xt"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-03-06",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-04-03",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c-rr49b"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-05-17",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c-wes9e"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-06-05",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c-dr7ap"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-06-21",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c-wes9e-xhrxx"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-07-03",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c-dr7ap-hjwnc"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-09-04",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c-dr7ap-hjwnc-hak3w"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-09-20",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c-wes9e-xhrxx-84em2"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-10-02",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c-wes9e-xhrxx-84em2-x9p4d"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-10-11",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-gkbkz-t8h8c-wes9e-xhrxx-84em2-m9lbb"
+    }
+   ]
+  },
+  {
+   "name": "Waiting On Sundown",
+   "home_base": null,
+   "genre": "country",
+   "description": "Country band that debuted at Artie's in March 2025 and returns regularly.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-03-29",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-ea9gp-m42cy-8ejde-yj9fp-yw8b9"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-01-30",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-cdcac-p55zx-fjxsl-76dbn-emm8e-43c5k-82rkp-cmbr6-3s8g8"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-10-16",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-cdcac-p55zx-fjxsl-76dbn-emm8e-43c5k-82rkp-cmbr6-3s8g8-4ejyk"
+    }
+   ]
+  },
+  {
+   "name": "Blazen",
+   "home_base": null,
+   "genre": "rock covers",
+   "description": "Cover band with repeat Artie's dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-07-11",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-ea9gp-m42cy-8ejde-yj9fp-yw8b9-39362"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-01-24",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-ea9gp-m42cy-8ejde-yj9fp-yw8b9-39362-wgk78"
+    }
+   ]
+  },
+  {
+   "name": "The Hanger Band",
+   "home_base": null,
+   "genre": "rock covers",
+   "description": "Cover band with repeat Artie's dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-09-19",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-sr4mb-em66r-elx4p-nhtjl-bkbz5-l6ltl-7nj9z-chlrs-j4kmn-yle7y-ex4rt-exlyk-ghk5p-rrzbf-leezk-g4m8e-nlmj3-w5968"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-01-23",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-sr4mb-em66r-elx4p-nhtjl-bkbz5-l6ltl-7nj9z-chlrs-j4kmn-yle7y-ex4rt-exlyk-ghk5p-rrzbf-leezk-g4m8e-nlmj3-w5968-lmp5s"
+    }
+   ]
+  },
+  {
+   "name": "Brake For Turtles",
+   "home_base": null,
+   "genre": "rock covers",
+   "description": "Cover band with two 2026 Artie's dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-01-17",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-y76rj-walds-esyk3"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-04-17",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-y76rj-walds-esyk3-7hgep"
+    }
+   ]
+  },
+  {
+   "name": "Whiskey and Roses",
+   "home_base": "New Jersey",
+   "genre": "country",
+   "description": "NJ country band headlining Artie's country nights.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-10-31",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/the-big-hix-at-arties-country-fun-at-its-best-lszal-gtey7-wypw3-fzahy"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-01-10",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-hm63a-kpkzh-3c69r-ww3dw-8w8jg-8lyc8-9ahn8-9sd8t-d9pr9-w6x5e-negle"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-04-18",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-xr55j-y76rj-walds-esyk3-7hgep-cgsww"
+    }
+   ]
+  },
+  {
+   "name": "Stricken",
+   "home_base": null,
+   "genre": "hard rock covers",
+   "description": "Hard-rock cover band, 80s to today.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-02-21",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-sr4mb-em66r-elx4p-nhtjl-bkbz5-l6ltl-7nj9z-chlrs-j4kmn-yle7y-ex4rt-exlyk-ghk5p-rrzbf-leezk-p6efw-nrgfn-kypke"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-02-14",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/black-cross-band-southern-style-covers-llaam-ykwky-pj8r4-y5cns-wh995-fpxa4-6lzfh-4tnh8-jrnhz-xmjg6-rwstg-fp4ar-mjg5x-j5za7"
+    }
+   ]
+  },
+  {
+   "name": "Liquid Garden",
+   "home_base": null,
+   "genre": "party / 80s covers",
+   "description": "Party band for Artie's New Year's Eve and 80s prom nights.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-12-31",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/black-cross-band-southern-style-covers-llaam-ykwky-pj8r4-y5cns-wh995-fpxa4-6lzfh-4tnh8-jrnhz-bwnj8"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-01-09",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-hm63a-kpkzh-3c69r-ww3dw-8w8jg-8lyc8-9ahn8-9sd8t-d9pr9-w6x5e"
+    }
+   ]
+  },
+  {
+   "name": "Squad 5",
+   "home_base": null,
+   "genre": "party covers",
+   "description": "Cover band with two 2026 Artie's dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-02-07",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/black-cross-band-southern-style-covers-llaam-ykwky-pj8r4-y5cns-wh995-fpxa4-6lzfh-4tnh8-jrnhz-xmjg6-rwstg"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-07-10",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/black-cross-band-southern-style-covers-llaam-ykwky-pj8r4-y5cns-wh995-fpxa4-6lzfh-4tnh8-jrnhz-xmjg6-rwstg-4ps6k"
+    }
+   ]
+  },
+  {
+   "name": "Twisted Times",
+   "home_base": null,
+   "genre": "rock covers",
+   "description": "Cover band with two 2026 Artie's dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-04-10",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/the-big-hix-at-arties-country-fun-at-its-best-lszal-gtey7-wypw3-fzahy-bdw9k-j2zd4-e3e88"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-09-11",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/the-big-hix-at-arties-country-fun-at-its-best-lszal-gtey7-wypw3-fzahy-bdw9k-j2zd4-e3e88-5dhxw"
+    }
+   ]
+  },
+  {
+   "name": "Razz Brothers",
+   "home_base": null,
+   "genre": "covers",
+   "description": "Act with two 2026 Artie's dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-06-26",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-sr4mb-em66r-elx4p-nhtjl-bkbz5-l6ltl-7nj9z-chlrs-j4kmn-yle7y-ex4rt-exlyk-ghk5p-rrzbf-leezk-26xdn-hefap-hc2h8-t8ke9-htlpp-b5n66-w85fz-r38pa-6cpbg"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-09-18",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-sr4mb-em66r-elx4p-nhtjl-bkbz5-l6ltl-7nj9z-chlrs-j4kmn-yle7y-ex4rt-exlyk-ghk5p-rrzbf-leezk-26xdn-hefap-hc2h8-t8ke9-htlpp-b5n66-w85fz-r38pa-6cpbg-p9994"
+    }
+   ]
+  },
+  {
+   "name": "This Old Engine (TOE)",
+   "home_base": null,
+   "genre": "rock covers",
+   "description": "Band billed as TOE with Artie's dates in 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-08-22",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-hm63a-kpkzh-3c69r-ww3dw-8w8jg-8lyc8-9ahn8-9sd8t-d9pr9-w6x5e-bbpkz-d88cx-23k4t"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-05-30",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-cdcac-p55zx-fjxsl-76dbn-emm8e-43c5k-82rkp-cmbr6-ek5ys-3ny4x-rcdse"
+    }
+   ]
+  },
+  {
+   "name": "Steel Creek",
+   "home_base": null,
+   "genre": "country covers",
+   "description": "Country hits band that debuted at Artie's in March 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-03-20",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/black-cross-band-southern-style-covers-llaam-pefs7-pcpl6-pg2jc-ml4cm-djjr7"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-11-20",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/black-cross-band-southern-style-covers-llaam-pefs7-pcpl6-pg2jc-ml4cm-djjr7-rdxw7"
+    }
+   ]
+  },
+  {
+   "name": "Big Hix",
+   "home_base": null,
+   "genre": "country / party band",
+   "description": "Country party band playing both Artie's and Havana.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-05-10",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/the-big-hix-at-arties-country-fun-at-its-best-lszal-gtey7-wypw3"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-29",
+     "source_url": "https://web.archive.org/web/20250802/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-10-25",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/the-big-hix-at-arties-country-fun-at-its-best-lszal-gtey7"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-01-23",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-05-02",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/the-big-hix-at-arties-country-fun-at-its-best-lszal-gtey7-4flby"
+    }
+   ]
+  },
+  {
+   "name": "The Nerds",
+   "home_base": null,
+   "genre": "party covers",
+   "description": "Long-running party cover band playing Artie's and Havana.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-12-12",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/black-cross-band-southern-style-covers-llaam-ykwky-pj8r4-y5cns-wh995-fpxa4-6lzfh-w6nb6"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-27",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-04-25",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/black-cross-band-southern-style-covers-llaam-ykwky-pj8r4-y5cns-wh995-fpxa4-6lzfh-w6nb6-l3jzl"
+    }
+   ]
+  },
+  {
+   "name": "The Wankers",
+   "home_base": null,
+   "genre": "British Invasion covers",
+   "description": "British rock/Invasion cover band playing Artie's and Havana.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-08-01",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-hm63a-kpkzh-3c69r-ww3dw-8w8jg-8lyc8-9ahn8-9sd8t-d9pr9"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-02-27",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Pynk Floid NYC",
+   "home_base": "New York City",
+   "genre": "Tribute (Pink Floyd)",
+   "description": "NYC Pink Floyd tribute with yearly Artie's dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-01-17",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-cfsfg-bpnp4"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-08-16",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-cfsfg-bpnp4-p5na6"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-08-15",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/3xe6nl3tfgnzmw4-kbz57-xh3ws"
+    }
+   ]
+  },
+  {
+   "name": "Psycho Circus NYC",
+   "home_base": "New York City",
+   "genre": "Tribute (KISS)",
+   "description": "KISS tribute from NYC.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-08-30",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-cfsfg-bpnp4-p5na6-k7ehh-k367r-3535a"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-08-14",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/3xe6nl3tfgnzmw4-kbz57"
+    }
+   ]
+  },
+  {
+   "name": "Van Halen Nation",
+   "home_base": null,
+   "genre": "Tribute (Van Halen)",
+   "description": "Van Halen tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-09-20",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-hm63a-kpkzh-3c69r-ww3dw-8w8jg-8lyc8-9ahn8-9sd8t-d9pr9-w6x5e-bbpkz"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-08-08",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/3xe6nl3tfgnzmw4"
+    }
+   ]
+  },
+  {
+   "name": "Death Metallic",
+   "home_base": null,
+   "genre": "Tribute (Metallica)",
+   "description": "Metallica tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-05-31",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-hm63a-kpkzh-3c69r-ww3dw-8w8jg"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-05-08",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/event-one-6smpt-ple4j-5addl-8hdn7-jgfy6-j2r6s-g5n7j-8bfkk-wfjp2-s9275-rrmws-g2sr6-hm63a-kpkzh-3c69r-ww3dw-8w8jg-k9wk4"
+    }
+   ]
+  },
+  {
+   "name": "Sabbath Superstarz",
+   "home_base": null,
+   "genre": "Tribute (Black Sabbath)",
+   "description": "Black Sabbath tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-11-08",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/the-big-hix-at-arties-country-fun-at-its-best-lszal-gtey7-wypw3-fzahy-bdw9k"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-04-04",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/the-big-hix-at-arties-country-fun-at-its-best-lszal-gtey7-wypw3-fzahy-bdw9k-j2zd4"
+    }
+   ]
+  },
+  {
+   "name": "Bon Poison",
+   "home_base": null,
+   "genre": "Tribute (Bon Jovi / Poison)",
+   "description": "Combined Bon Jovi and Poison tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-08-23",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-54zpc-cfsfg-bpnp4-p5na6-k7ehh-k367r"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-06-20",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-sr4mb-em66r-elx4p-nhtjl-bkbz5-l6ltl-7nj9z-chlrs-j4kmn-yle7y-ex4rt-exlyk-ghk5p-rrzbf-leezk-26xdn-hefap-hc2h8-t8ke9-htlpp-b5n66-w85fz-r38pa-nhjp4"
+    }
+   ]
+  },
+  {
+   "name": "Romeo Delight",
+   "home_base": null,
+   "genre": "Tribute (Van Halen)",
+   "description": "Van Halen tribute and a Havana regular.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-13",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-14",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-08-21",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-12-11",
+     "source_url": "https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "The Sensational Soul Cruisers",
+   "home_base": "Lehigh Valley / Philadelphia region",
+   "genre": "soul / R&B revue",
+   "description": "Big soul-revue band that rotates between Havana and New Hope Winery.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-20",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "New Hope Winery",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-01",
+     "source_url": "https://web.archive.org/web/20250905134155/https://newhopewinery.com/live-music/"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-02-06",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-08-14",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "New Hope Winery",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-11-21",
+     "source_url": "https://newhopewinery.com/events/"
+    }
+   ]
+  },
+  {
+   "name": "Countdown to Ecstasy",
+   "home_base": null,
+   "genre": "Tribute (Steely Dan)",
+   "description": "Steely Dan tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-29",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-19",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-04-26",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-18",
+     "source_url": "https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Shakey",
+   "home_base": null,
+   "genre": "Tribute (Neil Young)",
+   "description": "Neil Young tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-10",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-06",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-07",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Best of the Eagles",
+   "home_base": null,
+   "genre": "Tribute (Eagles)",
+   "description": "Eagles tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-13",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-21",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-19",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-12-20",
+     "source_url": "https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Tupelo Honey",
+   "home_base": null,
+   "genre": "Tribute (Van Morrison)",
+   "description": "Van Morrison tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-25",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-07",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-20",
+     "source_url": "https://web.archive.org/web/20260120/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-06-26",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-11-20",
+     "source_url": "https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Four Sticks",
+   "home_base": null,
+   "genre": "Tribute (Led Zeppelin)",
+   "description": "Led Zeppelin tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-09",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-01",
+     "source_url": "https://web.archive.org/web/20250613/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-05",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "80's Revolution",
+   "home_base": null,
+   "genre": "Tribute (80s hits)",
+   "description": "80s hits tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-16",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/20250613/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-21",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-04-17",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-30",
+     "source_url": "https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Will Power",
+   "home_base": null,
+   "genre": "Tribute",
+   "description": "Tribute act with three Havana dates in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-25",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-22",
+     "source_url": "https://web.archive.org/web/20250802/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-12",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Bell Bottom Blues",
+   "home_base": null,
+   "genre": "Tribute (Eric Clapton)",
+   "description": "Eric Clapton tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-30",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-26",
+     "source_url": "https://web.archive.org/web/20250613/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-29",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Wooden Ships",
+   "home_base": null,
+   "genre": "Tribute (CSNY)",
+   "description": "Crosby, Stills, Nash & Young tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-08",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-05",
+     "source_url": "https://web.archive.org/web/20250802/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-02-20",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-06-12",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Queen Flash",
+   "home_base": null,
+   "genre": "Tribute (Queen)",
+   "description": "Queen tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-23",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-17",
+     "source_url": "https://web.archive.org/web/20250802/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Yellow Brick Road",
+   "home_base": null,
+   "genre": "Tribute (Elton John)",
+   "description": "Elton John tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-02",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-09",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-22",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Stevie Mac",
+   "home_base": null,
+   "genre": "Tribute (Fleetwood Mac)",
+   "description": "Fleetwood Mac tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-16",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-10",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-11-15",
+     "source_url": "https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Starman",
+   "home_base": null,
+   "genre": "Tribute (David Bowie)",
+   "description": "David Bowie tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-30",
+     "source_url": "https://web.archive.org/web/20250910/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-31",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-11-06",
+     "source_url": "https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Slippery When Wet",
+   "home_base": null,
+   "genre": "Tribute (Bon Jovi)",
+   "description": "Bon Jovi tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-12",
+     "source_url": "https://web.archive.org/web/20250613/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-01-16",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "U2 Topia",
+   "home_base": null,
+   "genre": "Tribute (U2)",
+   "description": "U2 tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-19",
+     "source_url": "https://web.archive.org/web/20250613/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-08-28",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Amish Outlaws",
+   "home_base": "Lancaster County, PA",
+   "genre": "party covers",
+   "description": "Party cover band with a former-Amish gimmick; plays Havana several times a year.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-28",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-01-25",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-08-16",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-12-13",
+     "source_url": "https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Southern Steel (Classic Skynyrd)",
+   "home_base": null,
+   "genre": "Tribute (Lynyrd Skynyrd)",
+   "description": "Lynyrd Skynyrd tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-10",
+     "source_url": "https://web.archive.org/web/20250802/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-04-24",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Frontiers",
+   "home_base": null,
+   "genre": "Tribute (Journey)",
+   "description": "Journey tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-12",
+     "source_url": "https://web.archive.org/web/20250802/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-23",
+     "source_url": "https://web.archive.org/web/20251118/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-06",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Land of OZZ",
+   "home_base": null,
+   "genre": "Tribute (Ozzy Osbourne)",
+   "description": "Ozzy Osbourne tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-15",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-31",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Start Making Sense",
+   "home_base": null,
+   "genre": "Tribute (Talking Heads)",
+   "description": "Talking Heads tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-24",
+     "source_url": "https://web.archive.org/web/20250613/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-15",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Live Wire",
+   "home_base": null,
+   "genre": "Tribute (AC/DC)",
+   "description": "AC/DC tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-05",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-13",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Midnight Toker & NY to Boston",
+   "home_base": null,
+   "genre": "Tribute (Grateful Dead / Boston)",
+   "description": "Paired tribute bill at Havana in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-22",
+     "source_url": "https://web.archive.org/web/20251214/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-23",
+     "source_url": "https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Known Return",
+   "home_base": null,
+   "genre": "Tribute (Kansas)",
+   "description": "Kansas tribute (billed once as Know Return).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-27",
+     "source_url": "https://web.archive.org/web/20250422/https://www.havananewhope.com/shows"
+    },
+    {
+     "venue": "Havana",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-01",
+     "source_url": "https://web.archive.org/web/20260414/https://www.havananewhope.com/shows"
+    }
+   ]
+  },
+  {
+   "name": "Best Friends Girl",
+   "home_base": null,
+   "genre": "Tribute (The Cars)",
+   "description": "Cars tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "New Hope Winery",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-10-17",
+     "source_url": "https://web.archive.org/web/20250905134155/https://newhopewinery.com/live-music/"
+    },
+    {
+     "venue": "New Hope Winery",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-11-14",
+     "source_url": "https://newhopewinery.com/events/"
+    }
+   ]
+  },
+  {
+   "name": "Galena Brass Band",
+   "home_base": "Bucks County, PA",
+   "genre": "brass band",
+   "description": "Strolling brass band that is a fixture of Peddler's Village festivals.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2025-07-04",
+     "source_url": "https://peddlersvillage.com/event/bucks-fever-tunes-at-noon/2025-05-16/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-05-02",
+     "source_url": "https://peddlersvillage.com/event/strawberry-festival-2/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-07-04",
+     "source_url": "https://peddlersvillage.com/event/bbq-bash/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://peddlersvillage.com/event/peach-festival/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-10-10",
+     "source_url": "https://peddlersvillage.com/event/octoberfeast/"
+    }
+   ]
+  },
+  {
+   "name": "Martin & Kelly",
+   "home_base": null,
+   "genre": "acoustic duo",
+   "description": "Duo booked across Peddler's Village festival weekends.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-05-02",
+     "source_url": "https://peddlersvillage.com/event/strawberry-festival-2/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-05-03",
+     "source_url": "https://peddlersvillage.com/event/strawberry-festival-2/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://peddlersvillage.com/event/peach-festival/"
+    }
+   ]
+  },
+  {
+   "name": "Vintage Vibe Tribe",
+   "home_base": null,
+   "genre": "vintage pop / swing",
+   "description": "Act on Peddler's Village festival stages.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-05-02",
+     "source_url": "https://peddlersvillage.com/event/strawberry-festival-2/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://peddlersvillage.com/event/peach-festival/"
+    }
+   ]
+  },
+  {
+   "name": "2D",
+   "home_base": null,
+   "genre": "acoustic duo",
+   "description": "Duo in the Red Fox Lounge Thursday rotation and at festivals.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-09-10",
+     "source_url": "https://peddlersvillage.com/event/local-picks-at-red-fox-lounge/2026-10-01/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-09-19",
+     "source_url": "https://peddlersvillage.com/event/scarecrow-festival/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-10-15",
+     "source_url": "https://peddlersvillage.com/event/local-picks-at-red-fox-lounge/2026-10-01/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-11-05",
+     "source_url": "https://peddlersvillage.com/event/local-picks-at-red-fox-lounge/2026-10-01/"
+    }
+   ]
+  },
+  {
+   "name": "Back Porch Jug Band",
+   "home_base": null,
+   "genre": "jug band",
+   "description": "Jug band at Peddler's Village Tunes at Noon and Peach Festival.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2025-05-23",
+     "source_url": "https://peddlersvillage.com/event/bucks-fever-tunes-at-noon/2025-05-16/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://peddlersvillage.com/event/peach-festival/"
+    }
+   ]
+  },
+  {
+   "name": "Breakfast at Judy's",
+   "home_base": null,
+   "genre": "pop / rock",
+   "description": "Act on the Tunes at Noon lunchtime series in 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2025-08-22",
+     "source_url": "https://peddlersvillage.com/event/bucks-fever-tunes-at-noon/2025-05-16/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-06-12",
+     "source_url": "https://peddlersvillage.com/event/bucks-fever-tunes-at-noon/2025-05-16/"
+    }
+   ]
+  },
+  {
+   "name": "Chris Alan Duo",
+   "home_base": null,
+   "genre": "acoustic duo",
+   "description": "Duo in the Music at Nissley Vineyards rotation.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-10-11",
+     "source_url": "https://peddlersvillage.com/event/nissleymusic26/2026-10-03/"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-12-20",
+     "source_url": "https://peddlersvillage.com/event/nissleymusic26/2026-10-03/"
+    }
+   ]
+  },
+  {
+   "name": "Jersey Surecats",
+   "home_base": "New Jersey",
+   "genre": "swing / jump blues",
+   "description": "Band with the most dates in the 2026 Hopewell Valley Vineyards calendar.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-05-01",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/event-two-w7zrh-s4xbg-nypkl-ghdjc-gy2xa-5bybz"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-21",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june7-329n6-pmtsg"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-07-31",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-23",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-11",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-brswh-2hgjg"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-09",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-brswh-ab836-yrpmw-fl9fj-rr3fn-z7yfp"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-11-15",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz-scj9e-7wmke-f72zb-nbnmn-5fly2-gn8am-f6r3j-7gpgt"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-12-04",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz-scj9e-7wmke-f72zb-nbnmn-5fly2-gn8am-f6r3j-7gpgt-znlfa"
+    }
+   ]
+  },
+  {
+   "name": "Hopewell Valley Vintage",
+   "home_base": "Hopewell Valley, NJ",
+   "genre": "vintage pop / jazz",
+   "description": "Local act with five HVV dates in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-15",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-lx6y6-ds4ss"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-30",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-27",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz-scj9e"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-25",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz-scj9e-7wmke-f72zb-nbnmn-5fly2"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-11-29",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz-scj9e-7wmke-f72zb-nbnmn-5fly2-bmtz6"
+    }
+   ]
+  },
+  {
+   "name": "Blue Jersey Band",
+   "home_base": "New Jersey",
+   "genre": "blues",
+   "description": "Blues band with five HVV dates in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-05-02",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/event-two-w7zrh-s4xbg-nypkl-ghdjc-gy2xa-t7kh6"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-14",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june7-329n6"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-06",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-10",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-3lyd5-yc2kz-y9epj-fdary-ljwtj-fdh2b-ra7gm"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-11-08",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz-scj9e-7wmke-f72zb-nbnmn-5fly2-gn8am-f6r3j"
+    }
+   ]
+  },
+  {
+   "name": "The Kamara Trio",
+   "home_base": null,
+   "genre": "jazz",
+   "description": "Jazz trio with repeat HVV Sunday dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-04-19",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/event-two-w7zrh-s4xbg-nypkl-ghdjc-9e9t7"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-13",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june13-530pm"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-07-19",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june7-329n6-pmtsg-ncn4e-jnae2"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-18",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz-scj9e-7wmke-f72zb-nbnmn"
+    }
+   ]
+  },
+  {
+   "name": "Wayward Souls",
+   "home_base": null,
+   "genre": "rock covers",
+   "description": "Band with repeat HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-04-18",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/event-two-w7zrh-s4xbg-nypkl-ghdjc"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-20",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june7-8efn6-n9tza-88e5d"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-12",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-d4c34-plmtd"
+    }
+   ]
+  },
+  {
+   "name": "The Ragtime Relics",
+   "home_base": null,
+   "genre": "ragtime / early jazz",
+   "description": "Ragtime and early-jazz group.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-06",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june6-530pm"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-29",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-23dfg"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-31",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-3lyd5-yc2kz-y9epj-fdary-ljwtj-fdh2b-ln6dx-brmld-psrnk"
+    }
+   ]
+  },
+  {
+   "name": "The Dadz",
+   "home_base": null,
+   "genre": "rock covers",
+   "description": "Cover band with three HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-04-24",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/event-two-w7zrh-s4xbg-nypkl-ghdjc-twcka"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-07-25",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-2arnp"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-24",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-d4c34-plmtd-cyx42-retdb-8cs7n-g3n3x"
+    }
+   ]
+  },
+  {
+   "name": "Sister Blue & Mark Furman",
+   "home_base": null,
+   "genre": "blues duo",
+   "description": "Blues duo with three HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-27",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june7-8efn6-n9tza-56xkh"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-05",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-3lyd5-yc2kz"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-17",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-d4c34-plmtd-cyx42-retdb-8cs7n"
+    }
+   ]
+  },
+  {
+   "name": "On The Fly",
+   "home_base": null,
+   "genre": "rock covers",
+   "description": "Band with three HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-27",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june7-8efn6-n9tza-88e5d-6gt2w"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-01",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-2arnp-pt4m3"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-20",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz"
+    }
+   ]
+  },
+  {
+   "name": "Modern Rewind",
+   "home_base": null,
+   "genre": "pop / rock covers",
+   "description": "Band with three HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-05-09",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/madison-mikey-deluca-f4hdr"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-25",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-brswh-ab836-yrpmw"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-11-20",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-brswh-ab836-yrpmw-fl9fj-rr3fn-z7yfp-a332g-rx9f4-t7zhs-mgcwn-998cg-les4g-kad2k"
+    }
+   ]
+  },
+  {
+   "name": "Jon Savage & The Classic Rockers",
+   "home_base": null,
+   "genre": "classic rock covers",
+   "description": "Classic-rock band with three HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-05-09",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/madison-mikey-deluca-5xdjd"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-07-25",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-z279n-gl6lk"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-28",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6"
+    }
+   ]
+  },
+  {
+   "name": "HVV Jazz Band",
+   "home_base": "Pennington, NJ",
+   "genre": "jazz",
+   "description": "The winery's own jazz group.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-04-26",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/event-two-w7zrh-s4xbg-nypkl-ghdjc-3fdkp"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-28",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june7-329n6-pmtsg-ncn4e"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-07-26",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june7-329n6-pmtsg-ncn4e-jnae2-ncjky"
+    }
+   ]
+  },
+  {
+   "name": "Hit & Run",
+   "home_base": null,
+   "genre": "rock covers",
+   "description": "Band with three HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-07-18",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-8z2zh"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-22",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-11-07",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-d4c34-plmtd-cyx42-retdb-8cs7n-g3n3x-cplsd-r4nkc"
+    }
+   ]
+  },
+  {
+   "name": "Soaking Wet Sandwiches",
+   "home_base": null,
+   "genre": "rock",
+   "description": "Band with two HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-29",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-3lyd5"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-24",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-3lyd5-yc2kz-y9epj-fdary-ljwtj-fdh2b-ln6dx-brmld"
+    }
+   ]
+  },
+  {
+   "name": "Madison & Mikey DeLucia",
+   "home_base": null,
+   "genre": "acoustic duo",
+   "description": "Duo with two HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-05-08",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/madison-mikey-deluca"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-06-06",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june6-1pm"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-08",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-z279n-gl6lk-wprgj-jjbjl"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-11-01",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz-scj9e-7wmke-f72zb-nbnmn-5fly2-gn8am"
+    }
+   ]
+  },
+  {
+   "name": "Just Us",
+   "home_base": null,
+   "genre": "covers",
+   "description": "Act with two HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-07-17",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-22",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2"
+    }
+   ]
+  },
+  {
+   "name": "Darla, Rich & Friends",
+   "home_base": null,
+   "genre": "acoustic",
+   "description": "Group with two HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-08-09",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june7-329n6-pmtsg-ncn4e-jnae2-ncjky-8akar-p4yfb"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-10-11",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-nns9x-7jsd2-jnr4l-wyhl7-9xjy3-rmrww-e84gz-scj9e-7wmke-f72zb"
+    }
+   ]
+  },
+  {
+   "name": "A Little Bit Off (ALBO)",
+   "home_base": null,
+   "genre": "covers",
+   "description": "Band with two HVV dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-07-24",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf"
+    },
+    {
+     "venue": "Hopewell Valley Vineyards",
+     "town": "Pennington",
+     "state": "NJ",
+     "date": "2026-09-04",
+     "source_url": "https://www.hopewellvalleyvineyards.com/calendar/hvvmusic-june12-zfp2l-xj8nk-t6m7e-rrlkb-3wrwf-5sa45-8xr2j-xlp3k-wjab2-bgcz6-brswh"
+    }
+   ]
+  }
+ ],
+ "existing_matches": [
+  {
+   "name": "Those Looks",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-05-17",
+     "source_url": "https://web.archive.org/web/20250518125226/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-08-22",
+     "source_url": "https://web.archive.org/web/20250809064022/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-23",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-27",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-05-09",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Gobot",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-06",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-11-03",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-12-22",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Pennington Station Band",
+   "appearances": [
+    {
+     "venue": "Woolsey Park Concerts in the Park",
+     "town": "Hopewell Township (Pennington)",
+     "state": "NJ",
+     "date": "2026-08-19",
+     "source_url": "https://planetprinceton.com/event/woolsey-park-concerts-in-the-park/2026-08-19/"
+    }
+   ]
+  },
+  {
+   "name": "Kevin Rovner Band",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-07-18",
+     "source_url": "https://web.archive.org/web/20250708010844/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-27",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-07-10",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "The Invitational",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-05",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-12",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-19",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-26",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-30",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-07",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-14",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-21",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-10-28",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Slow Noche",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-01-09",
+     "source_url": "https://web.archive.org/web/20250113093719/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-04-24",
+     "source_url": "https://web.archive.org/web/20250419090339/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-26",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-11-22",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-03-07",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "The Real Fugitives",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-06-28",
+     "source_url": "https://web.archive.org/web/20250608003900/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-09-27",
+     "source_url": "https://web.archive.org/web/20250909232658/https://www.johnandpeters.com/"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-27",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-09-19",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "The Kelly Jax Band",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-01-31",
+     "source_url": "https://johnandpeters.com/api/events"
+    },
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2026-04-26",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  },
+  {
+   "name": "Big Chill Band",
+   "appearances": [
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-01-10",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-ea9gp-m42cy-8ejde"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-03-28",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-ea9gp-m42cy-8ejde-yj9fp"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2025-12-06",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-ea9gp-m42cy-8ejde-yj9fp-pm7ff"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-02-21",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-ea9gp-m42cy-8ejde-yj9fp-bztbw"
+    },
+    {
+     "venue": "Peddler's Village",
+     "town": "Lahaska",
+     "state": "PA",
+     "date": "2026-05-02",
+     "source_url": "https://peddlersvillage.com/event/strawberry-festival-2/"
+    },
+    {
+     "venue": "Artie's Bar & Grill",
+     "town": "Frenchtown",
+     "state": "NJ",
+     "date": "2026-09-12",
+     "source_url": "https://www.artiesbarandgrill.com/events-one/halloween-party-with-rock-kandy-free-pbl27-lxgz6-mr2d2-sdpl2-sxt3r-97s74-fngtb-3xegn-mjdfs-w3pmm-x8glx-89epx-j5chc-dxgxt-ws95t-c6frk-7rmjn-4djsp-b4fgy-ea9gp-m42cy-8ejde-yj9fp-bztbw-4f8cj"
+    }
+   ]
+  },
+  {
+   "name": "The Great Bonfire",
+   "appearances": [
+    {
+     "venue": "John & Peter's",
+     "town": "New Hope",
+     "state": "PA",
+     "date": "2025-12-13",
+     "source_url": "https://johnandpeters.com/api/events"
+    }
+   ]
+  }
+ ],
+ "langan_frost_wane": {
+  "found": true,
+  "appearances": [
+   {
+    "venue": "John & Peter's",
+    "town": "New Hope",
+    "state": "PA",
+    "date": "2025-02-22",
+    "source_url": "https://web.archive.org/web/20250217131826/https://www.johnandpeters.com/"
+   },
+   {
+    "venue": "Birdhouse Center for the Arts",
+    "town": "Lambertville",
+    "state": "NJ",
+    "date": "2026-10-23",
+    "source_url": "https://www.birdhousecenter.org/events-1/langan-frost-wane-nabodach"
+   }
+  ],
+  "notes": "Two dated appearances in the area. 2025-02-22 at John & Peter's, billed 'Langan, Frost & Wane**Yuri Gohen and more!' (9 PM). 2026-10-23 at the Birdhouse Center for the Arts, 7 N Main St, Lambertville, with Na'Bodach supporting (8 PM, $20; ticketed via showpass.com/langanfrostwane). The Birdhouse listing calls them a Philadelphia trio (Brian Langan, RJ Gilligan as 'Frost', Nam Wayne as 'Wane') and says a new album, 'Tomorrow for a Stone', is due on Goldstar Recordings. They did not appear in any other crawled calendar (J&P Oct 2025 - Dec 2026 feed, Triumph, Havana, Artie's, HVV, Peddler's Village, Flemington DIY). That makes 2 appearances, so they meet the threshold of 2 dated area appearances, but they are not listed under bands because the brief asked for them to be reported separately."
+ },
+ "notes": "Tally window Jan 2025 - Dec 2026; one appearance = one dated billing (multi-band bills credit every named band). Solo acts were excluded, and so were national/touring headliners (e.g. John Doe, Eyehategod, Saving Abel, LFO, Texas Hippie Coalition, Lords of 52nd Street, The Surfrajettes, Telekinetic Yeti). Tribute acts are included because they are regional club-circuit bands, but their genre starts with 'Tribute' so they can be filtered out; Havana is almost entirely tributes. J&P feed timestamps were converted from UTC to Eastern. Songkick dates (used for J&P gaps: Feaster 2025-03-07, Applied Knowledge, Jelly Knives 2025-02-20, Extensions 2026-05-16, Last Legs 2026-03-21) may be off by one day. Home bases, links and images are filled only where the venue listing or a band site linked from it stated them. Bandcamp guesses were not used because the names collide. Hubbell Benson, Monte Maybe, Kiersten Blue, RW Hellborn, King Sickabilly and Buzz & Co. repeat at J&P but were left out because they may be solo performers or could not be verified as bands. Not crawled or no usable calendar: Bowman's Tavern and Rocky Hill Inn (sites unreachable); Cock 'n Bull (covered via Peddler's Village); Stockton Inn (no music calendar; the old stocktoninn domain is now spam); Hopewell Theater ('coming soon', not operating); Brick Farm Tavern (no music listings); Frenchtown Cafe (site 404); Prallsville Mills (403); Hunterdon Art Museum, Lambertville Station, Boat House and the National Hotel (no music calendar found); Shad Fest 2025/2026 lineups (not published online; only the Ruby West Band at Local's Night 2026-04-24 was found); Hopewell Tour des Arts 2026 (12 bands, lineup not retrieved). Bandsintown pages returned 403. Peddler's Village Red Fox Lounge and Nissley schedules are only the current published windows; 2025 rotations were not retained. Scarecrow Festival Sun 2026-09-20 and OctoberFeast Sun 2026-10-11 were cancelled for weather and are not counted."
+}

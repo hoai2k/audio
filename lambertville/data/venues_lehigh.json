@@ -1,0 +1,4664 @@
+{
+ "venues_crawled": [
+  {
+   "venue": "Musikfest 2026 free stages (all Platz/stage schedules)",
+   "town": "Bethlehem",
+   "state": "PA",
+   "source_url": "https://www.artsquest.org/musikfest/lineup/printable-schedule/",
+   "coverage": "All 21 official daily schedule PDFs (North/South Side, Jul 30-Aug 9, 2026), parsed in full, with stated hometowns"
+  },
+  {
+   "venue": "Musikfest 2025 free stages",
+   "town": "Bethlehem",
+   "state": "PA",
+   "source_url": "https://web.archive.org/web/20250808041649/https://www.musikfest.org/lineup/download-schedules/",
+   "coverage": "Only 8 of 21 daily PDFs could be recovered from Wayback (North Side Aug 3-8, South Side Aug 1 and Aug 9, 2025); the other days are missing"
+  },
+  {
+   "venue": "ArtsQuest / SteelStacks (Musikfest Cafe, Levitt Pavilion SteelStacks, Williams Brew Stage, Highmark community stage on the Air Products Town Square, Fowler Blast Furnace Room, Union Terrace Amphitheater, Christkindlmarkt, Oktoberfest)",
+   "town": "Bethlehem",
+   "state": "PA",
+   "source_url": "https://www.artsquest.org/wp-json/tribe/events/v1/events?start_date=2025-01-01&end_date=2026-12-31",
+   "coverage": "Full events API, 4,007 events from 2025-09-11 to 2026-12-31 (the API keeps nothing older); film, classes, tours and comedy filtered out"
+  },
+  {
+   "venue": "Godfrey Daniels",
+   "town": "Bethlehem",
+   "state": "PA",
+   "source_url": "https://godfreydaniels.org/upcoming-events/",
+   "coverage": "Current sitemap (Oct-Dec 2026) plus Wayback CDX list of archived event URLs, about 155 dated shows Jan 2025-Dec 2026; shows that were never archived are missing"
+  },
+  {
+   "venue": "Live at the Falls (Scott Park)",
+   "town": "Easton",
+   "state": "PA",
+   "source_url": "https://www.liveatfalls.com/",
+   "coverage": "Complete 2025 lineup (Wayback snapshot of 2025-06-16) and complete 2026 lineup (live site, with rescheduled dates)"
+  },
+  {
+   "venue": "Weyerbacher Brewing Easton Taproom / Porters' Pub / Rivals Sports Bar / The Coop / Easton Public Market 'Market After Hours'",
+   "town": "Easton",
+   "state": "PA",
+   "source_url": "https://eastonpost.com/events/list/",
+   "coverage": "Partial: Easton Post event pages found via the Wayback CDX slug list, with dates taken from each page's JSON-LD; the live calendar is behind Cloudflare and was only spot-checked"
+  },
+  {
+   "venue": "Archer Music Hall",
+   "town": "Allentown",
+   "state": "PA",
+   "source_url": "https://www.songkick.com/venues/4591847-archer-music-hall/gigography",
+   "coverage": "Songkick past-gig page 1 (Feb-Oct 2026): almost all national touring bills, no repeat regional acts"
+  },
+  {
+   "venue": "Bethlehem Brew Works",
+   "town": "Bethlehem",
+   "state": "PA",
+   "source_url": "https://www.thebrewworks.com/events",
+   "coverage": "Checked: no live-music events listed (only trivia and brunch)"
+  }
+ ],
+ "bands": [
+  {
+   "name": "The Hazmats",
+   "home_base": null,
+   "genre": "80s/90s rock & pop covers",
+   "description": "Party/cover band working 80s and 90s rock and pop; a regular at Weyerbacher's Easton taproom and the Live at the Falls series.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Weyerbacher Brewing Easton Taproom",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-02-01",
+     "source_url": "https://web.archive.org/web/20250120051218/https://eastonpost.com/event/the-hazmats-weyerbacher-brewing-easton-taproom/"
+    },
+    {
+     "venue": "Weyerbacher Brewing Easton Taproom",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-04-26",
+     "source_url": "https://web.archive.org/web/20250324131742/https://eastonpost.com/event/the-hazmats-weyerbacher-brewing-easton-2/"
+    },
+    {
+     "venue": "Weyerbacher Brewing Easton Taproom",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-06-07",
+     "source_url": "https://web.archive.org/web/20250210060257/https://eastonpost.com/event/the-hazmats-weyerbacher-brewing-easton/"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-07-10",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Weyerbacher Brewing Easton Taproom",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-10-18",
+     "source_url": "https://web.archive.org/web/20251013175450/https://eastonpost.com/event/the-hazmats-10-18-weyerbacher-brewing-easton/"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-06-18",
+     "source_url": "https://www.liveatfalls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rock Steady",
+   "home_base": "Bethlehem, PA",
+   "genre": "Classic/soft rock covers",
+   "description": "Trio of Lehigh Valley veterans (Ted Donatelli, Steve Placotaris, Lee LaBar) covering 70s-90s rock and AM-gold soft rock; a near-monthly fixture at SteelStacks.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-01-30",
+     "source_url": "https://www.artsquest.org/event/rock-steady/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-03-20",
+     "source_url": "https://www.artsquest.org/event/rock-steady-2/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-09",
+     "source_url": "https://www.artsquest.org/event/rock-steady-3/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-04",
+     "source_url": "https://www.artsquest.org/event/rock-steady-4/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-10-23",
+     "source_url": "https://www.artsquest.org/event/rock-steady-5/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-04",
+     "source_url": "https://www.artsquest.org/event/rock-steady-6/"
+    }
+   ]
+  },
+  {
+   "name": "JOYOUS",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "R&B / funk / soul / pop dance band",
+   "description": "High-energy Lehigh Valley dance band playing R&B, soul, pop and funk at festivals and summer series.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-01",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug1.pdf"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-08-21",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug1.pdf"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Hannah Noel Band",
+   "home_base": "Bath, PA",
+   "genre": "Pop / country / rock",
+   "description": "Full-band lineup behind Lehigh Valley singer Hannah Noel, mixing pop, country and rock originals and covers (her solo sets are not counted here).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-08-14",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-06-06",
+     "source_url": "https://www.artsquest.org/event/hannah-noel-band/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Honey & Nutz",
+   "home_base": "Allentown, PA",
+   "genre": "Folk / acoustic covers",
+   "description": "Duo-or-trio spin-off of the funk band Hunkajunk (Justine Williams, Brett Andrew, Kyle O'Brien) with melodica, sax, kazoo and harmonies.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-01-10",
+     "source_url": "https://www.artsquest.org/event/honey-and-nutz/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-02-06",
+     "source_url": "https://www.artsquest.org/event/honey-nutz/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-03-28",
+     "source_url": "https://www.artsquest.org/event/honey-nutz-2/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Dina Hall Trio",
+   "home_base": "Bethlehem, PA",
+   "genre": "Americana / folk / blues",
+   "description": "Group setting for Bethlehem songwriter Dina Hall (2024 Linny Awards Performing Artist of the Year), blending folk, rock and blues.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-04-24",
+     "source_url": "https://www.artsquest.org/event/dina-hall/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug1.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-27",
+     "source_url": "https://www.artsquest.org/event/dina-hall-trio/"
+    }
+   ]
+  },
+  {
+   "name": "aGirl & aGuy",
+   "home_base": "Easton, PA",
+   "genre": "Americana / rockabilly / blues",
+   "description": "Lehigh Valley act that plays as a duo or a four-piece band, doing originals and covers across Americana, rockabilly and blues.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-11-08",
+     "source_url": "https://www.artsquest.org/event/agirl-aguy/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-02-07",
+     "source_url": "https://www.artsquest.org/event/agirl-aguy-2/"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-30",
+     "source_url": "https://www.artsquest.org/event/agirl-aguy-band/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-26",
+     "source_url": "https://www.artsquest.org/event/agirl-aguy-duo/"
+    }
+   ]
+  },
+  {
+   "name": "Dolcetto – The Glenn Hofmann Trio",
+   "home_base": "Orefield, PA",
+   "genre": "Jazz / pop standards",
+   "description": "Lehigh Valley trio playing smooth jazz, pop and standards; a perennial Musikfest booking.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug9.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-02-21",
+     "source_url": "https://www.artsquest.org/event/dolcetto/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Wood 'N' Strings",
+   "home_base": "Phillipsburg, NJ",
+   "genre": "Acoustic rock / blues covers",
+   "description": "Father-and-son acoustic duo (two guitars, two voices) covering everything from the Beatles and Eagles to John Mayer and Foo Fighters.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-11-14",
+     "source_url": "https://www.artsquest.org/event/wood-n-strings-acoustic-duo/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-01-23",
+     "source_url": "https://www.artsquest.org/event/wood-n-strings-acoustic-duo-2/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug1.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-10-30",
+     "source_url": "https://www.artsquest.org/event/wood-n-strings/"
+    }
+   ]
+  },
+  {
+   "name": "Ceviche",
+   "home_base": "Bethlehem, PA",
+   "genre": "Jazz-pop covers",
+   "description": "Small jazz combo (guitar, vocals, sax, upright bass, percussion) that reworks current and classic pop as jazz.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-01-09",
+     "source_url": "https://www.artsquest.org/event/ceviche-duo/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-03-27",
+     "source_url": "https://www.artsquest.org/event/ceviche-duo-2/"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-10",
+     "source_url": "https://www.artsquest.org/event/ceviche-duo-3/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-18",
+     "source_url": "https://www.artsquest.org/event/ceviche-duo-4/"
+    }
+   ]
+  },
+  {
+   "name": "Sunrise Cries",
+   "home_base": "South Jersey (Cinnaminson, NJ)",
+   "genre": "Rock",
+   "description": "Young South Jersey rock band with a big gigging history, booked repeatedly at Musikfest and SteelStacks.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-24",
+     "source_url": "https://www.artsquest.org/event/sunrise-cries/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-2.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Joy and the Wildfire",
+   "home_base": "New York, NY",
+   "genre": "Indie rock",
+   "description": "New York indie-rock band that has played multiple Musikfest days in both 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-2.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-3.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Go Go Gadjet",
+   "home_base": "Philadelphia / Reading, PA",
+   "genre": "Party / cover band",
+   "description": "Regional party band booked for Musikfest's Irish Pub nights and for multi-night Musikfest Cafe runs.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-01-30",
+     "source_url": "https://www.artsquest.org/event/go-go-gadjet/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-01-31",
+     "source_url": "https://www.artsquest.org/event/go-go-gadjet-2/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    }
+   ]
+  },
+  {
+   "name": "After August",
+   "home_base": "Bethlehem, PA",
+   "genre": "Bluegrass / folk",
+   "description": "Bethlehem bluegrass-folk duo formed in 2025, mixing covers and songwriter material.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-16",
+     "source_url": "https://www.artsquest.org/event/after-august/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-6.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-19",
+     "source_url": "https://www.artsquest.org/event/after-august-2/"
+    }
+   ]
+  },
+  {
+   "name": "Andrew Tirado Trio",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Latin rock / funk",
+   "description": "Trio led by guitarist-singer Andrew Tirado, mixing Latin, rock and funk (his solo sets are not counted).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-5.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Philadelphia Funk Authority",
+   "home_base": "Hatboro, PA",
+   "genre": "Funk / party band",
+   "description": "Large horn-driven funk and party band from the Philly suburbs; a recurring Musikfest and Musikfest Cafe booking.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-01",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug1.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-01-02",
+     "source_url": "https://www.artsquest.org/event/philadelphia-funk-authority/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-31",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-july-31.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Ava Hoffman Band",
+   "home_base": "Nazareth, PA",
+   "genre": "Cover / pop",
+   "description": "Band led by young Lehigh Valley singer Ava Hoffman, playing crowd-pleasing covers across generations.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-06-13",
+     "source_url": "https://www.artsquest.org/event/ava-hoffman-band/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Zaire",
+   "home_base": "Phillipsburg, NJ",
+   "genre": "Classic rock covers",
+   "description": "Long-running classic-rock band known for three-part harmonies, playing as an acoustic trio or a four-piece; active in the Lehigh Valley since 2009.",
+   "links": {
+    "website": "https://www.reverbnation.com/zaireband",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-07-31",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-5.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-11-06",
+     "source_url": "https://www.artsquest.org/event/zaire/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-26",
+     "source_url": "https://www.artsquest.org/event/zaire-2/"
+    }
+   ]
+  },
+  {
+   "name": "The BC Combo",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Blues / jazz / swing / R&B",
+   "description": "Veteran blues band fronted by Bev Conklin, which grew out of BC & The Blues Crew (1992); released 'Glass Half Full' on MoMojo Records in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-06-19",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-17",
+     "source_url": "https://www.artsquest.org/event/the-bc-combo/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-31",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-july-31.pdf"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-08-20",
+     "source_url": "https://www.liveatfalls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Stacy Gabel Band",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Pop / singer-songwriter",
+   "description": "Band and trio lineups behind award-winning Lehigh Valley songwriter Stacy Gabel (her solo dates are not counted).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-05",
+     "source_url": "https://www.artsquest.org/event/stacy-gabel-trio/"
+    }
+   ]
+  },
+  {
+   "name": "Island Time",
+   "home_base": "Macungie / Lehigh Valley, PA",
+   "genre": "Trop rock / yacht rock party band",
+   "description": "Lehigh Valley trop-rock band (Buffett to Zac Brown); also plays a smaller 'Island Time Lite' lineup on SteelStacks' Williams Brew Stage.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-04-11",
+     "source_url": "https://www.artsquest.org/event/island-time-lite/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-08",
+     "source_url": "https://www.artsquest.org/event/island-time-lite-2/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-9.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-11-14",
+     "source_url": "https://www.artsquest.org/event/island-time-lite-3/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-11",
+     "source_url": "https://www.artsquest.org/event/island-time-lite-4/"
+    }
+   ]
+  },
+  {
+   "name": "Reservoir Hill",
+   "home_base": "Allentown, PA",
+   "genre": "Country",
+   "description": "Allentown country band on the 2026 Musikfest and Live at the Falls bills.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-07-16",
+     "source_url": "https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-2.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Stefanie Johnson Duo",
+   "home_base": "Allentown, PA",
+   "genre": "Country-pop / folk",
+   "description": "Duo and band settings for Allentown singer Stefanie Johnson.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-2.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Amish Outlaws",
+   "home_base": "Lancaster, PA",
+   "genre": "Party / cover band",
+   "description": "Lancaster's well-known party band, whose gimmick is former Amish members playing pop and rock hits.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-04",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-4.pdf"
+    }
+   ]
+  },
+  {
+   "name": "DMC Duo",
+   "home_base": "Allentown, PA",
+   "genre": "Country / covers",
+   "description": "Duo of Darrell (guitar, vocals) and Marisa (vocals, percussion), veterans of many local bands who teamed up in 2017.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-10-31",
+     "source_url": "https://www.artsquest.org/event/dmc-duo/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-5.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-10-17",
+     "source_url": "https://www.artsquest.org/event/dmc-duo-2/"
+    }
+   ]
+  },
+  {
+   "name": "Jimmy and the Parrots",
+   "home_base": "Bloomsbury, NJ",
+   "genre": "Jimmy Buffett tribute / party",
+   "description": "Buffett-style party band from Hunterdon County, NJ, including a holiday show at Musikfest Cafe.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-5.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-26",
+     "source_url": "https://www.artsquest.org/event/jimmy-and-the-parrots-a-parrot-holiday-party/"
+    }
+   ]
+  },
+  {
+   "name": "The ColourSound",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Rock",
+   "description": "Lehigh Valley/Poconos rock band formed in 2004 that started out playing originals.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-15",
+     "source_url": "https://www.artsquest.org/event/the-coloursound/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    }
+   ]
+  },
+  {
+   "name": "KOSER",
+   "home_base": "Philadelphia, PA",
+   "genre": "Alternative rock",
+   "description": "Philadelphia alt-rock band with gritty guitars and soulful vocals; played Musikfest 2025 and 2026 and Levitt SteelStacks.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-06-05",
+     "source_url": "https://www.artsquest.org/event/koser/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Igor and the Red Elvises",
+   "home_base": "Santa Monica / Los Angeles, CA",
+   "genre": "Surf rock / rockabilly",
+   "description": "Long-touring LA party band mixing surf, rockabilly and Russian folk; a club-level touring act that returns to Musikfest every year.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-01",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug1.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-7.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Slicked Up Nines",
+   "home_base": "Bethlehem, PA",
+   "genre": "Jazz / swing",
+   "description": "Bethlehem jazz band, booked on multiple Musikfest days.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Big Bone Daddy",
+   "home_base": "Eastern PA / Western NJ",
+   "genre": "Rock & blues",
+   "description": "Rock-and-blues club band from the PA/NJ border region.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-04",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug9.pdf"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-04",
+     "source_url": "https://www.artsquest.org/event/big-bone-daddy/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Wood Flower",
+   "home_base": "Reading, PA",
+   "genre": "Folk",
+   "description": "Reading-based folk act (the Musikfest listing credits Insun Park among its members), playing Godfrey Daniels and Musikfest.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-09-12",
+     "source_url": "https://godfreydaniels.org/event/wood-flower-september-12-2025/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug1.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Lindsay Jordan & The Gypsies",
+   "home_base": "Mount Bethel, PA / Kendall Park, NJ",
+   "genre": "Rock / pop / blues",
+   "description": "Rock band built around Lindsay Jordan's vocals, blending rock, pop, blues and alt-rock.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-16",
+     "source_url": "https://www.artsquest.org/event/lindsay-jordan-the-gypsies/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-31",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-nothside-july-31.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Cunningham & Associates",
+   "home_base": "Bethlehem, PA",
+   "genre": "Rolling Stones / Springsteen tribute",
+   "description": "Bethlehem cover band doing tribute sets to the Rolling Stones and Bruce Springsteen.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug9.pdf"
+    },
+    {
+     "venue": "ArtsQuest / SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-10-24",
+     "source_url": "https://www.artsquest.org/event/cunningham-associates-tribute-to-the-rolling-stones-bruce-springsteen/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-31",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-nothside-july-31.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Rio Bossa",
+   "home_base": "Easton, PA",
+   "genre": "Latin jazz / bossa nova",
+   "description": "Easton group playing traditional Latin, jazz, popular and original music with bossa and Latin rhythms.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Porters' Pub",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-09-27",
+     "source_url": "https://web.archive.org/web/20251012175023/https://eastonpost.com/event/rio-bassa-at-porters-pub/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug1.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-20",
+     "source_url": "https://www.artsquest.org/event/rio-bossa/"
+    }
+   ]
+  },
+  {
+   "name": "Yacht Lobsters",
+   "home_base": "New York, NY",
+   "genre": "Yacht-rock tribute",
+   "description": "New York soft-rock tribute band with repeat Musikfest Cafe headline nights.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-02-13",
+     "source_url": "https://www.artsquest.org/event/yacht-lobsters-soft-rock-of-the-70s-and-80s/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-11-28",
+     "source_url": "https://www.artsquest.org/event/yacht-lobsters-soft-rock-at-its-tastiest/"
+    }
+   ]
+  },
+  {
+   "name": "The BriTles",
+   "home_base": "Pittstown, NJ",
+   "genre": "Acoustic Beatles tribute",
+   "description": "Acoustic Beatles tribute covering hits and deep cuts; a frequent Williams Brew Stage booking.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-01-17",
+     "source_url": "https://www.artsquest.org/event/the-britles-3/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-02-20",
+     "source_url": "https://www.artsquest.org/event/the-britles-2/"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-04-17",
+     "source_url": "https://www.artsquest.org/event/the-britles/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug1.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Keystone Breakers",
+   "home_base": null,
+   "genre": "Roots country / southern blues / outlaw country",
+   "description": "Roots-country and outlaw band that has played Godfrey Daniels around Halloween two years running and closed Live at the Falls 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-08-28",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-10-30",
+     "source_url": "https://godfreydaniels.org/event/the-keystone-breakers-october-30-2025/"
+    },
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-10-31",
+     "source_url": "https://godfreydaniels.org/event/the-keystone-breakers-october-31-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Gruvitune",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "R&B / soul / funk / blues covers",
+   "description": "Horn-backed R&B, soul and funk band that opened Live at the Falls in 2025 and returned in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-06-05",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-08-13",
+     "source_url": "https://www.liveatfalls.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Few Good Men",
+   "home_base": null,
+   "genre": "Old-school R&B (70s-90s)",
+   "description": "Old-school R&B band covering the 70s through the 90s.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Rivals Sports Bar",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-03-22",
+     "source_url": "https://web.archive.org/web/20250325144339/https://eastonpost.com/event/a-few-good-men-at-rivals/"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-06-26",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dr. Dick Band",
+   "home_base": null,
+   "genre": "Bar band / covers",
+   "description": "Easton-area bar band seen at Rivals and The Coop.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "The Coop Sports Bar & Kitchen",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-01-23",
+     "source_url": "https://web.archive.org/web/20260115233905/https://eastonpost.com/event/dr-dick-band-the-coop/"
+    },
+    {
+     "venue": "Rivals Sports Bar",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-05-30",
+     "source_url": "https://web.archive.org/web/20260520202425/https://eastonpost.com/event/dr-dick-band-rivals/"
+    }
+   ]
+  },
+  {
+   "name": "Stef & Steve",
+   "home_base": null,
+   "genre": "Acoustic duo",
+   "description": "Acoustic duo with recurring dates at Porters' Pub in downtown Easton.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Porters' Pub",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-10-24",
+     "source_url": "https://web.archive.org/web/20251006132321/https://eastonpost.com/event/stef-steve-at-porters-pub/"
+    },
+    {
+     "venue": "Porters' Pub",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-04-04",
+     "source_url": "https://web.archive.org/web/20260313142455/https://eastonpost.com/event/stef-steve-at-porters/"
+    }
+   ]
+  },
+  {
+   "name": "The Kels",
+   "home_base": null,
+   "genre": "Pub band",
+   "description": "Band with return engagements at Porters' Pub, Easton.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Porters' Pub",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-03-28",
+     "source_url": "https://web.archive.org/web/20250209114441/https://eastonpost.com/event/the-kels-at-porters-pub-march-28/"
+    },
+    {
+     "venue": "Porters' Pub",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-06-13",
+     "source_url": "https://web.archive.org/web/20260414002241/https://eastonpost.com/event/the-kels-return-to-porters-pub/"
+    }
+   ]
+  },
+  {
+   "name": "Deal",
+   "home_base": null,
+   "genre": "Grateful Dead tribute",
+   "description": "Grateful Dead tribute band that opened the 2026 Easton Public Market 'Market After Hours' series and played Live at the Falls.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Easton Public Market (Market After Hours)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-04-18",
+     "source_url": "https://web.archive.org/web/20260413235138/https://eastonpost.com/event/market-after-hours-deal/"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-09-03",
+     "source_url": "https://www.liveatfalls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Bunchafunk",
+   "home_base": "Reading, PA",
+   "genre": "Funk / party",
+   "description": "Reading funk and party band, at Musikfest in 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-2.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Dracu-Las",
+   "home_base": "Jersey City, NJ",
+   "genre": "Alternative / surf rock",
+   "description": "Jersey City band that played Musikfest 2026 and SteelStacks' Surf Rock Day.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-2.pdf"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.artsquest.org/event/the-dracu-las/"
+    }
+   ]
+  },
+  {
+   "name": "Joe Stanky & the Cadets",
+   "home_base": "Nanticoke, PA",
+   "genre": "Polka",
+   "description": "Northeastern PA polka band and a Musikfest polka-tent regular.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Meet the Mayor",
+   "home_base": "Bethlehem, PA",
+   "genre": "Jam / funk",
+   "description": "Bethlehem jam-funk band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Sun Bus",
+   "home_base": "Bethlehem, PA",
+   "genre": "Surf / psych / garage rock",
+   "description": "Bethlehem project started in 2020 by multi-instrumentalists Egan Miller and Erik Santana, mixing surf, psych, garage and exotica.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+    },
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.artsquest.org/event/sun-bus/"
+    }
+   ]
+  },
+  {
+   "name": "Matt Freedman & The Herd",
+   "home_base": "Bucks County, PA",
+   "genre": "Country",
+   "description": "Bucks County country band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Shakedown Citi",
+   "home_base": "New York, NY",
+   "genre": "Grateful Dead tribute / jam",
+   "description": "New York Grateful Dead tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-25",
+     "source_url": "https://www.artsquest.org/event/shakedown-citi-music-of-the-grateful-dead/"
+    }
+   ]
+  },
+  {
+   "name": "The Muckers",
+   "home_base": "Atlanta, GA",
+   "genre": "Celtic rock / Irish pub",
+   "description": "Atlanta Celtic-rock band booked for Musikfest's Irish Pub nights in both years.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Rogue Diplomats",
+   "home_base": "Bethlehem, PA",
+   "genre": "Irish pub / folk",
+   "description": "Bethlehem Irish-pub folk band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Avenue 16",
+   "home_base": "New Jersey",
+   "genre": "Party / cover band",
+   "description": "New Jersey party band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Fig for a Kiss",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Celtic",
+   "description": "Lehigh Valley Celtic band; also opened for Carbon Leaf at Union Terrace Amphitheater in Aug 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-04",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    },
+    {
+     "venue": "Union Terrace Amphitheater",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-21",
+     "source_url": "https://www.artsquest.org/event/carbon-leaf-with-fig-for-a-kiss/"
+    }
+   ]
+  },
+  {
+   "name": "Attack Dog",
+   "home_base": "Philadelphia, PA",
+   "genre": "Alternative rock",
+   "description": "Philadelphia alt-rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Yesterday's Gone",
+   "home_base": "Doylestown, PA",
+   "genre": "Fleetwood Mac tribute",
+   "description": "Bucks County Fleetwood Mac tribute.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-04",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-4.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Castaway Band",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Party / cover band",
+   "description": "Lehigh Valley party band, also on Phillipsburg's summer concert series.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-5.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Wonton Soups",
+   "home_base": "Bethlehem, PA",
+   "genre": "Funk / ska / swing / pop",
+   "description": "Bethlehem band mixing funk, ska, swing, pop and big-band influences.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-04",
+     "source_url": "https://www.artsquest.org/event/the-wonton-soups/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-5.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Garden State Radio",
+   "home_base": "Ocean County, NJ",
+   "genre": "Party / cover band",
+   "description": "Jersey Shore party band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-5.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Lou Franco Project",
+   "home_base": "Stroudsburg, PA",
+   "genre": "Rock",
+   "description": "Poconos rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-04",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-5.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Twisted Times",
+   "home_base": "Clinton, NJ",
+   "genre": "Rock",
+   "description": "Hunterdon County, NJ rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-5.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Whiskey Therapy",
+   "home_base": "Collegeville, PA",
+   "genre": "Party rock",
+   "description": "Southeast PA five-piece party-rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-09",
+     "source_url": "https://www.artsquest.org/event/whiskey-therapy-band/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Toolshed Jack",
+   "home_base": "Northeast PA",
+   "genre": "Party band",
+   "description": "Northeastern PA party band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Deb Callahan Band",
+   "home_base": "Philadelphia, PA",
+   "genre": "Blues / funk",
+   "description": "Philadelphia blues band led by singer Deb Callahan.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-04",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    }
+   ]
+  },
+  {
+   "name": "TIOGA",
+   "home_base": "Allentown / Philadelphia, PA",
+   "genre": "Indie rock",
+   "description": "Indie-rock band with roots in Allentown and Philadelphia.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-6.pdf"
+    }
+   ]
+  },
+  {
+   "name": "70s Flashback Band",
+   "home_base": "Conyngham, PA",
+   "genre": "70s party covers",
+   "description": "Northeastern PA band playing 70s hits.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Swingtime Dolls",
+   "home_base": "Bethlehem, PA",
+   "genre": "1940s-60s swing vocal group",
+   "description": "Bethlehem retro vocal group singing swing-era and 1940s-60s material.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-25",
+     "source_url": "https://www.artsquest.org/event/the-swingtime-dolls/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Chasing Daylight",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Indie-pop / soul; Coldplay tribute",
+   "description": "Lehigh Valley indie-pop band that also performs 'Up and Up', a Coldplay tribute set.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-04",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-01-03",
+     "source_url": "https://www.artsquest.org/event/tributes-to-u2-and-coldplay-presented-by-mysterious-ways-chasing-daylight/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Atlassian",
+   "home_base": "Bethlehem, PA",
+   "genre": "Indie rock",
+   "description": "Bethlehem indie-rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Joe Miralles Trio",
+   "home_base": "Philadelphia, PA",
+   "genre": "Rock",
+   "description": "Philadelphia rock trio.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Truants",
+   "home_base": "New York, NY",
+   "genre": "Tribute",
+   "description": "New York tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Brit Pack",
+   "home_base": "New York, NY",
+   "genre": "British Invasion tribute",
+   "description": "NYC British Invasion tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-7.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-10-30",
+     "source_url": "https://www.artsquest.org/event/the-brit-pack-british-invasion-and-more/"
+    }
+   ]
+  },
+  {
+   "name": "Flirtin' with the Mob",
+   "home_base": "Coopersburg, PA",
+   "genre": "Dance / show band with horns",
+   "description": "Lehigh Valley dance and show band with a full horn section.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-7.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-15",
+     "source_url": "https://www.artsquest.org/event/flirtin-with-the-mob/"
+    }
+   ]
+  },
+  {
+   "name": "BC Blue",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Blues",
+   "description": "All-blues Lehigh Valley band formed in 2022 with Bev Conklin and other regional veterans.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-04-04",
+     "source_url": "https://www.artsquest.org/event/bc-blue/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Just",
+   "home_base": "Bethlehem, PA",
+   "genre": "Indie rock",
+   "description": "Bethlehem indie-rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Chasing Stars",
+   "home_base": "Elmwood Park, NJ",
+   "genre": "Southern rock",
+   "description": "New Jersey southern-rock trio with a modern heavy edge.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-04",
+     "source_url": "https://www.artsquest.org/event/chasing-stars/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "JL Duo",
+   "home_base": "Lansdale, PA",
+   "genre": "Jazz",
+   "description": "Jazz duo of Jackie and Les.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-06-05",
+     "source_url": "https://www.artsquest.org/event/jl-duo/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Hunkajunk",
+   "home_base": "Allentown, PA",
+   "genre": "Retro funk / party",
+   "description": "Allentown funk band (parent group of Honey & Nutz) playing retro funk and classic covers.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-06-25",
+     "source_url": "https://www.artsquest.org/event/hunkajunk/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Melody Cruz and The Keystones",
+   "home_base": "Catasauqua / Bangor, PA",
+   "genre": "Pop",
+   "description": "Band setting for Allentown singer Melody Cruz (her solo dates are not counted).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Valley Collective",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Contemporary Christian / pop",
+   "description": "Lehigh Valley contemporary band playing uplifting, faith-themed music.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-25",
+     "source_url": "https://www.artsquest.org/event/the-valley-collective/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Professor Louie & the Crowmatix",
+   "home_base": "Woodstock, NY",
+   "genre": "Rock / Americana / blues",
+   "description": "Woodstock roots band led by Aaron 'Professor Louie' Hurwitz, who worked with The Band; a club-level touring act.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-01-18",
+     "source_url": "https://godfreydaniels.org/event/professor-louie-and-the-crowmatix-january-18-2025/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Combo Melaza",
+   "home_base": "Philadelphia, PA",
+   "genre": "Latin",
+   "description": "Philadelphia Latin band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Space Kamp",
+   "home_base": "Allentown, PA",
+   "genre": "Reggae / world",
+   "description": "Allentown reggae band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-05",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug5.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Anthem: A Tribute to Rush",
+   "home_base": "Bethlehem / Lehigh Valley, PA",
+   "genre": "Rush tribute",
+   "description": "Lehigh Valley Rush tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "New Normal",
+   "home_base": "Bethlehem, PA",
+   "genre": "Party / cover band",
+   "description": "Bethlehem party band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-04",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug1.pdf"
+    }
+   ]
+  },
+  {
+   "name": "One Acre West",
+   "home_base": "State College, PA",
+   "genre": "Americana",
+   "description": "Americana duo project of Kristi Jean and Steven Branstetter.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-23",
+     "source_url": "https://www.artsquest.org/event/one-acre-west/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug1.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Herencia Jibara",
+   "home_base": "Bethlehem, PA",
+   "genre": "Puerto Rican folk (musica tipica)",
+   "description": "Bethlehem group that keeps Puerto Rican jibaro folk music alive.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-06-26",
+     "source_url": "https://www.artsquest.org/event/herencia-jibara/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug1.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Grupo Hipnosis",
+   "home_base": "Vineland, NJ",
+   "genre": "Latin",
+   "description": "Latin dance band led by Adrian Anthony.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-06-27",
+     "source_url": "https://www.artsquest.org/event/grupo-hipnosis/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-31",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-nothside-july-31.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Totally Taboo",
+   "home_base": "Jim Thorpe, PA",
+   "genre": "Party / cover band",
+   "description": "Carbon County party band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-3.pdf"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-14",
+     "source_url": "https://www.artsquest.org/event/totally-taboo/"
+    }
+   ]
+  },
+  {
+   "name": "Rubix Kube",
+   "home_base": "New York, NY",
+   "genre": "80s tribute",
+   "description": "New York 80s tribute band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-03-13",
+     "source_url": "https://www.artsquest.org/event/rubix-kube-the-galaxys-most-excellent-80s-tribute-band/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-3.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Frost Duo",
+   "home_base": "Scranton, PA",
+   "genre": "Jazz",
+   "description": "Scranton jazz duo (not related to Langan, Frost & Wane).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-5.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-05",
+     "source_url": "https://www.artsquest.org/event/the-frost-duo/"
+    }
+   ]
+  },
+  {
+   "name": "The Warped Band",
+   "home_base": "Lancaster, PA / Long Island, NY",
+   "genre": "Warped Tour / emo-punk tribute",
+   "description": "Tribute band covering the Warped Tour era of pop-punk and emo.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-6.pdf"
+    }
+   ]
+  },
+  {
+   "name": "C'est La Vie",
+   "home_base": "Bethlehem, PA",
+   "genre": "Gypsy jazz",
+   "description": "Bethlehem four-piece gypsy-jazz band in the Django Reinhardt / Stephane Grappelli tradition.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-02-14",
+     "source_url": "https://www.artsquest.org/event/cest-la-vie/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-6.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Bastard Bearded Irishmen",
+   "home_base": "Pittsburgh, PA",
+   "genre": "Irish rock / party",
+   "description": "Pittsburgh Irish party-rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "The Verdict",
+   "home_base": "Bethlehem, PA",
+   "genre": "Party / cover band",
+   "description": "Bethlehem party band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug9.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Common Bond",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Cover band",
+   "description": "Lehigh Valley cover band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug9.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-9.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Dirty Dollhouse",
+   "home_base": "Philadelphia / Newtown, PA",
+   "genre": "Alt-country / Americana",
+   "description": "Philadelphia-area alt-country band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug9.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug1.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Fusion Jazz Trio",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Jazz",
+   "description": "Lehigh Valley jazz trio.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-01",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug1.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug2.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Great White Caps",
+   "home_base": "Bethlehem, PA",
+   "genre": "Surf rock",
+   "description": "Bethlehem surf-rock band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.artsquest.org/event/the-great-white-caps/"
+    }
+   ]
+  },
+  {
+   "name": "The Discoteks",
+   "home_base": "Morrisville, PA",
+   "genre": "Disco / party",
+   "description": "Bucks County disco and party band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-12-27",
+     "source_url": "https://www.artsquest.org/event/the-discoteks/"
+    }
+   ]
+  },
+  {
+   "name": "RadioOne",
+   "home_base": "Bethlehem, PA",
+   "genre": "Party / cover band",
+   "description": "Bethlehem band formed about six years ago that has played more than seven Musikfest stages.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-southside-aug9.pdf"
+    },
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-03-21",
+     "source_url": "https://www.artsquest.org/event/radioone/"
+    }
+   ]
+  },
+  {
+   "name": "The Psycodelics",
+   "home_base": "Charleston, SC",
+   "genre": "Funk / soul",
+   "description": "Charleston funk and soul band.",
+   "links": {
+    "website": "https://psycodelics.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-04",
+     "source_url": "https://www.artsquest.org/event/the-psycodelics/"
+    }
+   ]
+  },
+  {
+   "name": "Burn The Jukebox",
+   "home_base": "Wilkes-Barre, PA",
+   "genre": "Cover band",
+   "description": "Wilkes-Barre cover band.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-07",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug7.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-10-17",
+     "source_url": "https://www.artsquest.org/event/burnthejukebox/"
+    }
+   ]
+  },
+  {
+   "name": "The Ledbetters",
+   "home_base": null,
+   "genre": "Pearl Jam tribute",
+   "description": "Pearl Jam tribute band that co-headlines with Superunknown at Musikfest Cafe.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-11-21",
+     "source_url": "https://www.artsquest.org/event/the-ledbetters-superunknown-tributes-to-pearl-jam-chris-cornell-1/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-04",
+     "source_url": "https://www.artsquest.org/event/the-ledbetters-superunknown-tributes-to-pearl-jam-chris-cornell/"
+    }
+   ]
+  },
+  {
+   "name": "Superunknown",
+   "home_base": null,
+   "genre": "Soundgarden / Chris Cornell tribute",
+   "description": "Soundgarden and Chris Cornell tribute band, paired with The Ledbetters.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-11-21",
+     "source_url": "https://www.artsquest.org/event/the-ledbetters-superunknown-tributes-to-pearl-jam-chris-cornell-1/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-04",
+     "source_url": "https://www.artsquest.org/event/the-ledbetters-superunknown-tributes-to-pearl-jam-chris-cornell/"
+    }
+   ]
+  },
+  {
+   "name": "The Nashville Nights Band",
+   "home_base": null,
+   "genre": "90s country tribute",
+   "description": "90s-country tribute band with repeat Musikfest Cafe dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-11-22",
+     "source_url": "https://www.artsquest.org/event/the-nashville-nights-band-the-ultimate-90s-country-experience/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-10-10",
+     "source_url": "https://www.artsquest.org/event/the-nashville-nights-band-the-ultimate-90s-country-experience-2/"
+    }
+   ]
+  },
+  {
+   "name": "Magical Mystery Doors",
+   "home_base": null,
+   "genre": "Beatles / Zeppelin / Doors tribute",
+   "description": "Multi-act tribute show covering the Beatles, Led Zeppelin and the Doors.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-12-12",
+     "source_url": "https://www.artsquest.org/event/magical-mystery-doors-beatles-zeppelin-doors-tribute/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-12-13",
+     "source_url": "https://www.artsquest.org/event/magical-mystery-doors-beatles-zeppelin-doors-tribute-2/"
+    }
+   ]
+  },
+  {
+   "name": "Boat House Row",
+   "home_base": null,
+   "genre": "Yacht rock tribute",
+   "description": "Yacht-rock tribute band from the Philadelphia area.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-11-14",
+     "source_url": "https://www.artsquest.org/event/boat-house-row-yacht-rock-experience/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-11-15",
+     "source_url": "https://www.artsquest.org/event/boat-house-row-yacht-rock-experience-2/"
+    }
+   ]
+  },
+  {
+   "name": "Haus of Monsters",
+   "home_base": null,
+   "genre": "Lady Gaga tribute",
+   "description": "Lady Gaga tribute band with live musicians and dancers.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-30",
+     "source_url": "https://www.artsquest.org/event/haus-of-monsters-americas-1-tribute-to-lady-gaga-1/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-11-06",
+     "source_url": "https://www.artsquest.org/event/the-lady-gaga-experience-featuring-haus-of-monsters/"
+    }
+   ]
+  },
+  {
+   "name": "Scythian",
+   "home_base": "Washington, DC area",
+   "genre": "Celtic / Eastern European / Appalachian roots",
+   "description": "High-energy roots band drawing on Celtic, Eastern European and Appalachian music; tours widely at club and festival level, with a yearly holiday show at Musikfest Cafe.",
+   "links": {
+    "website": "https://www.scythianmusic.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-06-12",
+     "source_url": "https://www.artsquest.org/event/scythian/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-12",
+     "source_url": "https://www.artsquest.org/event/scythians-ugly-christmas-sweater-show/"
+    }
+   ]
+  },
+  {
+   "name": "Adam Ezra Group",
+   "home_base": "Boston, MA",
+   "genre": "Folk-rock / Americana",
+   "description": "Boston folk-rock band with a big grassroots touring following.",
+   "links": {
+    "website": "https://www.adamezra.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-06",
+     "source_url": "https://www.artsquest.org/event/adam-ezra-group/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-18",
+     "source_url": "https://www.artsquest.org/event/adam-ezra-group-2/"
+    }
+   ]
+  },
+  {
+   "name": "The Youngers",
+   "home_base": "Pennsylvania",
+   "genre": "Indie rock / Americana",
+   "description": "Pennsylvania indie-rock band with harmony vocals and classic American songwriting.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-05-31",
+     "source_url": "https://godfreydaniels.org/event/the-youngers-may-31-2025/"
+    },
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-22",
+     "source_url": "https://www.artsquest.org/event/the-youngers/"
+    }
+   ]
+  },
+  {
+   "name": "Clave Legacy",
+   "home_base": "Lehigh Valley, PA",
+   "genre": "Latin jazz / salsa",
+   "description": "Faith-based Latin-jazz and salsa band from the Lehigh Valley.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-12-20",
+     "source_url": "https://www.artsquest.org/event/silent-night-on-the-latin-side-with-clave-legacy-quintet/"
+    },
+    {
+     "venue": "Union Terrace Amphitheater",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-17",
+     "source_url": "https://www.artsquest.org/event/clave-legacy-with-sol-katana/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-05",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-5.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Goodnight Moonshine",
+   "home_base": null,
+   "genre": "Folk duo",
+   "description": "Folk duo of Molly Venter and Eric Merrill, with return dates at Godfrey Daniels.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-10-04",
+     "source_url": "https://godfreydaniels.org/event/goodnight-moonshine-october-4-2025/"
+    },
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-11-08",
+     "source_url": "https://godfreydaniels.org/event/goodnight-moonshine-november-8-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Newberry & Verch",
+   "home_base": null,
+   "genre": "Folk / fiddle duo",
+   "description": "Fiddle-and-songwriter folk duo who play Godfrey Daniels twice a year.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-02-07",
+     "source_url": "https://godfreydaniels.org/event/newberry-and-verch-february-7-2026/"
+    },
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-12-11",
+     "source_url": "https://godfreydaniels.org/event/newberry-and-verch-december-11-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Poor Man's Gambit",
+   "home_base": null,
+   "genre": "Celtic / folk",
+   "description": "Celtic-folk band with an annual March date at Godfrey Daniels.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-03-07",
+     "source_url": "https://godfreydaniels.org/event/poor-mans-gambit-march-7-2025/"
+    },
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-03-08",
+     "source_url": "https://godfreydaniels.org/event/poor-mans-gambit-march-8-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Mary Battiata & Little Pink",
+   "home_base": null,
+   "genre": "Alt-country / Americana",
+   "description": "Mary Battiata's alt-country band, which played Godfrey Daniels twice in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-02-15",
+     "source_url": "https://godfreydaniels.org/event/mary-battiata-little-pink-february-15-2025/"
+    },
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-10-11",
+     "source_url": "https://godfreydaniels.org/event/mary-battiata-little-pink-october-11-2025/"
+    }
+   ]
+  },
+  {
+   "name": "The Kennedys",
+   "home_base": null,
+   "genre": "Folk-rock duo",
+   "description": "Folk-rock husband-and-wife duo (Pete and Maura Kennedy) who played Godfrey Daniels in 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-04-18",
+     "source_url": "https://godfreydaniels.org/event/the-kennedys-30th-anniversary-april-18-2025/"
+    },
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-10-18",
+     "source_url": "https://godfreydaniels.org/event/the-kennedys-october-18-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Roi & The Secret People",
+   "home_base": "Easton, PA",
+   "genre": "Alt-rock originals",
+   "description": "High-energy original alt-rock band; played Live at the Falls and Godfrey Daniels in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-07-03",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-10-31",
+     "source_url": "https://godfreydaniels.org/event/roi-and-the-secret-people-october-31-2025/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-7.pdf"
+    }
+   ]
+  }
+ ],
+ "existing_matches": [
+  {
+   "name": "The Aardvarks",
+   "appearances": [
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-01",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug1.pdf"
+    },
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-11",
+     "source_url": "https://www.artsquest.org/event/the-aardvarks-9-11-26/"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-11-13",
+     "source_url": "https://www.artsquest.org/event/the-aardvarks-11-13-26/"
+    }
+   ]
+  },
+  {
+   "name": "Eighteenth Hour",
+   "appearances": [
+    {
+     "venue": "Godfrey Daniels",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-03-07",
+     "source_url": "https://godfreydaniels.org/event/eighteenth-hour-march-7-2026/"
+    }
+   ]
+  },
+  {
+   "name": "Smooth Retsina Glow",
+   "appearances": [
+    {
+     "venue": "Highmark Blue Shield Community Stage on the Air Products Town Square",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-24",
+     "source_url": "https://www.artsquest.org/event/smooth-retsina-glow-2/"
+    }
+   ]
+  },
+  {
+   "name": "Starting Tomorrow",
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-02-13",
+     "source_url": "https://www.artsquest.org/event/starting-tomorrow/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Lilly Moss & The Steel Ponies",
+   "appearances": [
+    {
+     "venue": "Porters' Pub",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-04-05",
+     "source_url": "https://web.archive.org/web/20250324130738/https://eastonpost.com/event/lilly-moss-at-porters-pub/"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-07-17",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-04",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug8.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-2.pdf"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-08-27",
+     "source_url": "https://www.liveatfalls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Billy Bauer Band",
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-04",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug4.pdf"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-06",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug6.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-07-31",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-nothside-july-31.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-03",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-3.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-9.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-09-18",
+     "source_url": "https://www.artsquest.org/event/billy-bauer-band-tribute-to-dave-matthews-band/"
+    }
+   ]
+  },
+  {
+   "name": "Hector Rosado y su Orquesta Hache",
+   "appearances": [
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-06-12",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Levitt Pavilion SteelStacks",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-06-26",
+     "source_url": "https://www.artsquest.org/event/hector-rosado-y-su-orq-hache/"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-07-30",
+     "source_url": "https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-8.pdf"
+    }
+   ]
+  },
+  {
+   "name": "Craig Thatcher Band",
+   "appearances": [
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2025-07-24",
+     "source_url": "https://web.archive.org/web/20250616152003/https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-03-14",
+     "source_url": "https://www.artsquest.org/event/craig-thatcher-band-the-music-of-eric-clapton/"
+    },
+    {
+     "venue": "Live at the Falls (Scott Park)",
+     "town": "Easton",
+     "state": "PA",
+     "date": "2026-07-23",
+     "source_url": "https://www.liveatfalls.com/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-02",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-northside-aug-2.pdf"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-09",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-9.pdf"
+    },
+    {
+     "venue": "Musikfest Café",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-27",
+     "source_url": "https://www.artsquest.org/event/craig-thatcher-band/"
+    }
+   ]
+  },
+  {
+   "name": "Steel Hemlock",
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-23",
+     "source_url": "https://www.artsquest.org/event/steel-hemlock/"
+    }
+   ]
+  },
+  {
+   "name": "The Swell",
+   "appearances": [
+    {
+     "venue": "Williams Brew Stage",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-23",
+     "source_url": "https://www.artsquest.org/event/the-swell/"
+    }
+   ]
+  },
+  {
+   "name": "Slingshot Dakota",
+   "appearances": [
+    {
+     "venue": "Musikfest 2025 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2025-08-03",
+     "source_url": "https://web.archive.org/web/2025/https://www.musikfest.org/wp-content/uploads/sites/6/2025/07/MF25-schedule-northside-aug3.pdf"
+    },
+    {
+     "venue": "Union Terrace Amphitheater",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-05-22",
+     "source_url": "https://www.artsquest.org/event/low-cut-connie-with-slingshot-dakota/"
+    },
+    {
+     "venue": "Musikfest 2026 (free stages)",
+     "town": "Bethlehem",
+     "state": "PA",
+     "date": "2026-08-06",
+     "source_url": "https://www.artsquest.org/app/uploads/2026/06/mf2026-schedule-southside-aug-6.pdf"
+    }
+   ]
+  }
+ ],
+ "langan_frost_wane": {
+  "found": false,
+  "appearances": [],
+  "notes": "No match in any crawled source: Godfrey Daniels 2025-26 (live and archived), the ArtsQuest/SteelStacks API, the Musikfest 2026 schedules (all days), the Musikfest 2025 schedules and A-Z list, or Live at the Falls. The only 'Frost' in the data is 'The Frost Duo', a Scranton jazz duo. The trio is active: Showpass lists a show at the Birdhouse Center for the Arts, 7 N Main St, Lambertville NJ, on 2026-10-23 with Na'Bodach (https://www.showpass.com/langanfrostwane/). That venue is outside this Lehigh/Easton crawl, and press from 2021 calls them Philadelphia-area."
+ },
+ "notes": "Coverage gaps: ArtsQuest's API only goes back to 2025-09-11, so Jan-Aug 2025 SteelStacks shows other than Musikfest are missing. Only 8 of 21 Musikfest 2025 daily schedules were recovered. Godfrey Daniels' archive depends on what Wayback captured. Phillipsburg (Shappell Park / Union Square concerts), One Centre Square (its site fails TLS), State Theatre, Wind Creek, the Allentown Fair and Hamilton St bars were not crawled in depth: no 2025-26 lineups were findable within budget, or the venues book only national acts. Easton bar coverage is a partial sample. Musikfest dates count separately for each day an act played (many acts play 2-3 days in one festival); same-day duplicate sets are collapsed. Dates on 2026-10-26 or later are scheduled, not yet played. Solo artists were excluded (e.g. Ted Donatelli, George Hrab, Pentley Holmes, Ella Bruch, Cass Noelle, Seth Witcher, John Gorka). For solo-plus-band names, only the band-billed dates are counted (Hannah Noel Band, Ava Hoffman Band, Stacy Gabel Band/Trio, Andrew Tirado Trio, Melody Cruz and The Keystones, Dina Hall Trio/Band). Also excluded: DJs, school and community ensembles, dance series (Ten Tiny Dances), Afrobeat Productions (a promoter), national headliners (Here Come the Mummies and others), and unclear acts (Danny's Caribbean Jam, Twelve String, Whiskey and Roses, Bren). Tribute and party bands are included as regional club-level bands. A few club-level national touring acts that meet the 2-date rule are included and flagged by home_base (Scythian, Adam Ezra Group, Igor and the Red Elvises, The Muckers, Professor Louie, Joy and the Wildfire, Goodnight Moonshine, Newberry & Verch, The Kennedys); drop them if they are too far afield. Links and images are mostly null: link lookups returned almost nothing for these small acts, and no Bandcamp or band-site og:image was verified, so none was added. Home bases come from the Musikfest schedule PDFs or venue blurbs. Musikfest 2025 source_url values point at the Wayback copies of the PDFs."
+}

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "NUSE",
+    "town": "Hillsborough",
+    "state": "NJ",
+    "genre": "Heavy metal / groove metal",
+    "description": "Veteran heavy metal band formed in Hillsborough in the 1990s, now a four-piece with Mike LaMastro, brothers Eric and Bob Mangual, and Mike Wilday. Their catalog runs from the early-2000s debut Hung Well to the Evilution EP series.",
+    "links": {
+      "facebook": "https://www.facebook.com/nuseband/"
+    },
+    "image": null,
+    "activity": "Released the Evilution Vol. 2 EP with lead single \"Malibu\" around July 2025 (covered Aug 11, 2025). A Patch piece also notes them as 95.9 The Rat's Jersey Rock Band of the Week.",
+    "evidence_url": "https://joyofviolentmovement.com/new-audio-new-jerseys-nuse-shares-a-gritty-mosh-pit-friendly-ripper/"
+  },
+  {
+    "name": "Black Cordova",
+    "town": "Hillsborough",
+    "state": "NJ",
+    "genre": "Instrumental surf / guitar rock",
+    "description": "Instrumental guitar act from Hillsborough Township playing surf, spooky soundtrack-style and theme-music rock. It releases through Lump'N'Loaf Records, a Central Jersey musicians' collective.",
+    "links": {
+      "bandcamp": "https://blackcordova.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0041480775_10.jpg",
+    "activity": "Released the single \"Theme from Lady Grimoire\" on Bandcamp on Oct 27, 2025.",
+    "evidence_url": "https://blackcordova.bandcamp.com"
+  },
+  {
+    "name": "Bryan Hansen Band",
+    "town": "Somerville",
+    "state": "NJ",
+    "genre": "Rock / funk",
+    "description": "Rock-and-funk band led by guitarist-singer Bryan Hansen, based in his hometown of Somerville. Their album Jammin with Dr. Fong includes the single \"Death of a Yes Man\" with guest Jeff Coffin, and they have played Somerville's Division Street summer stage.",
+    "links": {
+      "website": "https://www.bryanhansenband.com",
+      "facebook": "https://www.facebook.com/bryanhansenband",
+      "instagram": "https://www.instagram.com/bryanhansenband",
+      "spotify": "https://open.spotify.com/artist/0rbSji6eTKkrNO4ZJ3rShT",
+      "tiktok": "https://www.tiktok.com/@bryan_hansen_band"
+    },
+    "image": "https://images.zoogletools.com/s:bzglfiles/u/209673/fa8db1ea97419efd073738cb8f0c1ceb4b54af50/original/original-photo.jpg/!!/b%3AW1sicmVzaXplIiwxODAwXSxbIm1heCJdLFsid2UiXV0%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+    "activity": "WEAK: Bandsintown listed an Apr 17, 2025 show at Hailey's Harp & Pub in Metuchen under the band's name, but it was billed as a solo acoustic set. Their own site lists no upcoming shows. The Somerville base comes from a 2023 New Jersey Stage article.",
+    "evidence_url": "https://www.bandsintown.com/e/106673913-bryan-hansen-band-at-hailey%27s-harp-and-pub"
+  }
+]

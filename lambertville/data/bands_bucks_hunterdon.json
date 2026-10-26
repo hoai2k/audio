@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Kevin Rovner Band",
+    "town": "New Hope",
+    "state": "PA",
+    "genre": "Funk / groove rock",
+    "description": "A four-piece groove band that grew out of the John & Peter's scene, where it began as the club's go-to fill-in act in 2016. Its debut live album, Live in New Hope, came out in 2025.",
+    "links": {
+      "spotify": "https://open.spotify.com/album/7ijbhexXtRk7suUIU6SaIe",
+      "youtube": "https://youtu.be/_qFLLf8qEWE"
+    },
+    "image": "https://static.liveforlivemusic.com/files/2025/04/kevin-rovner-live-in-new-hope.jpg",
+    "activity": "Played John & Peter's, New Hope, July 11, 2026",
+    "evidence_url": "https://www.johnandpeters.com/api/events"
+  },
+  {
+    "name": "The Invitational",
+    "town": "New Hope",
+    "state": "PA",
+    "genre": "Rock (rotating house band)",
+    "description": "A revolving lineup of local and touring pros that has held a Wednesday-night residency at John & Peter's for years. Guest players drop in often, so no two nights are the same.",
+    "links": {
+      "youtube": "https://www.youtube.com/watch?v=HfWZuXgj6Ns"
+    },
+    "image": "https://www.johnandpeters.com/images/the-INVITATIONAL_logo-1759942561117.png",
+    "activity": "Weekly Wednesday shows at John & Peter's through Oct 2026 (Oct 1, 8, 15, 22, 29)",
+    "evidence_url": "https://www.johnandpeters.com/api/events"
+  },
+  {
+    "name": "Those Looks",
+    "town": "Lambertville",
+    "state": "NJ",
+    "genre": "Dream pop / indie rock",
+    "description": "A Lambertville four-piece formed in 2018 that mixes dreamy, reverb-heavy pop with grunge, surf and country touches. It released the album Cults Near Me in 2022 and the EP Passing Through in 2025.",
+    "links": {
+      "facebook": "https://www.facebook.com/thoselooks/",
+      "spotify": "https://open.spotify.com/artist/5j15NIjBNbS7Zm3it4owVx",
+      "youtube": "https://youtu.be/LWM8uwLkAs4"
+    },
+    "image": "https://www.johnandpeters.com/images/those-looks-1777643357855.jpg",
+    "activity": "Played John & Peter's, New Hope, May 10, 2026 (also Dec 2025)",
+    "evidence_url": "https://www.johnandpeters.com/api/events"
+  },
+  {
+    "name": "Gobot",
+    "town": "Titusville (Hopewell Township)",
+    "state": "NJ",
+    "genre": "Rock",
+    "description": "A rock trio from Titusville started by members of the local bands Sage, Mixxtape and Crucial. It presents itself as a champion of human-made rock and roll.",
+    "links": {},
+    "image": "https://www.johnandpeters.com/images/Screenshot-2026-10-01-at-5.41.32-PM-1790890996396.png",
+    "activity": "Recurring John & Peter's dates Oct 7, Nov 4 and Dec 23, 2026; Dharma Bums, New Hope, Nov 25, 2026",
+    "evidence_url": "https://dbums.seatengine-sites.com/events/145561"
+  },
+  {
+    "name": "Wineskin",
+    "town": "Doylestown area (Bucks County)",
+    "state": "PA",
+    "genre": "Rock / Southern-tinged jam rock",
+    "description": "A five-piece Bucks County rock band whose sound runs from slow country ballads to heavy, riff-driven jams. It is often compared to Widespread Panic and Gov't Mule.",
+    "links": {},
+    "image": null,
+    "activity": "Pre-Thanksgiving show with Gobot at Dharma Bums, New Hope, Nov 25, 2026",
+    "evidence_url": "https://dbums.seatengine-sites.com/events/145561"
+  },
+  {
+    "name": "Slow Noche",
+    "town": "New Hope",
+    "state": "PA",
+    "genre": "Instrumental Latin / surf noir",
+    "description": "A New Hope trio that plays original instrumentals with Latin, island and noir flavors. Its moody, cinematic sound owes something to Marc Ribot and Big Lazy.",
+    "links": {
+      "youtube": "https://www.youtube.com/@slownoche5496"
+    },
+    "image": null,
+    "activity": "Opened for Big Lazy at John & Peter's in March 2026; headlining Dharma Bums, New Hope, Dec 3, 2026",
+    "evidence_url": "https://dbums.seatengine-sites.com/events/144646"
+  },
+  {
+    "name": "The New Hope Nonet",
+    "town": "New Hope",
+    "state": "PA",
+    "genre": "Jazz (large ensemble)",
+    "description": "A nine-piece jazz group led by arranger and tenor saxophonist Mike Kaplan. It plays fresh arrangements of Ellington, Mingus, Monk, Shorter, Sun Ra and others.",
+    "links": {},
+    "image": null,
+    "activity": "Dharma Bums, New Hope, Nov 22, 2026, with a return date Jan 24, 2027",
+    "evidence_url": "https://dbums.seatengine-sites.com/events/142814"
+  },
+  {
+    "name": "The Real Fugitives",
+    "town": "Langhorne",
+    "state": "PA",
+    "genre": "Classic rock (originals and covers)",
+    "description": "A horn-backed rock band led by songwriter Larry Feldman that mixes its own songs with reworked classic-rock covers. It plays regularly around Lower Bucks and New Hope.",
+    "links": {
+      "website": "https://www.realfugitivesband.com/",
+      "youtube": "https://www.youtube.com/channel/UChK7lzPOXW3iKUqsU3ylwRg",
+      "facebook": "https://www.facebook.com/profile.php?id=61573918717828"
+    },
+    "image": "https://www.johnandpeters.com/images/The-Real-Fugitives-1772487468001.jpg",
+    "activity": "John & Peter's Sept 19, 2026; Fran's Pub, New Hope, Oct 17, 2026; John & Peter's Dec 19, 2026",
+    "evidence_url": "https://www.reverbnation.com/therealfugitives/events"
+  },
+  {
+    "name": "The Kelly Jax Band",
+    "town": "Upper Bucks County (Quakertown area)",
+    "state": "PA",
+    "genre": "Rock",
+    "description": "A rock trio fronted by Kelly Jax, who sings while playing drums, with Marc Jaxheimer on guitar. Based in North Bucks near the Lehigh Valley.",
+    "links": {
+      "website": "https://kellyjax.com",
+      "youtube": "https://www.youtube.com/@KellyJax"
+    },
+    "image": "https://kellyjax.com/wp-content/uploads/2025/09/cropped-cropped-TheKellyJaxBand_KellyMarc_Instruments_Smoke_Orange-e1758505646357.png",
+    "activity": "Played John & Peter's Jan and Apr 2026; TGI Fridays, Quakertown, Dec 12, 2026",
+    "evidence_url": "https://kellyjax.com"
+  },
+  {
+    "name": "Cherry Lane Band",
+    "town": "Doylestown",
+    "state": "PA",
+    "genre": "Rock / R&B cover band with horns",
+    "description": "A Doylestown band with a horn section that has played rock and soul covers for more than 20 years. Its sets run from Chicago and Steely Dan to Bruno Mars.",
+    "links": {},
+    "image": "https://patch.com/img/cdn20/users/26019821/20240624/032211/styles/patch_image/public/img-0721___24030515031.jpg",
+    "activity": "Played the Doylestown Arts Festival, Sept 12-13, 2026",
+    "evidence_url": "https://dtownartsfestival.com/schedule/music/"
+  },
+  {
+    "name": "Big Chill Band",
+    "town": "Doylestown area",
+    "state": "PA",
+    "genre": "Classic rock cover band",
+    "description": "A six-piece rock and roll cover band with a following in central Bucks. It is a regular at township summer concert series.",
+    "links": {},
+    "image": null,
+    "activity": "Played the Doylestown Arts Festival, Sept 2026",
+    "evidence_url": "https://dtownartsfestival.com/schedule/music/"
+  },
+  {
+    "name": "Hay Sugar",
+    "town": "Doylestown area",
+    "state": "PA",
+    "genre": "Rock",
+    "description": "A rock act that Patch listed among the festival's local fan favorites. In 2026 it played both the Doylestown Arts Festival and the borough's free Concerts at the Commons series.",
+    "links": {},
+    "image": null,
+    "activity": "Concerts at the Commons, Doylestown, May 28, 2026; Doylestown Arts Festival, Sept 2026",
+    "evidence_url": "https://whyy.org/articles/doylestown-concert-at-the-commons-free-2026/"
+  },
+  {
+    "name": "Away Message",
+    "town": "Doylestown area",
+    "state": "PA",
+    "genre": "Alternative rock",
+    "description": "An alternative band that the festival's 2026 announcement named as one of its local favorites.",
+    "links": {},
+    "image": null,
+    "activity": "Played the Doylestown Arts Festival, Sept 2026",
+    "evidence_url": "https://patch.com/pennsylvania/doylestown/doylestown-arts-festival-announces-2026-live-music-lineup"
+  },
+  {
+    "name": "The Great Bonfire",
+    "town": "Doylestown area",
+    "state": "PA",
+    "genre": "Rock",
+    "description": "A rock band billed as a local favorite at the Doylestown Arts Festival, where it had a late-afternoon slot.",
+    "links": {},
+    "image": null,
+    "activity": "Played the Doylestown Arts Festival, Sept 2026",
+    "evidence_url": "https://patch.com/pennsylvania/doylestown/doylestown-arts-festival-announces-2026-live-music-lineup"
+  },
+  {
+    "name": "The Dave Woodward Band",
+    "town": "Doylestown area",
+    "state": "PA",
+    "genre": "Rock / dance band",
+    "description": "A local Bucks County band that donated its time to headline an outdoor Stage United benefit for the county's breast cancer community.",
+    "links": {},
+    "image": null,
+    "activity": "Printer's Alley Pink Pop-Up Concert, Doylestown, Oct 24, 2026",
+    "evidence_url": "https://www.buckscountyherald.com/arts-entertainment/music/stage-united-main-st-partner-for-concerts-in-support-of-breast-cancer-community/article_f6176f9b-5ff7-481a-9476-52403c740d60.html"
+  },
+  {
+    "name": "Pennington Station Band",
+    "town": "Pennington / Hopewell Valley",
+    "state": "NJ",
+    "genre": "Acoustic harmony classic rock",
+    "description": "A harmony-driven acoustic rock group that has played year-round since 2006. It is a fixture of Hopewell Township's summer concerts at Woolsey Park.",
+    "links": {},
+    "image": "https://mercerme.com/wp-content/uploads/2025/07/pennington_station_band_horizontal_july_23.jpg",
+    "activity": "Free concert at Woolsey Park, Hopewell Township, July 23, 2025; listed again for the 2026 series (Aug 19, 2026)",
+    "evidence_url": "https://mercerme.com/pennington-station-band-to-perform-free-outdoor-concert-at-woolsey-park/"
+  },
+  {
+    "name": "Far Away Guys",
+    "town": "Newtown",
+    "state": "PA",
+    "genre": "Classic rock / blues",
+    "description": "A Newtown-area group that plays classic rock, blues and alternative covers along with some original songs.",
+    "links": {},
+    "image": null,
+    "activity": "Played Newtown Porchstock, Sept 26, 2026",
+    "evidence_url": "https://www.buckscountyherald.com/arts-entertainment/music/newtown-experience-to-hold-2nd-annual-newtown-porchstock/article_3580e5fa-0658-4b46-ac09-53537520e7b6.html"
+  },
+  {
+    "name": "Definitive Groove",
+    "town": "Newtown",
+    "state": "PA",
+    "genre": "Funk / party cover band",
+    "description": "A local band that plays funky takes on hits from the 1960s to today.",
+    "links": {},
+    "image": null,
+    "activity": "Played Newtown Porchstock at St. Luke's Episcopal Church, Sept 26, 2026",
+    "evidence_url": "https://www.buckscountyherald.com/arts-entertainment/music/newtown-experience-to-hold-2nd-annual-newtown-porchstock/article_3580e5fa-0658-4b46-ac09-53537520e7b6.html"
+  },
+  {
+    "name": "Free Men in Paris",
+    "town": "Newtown",
+    "state": "PA",
+    "genre": "Rock / pop covers",
+    "description": "A Newtown-area cover band that plays rock and pop from the 1960s to today.",
+    "links": {},
+    "image": null,
+    "activity": "Played Newtown Porchstock at Boone Garden, Sept 26, 2026",
+    "evidence_url": "https://www.buckscountyherald.com/arts-entertainment/music/newtown-experience-to-hold-2nd-annual-newtown-porchstock/article_3580e5fa-0658-4b46-ac09-53537520e7b6.html"
+  }
+]

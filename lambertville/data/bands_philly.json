@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Remember Sports",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie rock",
+    "description": "Philadelphia four-piece playing hooky, scrappy indie rock fronted by Catherine Dwyer. Their 2026 album was cut with Steve Albini's old Electrical Audio studio in Chicago.",
+    "links": {
+      "website": "https://www.remembersports.com",
+      "bandcamp": "https://remembersports.bandcamp.com",
+      "instagram": "https://www.instagram.com/remembersportsband/",
+      "facebook": "https://www.facebook.com/remembersportsband/",
+      "youtube": "https://www.youtube.com/@remembersports",
+      "spotify": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
+    },
+    "image": "https://f4.bcbits.com/img/0041584237_10.jpg",
+    "activity": "Released The Refrigerator (Feb 2026); played Philly Music Fest at Underground Arts, Oct 2026",
+    "evidence_url": "https://remembersports.bandcamp.com/"
+  },
+  {
+    "name": "Roberta Faceplant",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Country / cowpunk",
+    "description": "Five-piece outlaw Americana outfit led by Katie Feeney, mixing honky-tonk with a punk sneer and plenty of humor.",
+    "links": {
+      "website": "https://www.robertafaceplant.com",
+      "bandcamp": "https://robertafaceplant.bandcamp.com",
+      "instagram": "https://instagram.com/robertafaceplant/",
+      "facebook": "http://www.facebook.com/robertafaceplant",
+      "youtube": "https://www.youtube.com/@robertafaceplant",
+      "spotify": "https://open.spotify.com/artist/1LR5n6xYSGMIzjWiT8iwYB"
+    },
+    "image": "https://f4.bcbits.com/img/0040352008_10.jpg",
+    "activity": "Philly Music Fest at Fallser Club (Oct 2026); WXPN Welcomes bill at Johnny Brenda's, Nov 21, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/john-faye-sug-daniels-roberta-faceplant/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Wax Jaw",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Post-punk / new wave",
+    "description": "Danceable Philly post-punk quintet formed in 2022, with surf-tinged guitars and a reputation for sweaty live shows.",
+    "links": {
+      "bandcamp": "https://wax-jaw.bandcamp.com",
+      "linktree": "https://linktr.ee/wax_jaw"
+    },
+    "image": "https://f4.bcbits.com/img/0037351407_10.jpg",
+    "activity": "Album It Takes Guts! (Oct 2025); played Philly Music Fest, Oct 2026",
+    "evidence_url": "https://www.inquirer.com/entertainment/music/philly-music-fest-2026-best-acts-20261007.html"
+  },
+  {
+    "name": "KulfiGirls",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Carnatic rock",
+    "description": "Rock band built around Abi Natesh's Saraswati veena, blending South Indian classical melody with distorted Western guitar rock.",
+    "links": {
+      "bandcamp": "https://kulfigirls.bandcamp.com",
+      "instagram": "https://www.instagram.com/kulfigirls/"
+    },
+    "image": "https://f4.bcbits.com/img/0038763087_10.jpg",
+    "activity": "Deluxe edition of Divinity and mini-tour in 2026; WXPN Welcomes show at Johnny Brenda's, Dec 10, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/gladie-kulfigirls/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Gladie",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie rock",
+    "description": "Augusta Koch's band, moving from hushed, dreamy openings to big, crashing guitar-and-drum climaxes.",
+    "links": {
+      "website": "https://www.gladie.net",
+      "bandcamp": "https://gladie.bandcamp.com",
+      "instagram": "https://www.instagram.com/gladie_band/",
+      "youtube": "https://www.youtube.com/@gladiephilly",
+      "spotify": "https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6"
+    },
+    "image": "https://f4.bcbits.com/img/0041708469_10.jpg",
+    "activity": "Co-headlining Johnny Brenda's with KulfiGirls, Dec 10, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/gladie-kulfigirls/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Mesh",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Punk",
+    "description": "Long-running underground Philly band channeling melodic early-'80s pre-hardcore punk.",
+    "links": {
+      "bandcamp": "https://meshphilly.bandcamp.com",
+      "instagram": "https://www.instagram.com/mesh_rocknroll/"
+    },
+    "image": "https://f4.bcbits.com/img/0045466626_10.jpg",
+    "activity": "Debut LP No Fun At All (July 2026, Bandcamp Essential Release); Johnny Brenda's Nov 18, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/destructos/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "DeStructos",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Synth-punk / new wave",
+    "description": "Philly duo making jittery, sci-fi-flavored new wave punk with B-52's-style weirdness.",
+    "links": {
+      "bandcamp": "https://destructos.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/a0061713686_10.jpg",
+    "activity": "Debut LP Say Past Fiery Star on local label World Gone Mad; release show at Johnny Brenda's, Nov 18, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/destructos/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Eraser",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "No wave / synth-punk",
+    "description": "Philly no-wave group cranking out short, strange, synth-driven punk songs.",
+    "links": {
+      "bandcamp": "https://wereeraser.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/a1530300815_10.jpg",
+    "activity": "Sophomore record Operator! released Sept 18, 2026 (Bandcamp Best Punk, Sept 2026)",
+    "evidence_url": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-september-2026"
+  },
+  {
+    "name": "Poison Ruïn",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Punk / dark medieval punk",
+    "description": "Philly peace-punk band with a fantasy, medieval aesthetic: buzzsaw riffs, gloomy keys and battle-cry vocals.",
+    "links": {
+      "bandcamp": "https://poisonruin.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/a2444695160_10.jpg",
+    "activity": "Third LP Hymns From The Hills released April 3, 2026",
+    "evidence_url": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-april-2026"
+  },
+  {
+    "name": "Commitment",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Hardcore punk",
+    "description": "Politically outspoken Philly hardcore band playing fast, furious and short.",
+    "links": {
+      "bandcamp": "https://commitmentphl.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0041809104_10.jpg",
+    "activity": "Released Fear Of on April 3, 2026",
+    "evidence_url": "https://commitmentphl.bandcamp.com/album/fear-of"
+  },
+  {
+    "name": "Kinetic Orbital Strike",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Hardcore punk",
+    "description": "Philly hardcore crew with a heavy, militaristic sound; members also play in other local punk bands.",
+    "links": {
+      "bandcamp": "https://kineticorbitalstrike.bandcamp.com"
+    },
+    "image": null,
+    "activity": "Debut full-length The Terrifying Power of Bombardment featured in Bandcamp's Best Punk, July 2026",
+    "evidence_url": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-july-2026"
+  },
+  {
+    "name": "Pressure Wheel",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Punk / post-hardcore",
+    "description": "Heavier side project of players from Restorations, Signals Midwest and Timeshares, trading finesse for blunt force.",
+    "links": {
+      "bandcamp": "https://pressurewheel.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0047705222_10.jpg",
+    "activity": "EP I Hate The Night (2026); booked at Johnny Brenda's Feb 20, 2027",
+    "evidence_url": "https://johnnybrendas.com/event/fake-names-2/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Carnivorous Bells",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Post-hardcore / prog punk",
+    "description": "Tense, unpredictable Philly band that pushes hardcore toward jazzy dissonance and proggy turns.",
+    "links": {
+      "bandcamp": "https://carnivorousbells.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0018673229_10.jpg",
+    "activity": "On the Johnny Brenda's bill Nov 18, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/destructos/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Slomo Sapiens",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Psych / garage / sludge rock",
+    "description": "Power trio led by New Zealand transplant Ceallaigh Manaaki, mixing fuzzed-out psych, garage and sludge.",
+    "links": {
+      "bandcamp": "https://slomosapiens.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0036217816_10.jpg",
+    "activity": "Halloween show at Johnny Brenda's, Oct 31, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/problem-addict-my-wifes-an-angel-slomo-sapiens/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Squawk Brothers",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Country / indie folk",
+    "description": "Six-piece born from Philly indie bands The Teeth and Purples, digging into harmony-heavy country sounds.",
+    "links": {
+      "bandcamp": "https://squawkbrothers.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/a0671628398_10.jpg",
+    "activity": "Opening for TJ Kong and the Atomic Bomb at Johnny Brenda's, Nov 28, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/tj-kong-and-the-atomic-bomb/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "TJ Kong and the Atomic Bomb",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Americana / blues / garage",
+    "description": "Dan Bruskewicz's ragged, whiskey-soaked Americana band, a Philly fixture for over a decade.",
+    "links": {
+      "website": "http://tjkongandtheatomicbomb.com",
+      "bandcamp": "https://tjkongandtheatomicbomb.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0003626457_10.jpg",
+    "activity": "Headlining Johnny Brenda's, Nov 28, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/tj-kong-and-the-atomic-bomb/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Sug Daniels",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Folk / R&B",
+    "description": "Delaware-raised, Philly-based singer-songwriter and producer blending folk, R&B and lo-fi with her band.",
+    "links": {
+      "website": "https://sugdaniels.com/",
+      "bandcamp": "https://sugdaniels.bandcamp.com",
+      "instagram": "https://www.instagram.com/sugdaniels_/",
+      "facebook": "https://www.facebook.com/sugdanielsmusic",
+      "tiktok": "https://www.tiktok.com/@sugdaniels",
+      "youtube": "https://www.youtube.com/@sugdaniels"
+    },
+    "image": "https://f4.bcbits.com/img/0031575264_10.jpg",
+    "activity": "Debut album I Believe In You (Sept 2025); Philly Music Fest Oct 2026; Johnny Brenda's Nov 21, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/john-faye-sug-daniels-roberta-faceplant/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Mo Lowda & the Humble",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie / alternative rock",
+    "description": "Four-piece Philly alt-rock band with big, anthemic guitar songs and a loyal local following.",
+    "links": {
+      "bandcamp": "https://molowda.bandcamp.com"
+    },
+    "image": null,
+    "activity": "Played Philly Music Fest at Johnny Brenda's, Oct 14, 2026",
+    "evidence_url": "https://xpn.org/jazz-metal-indie-rock-more-in-store-for-philly-music-fest-2026/"
+  },
+  {
+    "name": "Star Moles",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie rock",
+    "description": "Project of New Hampshire transplant Emily Moales, whose newer songs are rooted in everyday Philadelphia life.",
+    "links": {},
+    "image": null,
+    "activity": "Booked at Johnny Brenda's, Jan 26, 2027",
+    "evidence_url": "https://johnnybrendas.com/event/star-moles/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Hezekiah Jones",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Indie folk",
+    "description": "Loose collective of Philly-area musicians built around songwriter Raphael Cutrufello's literate folk songs.",
+    "links": {
+      "website": "http://www.hezekiahjones.com",
+      "bandcamp": "https://hezekiahjones.bandcamp.com",
+      "facebook": "http://www.facebook.com/pages/Hezekiah-Jones/52539712326"
+    },
+    "image": "https://f4.bcbits.com/img/0025404679_10.jpg",
+    "activity": "Co-billed with Huffamoose at Ardmore Music Hall, Nov 27, 2026",
+    "evidence_url": "https://ardmoremusichall.com/"
+  },
+  {
+    "name": "Swift Technique",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Funk / soul",
+    "description": "Horn-driven Philly collective mixing funk, soul, rock and hip-hop into high-energy live sets.",
+    "links": {
+      "website": "https://www.swifttechnique.com",
+      "bandcamp": "https://swifttechnique.bandcamp.com",
+      "instagram": "http://instagram.com/swifttechnique",
+      "facebook": "http://facebook.com/swifttechnique",
+      "youtube": "https://www.youtube.com/swifttechniquephilly",
+      "spotify": "https://open.spotify.com/artist/4Ba9GzunAgDlRrXqJfVSFM"
+    },
+    "image": "https://f4.bcbits.com/img/a1231020435_10.jpg",
+    "activity": "Website announces new music for 2025, incl. a cover of The Hooters' \"All You Zombies\" (no 2026 show dates found)",
+    "evidence_url": "https://www.swifttechnique.com/"
+  },
+  {
+    "name": "Friends of Jerry",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Grateful Dead cover band",
+    "description": "Philly Dead cover band that stretches out over multiple sets of Grateful Dead and related tunes.",
+    "links": {
+      "bandcamp": "https://friendsofjerry.bandcamp.com"
+    },
+    "image": "https://f4.bcbits.com/img/0028678955_10.jpg",
+    "activity": "Three-set New Year's Eve show at Johnny Brenda's, Dec 31, 2026",
+    "evidence_url": "https://johnnybrendas.com/event/friends-of-jerry-7/johnny-brendas/philadelphia-pennsylvania/"
+  },
+  {
+    "name": "Splintered Sunlight",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Grateful Dead tribute",
+    "description": "Philly-area Dead tribute band going since 1992, led by guitarist Butchy Sochorow; long a staple of Ardmore and Jersey Shore stages.",
+    "links": {
+      "website": "https://www.splinteredsunlight.com",
+      "facebook": "https://www.facebook.com/SplinteredSun",
+      "instagram": "https://www.instagram.com/splinteredsunlight_official",
+      "tiktok": "https://www.tiktok.com/@splintered_sunlight",
+      "youtube": "https://www.youtube.com/@SplinteredSunlight_official"
+    },
+    "image": "https://static.wixstatic.com/media/87f42a_69d7a33b5ce441adaba6fe43c5bc3b08~mv2.jpeg",
+    "activity": "Ardmore Music Hall Oct 10, Nov 25 and Dec 26, 2026, plus regional dates",
+    "evidence_url": "https://www.splinteredsunlight.com/"
+  },
+  {
+    "name": "Boat House Row",
+    "town": "Philadelphia",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Yacht rock tribute",
+    "description": "Costumed six-piece of Philly music veterans playing soft-rock hits by Hall & Oates, Steely Dan, Toto and friends.",
+    "links": {},
+    "image": null,
+    "activity": "Colonial Theatre, Phoenixville (Nov 27, 2026) and Ardmore Music Hall (Nov 28, 2026)",
+    "evidence_url": "https://www.jambase.com/concerts/us/pennsylvania/concerts-in-phoenixville"
+  },
+  {
+    "name": "Steal the Night",
+    "town": "Ambler",
+    "state": "PA",
+    "neighborhood": null,
+    "genre": "Hard rock",
+    "description": "Five-piece hard rock band of Ambler natives and Wissahickon grads, formed in 2018 and playing originals.",
+    "links": {
+      "website": "https://sites.google.com/view/steal-the-night/"
+    },
+    "image": "https://amblerfest.org/wp-content/uploads/2025/05/Post-Steal-The-Night.jpg",
+    "activity": "Opened the Ambler Arts & Music Festival in 2025 and returned for the June 19, 2026 lineup",
+    "evidence_url": "https://amblerfest.org/2026-music-fest/"
+  }
+]

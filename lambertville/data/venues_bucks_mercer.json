@@ -1,0 +1,3443 @@
+{
+ "venues_crawled": [
+  {
+   "venue": "Triumph Brewing Company (Princeton)",
+   "town": "Princeton",
+   "state": "NJ",
+   "source_url": "https://www.triumphbrewing.com/princeton/live-music-events-princeton-calendar/ (data via monthly iCal exports https://www.triumphbrewing.com/events/month/YYYY-MM/?ical=1)",
+   "coverage": "Complete Jan 2025 - Dec 2026 (all 24 monthly iCal feeds); Fri/Sat jazz series plus mirrored Princeton Shopping Center concerts."
+  },
+  {
+   "venue": "Vault Brewing Company",
+   "town": "Yardley",
+   "state": "PA",
+   "source_url": "https://vaultbrewing.com/livemusicandevents",
+   "coverage": "Squarespace events JSON incl. full past archive; dense Jan 2025 - Jan 2026 and Aug - Dec 2026; Feb - Jul 2026 shows only quizzo (music listings for that span appear to have been removed)."
+  },
+  {
+   "venue": "Free Will Brewing (Perkasie taproom)",
+   "town": "Perkasie",
+   "state": "PA",
+   "source_url": "https://www.freewillbrewing.com/perkasie-live-music-1",
+   "coverage": "Current page plus Wayback snapshots (2025-01, 06, 08, 09, 12; 2026-01, 04) - each shows ~1-2 months ahead, so roughly Jan-Feb 2025, Jun-Dec 2025, Jan-May 2026, Oct 2026-Jan 2027; gaps Mar-May 2025 and Jun-Sep 2026."
+  },
+  {
+   "venue": "Doylestown Arts Festival",
+   "town": "Doylestown",
+   "state": "PA",
+   "source_url": "https://www.dtownartsfestival.com/schedule/music/ ; https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/",
+   "coverage": "Full 5-stage music schedules for 2025 (Sep 6-7) and 2026 (Sep 12-13)."
+  },
+  {
+   "venue": "Sellersville Theater 1894",
+   "town": "Sellersville",
+   "state": "PA",
+   "source_url": "https://www.st94.com/events",
+   "coverage": "Current listings plus Wayback CDX index of ~1,400 event URLs (2025-2026); dated only regional acts of interest. Programming is mostly national/touring acts and touring tributes."
+  },
+  {
+   "venue": "Princeton Shopping Center Summer Concert Series",
+   "town": "Princeton",
+   "state": "NJ",
+   "source_url": "https://princetonshoppingcenter.com/event/40th-summer-concert-series/2025-06-06/ ; https://www.princetonshoppingcenter.com/events",
+   "coverage": "Full 2025 (40th season, Jun 6 - Aug 15) and 2026 (Jun 5 - Sep 18) lineups."
+  },
+  {
+   "venue": "Princeton Public Library (Listen Local / Hinds Plaza)",
+   "town": "Princeton",
+   "state": "NJ",
+   "source_url": "https://princetonlibrary.libnet.info/eeventcaldata (LibNet events API)",
+   "coverage": "All library events Jan 2025 - Dec 2026 filtered for music."
+  },
+  {
+   "venue": "Princeton Porchfest (Arts Council of Princeton)",
+   "town": "Princeton",
+   "state": "NJ",
+   "source_url": "https://artscouncilofprinceton.org/porchfest-map/",
+   "coverage": "2026 (Sep 26, condensed indoor lineup) complete; 2025 (Apr 26) lineup not recoverable - only acts named in press."
+  },
+  {
+   "venue": "Puck Live",
+   "town": "Doylestown",
+   "state": "PA",
+   "source_url": "https://www.puck-live.com/show-lineup",
+   "coverage": "Open (reopened under Daisy Chain Events); only Oct 30-31 2026 events listed (Misfits tribute, Halloween party). No past archive."
+  },
+  {
+   "venue": "Small World Coffee",
+   "town": "Princeton",
+   "state": "NJ",
+   "source_url": "https://www.smallworldcoffee.com/events",
+   "coverage": "Two pages of 2025-26 Saturday music; all singles (no act with 2 dates)."
+  },
+  {
+   "venue": "Randy Now's Man Cave",
+   "town": "Hightstown (Mercer Co.)",
+   "state": "NJ",
+   "source_url": "https://www.mancavenj.com/pages/events",
+   "coverage": "Moved from Bordentown to Hightstown; upcoming list only (mostly national cult acts); past-events page undated."
+  },
+  {
+   "venue": "Mercer County Park Summer Concert Series",
+   "town": "West Windsor",
+   "state": "NJ",
+   "source_url": "https://mercerme.com/?p=154395",
+   "coverage": "2026 lineup via search only (national touring tributes); no repeats found."
+  },
+  {
+   "venue": "Broken Goblet Brewing",
+   "town": "Bensalem (Bucks Co.)",
+   "state": "PA",
+   "source_url": "https://www.brokengoblet.com/",
+   "coverage": "Upcoming Oct-Dec 2026 only (Wix); not tallied - mostly touring/tribute bills."
+  }
+ ],
+ "bands": [
+  {
+   "name": "Crickets & Cicadas",
+   "home_base": "NJ/PA (per venue bio)",
+   "genre": "Grateful Dead / Jerry Garcia Band tribute",
+   "description": "Acoustic-leaning Grateful Dead and JGB tribute with a rotating lineup assembled by Anton Milioti; a near-every-other-month regular at Free Will in Perkasie.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-07-05",
+     "source_url": "https://web.archive.org/web/20250616132723/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-10-04",
+     "source_url": "https://web.archive.org/web/20250917113758/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-01-17",
+     "source_url": "https://web.archive.org/web/20251208043904/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-03-07",
+     "source_url": "https://web.archive.org/web/20260112094231/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-05-02",
+     "source_url": "https://web.archive.org/web/20260416205447/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-11-07",
+     "source_url": "https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "Mike Greer & Co.",
+   "home_base": null,
+   "genre": "Acoustic classic rock",
+   "description": "Classic-rock repertoire delivered with an acoustic, harmony-forward approach; booked at Free Will roughly every quarter.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-07-19",
+     "source_url": "https://web.archive.org/web/20250616132723/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-10-31",
+     "source_url": "https://web.archive.org/web/20250917113758/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-01-09",
+     "source_url": "https://web.archive.org/web/20251208043904/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-04-24",
+     "source_url": "https://web.archive.org/web/20260416205447/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-12-12",
+     "source_url": "https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "The Keystone Breakers",
+   "home_base": "Southeastern PA",
+   "genre": "Cosmic country / Southern rock / Americana",
+   "description": "Southeastern PA band (since 2014) mixing 70s country, cosmic country and Southern rock with originals and three-part harmonies.",
+   "links": {
+    "website": "https://thekeystonebreakers.com/",
+    "bandcamp": null,
+    "instagram": "https://instagram.com/thekeystonebreakers",
+    "facebook": "https://www.facebook.com/thekeystonebreakers",
+    "spotify": "https://open.spotify.com/artist/32znKfP5KlFbiAjWc1yhMW",
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2025-11-21",
+     "source_url": "https://www.st94.com/events/the-keystone-breakers-and-400-bears/"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-12-13",
+     "source_url": "https://web.archive.org/web/20251208043904/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-03-20",
+     "source_url": "https://web.archive.org/web/20260112094231/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-11-13",
+     "source_url": "https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "Old School",
+   "home_base": null,
+   "genre": "Classic rock covers",
+   "description": "Long-running cover band (about 15 years) aiming to recreate the feel of the arena-era bands its members grew up on.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-06-28",
+     "source_url": "https://web.archive.org/web/20250616132723/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-09-19",
+     "source_url": "https://web.archive.org/web/20250917113758/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-03-13",
+     "source_url": "https://web.archive.org/web/20260112094231/https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "The Outcrops",
+   "home_base": "New Jersey",
+   "genre": "Roots rock / jam / soul",
+   "description": "NJ roots-rock band (The Aquarian's 2020 NJ Band of the Year) blending blues, funk, soul and Allman/Garcia-style guitar.",
+   "links": {
+    "website": "https://www.theoutcrops.com/",
+    "bandcamp": null,
+    "instagram": "https://instagram.com/theoutcrops",
+    "facebook": "http://www.facebook.com/theoutcrops",
+    "spotify": "https://open.spotify.com/artist/15SoeL3vXkEH0NoOAXde0j",
+    "youtube": "https://www.youtube.com/channel/UCkDihkoA-L8XgKAegRiNcOA"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-02-13",
+     "source_url": "https://web.archive.org/web/20260112094231/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Princeton Shopping Center Summer Concert Series",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-14",
+     "source_url": "https://www.princetonshoppingcenter.com/events"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-11-21",
+     "source_url": "https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "The Dishonest Fiddlers",
+   "home_base": null,
+   "genre": "Bluegrass / jamgrass",
+   "description": "String band playing high-energy bluegrass and jam-leaning originals; two Free Will dates in a year.",
+   "links": {
+    "website": "https://www.thedishonestfiddlers.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "http://static1.squarespace.com/static/56ef3aa62eeb813cf6a0d887/t/6578e2e818ac690b564f357b/1702421224300/DHF-LOGO+BW-01.jpg?format=1500w",
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-10-18",
+     "source_url": "https://web.archive.org/web/20250917113758/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-01-10",
+     "source_url": "https://web.archive.org/web/20260112094231/https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "River Dawgs",
+   "home_base": "Philadelphia area",
+   "genre": "Americana / western-tinged rock",
+   "description": "Philly-rooted group with a western, roots-rock flavor and an eclectic set list.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-01-25",
+     "source_url": "https://web.archive.org/web/20250115125009/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-04-18",
+     "source_url": "https://web.archive.org/web/20260416205447/https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "Pat & Sean Kelly",
+   "home_base": null,
+   "genre": "Acoustic pop / covers duo",
+   "description": "Twin-brother acoustic duo known for tight sibling harmonies and viral mash-up medleys, plus their own singles.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-01-17",
+     "source_url": "https://web.archive.org/web/20250115125009/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://web.archive.org/web/20250616132723/https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "Mike Frank & Bob Noble",
+   "home_base": null,
+   "genre": "Acoustic roots duo",
+   "description": "Duo of guitarist-singer Mike Frank and bassist Bob Noble (also of Promontory Riders) playing originals and covers.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-07-18",
+     "source_url": "https://web.archive.org/web/20250616132723/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-04-17",
+     "source_url": "https://web.archive.org/web/20260416205447/https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "Shine On",
+   "home_base": "NJ / Philadelphia metro (per venue bio)",
+   "genre": "Pink Floyd tribute",
+   "description": "Pink Floyd tribute band drawing from the NJ and Philadelphia area.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-12-19",
+     "source_url": "https://web.archive.org/web/20251208043904/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-11-25",
+     "source_url": "https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "The Hot Club of Philadelphia",
+   "home_base": "Philadelphia",
+   "genre": "Gypsy jazz",
+   "description": "Philadelphia gypsy-jazz ensemble in the Django Reinhardt tradition; a fixture on the Doylestown Arts Festival main stage.",
+   "links": {
+    "website": "https://www.hotclubofphiladelphia.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "http://static1.squarespace.com/static/61785ebe5ae3f91cca6ab89a/t/651c340fdcd45c6d6eaaeba4/1696347151733/HCPhilly-Nu-%2B-logo.png?format=1500w",
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Dirk Quinn Band",
+   "home_base": null,
+   "genre": "Jazz-funk / jam",
+   "description": "Guitarist Dirk Quinn's instrumental jazz-funk group; headlined Doylestown Arts Festival both years and presented its 'Scabby Toad' release at Sellersville.",
+   "links": {
+    "website": "https://dirkquinn.com/",
+    "bandcamp": null,
+    "instagram": "https://instagram.com/dirkquinnband",
+    "facebook": "https://www.facebook.com/dirkquinnband",
+    "spotify": null,
+    "youtube": "http://www.youtube.com/channel/UCXG1bjiOhlhwOsbMnV7RFtA"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2026-05-31",
+     "source_url": "https://www.st94.com/events/dirk-quinn-band-presents-scabby-toad-with-special-guest-tim-farrell/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Elle Gyandoh & The John Doe Band",
+   "home_base": null,
+   "genre": "Soul / pop",
+   "description": "Soul singer-songwriter Elle Gyandoh fronting her band; played both Doylestown Arts Festivals and a Sellersville Theater date.",
+   "links": {
+    "website": "https://www.ellegyandoh.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://static.wixstatic.com/media/12768c_64bc2556c169491bae3ac12d2b32fdd7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/12768c_64bc2556c169491bae3ac12d2b32fdd7%7Emv2.png",
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-07",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2025-10-05",
+     "source_url": "https://www.st94.com/events/elle-gyandoh-the-john-doe-band/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Eric Mintel Quartet",
+   "home_base": "Bucks County, PA area",
+   "genre": "Jazz",
+   "description": "Jazz quartet led by pianist Eric Mintel, known for its Vince Guaraldi 'Charlie Brown' holiday shows.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2025-05-03",
+     "source_url": "https://www.st94.com/events/eric-mintel-quartet/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2025-12-23",
+     "source_url": "https://www.st94.com/events/an-evening-of-charlie-brown-jazz-with-the-eric-mintel-quartet/"
+    }
+   ]
+  },
+  {
+   "name": "Deb Callahan Band",
+   "home_base": "Philadelphia area",
+   "genre": "Blues / soul",
+   "description": "Blues and soul band fronted by singer Deb Callahan; did a Ray Charles tribute night at Sellersville and a Doylestown festival set.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2025-11-30",
+     "source_url": "https://www.st94.com/events/the-deb-callahan-band-ft-reverend-chris-a-celebration-of-the-music-of-ray-charles/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "2 Non Bobs",
+   "home_base": "Greater Philadelphia area",
+   "genre": "Jam / bluesy 70s-inspired rock",
+   "description": "Five-piece Philly-area 'jambient' band playing mostly bluesy, 70s-flavored originals plus classic covers.",
+   "links": {
+    "website": "https://soundcloud.com/2nonbobs",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "The Wild Hymns",
+   "home_base": null,
+   "genre": "Indie folk / singer-songwriter",
+   "description": "Indie-folk act listed on the Doylestown Arts Festival lineup both years.",
+   "links": {
+    "website": "https://www.thewildhymns.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://static.wixstatic.com/media/9361ce_a04f368bed9148fd9425240aac91173f~mv2.jpg/v1/fill/w_728,h_463,al_c/9361ce_a04f368bed9148fd9425240aac91173f~mv2.jpg",
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-07",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Andrea Carlson and the Love Police",
+   "home_base": null,
+   "genre": "Jazz / vocal",
+   "description": "Jazz vocalist Andrea Carlson with her band; Sunday main-stage act at the Doylestown Arts Festival in both years.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-07",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Lost Cricket String Band",
+   "home_base": null,
+   "genre": "Folk / string band",
+   "description": "Acoustic string band; Sunday act at the Doylestown Arts Festival in 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-07",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Perlin Noise",
+   "home_base": null,
+   "genre": "Indie rock",
+   "description": "Indie band that played the Main & Oakland stage at the Doylestown Arts Festival both years.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-07",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Pure Jerry",
+   "home_base": null,
+   "genre": "Jerry Garcia tribute",
+   "description": "Jerry Garcia / Grateful Dead tribute band; Sunday set at the Doylestown Arts Festival in both years.",
+   "links": {
+    "website": "https://purejerry.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://img1.wsimg.com/isteam/ip/ae5914c1-ab73-4f0b-a40a-09fc5f2b7d14/6316.png",
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-07",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Hearts Club Band",
+   "home_base": "Bucks/Montgomery County, PA (listed in Chalfont)",
+   "genre": "Beatles tribute",
+   "description": "Four-piece Beatles act from the Bucks/Montgomery County area; closing-slot act on a Doylestown Arts Festival stage both years.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-07",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Mike Lorenz Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by Mike Lorenz; opened the State & Main stage at the Doylestown Arts Festival in 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Yacht Lobsters",
+   "home_base": "New York City",
+   "genre": "Yacht rock tribute",
+   "description": "NYC-based yacht-rock tribute (est. 2022) recreating late-70s/early-80s soft rock; repeat bookings at Sellersville and Princeton Shopping Center.",
+   "links": {
+    "website": "https://www.yachtlobsters.com/",
+    "bandcamp": null,
+    "instagram": "https://www.instagram.com/yachtlobsters/",
+    "facebook": "https://www.facebook.com/Yacht-Lobsters-105828495299827",
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2025-04-10",
+     "source_url": "https://www.st94.com/events/yacht-lobsters-2/"
+    },
+    {
+     "venue": "Princeton Shopping Center Summer Concert Series",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-08-15",
+     "source_url": "https://princetonshoppingcenter.com/event/40th-summer-concert-series/2025-06-06/"
+    },
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2026-05-10",
+     "source_url": "https://www.st94.com/events/yacht-lobsters-3/"
+    }
+   ]
+  },
+  {
+   "name": "High Noon",
+   "home_base": null,
+   "genre": "Lynyrd Skynyrd / Southern rock tribute",
+   "description": "Southern-rock tribute (Skynyrd, Allmans, Outlaws, Marshall Tucker) that works the Mid-Atlantic club and theater circuit; returns to Sellersville every winter.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2025-01-04",
+     "source_url": "https://www.st94.com/events/high-noon-a-tribute-to-lynyrd-skynyrd-southern-rock-4/"
+    },
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2026-02-06",
+     "source_url": "https://www.st94.com/events/high-noon-a-tribute-to-lynyrd-skynyrd-southern-rock-5/"
+    },
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2026-02-07",
+     "source_url": "https://www.st94.com/events/high-noon-a-tribute-to-lynyrd-skynyrd-southern-rock-6/"
+    }
+   ]
+  },
+  {
+   "name": "Barleyjuices",
+   "home_base": "Philadelphia area",
+   "genre": "Celtic rock",
+   "description": "Philly-area Celtic rock band whose St. Patrick's Day party is an annual Sellersville Theater tradition.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2025-03-13",
+     "source_url": "https://www.st94.com/events/barleyjuices-st-patricks-day-party-3/"
+    },
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2026-03-17",
+     "source_url": "https://www.st94.com/events/barleyjuices-annual-st-paddys-night/"
+    }
+   ]
+  },
+  {
+   "name": "Stay Tuned",
+   "home_base": "Princeton area (described as local)",
+   "genre": "Garage pop / soul / rock",
+   "description": "Local Princeton quintet playing danceable garage pop, soul and grunge-tinged covers.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": "https://youtube.com/@staytuned-b7i"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Princeton Public Library (Hinds Plaza / Community Room)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-06-22",
+     "source_url": "https://princetonlibrary.libnet.info/event/13767906"
+    },
+    {
+     "venue": "Princeton Porchfest",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-09-26",
+     "source_url": "https://artscouncilofprinceton.org/porchfest-map/"
+    }
+   ]
+  },
+  {
+   "name": "Castle Lane",
+   "home_base": "Hopewell, NJ",
+   "genre": "Rock / funk / soul",
+   "description": "Eight-member Hopewell band mixing classic rock, funk, soul and pop.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Princeton Public Library (Hinds Plaza / Community Room)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-09",
+     "source_url": "https://princetonlibrary.libnet.info/event/16751218"
+    },
+    {
+     "venue": "Princeton Shopping Center Summer Concert Series",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-09-11",
+     "source_url": "https://www.princetonshoppingcenter.com/events"
+    }
+   ]
+  },
+  {
+   "name": "Ocean Avenue Stompers",
+   "home_base": null,
+   "genre": "Brass band / New Orleans",
+   "description": "Brass band playing New Orleans-style street music for festivals, weddings and summer series.",
+   "links": {
+    "website": "https://www.oceanavenuestompers.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://static.wixstatic.com/media/431972_32edd51027954bb891ed1db331ffbf77%7Emv2.png/v1/fit/w_2500,h_1330,al_c/431972_32edd51027954bb891ed1db331ffbf77%7Emv2.png",
+   "appearances": [
+    {
+     "venue": "Princeton Shopping Center Summer Concert Series",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-07-11",
+     "source_url": "https://princetonshoppingcenter.com/event/40th-summer-concert-series/2025-06-06/"
+    },
+    {
+     "venue": "Princeton Shopping Center Summer Concert Series",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-21",
+     "source_url": "https://www.princetonshoppingcenter.com/events"
+    }
+   ]
+  },
+  {
+   "name": "Marel Hidalgo Quartet",
+   "home_base": null,
+   "genre": "Latin jazz / vocal jazz",
+   "description": "Jazz group led by vocalist Marel Hidalgo; performed library jazz events in 2025 (quartet) and 2026 (as a quintet).",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Princeton Public Library (Hinds Plaza / Community Room)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-02-02",
+     "source_url": "https://princetonlibrary.libnet.info/event/12749467"
+    },
+    {
+     "venue": "Princeton Public Library (Hinds Plaza / Community Room)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-05-31",
+     "source_url": "https://princetonlibrary.libnet.info/event/16417326"
+    }
+   ]
+  },
+  {
+   "name": "Strawberry Milk",
+   "home_base": "Princeton (student band)",
+   "genre": "Rock",
+   "description": "Princeton student rock band and a Porchfest crowd favorite in 2025 and 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Princeton Porchfest",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-04-26",
+     "source_url": "https://www.princeton.edu/news/2025/05/06/porchfest-2025-brings-university-and-community-together-walkable-feast-music"
+    },
+    {
+     "venue": "Princeton Porchfest",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-09-26",
+     "source_url": "https://artscouncilofprinceton.org/porchfest-map/"
+    }
+   ]
+  },
+  {
+   "name": "Tom Trovas Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by Tom Trovas; Vault Brewing's most frequent Friday-night act.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-10",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-14",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-03-14",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-04-11",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-09",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-06-06",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-06-13",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-07-04",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-08",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-09-12",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-10-10",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-12-12",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-08-14",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-09-11",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-10-03",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-10-09",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "John Sheridan Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by John Sheridan; roughly monthly Saturday act at Vault Brewing.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-18",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-01",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-28",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-17",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-06-21",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-07-05",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-02",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-10-04",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-11-01",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-12-06",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-01-03",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-09-05",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-10-03",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Tony Miceli Trio",
+   "home_base": "Philadelphia area",
+   "genre": "Jazz (vibraphone)",
+   "description": "Trio led by vibraphonist Tony Miceli; a monthly Vault Brewing regular.",
+   "links": {
+    "website": "https://www.tonymiceli.com/",
+    "bandcamp": "https://tjazzvibes.bandcamp.com/",
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-25",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-22",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-03-29",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-04-26",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-31",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-06-28",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-07-26",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-16",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-30",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-12-27",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-08-29",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-09-26",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Dave Posmontier Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Organ/piano jazz trio led by Dave Posmontier; a near-monthly Friday act at Vault Brewing.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-17",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-21",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-03-28",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-02",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-06-27",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-07-18",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-29",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-10-24",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-12-19",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-08-28",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-09-25",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Omeed Nyman Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by Omeed Nyman; repeat bookings at Vault Brewing.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-23",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-20",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-03-22",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-04-19",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-24",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-23",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-09-13",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-12-26",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-09-18",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Suzette Ortiz Latin Jazz Trio",
+   "home_base": null,
+   "genre": "Latin jazz",
+   "description": "Latin jazz group led by vocalist Suzette Ortiz, sometimes billed as her Latin Ensemble.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-11",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-08",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-03-08",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-04-12",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-10",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-06-14",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-09",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-10-17",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-12-13",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-08-08",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Behn Gillece Trio / Duo",
+   "home_base": null,
+   "genre": "Jazz (vibraphone)",
+   "description": "Vibraphonist Behn Gillece's small groups; frequent at Vault in 2025 and at Triumph Princeton in 2026.",
+   "links": {
+    "website": "https://www.behngillece.com/",
+    "bandcamp": null,
+    "instagram": "https://www.instagram.com/behn_gillece/",
+    "facebook": "https://www.facebook.com/behngillece",
+    "spotify": "https://open.spotify.com/artist/0YyytaIFxrBwVdJkKe8ZrU",
+    "youtube": "https://www.youtube.com/user/bgillece"
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-04",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-07",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-03-01",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-04-05",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-03",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-06-20",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-07-19",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-15",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-05-08",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-05/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-07-03",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-07/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Tom Tallitsch Duo",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Duo led by saxophonist Tom Tallitsch; regular at Vault Brewing in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-31",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-03-07",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-23",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-01",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Matt Richards Duo",
+   "home_base": null,
+   "genre": "Jazz / acoustic",
+   "description": "Duo led by Matt Richards; recurring Vault Brewing act in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-03",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-03-21",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-16",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-07-11",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-22",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Mike Estabrook & E-Miners",
+   "home_base": null,
+   "genre": "Rock / Americana",
+   "description": "Mike Estabrook's band (also booked as a duo) at Vault Brewing in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-24",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-04-04",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-05-30",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-07-25",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "NOVA",
+   "home_base": null,
+   "genre": "Party / cover band",
+   "description": "Cover band that plays Vault Brewing's back-bar parties, including Halloween and New Year's Eve.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-08-15",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-10-31",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-12-31",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-08-21",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "The Faculty",
+   "home_base": null,
+   "genre": "Rock covers",
+   "description": "Band that has played Vault Brewing's back-bar music nights.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-21",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-09-12",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "The Shiretones",
+   "home_base": null,
+   "genre": "Rock / covers",
+   "description": "Band with two fall 2025 dates at Vault Brewing.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-09-27",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-10-25",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "JJim Band",
+   "home_base": null,
+   "genre": "Rock / covers",
+   "description": "Band booked at Vault Brewing in September 2025 and August 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-09-05",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-08-07",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Em & Conn Duo",
+   "home_base": null,
+   "genre": "Acoustic duo",
+   "description": "Acoustic duo (also billed Emm & Connor) on Vault Brewing's 2026 Friday calendar.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-08-21",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-10-02",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Rachel & Ty Acoustics",
+   "home_base": null,
+   "genre": "Acoustic duo",
+   "description": "Acoustic duo with two January 2025 Thursday dates at Vault Brewing.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-02",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-01-30",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    }
+   ]
+  },
+  {
+   "name": "Liam Sutcliffe Trio / Quartet",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Guitarist Liam Sutcliffe's group; dates at Vault, Triumph Princeton and a co-led quartet show at the Princeton library.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2025-02-13",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-09-06",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-09/?ical=1"
+    },
+    {
+     "venue": "Vault Brewing Company",
+     "town": "Yardley",
+     "state": "PA",
+     "date": "2026-01-02",
+     "source_url": "https://vaultbrewing.com/livemusicandevents"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-09-11",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-09/?ical=1"
+    },
+    {
+     "venue": "Princeton Public Library (Hinds Plaza / Community Room)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-11-29",
+     "source_url": "https://princetonlibrary.libnet.info/event/17671602"
+    }
+   ]
+  },
+  {
+   "name": "Eric McGarry Quartet / Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Eric McGarry's jazz group; at Triumph Princeton and on both Doylestown Arts Festival lineups.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-07-11",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-07/?ical=1"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-04-03",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-04/?ical=1"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Mike Noordzy Trio",
+   "home_base": "New York City area",
+   "genre": "Jazz",
+   "description": "Bassist Mike Noordzy's trio; the most frequently booked group at Triumph Princeton's weekend jazz series.",
+   "links": {
+    "website": "https://mikenoordzy.wordpress.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://mikenoordzy.wordpress.com/wp-content/uploads/2015/01/10689640_10152817013799844_2458254974076507255_n.jpg",
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-01-17",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-04-18",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-04/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-05-10",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-05/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-07-19",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-07/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-09-13",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-09/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-11-07",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-11/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-01-17",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-21",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-08/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-09-26",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-09/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-10-23",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-10/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Alex Owen Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by Alex Owen; regular at Triumph Princeton.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-01-18",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-07-05",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-07/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-08-16",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-08/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-10-18",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-10/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-12-26",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-12/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-03-06",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-03/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-06-19",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-06/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Nat Janoff Trio",
+   "home_base": null,
+   "genre": "Jazz guitar",
+   "description": "Guitarist Nat Janoff's trio; regular at Triumph Princeton.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-01-11",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-03-01",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-03/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-11-15",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-11/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-12-20",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-12/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-04-17",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-04/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-08",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-08/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Rodrigo Bonelli Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by Rodrigo Bonelli; several Triumph Princeton dates a year.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-03-07",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-03/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-05-03",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-05/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-09-12",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-09/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-01-09",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-05-15",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-05/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-09-05",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-09/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Yvonnick Prene Trio",
+   "home_base": "New York",
+   "genre": "Jazz harmonica",
+   "description": "Harmonica player Yvonnick Prene's trio (sometimes a quartet); frequent at Triumph Princeton.",
+   "links": {
+    "website": "https://www.yvonnickprene.com/",
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": "https://www.yvonnickprene.com/wp-content/uploads/2022/04/279184953_10226920704140614_4163750558204544408_n.jpg",
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-01-03",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-04-04",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-04/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-01-16",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-03-07",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-03/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-05-16",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-05/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-07",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-08/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-10-09",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-10/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Digba Ogunbiyi Quartet",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz quartet led by Digba Ogunbiyi; repeat Triumph Princeton act.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-02-14",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-02/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-08-02",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-08/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-02-20",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-02/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-06-20",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-06/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-09-25",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-09/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Red123",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz group (sometimes billed Red123 Trio) with several Triumph Princeton dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-05-16",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-05/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-08-15",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-08/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-11-22",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-11/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-02-13",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-02/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-04-10",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-04/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Federico Foli Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by Federico Foli; regular at Triumph Princeton in 2026, including brunch sets.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-02-21",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-02/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-05-10",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-05/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-06-12",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-06/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-07-17",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-07/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-14",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-08/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-10-17",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-10/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Jim Josselyn Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jim Josselyn's trio (sometimes a quartet); plays Triumph's Princeton and Red Bank rooms.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-05-09",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-05/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-06-01",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-06/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-12-19",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-12/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-03-13",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-03/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-05-09",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-05/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Keith Franklin Quartet",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Keith Franklin's jazz group (also billed Keith Franklin Jazz Group) at Triumph Princeton in 2025.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-02-08",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-02/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-04-19",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-04/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-06-13",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-06/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-11-21",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-11/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Diego Hedez Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Diego Hedez's jazz trio/quartet at Triumph Princeton.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-01-10",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-04-05",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-04/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-04-04",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-04/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-06-05",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-06/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Jon Menges Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by Jon Menges; Triumph Princeton dates in 2025–26.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-10-10",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-10/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-02-07",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-02/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-05-22",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-05/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "James Rosocha Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by James Rosocha; Triumph Princeton dates in 2025–26.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-11-01",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-11/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-05-01",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-05/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-06-06",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-06/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Matt Kahn Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio led by Matt Kahn; Triumph Princeton dates in 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-01-03",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-22",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-08/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-10-16",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-10/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "J Taylor Leach Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "J Taylor Leach's trio/quartet at Triumph Princeton.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-03-15",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-03/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-01-24",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-01/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-15",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-08/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "A Real Human Jazz Band",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Named jazz ensemble with two 2025 Triumph Princeton dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-07-12",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-07/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-09-19",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-09/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Atmospheric Trio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio with Triumph Princeton dates in July 2025 and January 2026.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-07-18",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-07/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-01-02",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-01/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Avantrio",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz trio with two 2025 Triumph Princeton dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-08-09",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-08/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-10-17",
+     "source_url": "https://www.triumphbrewing.com/events/month/2025-10/?ical=1"
+    }
+   ]
+  },
+  {
+   "name": "Union Jazz Quartet",
+   "home_base": null,
+   "genre": "Jazz",
+   "description": "Jazz quartet with two 2026 Triumph Princeton dates.",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "appearances": [
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-01",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-08/?ical=1"
+    },
+    {
+     "venue": "Triumph Brewing Company (Princeton)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-10-10",
+     "source_url": "https://www.triumphbrewing.com/events/month/2026-10/?ical=1"
+    }
+   ]
+  }
+ ],
+ "existing_matches": [
+  {
+   "name": "Big Chill Band",
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-01-31",
+     "source_url": "https://web.archive.org/web/20250115125009/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2025-11-01",
+     "source_url": "https://web.archive.org/web/20250917113758/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-02-28",
+     "source_url": "https://web.archive.org/web/20251208043904/https://www.freewillbrewing.com/perkasie-live-music-1"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Kevin Rovner Band",
+   "appearances": [
+    {
+     "venue": "Free Will Brewing (Perkasie taproom)",
+     "town": "Perkasie",
+     "state": "PA",
+     "date": "2026-12-11",
+     "source_url": "https://www.freewillbrewing.com/perkasie-live-music-1"
+    }
+   ]
+  },
+  {
+   "name": "Hay Sugar",
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "The Great Bonfire",
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Away Message",
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-06",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-12",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Cherry Lane Band",
+   "appearances": [
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2025-09-07",
+     "source_url": "https://web.archive.org/web/20250826063553/https://www.dtownartsfestival.com/schedule/music/"
+    },
+    {
+     "venue": "Doylestown Arts Festival",
+     "town": "Doylestown",
+     "state": "PA",
+     "date": "2026-09-13",
+     "source_url": "https://www.dtownartsfestival.com/schedule/music/"
+    }
+   ]
+  },
+  {
+   "name": "Grace Little Band",
+   "appearances": [
+    {
+     "venue": "Princeton Shopping Center Summer Concert Series",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-06-06",
+     "source_url": "https://princetonshoppingcenter.com/event/40th-summer-concert-series/2025-06-06/"
+    },
+    {
+     "venue": "Princeton Shopping Center Summer Concert Series",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-06-26",
+     "source_url": "https://www.princetonshoppingcenter.com/events"
+    }
+   ]
+  },
+  {
+   "name": "Dragonfly",
+   "appearances": [
+    {
+     "venue": "Princeton Shopping Center Summer Concert Series",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-07-18",
+     "source_url": "https://princetonshoppingcenter.com/event/40th-summer-concert-series/2025-06-06/"
+    },
+    {
+     "venue": "Princeton Shopping Center Summer Concert Series",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-07-24",
+     "source_url": "https://www.princetonshoppingcenter.com/events"
+    }
+   ]
+  },
+  {
+   "name": "The Beagles with Joy",
+   "appearances": [
+    {
+     "venue": "Princeton Public Library (Hinds Plaza / Community Room)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2025-07-27",
+     "source_url": "https://princetonlibrary.libnet.info/event/14153558"
+    },
+    {
+     "venue": "Princeton Public Library (Hinds Plaza / Community Room)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-08-30",
+     "source_url": "https://princetonlibrary.libnet.info/event/17175825"
+    }
+   ]
+  },
+  {
+   "name": "The Successful Failures",
+   "appearances": [
+    {
+     "venue": "Princeton Public Library (Hinds Plaza / Community Room)",
+     "town": "Princeton",
+     "state": "NJ",
+     "date": "2026-09-13",
+     "source_url": "https://princetonlibrary.libnet.info/event/16751458"
+    }
+   ]
+  },
+  {
+   "name": "Craig Thatcher Band",
+   "appearances": [
+    {
+     "venue": "Sellersville Theater 1894",
+     "town": "Sellersville",
+     "state": "PA",
+     "date": "2026-01-28",
+     "source_url": "https://www.st94.com/events/craig-thatcher-tim-farrell-2/"
+    }
+   ],
+   "note": "Billed as 'Craig Thatcher & Tim Farrell' (duo), not the full Craig Thatcher Band."
+  },
+  {
+   "name": "Slow Noche",
+   "appearances": [],
+   "note": "Only Free Will Brewing Perkasie listing found is 2027-01-22, outside the 2025-2026 window. Source: https://www.freewillbrewing.com/perkasie-live-music-1"
+  }
+ ],
+ "langan_frost_wane": {
+  "found": false,
+  "appearances": [],
+  "notes": "No Langan, Frost & Wane dates found at any crawled Bucks/Mercer venue (Triumph Princeton, Vault, Free Will, Doylestown Arts Festival, Sellersville, PSC, Princeton library/Porchfest, Puck, Small World, Man Cave). The only 2025-2026 date found anywhere was Oct 23, 2026 at the Birdhouse Center for the Arts, 7 N Main St, Lambertville NJ (with Na'Bodach; https://www.showpass.com/langanfrostwane/) - Hunterdon County, outside this agent's area. Songkick has no listing; Bandsintown blocked (403). Press describes them as a Philadelphia-area trio."
+ },
+ "notes": "Window Jan 2025 - Dec 2026; only dated listings counted. Judgement calls: (1) Leader-named jazz combos (X Trio/Duo/Quartet) were included only when they had 3+ appearances, or 2 for named ensembles; leader groups with exactly 2 Triumph Princeton dates were left out: Joe Wittman Trio (2025-02-07, 2025-06-06), Andrew Wagner Trio (2025-02-15, 2025-12-12), Abe Ovadia Trio (2025-03-14, 2025-11-08), Dave Kaczorowski Trio (2025-04-12, 2025-06-07), Cody McCorry Trio (2025-06-14, 2026-04-18), Keith Chasin Trio (2025-08-01, 2025-12-06), Jae Young Jeong Trio (2025-09-20, 2026-06-13), Ilhan Saferali Quartet (2025-10-04, 2025-12-05), Robert Lanter Trio (2026-01-23, 2026-04-11), Dan Weeks Trio (2026-02-06, 2026-10-02), Thomas Reilly Quartet (2026-05-02, 2026-10-03), Parker Cheek Quartet (2026-05-23, 2026-07-18), Steve Hiltner Trio/Duo (2026-07-10, 2026-09-04). Variant billings of one leader (Trio/Quartet/Duo, misspellings) were merged. Treat these combos with caution for a 'local band' map: they are leader-plus-sidemen pickup groups, many led by NYC/Philly players, and they have little web presence. (2) Excluded as solo acts: Max Swan (5 Free Will dates), Matt Dorsey (2), Bunny Barnes, Tourne, Dale Ciccarelli, Lia Menaker, Tim Farrell, Seamus Kelleher, Anthony Walker. Also excluded John Kimock & Friends (Free Will 2025-07-12, 2025-09-27: a drummer-led rotating cast). Excluded J Duo (Vault x3; can't tell who it is). (3) Single-date bands that could reach 2 dates with other sources: Balanced Breakfast Band (PSC 2026-09-18; its 2026-07-17 date was postponed), Briz & the Revival (PSC 2025-06-27), Steal Your Face (Free Will 2026-03-21, 2027-01-02), Philly Nelson (Free Will 2026-01-30, 2027-01-09), The Twenty Committee and Celtica Nova (Sellersville 2026 plus 2024), Women Who Rock / WomenRock! (PSC 2025-08-01 and Halloween 2026-10-24 - possibly the same act, not confirmed). (4) Could not crawl, or found no usable 2025-26 calendar for: Championship Bar Trenton (domain parked, appears closed), Mill Hill Basement (last Songkick listing May 2024; site gone), Trenton Social (domain now redirects to an unrelated site), Dharma Bums (seems to be in New Hope/Point Pleasant, outside the area; not crawled), Yardley Inn / Charcoal BYOB / Continental Tavern, Bristol Riverside Theatre summer fest (2025 = national tributes; no 2026 found), Kuser Park (no series found; Hamilton's July 1 2026 fireworks had Best of the Eagles), Newtown Porchstock (nothing found), Isaac Newton's (events page empty), Roebling Lift, Trenton Avenue Arts Festival, Bordentown Old Book Shop / Farnsworth Ave, Princeton Record Exchange in-stores, Palmer Square, 1867 Sanctuary Ewing (403), Proper Brewing Quakertown (bot-blocked), McCoole's Quakertown, Langhorne Brewing (site down), Triple Sun Spirits Newtown. Bandsintown/jazznearyou block automated fetches (403). (5) Coverage gaps: Free Will is missing Mar-May 2025 and Jun-Sep 2026; Vault's Feb-Jul 2026 music is missing; 2025 Princeton Porchfest lineup missing. Counts are minimums. Images are only site-hosted og:images (Squarespace, Wix, wsimg, WordPress); fbcdn/instagram never used, and null where none was verified. Home bases come from venue or band bios and are null when not stated."
+}

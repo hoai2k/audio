@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Tucked In",
+    "town": "Phoenixville",
+    "state": "PA",
+    "genre": "Indie folk / indie rock",
+    "description": "Three-piece indie folk-rock group (Gunnar Teel, Shae Ferguson, Dan Rodgers) that started as a Brooklyn duo and relocated to the Phoenixville area. Their songs draw on life in suburban Pennsylvania.",
+    "links": {
+      "website": "https://www.tuckedintheband.com/",
+      "instagram": "https://www.instagram.com/tuckedintheband/",
+      "spotify": "https://open.spotify.com/artist/0ZHvolFmMS5v1paPJb6RVl",
+      "youtube": "https://www.youtube.com/channel/UCEjo6eBOgDehr0FmvzzGx6Q",
+      "tiktok": "https://www.tiktok.com/@tuckedintheband_",
+      "linktree": "http://linktr.ee/tuckedintheband"
+    },
+    "image": "https://static.wixstatic.com/media/7342bd_6738c083ddea474ab1776ef4f15abd8e~mv2.jpg",
+    "activity": "2025 'Roughest Roads' Northeast tour behind third EP Saints and Cannons, including a Sept 12, 2025 hometown show at the Colonial Theatre, Phoenixville (also Sherman Showcase, Stroudsburg, June 27, 2025).",
+    "evidence_url": "https://thecolonialtheatre.com/events/live-music/tucked-in/"
+  },
+  {
+    "name": "Clockwork Stenographer",
+    "town": "Ambler",
+    "state": "PA",
+    "genre": "Indie rock (trio)",
+    "description": "Guitar-bass-drums trio playing what they call sad rock from the Philadelphia suburbs. Their debut EP was tracked at Gradwell House in NJ.",
+    "links": {
+      "bandcamp": "https://clockworkstenographer.bandcamp.com/"
+    },
+    "image": "https://f4.bcbits.com/img/a1583227939_10.jpg",
+    "activity": "Debut EP 'Orbits' released on Bandcamp Sept 20, 2025; Bandcamp location Ambler, PA. No show dates found.",
+    "evidence_url": "https://clockworkstenographer.bandcamp.com/album/orbits"
+  },
+  {
+    "name": "XIII PFP",
+    "town": "Lansdale",
+    "state": "PA",
+    "genre": "Hardcore",
+    "description": "Veteran Lansdale/BuxMont hardcore band that came back after roughly a decade away. Their return show was a benefit for the Pennsylvania Immigration Resource Center.",
+    "links": {},
+    "image": null,
+    "activity": "Reunion show Nov 8, 2025 at Poppy's Tavern, Hatfield; co-headlined an all-ages show with Dysphoria at Poppy's Tavern on Feb 20, 2026 (North Penn Now / Central Bucks News, Feb 13, 2026).",
+    "evidence_url": "https://centralbucksnews.com/news/2026/feb/13/dysphoria-xiii-pfp-reunite-for-feb-20-all-ages-hardcore-showcase-in-hatfield"
+  },
+  {
+    "name": "Dysphoria",
+    "town": "Lansdale",
+    "state": "PA",
+    "genre": "Hardcore",
+    "description": "Lansdale hardcore quintet formed in 1993, a long-running name in the Pennsylvania hardcore scene. They have played This Is Hardcore in Philadelphia over the years.",
+    "links": {},
+    "image": null,
+    "activity": "Played The Polish Club, Phoenixville on Dec 20, 2025 (setlist.fm) and co-headlined Poppy's Tavern, Hatfield on Feb 20, 2026 with XIII PFP.",
+    "evidence_url": "https://www.setlist.fm/setlists/dysphoria-1bcc4980.html"
+  },
+  {
+    "name": "L.M.I.",
+    "town": "Lansdale",
+    "state": "PA",
+    "genre": "Stoner punk / hardcore",
+    "description": "Lansdale band mixing stoner rock heft with punk and hardcore. They have a string of numbered releases plus a split with Vulturepeak.",
+    "links": {
+      "bandcamp": "https://lmiband.bandcamp.com/",
+      "facebook": "https://www.facebook.com/LMIband",
+      "instagram": "https://www.instagram.com/lmiband/"
+    },
+    "image": "https://f4.bcbits.com/img/0045013796_10.jpg",
+    "activity": "Opened XIII PFP's Nov 8, 2025 benefit show at Poppy's Tavern, Hatfield (North Penn Now / Central Bucks News, Nov 6, 2025). Latest Bandcamp release: L.M.I. V.",
+    "evidence_url": "https://centralbucksnews.com/news/2025/nov/06/lansdales-xiii-pfp-roars-back-to-life-with-benefit-show-for-immigrant-advocacy"
+  },
+  {
+    "name": "The Wonder Years",
+    "town": "Lansdale",
+    "state": "PA",
+    "genre": "Pop punk / emo",
+    "description": "Pop-punk band formed in Lansdale that grew into one of the genre's best-known acts. They are now usually billed as a Philadelphia band.",
+    "links": {
+      "bandcamp": "https://thewonderyears.bandcamp.com/"
+    },
+    "image": "https://f4.bcbits.com/img/0012558940_10.jpg",
+    "activity": "Released 'No Closer to Heaven' 10th anniversary edition Oct 14, 2025, and toured on it in 2026 (including Theatre of Living Arts, Philadelphia, April 2026).",
+    "evidence_url": "https://thewonderyears.bandcamp.com/album/no-closer-to-heaven-10th-anniversary-edition"
+  },
+  {
+    "name": "The Last Big Band",
+    "town": "Pottstown",
+    "state": "PA",
+    "genre": "Big band jazz",
+    "description": "17-piece jazz orchestra founded in 2002 by trombonist Jim Zoller and trumpeter Roger Morgan. It plays swing-era and newer big-band charts, including originals by its own arrangers, at a monthly residency in downtown Pottstown.",
+    "links": {},
+    "image": null,
+    "activity": "Monthly shows at Rivet Canteen & Assembly, Pottstown through 2026 (May 13 and June 10, 2026 listed; Nov 11, 2026 listed on Eventbrite); played Towamencin's summer series at Fischer's Park, Lansdale, on July 30, 2026.",
+    "evidence_url": "https://towamencin.org/resources/news/article/?id=12418"
+  }
+]

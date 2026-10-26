@@ -1,0 +1,467 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lambertville Local Bands</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<style>
+:root {
+  --paper: #f4eee2; --panel: #fbf8f1; --ink: #22292b; --muted: #6c6a62; --line: #e1d8c6;
+  --river: #2c5f6e; --river-deep: #1d4350; --river-soft: #dce8e9;
+  --brick: #a5432a; --brick-soft: #f3dfd5; --towpath: #6d7d4b; --chip: #efe7d7;
+  --serif: "Fraunces", Georgia, "Times New Roman", serif;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --shadow: 0 1px 0 rgba(60,40,20,.05), 0 6px 18px -10px rgba(60,40,20,.25);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #12191b; --panel: #182124; --ink: #ece6da; --muted: #a49f93; --line: #2b383b;
+    --river: #7fb2bf; --river-deep: #0d2a33; --river-soft: #1d3238;
+    --brick: #e58a6c; --brick-soft: #3a231b; --towpath: #a9b97f; --chip: #212c2f;
+    --shadow: 0 6px 18px -10px rgba(0,0,0,.6);
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--sans); }
+a { color: var(--river); }
+
+/* Masthead: river, bridge, towpath */
+.masthead { position: relative; color: #f7f1e4; background: linear-gradient(180deg, #1d4350 0%, #2c5f6e 70%, #3b7181 100%); overflow: hidden; }
+.masthead .inner { position: relative; z-index: 2; max-width: 1400px; margin: 0 auto; padding: 26px 24px 70px; }
+.kicker { font: 600 11.5px/1 var(--sans); letter-spacing: .16em; text-transform: uppercase; color: #f2c9a8; margin-bottom: 10px; }
+.masthead h1 { font: 700 clamp(28px, 4.6vw, 48px)/1.04 var(--serif); margin: 0; letter-spacing: -.015em; }
+.masthead h1 em { font-style: italic; font-weight: 500; color: #f2c9a8; }
+.masthead p { margin: 10px 0 0; max-width: 60ch; color: #d6e4e5; font-size: 15px; }
+.masthead svg.bridge { position: absolute; left: 0; right: 0; bottom: 0; width: 100%; height: 92px; z-index: 1; }
+
+.wrap { max-width: 1400px; margin: -34px auto 0; padding: 0 24px 32px; position: relative; z-index: 3; }
+.regions { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
+.regions button {
+  font: 500 13px/1 var(--sans); color: var(--ink); background: var(--panel); border: 1px solid var(--line);
+  border-radius: 999px; padding: 9px 14px; cursor: pointer; box-shadow: var(--shadow);
+}
+.regions button .n { color: var(--muted); margin-left: 4px; }
+.regions button[aria-pressed="true"] { background: var(--brick); border-color: var(--brick); color: #fff; }
+.regions button[aria-pressed="true"] .n { color: #fbe2d6; }
+
+main { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(360px, 1fr); gap: 18px; }
+.mapcard { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); overflow: hidden; position: sticky; top: 14px; height: calc(100vh - 28px); max-height: 820px; display: flex; flex-direction: column; }
+#map { flex: 1; min-height: 0; background: var(--river-soft); }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; padding: 10px 14px; font-size: 12.5px; color: var(--muted); border-top: 1px solid var(--line); }
+.legend i { display: inline-block; width: 11px; height: 11px; border-radius: 50%; vertical-align: -1px; margin-right: 6px; }
+
+aside { min-width: 0; }
+.controls { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 14px; display: grid; gap: 10px; margin-bottom: 14px; }
+.row { display: flex; gap: 8px; }
+input[type=search], select {
+  font: inherit; color: var(--ink); background: var(--paper); border: 1px solid var(--line);
+  border-radius: 9px; padding: 9px 11px; width: 100%; min-width: 0;
+}
+input[type=search]:focus, select:focus { outline: 2px solid var(--river); outline-offset: 1px; }
+.status { font-size: 13px; color: var(--muted); display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.status b { color: var(--ink); }
+button.reset { font: 500 13px/1 var(--sans); border: 1px solid var(--line); background: var(--chip); color: var(--ink); border-radius: 8px; padding: 8px 11px; cursor: pointer; }
+button.reset:hover { border-color: var(--river); }
+
+#list { display: grid; gap: 12px; }
+.card { display: grid; grid-template-columns: 96px 1fr; gap: 14px; padding: 12px; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
+.thumb { width: 96px; height: 96px; border-radius: 9px; object-fit: cover; display: grid; place-items: center; overflow: hidden;
+  font: 700 28px/1 var(--serif); color: #f7f1e4; background: linear-gradient(160deg, var(--river) 0%, var(--river-deep) 100%); }
+.card h3 { margin: 0; font: 700 18px/1.2 var(--serif); letter-spacing: -.005em; }
+.meta { font-size: 12.5px; color: var(--muted); margin: 3px 0 6px; display: flex; flex-wrap: wrap; gap: 4px 10px; }
+.meta a { color: var(--brick); text-decoration: none; font-weight: 600; }
+.meta a:hover { text-decoration: underline; }
+.desc { margin: 0 0 8px; font-size: 14px; }
+.activity { font-size: 12.5px; background: var(--river-soft); border-left: 3px solid var(--towpath); border-radius: 4px; padding: 4px 8px; margin-bottom: 8px; }
+.activity a { color: inherit; }
+.links { display: flex; flex-wrap: wrap; gap: 6px; }
+.links a { font-size: 12px; font-weight: 500; text-decoration: none; color: var(--ink); background: var(--chip); border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; }
+.links a:hover { border-color: var(--brick); color: var(--brick); }
+.badge { display: inline-block; font: 600 10.5px/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; border-radius: 4px; padding: 4px 6px; margin-left: 6px; vertical-align: 3px; }
+.badge.based { background: var(--river-soft); color: var(--river); }
+.badge.plays { background: var(--brick-soft); color: var(--brick); }
+.badge.touring { background: var(--chip); color: var(--muted); border: 1px solid var(--line); }
+.homebase { font-size: 12.5px; color: var(--muted); margin: -2px 0 6px; font-style: italic; }
+details.shows { font-size: 12.5px; margin: -2px 0 8px; }
+details.shows summary { cursor: pointer; color: var(--river); font-weight: 500; }
+details.shows ul { margin: 6px 0 0; padding-left: 18px; color: var(--muted); }
+details.shows li a { color: inherit; }
+.modes { display: grid; grid-template-columns: 1fr 1fr; background: var(--chip); border: 1px solid var(--line); border-radius: 10px; padding: 3px; gap: 3px; }
+.modes button { font: 600 13.5px/1 var(--sans); border: 0; background: none; color: var(--muted); padding: 9px; border-radius: 7px; cursor: pointer; }
+.modes button[aria-pressed="true"] { background: var(--panel); color: var(--ink); box-shadow: var(--shadow); }
+body[data-mode="bands"] .venues-only, body[data-mode="venues"] .bands-only { display: none !important; }
+.vcard { padding: 12px 14px; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); border-left: 5px solid var(--status, var(--line)); }
+.vcard.selected { outline: 2px solid var(--river); }
+.vcard h3 { margin: 0; font: 700 17px/1.25 var(--serif); }
+.vstatus { display: inline-block; font: 600 10.5px/1 var(--sans); letter-spacing: .05em; text-transform: uppercase; border-radius: 4px; padding: 4px 6px; margin-left: 6px; vertical-align: 2px; color: #fff; background: var(--status); }
+.coverage { font-size: 12.5px; color: var(--muted); margin: 0 0 6px; }
+.bandchips { display: flex; flex-wrap: wrap; gap: 5px; margin: 6px 0 8px; }
+.bandchips a { font-size: 12px; text-decoration: none; color: var(--ink); background: var(--river-soft); border-radius: 999px; padding: 2px 9px; }
+.bandchips a:hover { color: var(--brick); }
+.bandchips .more { color: var(--muted); font-size: 12px; align-self: center; }
+.statsline { font-size: 12.5px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.statsline i { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 5px; }
+details.shows li a.vlink { color: var(--river); }
+.empty { color: var(--muted); padding: 40px 0; text-align: center; font-family: var(--serif); font-size: 18px; }
+
+footer { max-width: 1400px; margin: 0 auto; padding: 18px 24px 36px; color: var(--muted); font-size: 12.5px; border-top: 1px dashed var(--line); }
+
+/* Map labels */
+.town-label { background: none; border: none; box-shadow: none; font: 600 11px/1 var(--sans); color: #1d2a2e; text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 2px #fff; padding: 0; }
+.leaflet-tooltip.town-label::before { display: none; }
+.home-pin { width: 18px; height: 18px; border-radius: 50%; background: var(--river); border: 3px solid #fff; box-shadow: 0 0 0 2px var(--river); }
+.leaflet-container { font-family: var(--sans); }
+
+@media (max-width: 900px) {
+  main { grid-template-columns: 1fr; }
+  .mapcard { position: relative; top: 0; height: 52vh; }
+}
+@media (max-width: 600px) {
+  .masthead .inner, .wrap, footer { padding-left: 16px; padding-right: 16px; }
+  .card { grid-template-columns: 72px 1fr; }
+  .thumb { width: 72px; height: 72px; font-size: 22px; }
+}
+</style>
+</head>
+<body data-mode="bands">
+<header class="masthead">
+  <div class="inner">
+    <div class="kicker">Delaware River Valley · within an hour of the bridge</div>
+    <h1>Lambertville <em>Local Bands</em></h1>
+    <p>Working bands from both sides of the river, from New Hope and the Hunterdon hills to Trenton, Philly, the Lehigh Valley and the Shore. Pick a town on the map or search the whole list.</p>
+  </div>
+  <!-- Truss bridge over the Delaware -->
+  <svg class="bridge" viewBox="0 0 1200 92" preserveAspectRatio="none" aria-hidden="true">
+    <g fill="none" stroke="#f2c9a8" stroke-opacity=".55" stroke-width="1.6">
+      <path d="M0 52 H1200"/>
+      <path d="M0 30 H1200"/>
+      <path d="M0 52 L40 30 L80 52 L120 30 L160 52 L200 30 L240 52 L280 30 L320 52 L360 30 L400 52 L440 30 L480 52 L520 30 L560 52 L600 30 L640 52 L680 30 L720 52 L760 30 L800 52 L840 30 L880 52 L920 30 L960 52 L1000 30 L1040 52 L1080 30 L1120 52 L1160 30 L1200 52"/>
+    </g>
+    <g fill="#f2c9a8" fill-opacity=".35">
+      <rect x="196" y="52" width="10" height="40"/><rect x="496" y="52" width="10" height="40"/>
+      <rect x="796" y="52" width="10" height="40"/><rect x="1096" y="52" width="10" height="40"/>
+    </g>
+    <path d="M0 70 Q 50 64 100 70 T 200 70 T 300 70 T 400 70 T 500 70 T 600 70 T 700 70 T 800 70 T 900 70 T 1000 70 T 1100 70 T 1200 70 V92 H0Z" fill="var(--paper)" fill-opacity=".18"/>
+    <path d="M0 78 Q 60 72 120 78 T 240 78 T 360 78 T 480 78 T 600 78 T 720 78 T 840 78 T 960 78 T 1080 78 T 1200 78 V92 H0Z" fill="var(--paper)"/>
+  </svg>
+</header>
+
+<div class="wrap">
+  <nav class="regions" id="regions" aria-label="Regions"></nav>
+  <main>
+    <section class="mapcard">
+      <div id="map" role="region" aria-label="Map of towns with local bands"></div>
+      <div class="legend" id="legend">
+        <span class="bands-only"><i style="background:#a5432a"></i>Town with bands (size = how many)</span>
+        <span class="venues-only" id="vlegend"></span>
+        <span><i style="background:#2c5f6e"></i>Lambertville</span>
+        <span><i style="border:1.5px dashed #2c5f6e"></i>~1 hour drive</span>
+      </div>
+    </section>
+    <aside>
+      <div class="controls">
+        <div class="modes" role="group" aria-label="View">
+          <button data-mode="bands" aria-pressed="true">Bands</button>
+          <button data-mode="venues" aria-pressed="false">Venues</button>
+        </div>
+        <input id="q" type="search" placeholder="Search a band, genre or town…" aria-label="Search">
+        <div class="row venues-only">
+          <select id="vtown" aria-label="Filter venues by town"><option value="">All towns</option></select>
+          <select id="vstatus" aria-label="Filter venues by how well we checked them"><option value="">Any calendar status</option></select>
+        </div>
+        <div class="row bands-only">
+          <select id="town" aria-label="Filter by town"><option value="">All towns</option></select>
+          <select id="genre" aria-label="Filter by genre"><option value="">All genres</option></select>
+        </div>
+        <div class="row bands-only">
+          <select id="basis" aria-label="Based here or plays here often">
+            <option value="">Based here + plays here often</option>
+            <option value="based">Based here</option>
+            <option value="plays">Plays here often (any home base)</option>
+          </select>
+        </div>
+        <div class="status"><span id="count"></span><button class="reset" id="reset">Show all</button></div>
+      </div>
+      <div class="statsline venues-only" id="vstats" style="margin:-4px 2px 12px"></div>
+      <div id="list"></div>
+    </aside>
+  </main>
+</div>
+<footer>Researched __DATE__ from venue calendars, festival lineups, local press and Bandcamp. Gig notes reflect what was listed then. Check each band's own pages for current dates before booking or heading out.</footer>
+
+<script>
+const BANDS = __BANDS__;
+const TOWNS = __TOWNS__;
+const REGIONS = __REGIONS__;
+const VENUES = __VENUES__;
+const STATUS = {
+  crawled: ["Calendar checked", "#2c5f6e"], partial: ["Partly checked", "#5f9aa8"],
+  social_only: ["Social media only", "#8a63b3"], seen_in_listings: ["Seen in band listings", "#d0866a"],
+  no_online_calendar: ["No online calendar", "#8f8a7f"], blocked: ["Site blocked us", "#c49a1d"], closed: ["Closed", "#3a3a3a"]
+};
+const statusOf = v => STATUS[v.status] || STATUS.seen_in_listings;
+const HOME = [40.3654, -74.9429];
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const townKey = b => b.town + ", " + b.state;
+const LINK_LABELS = { website: "Website", bandcamp: "Bandcamp", spotify: "Spotify", instagram: "Instagram", facebook: "Facebook", youtube: "YouTube", tiktok: "TikTok", linktree: "Linktree", soundcloud: "SoundCloud", applemusic: "Apple Music", reverbnation: "ReverbNation", tickets: "Tickets" };
+const LINK_ORDER = Object.keys(LINK_LABELS);
+
+function miles(a, b) {
+  const R = 3958.8, r = Math.PI / 180;
+  const dLat = (b[0] - a[0]) * r, dLon = (b[1] - a[1]) * r;
+  const h = Math.sin(dLat / 2) ** 2 + Math.cos(a[0] * r) * Math.cos(b[0] * r) * Math.sin(dLon / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+}
+
+// Broad genre buckets for the filter
+const GENRES = [
+  ["Rock", /rock|grunge|garage|power pop|psych/i], ["Indie / Alt", /indie|alt|shoegaze|dream|emo|math/i],
+  ["Punk / Hardcore", /punk|hardcore|ska/i], ["Metal", /metal|doom|sludge|stoner/i],
+  ["Jazz", /jazz|swing|big band|nonet/i], ["Blues", /blues/i], ["Funk / Soul / R&B", /funk|soul|r&b|motown|groove/i],
+  ["Folk / Americana", /folk|americana|bluegrass|roots|acoustic|singer/i], ["Country", /country|honky|western/i],
+  ["Jam", /jam|grateful|dead/i], ["Covers / Party", /cover|tribute|party|wedding|dance/i],
+  ["Latin / Reggae / World", /reggae|latin|salsa|afro|world|celtic|irish|klezmer/i], ["Pop / Electronic", /pop|synth|electr/i],
+  ["Hip-hop", /hip.?hop|rap/i]
+];
+const genresOf = b => GENRES.filter(([, re]) => re.test(b.genre || "")).map(([g]) => g);
+
+// Map
+const dark = matchMedia("(prefers-color-scheme: dark)").matches && document.documentElement.dataset.theme !== "light";
+const map = L.map("map", { scrollWheelZoom: true, zoomSnap: 0.5 }).setView(HOME, 9);
+L.tileLayer(`https://server.arcgisonline.com/ArcGIS/rest/services/${dark ? "Canvas/World_Dark_Gray_Base" : "World_Topo_Map"}/MapServer/tile/{z}/{y}/{x}`, {
+  attribution: "Tiles &copy; Esri &mdash; Esri, HERE, Garmin, USGS, NGA, EPA, NPS, OpenStreetMap contributors",
+  maxZoom: dark ? 16 : 18
+}).addTo(map);
+L.circle(HOME, { radius: 72000, color: "#2c5f6e", weight: 1.5, dashArray: "5 7", fillColor: "#2c5f6e", fillOpacity: 0.04, interactive: false }).addTo(map);
+L.marker(HOME, { icon: L.divIcon({ className: "", html: '<div class="home-pin"></div>', iconSize: [18, 18], iconAnchor: [9, 9] }), zIndexOffset: 1000 })
+  .addTo(map).on("click", () => counts["Lambertville, NJ"] && selectTown("Lambertville, NJ"));
+
+const counts = {};
+BANDS.forEach(b => counts[townKey(b)] = (counts[townKey(b)] || 0) + 1);
+const bandLayer = L.layerGroup().addTo(map);
+const venueLayer = L.layerGroup();
+const markers = {};
+Object.entries(counts).forEach(([key, n]) => {
+  const c = TOWNS[key];
+  if (!c) return;
+  markers[key] = L.circleMarker(c, { radius: Math.min(5 + Math.sqrt(n) * 1.6, 17), color: "#fff", weight: 2, fillColor: "#a5432a", fillOpacity: 0.88 })
+    .addTo(bandLayer)
+    .bindTooltip(`${key.split(",")[0]} · ${n}`, { permanent: true, direction: key === "Lambertville, NJ" ? "left" : "right", className: "town-label", offset: [key === "Lambertville, NJ" ? -8 : 8, 0] })
+    .on("click", () => selectTown(key));
+});
+const vmarkers = VENUES.map((v, i) => L.circleMarker(v.pt, {
+    radius: 4 + Math.min(Math.sqrt(v.bookings), 8), color: "#fff", weight: 1.5, fillColor: statusOf(v)[1], fillOpacity: 0.9
+  }).addTo(venueLayer).bindTooltip(`${v.name} · ${v.bookings} booking${v.bookings === 1 ? "" : "s"}`, { direction: "top", offset: [0, -4] })
+  .on("click", () => selectVenue(i)));
+const allPts = Object.keys(counts).map(k => TOWNS[k]).filter(Boolean).concat([HOME]);
+const fitAll = () => map.fitBounds(L.latLngBounds(allPts).pad(0.06));
+requestAnimationFrame(() => { map.invalidateSize(); fitAll(); });
+addEventListener("load", () => { map.invalidateSize(); fitAll(); });
+
+// Controls
+const state = { mode: "bands", q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1 };
+const vtownCounts = {};
+VENUES.forEach(v => { const k = v.town + ", " + v.state; vtownCounts[k] = (vtownCounts[k] || 0) + 1; });
+Object.keys(vtownCounts).sort().forEach(k => $("#vtown").insertAdjacentHTML("beforeend", `<option value="${esc(k)}">${esc(k)} (${vtownCounts[k]})</option>`));
+const vstatusCounts = {};
+VENUES.forEach(v => vstatusCounts[v.status] = (vstatusCounts[v.status] || 0) + 1);
+Object.keys(STATUS).filter(k => vstatusCounts[k]).forEach(k => $("#vstatus").insertAdjacentHTML("beforeend", `<option value="${k}">${STATUS[k][0]} (${vstatusCounts[k]})</option>`));
+$("#vlegend").innerHTML = Object.keys(STATUS).filter(k => vstatusCounts[k]).map(k => `<span><i style="background:${STATUS[k][1]}"></i>${STATUS[k][0]}</span>`).join(" &nbsp; ");
+
+function setMode(mode) {
+  state.mode = mode; document.body.dataset.mode = mode;
+  document.querySelectorAll(".modes button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.mode === mode)));
+  $("#q").placeholder = mode === "bands" ? "Search a band, genre or town…" : "Search a venue, town, or band that played there…";
+  if (mode === "bands") { map.removeLayer(venueLayer); bandLayer.addTo(map); } else { map.removeLayer(bandLayer); venueLayer.addTo(map); }
+  render();
+}
+document.querySelectorAll(".modes button").forEach(b => b.addEventListener("click", () => setMode(b.dataset.mode)));
+function selectVenue(i) {
+  if (state.mode !== "venues") setMode("venues");
+  state.venue = i; render();
+  map.flyTo(VENUES[i].pt, Math.max(map.getZoom(), 13), { duration: 0.6 });
+  const el = document.querySelector(`.vcard[data-i="${i}"]`);
+  if (el) el.scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+$("#vtown").addEventListener("change", e => { state.vtown = e.target.value; state.venue = -1; render(); fitVenues(); });
+$("#vstatus").addEventListener("change", e => { state.vstatus = e.target.value; state.venue = -1; render(); });
+function fitVenues() {
+  const pts = filteredVenues().map(v => v.pt);
+  if (pts.length) map.flyToBounds(L.latLngBounds(pts).pad(0.3), { duration: 0.6, maxZoom: 13 });
+}
+Object.keys(counts).sort().forEach(k => $("#town").insertAdjacentHTML("beforeend", `<option value="${esc(k)}">${esc(k)} (${counts[k]})</option>`));
+const genreCounts = {};
+BANDS.forEach(b => genresOf(b).forEach(g => genreCounts[g] = (genreCounts[g] || 0) + 1));
+GENRES.map(([g]) => g).filter(g => genreCounts[g]).forEach(g => $("#genre").insertAdjacentHTML("beforeend", `<option>${g}</option>`));
+
+const regionCounts = {};
+BANDS.forEach(b => regionCounts[b.region] = (regionCounts[b.region] || 0) + 1);
+$("#regions").innerHTML = `<button data-region="" aria-pressed="true">Everywhere<span class="n">${BANDS.length}</span></button>` +
+  REGIONS.filter(r => regionCounts[r]).map(r => `<button data-region="${esc(r)}" aria-pressed="false">${esc(r)}<span class="n">${regionCounts[r]}</span></button>`).join("");
+$("#regions").addEventListener("click", e => {
+  const btn = e.target.closest("button"); if (!btn) return;
+  state.region = btn.dataset.region; state.town = ""; $("#town").value = ""; state.venue = -1;
+  render();
+  if (state.mode === "venues") return state.region ? fitVenues() : fitAll();
+  const pts = BANDS.filter(b => !state.region || b.region === state.region).map(b => TOWNS[townKey(b)]).filter(Boolean);
+  if (!state.region) fitAll(); else if (pts.length) map.flyToBounds(L.latLngBounds(pts).pad(0.4), { duration: 0.6, maxZoom: 11 });
+});
+
+function selectTown(key) {
+  state.town = key; state.region = ""; $("#town").value = key; render();
+  if (TOWNS[key]) map.flyTo(TOWNS[key], Math.max(map.getZoom(), 11), { duration: 0.6 });
+  if (innerWidth <= 900) $("#list").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+$("#q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
+$("#town").addEventListener("change", e => e.target.value ? selectTown(e.target.value) : (state.town = "", render(), fitAll()));
+$("#genre").addEventListener("change", e => { state.genre = e.target.value; render(); });
+$("#basis").addEventListener("change", e => { state.basis = e.target.value; render(); });
+$("#reset").addEventListener("click", () => {
+  Object.assign(state, { q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1 });
+  $("#q").value = ""; $("#town").value = ""; $("#genre").value = ""; $("#basis").value = ""; $("#vtown").value = ""; $("#vstatus").value = "";
+  render(); fitAll();
+});
+
+function card(b) {
+  const initials = b.name.replace(/^the\s+/i, "").split(/\s+/).filter(w => /\w/.test(w)).slice(0, 2).map(w => w[0]).join("").toUpperCase();
+  const fallback = `<div class="thumb">${esc(initials)}</div>`;
+  const img = b.image
+    ? `<img class="thumb" src="${esc(b.image)}" alt="${esc(b.name)}" loading="lazy" referrerpolicy="no-referrer" data-initials="${esc(initials)}">`
+    : fallback;
+  const links = Object.entries(b.links || {}).filter(([, u]) => u)
+    .sort(([a], [c]) => (LINK_ORDER.indexOf(a) + 99) % 99 - (LINK_ORDER.indexOf(c) + 99) % 99)
+    .map(([k, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(LINK_LABELS[k] || k)}</a>`).join("");
+  const place = [b.neighborhood, b.town].filter(Boolean).join(", ") + ", " + b.state;
+  const c = TOWNS[townKey(b)];
+  const dist = c ? (b.town === "Lambertville" ? "right here" : `${Math.round(miles(HOME, c))} mi from Lambertville`) : "";
+  const badge = b.basis === "based"
+    ? `<span class="badge based">Based here</span>${b.plays_here ? `<span class="badge plays">Plays here often</span>` : ""}`
+    : `<span class="badge plays">Plays here often</span>${b.touring ? `<span class="badge touring">Out-of-state touring</span>` : ""}`;
+  const home = b.basis === "plays_here"
+    ? `<div class="homebase">${b.home_base ? `Listed home base: ${esc(b.home_base)}` : "No home base listed"}. ${b.touring ? "Touring act that keeps coming back. " : ""}Mapped where they play most.</div>` : "";
+  const shows = (b.appearances || []).length
+    ? `<details class="shows"><summary>${b.appearances.length} area show${b.appearances.length > 1 ? "s" : ""}: ${esc(b.venue_summary)}</summary><ul>${
+        b.appearances.map(a => {
+          const vi = venueIndex(a.venue, a.town);
+          const name = vi >= 0 ? `<a href="#" class="vlink" data-venue="${vi}">${esc(a.venue)}</a>` : esc(a.venue);
+          const src = a.source_url ? ` <a href="${esc(a.source_url)}" target="_blank" rel="noopener" title="Source">↗</a>` : "";
+          return `<li>${esc(a.date || "")} · ${name}, ${esc(a.town)}${src}</li>`;
+        }).join("")}</ul></details>` : "";
+  const act = b.activity
+    ? `<div class="activity">${b.evidence_url ? `<a href="${esc(b.evidence_url)}" target="_blank" rel="noopener">${esc(b.activity)}</a>` : esc(b.activity)}</div>` : "";
+  return `<article class="card">${img}<div>
+    <h3>${esc(b.name)}${badge}</h3>
+    <div class="meta"><a href="#" data-town="${esc(townKey(b))}">${esc(place)}</a><span>${esc(b.genre || "")}</span>${dist ? `<span>${dist}</span>` : ""}</div>
+    ${home}<p class="desc">${esc(b.description)}</p>${act}${shows}<div class="links">${links}</div></div></article>`;
+}
+
+const vnorm = s => String(s || "").toLowerCase().replace(/&/g, "and").replace(/\s*\(.*?\)/g, "").replace(/^the\s+/, "").replace(/[^a-z0-9]/g, "");
+const VINDEX = new Map(VENUES.map((v, i) => [vnorm(v.name) + "|" + v.town.toLowerCase(), i]));
+const venueIndex = (name, town) => VINDEX.get(vnorm(name) + "|" + String(town || "").toLowerCase()) ?? -1;
+
+function filteredVenues() {
+  return VENUES.filter(v => {
+    if (state.region && v.region !== state.region) return false;
+    if (state.vtown && v.town + ", " + v.state !== state.vtown) return false;
+    if (state.vstatus && v.status !== state.vstatus) return false;
+    if (state.q && ![v.name, v.town, v.kind, v.notes, v.bands.join(" ")].join(" ").toLowerCase().includes(state.q)) return false;
+    return true;
+  });
+}
+
+function vcard(v) {
+  const i = VENUES.indexOf(v);
+  const [label, color] = statusOf(v);
+  const links = [["website", "Website"], ["facebook", "Facebook"], ["instagram", "Instagram"], ["source_url", "Source"]]
+    .filter(([k]) => v[k] && !(k === "source_url" && v[k] === v.website))
+    .map(([k, l]) => `<a href="${esc(v[k])}" target="_blank" rel="noopener">${l}</a>`).join("");
+  const shown = v.bands.slice(0, 14);
+  const chips = shown.map(n => `<a href="#" data-band="${esc(n)}">${esc(n)}</a>`).join("") +
+    (v.bands.length > shown.length ? `<span class="more">+${v.bands.length - shown.length} more (search the venue name in Bands)</span>` : "");
+  const meta = [`<a href="#" data-vtown="${esc(v.town + ", " + v.state)}">${esc(v.town)}, ${esc(v.state)}</a>`, v.kind, v.frequency && v.frequency !== "unknown" ? `music ${v.frequency}` : "",
+    miles(HOME, v.pt) < 1 ? "under 1 mi from Lambertville" : `${Math.round(miles(HOME, v.pt))} mi from Lambertville`].filter(Boolean).map(x => `<span>${x}</span>`).join("");
+  return `<article class="vcard${state.venue === i ? " selected" : ""}" data-i="${i}" style="--status:${color}">
+    <h3>${esc(v.name)}<span class="vstatus">${esc(label)}</span></h3>
+    <div class="meta">${meta}</div>
+    ${v.address ? `<div class="coverage">${esc(v.address)}${v.approx ? "" : ""}</div>` : v.approx ? `<div class="coverage">Pin is approximate (town centre)</div>` : ""}
+    <p class="coverage"><b>${v.bookings}</b> band booking${v.bookings === 1 ? "" : "s"} recorded${v.coverage ? ` · Checked: ${esc(v.coverage)}` : ""}${v.notes ? ` · ${esc(v.notes)}` : ""}</p>
+    ${v.bands.length ? `<div class="bandchips">${chips}</div>` : ""}
+    <div class="links">${links}</div></article>`;
+}
+
+function renderVenues() {
+  const list = filteredVenues();
+  if (state.venue >= 0 && !list.includes(VENUES[state.venue])) state.venue = -1;
+  const sorted = list.slice().sort((a, b) => (state.venue >= 0 ? (VENUES.indexOf(b) === state.venue) - (VENUES.indexOf(a) === state.venue) : 0) || b.bookings - a.bookings || a.name.localeCompare(b.name));
+  $("#list").innerHTML = sorted.length ? sorted.map(vcard).join("") : `<div class="empty">No venues match.</div>`;
+  const where = state.vtown ? ` in <b>${esc(state.vtown)}</b>` : state.region ? ` in <b>${esc(state.region)}</b>` : "";
+  $("#count").innerHTML = `<b>${list.length}</b> of ${VENUES.length} venues${where}`;
+  const sc = {};
+  list.forEach(v => sc[v.status] = (sc[v.status] || 0) + 1);
+  $("#vstats").innerHTML = Object.keys(STATUS).filter(k => sc[k]).map(k => `<span><i style="background:${STATUS[k][1]}"></i>${sc[k]} ${STATUS[k][0].toLowerCase()}</span>`).join("");
+  document.querySelectorAll("#regions button").forEach(btn => btn.setAttribute("aria-pressed", String(btn.dataset.region === state.region)));
+  const keep = new Set(list);
+  vmarkers.forEach((m, i) => m.setStyle({ fillOpacity: keep.has(VENUES[i]) ? 0.9 : 0.12, opacity: keep.has(VENUES[i]) ? 1 : 0.2, weight: i === state.venue ? 3 : 1.5, color: i === state.venue ? "#1d4350" : "#fff" }));
+}
+
+function render() {
+  if (state.mode === "venues") return renderVenues();
+  const list = BANDS.filter(b => {
+    if (state.region && b.region !== state.region) return false;
+    if (state.town && townKey(b) !== state.town) return false;
+    if (state.genre && !genresOf(b).includes(state.genre)) return false;
+    if (state.basis === "based" && b.basis !== "based") return false;
+    if (state.basis === "plays" && !b.plays_here) return false;
+    if (state.q) {
+      const hay = [b.name, b.town, b.neighborhood, b.state, b.genre, b.description, b.home_base, b.venue_summary].join(" ").toLowerCase();
+      if (!hay.includes(state.q)) return false;
+    }
+    return true;
+  }).sort((a, b) => {
+    // Home-grown bands first, then frequent visitors by how often they play here
+    if (a.basis !== b.basis) return a.basis === "based" ? -1 : 1;
+    if (a.basis === "plays_here") {
+      const d = (b.appearances || []).length - (a.appearances || []).length;
+      if (d) return d;
+    }
+    return a.name.replace(/^the\s+/i, "").localeCompare(b.name.replace(/^the\s+/i, ""));
+  });
+  $("#list").innerHTML = list.length ? list.map(card).join("") : `<div class="empty">Nothing playing here yet. Try another town.</div>`;
+  $("#list").querySelectorAll("img.thumb").forEach(img => img.addEventListener("error", () => {
+    const d = document.createElement("div"); d.className = "thumb"; d.textContent = img.dataset.initials; img.replaceWith(d);
+  }, { once: true }));
+  const where = state.town ? ` in <b>${esc(state.town)}</b>` : state.region ? ` in <b>${esc(state.region)}</b>` : "";
+  $("#count").innerHTML = `<b>${list.length}</b> of ${BANDS.length} bands${where}`;
+  document.querySelectorAll("#regions button").forEach(btn => btn.setAttribute("aria-pressed", String(btn.dataset.region === state.region && !state.town)));
+  Object.entries(markers).forEach(([k, m]) => {
+    const on = k === state.town || (!state.town && state.region && BANDS.some(b => townKey(b) === k && b.region === state.region));
+    const dim = (state.town || state.region) && !on;
+    m.setStyle({ fillColor: on ? "#2c5f6e" : "#a5432a", fillOpacity: dim ? 0.35 : 0.88 });
+  });
+}
+$("#list").addEventListener("click", e => {
+  const t = e.target.closest("[data-town], [data-venue], [data-band], [data-vtown]");
+  if (!t) return;
+  e.preventDefault();
+  if (t.dataset.town) return selectTown(t.dataset.town);
+  if (t.dataset.venue) return selectVenue(+t.dataset.venue);
+  if (t.dataset.vtown) { state.vtown = t.dataset.vtown; $("#vtown").value = state.vtown; state.venue = -1; render(); return fitVenues(); }
+  if (t.dataset.band) {
+    Object.assign(state, { town: "", region: "", genre: "", basis: "" });
+    $("#town").value = ""; $("#genre").value = ""; $("#basis").value = "";
+    state.q = t.dataset.band.toLowerCase(); $("#q").value = t.dataset.band;
+    setMode("bands");
+  }
+});
+render();
+</script>
+</body>
+</html>
