@@ -1,0 +1,289 @@
+{
+ "venues": [],
+ "appearances": [
+  {
+   "band": "Matt Trowbridge",
+   "venue": "Shedfest (Fairview Farm Wildlife Preserve)",
+   "town": "Bedminster (Far Hills)",
+   "state": "NJ",
+   "date": "2025-06-01",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/shedfest-music-festival-2/",
+   "source_type": "aggregator",
+   "billing": "Shedfest Music Festival: Free Soil, Tony and the Trees, and Matt Trowbridge"
+  },
+  {
+   "band": "Danny Alderman",
+   "venue": "Downtown Somerville (Division St / Main St stages)",
+   "town": "Somerville",
+   "state": "NJ",
+   "date": "2025-11-29",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/small-business-saturday/",
+   "source_type": "aggregator",
+   "billing": "Small Business Saturday live music: Ovation Quartet; School of Rock; Danny Alderman (Folk); Cement Gents (Student Jazz); J2K (Acoustic)"
+  },
+  {
+   "band": "Niall Connolly",
+   "venue": "The Ross Farm",
+   "town": "Basking Ridge",
+   "state": "NJ",
+   "date": "2025-05-04",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/niall-connolly-live-in-the-barn/",
+   "source_type": "aggregator",
+   "billing": "Niall Connolly live in the Barn (Ross Farm concert series, 11th season)"
+  },
+  {
+   "band": "Justin Howl",
+   "venue": "The Ross Farm",
+   "town": "Basking Ridge",
+   "state": "NJ",
+   "date": "2025-05-10",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/ross-farm-barn-concert-with-justin-howl/",
+   "source_type": "aggregator",
+   "billing": "Ross Farm Barn Concert with Justin Howl"
+  },
+  {
+   "band": "Vanessa Collier",
+   "venue": "The Ross Farm",
+   "town": "Basking Ridge",
+   "state": "NJ",
+   "date": "2025-05-31",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/vanessa-collier-live-at-the-ross-farm/",
+   "source_type": "aggregator",
+   "billing": "Vanessa Collier Live at the Ross Farm"
+  },
+  {
+   "band": "Taylor Ashton",
+   "venue": "The Ross Farm",
+   "town": "Basking Ridge",
+   "state": "NJ",
+   "date": "2025-06-15",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/eilen-jewell-with-taylor-ashton-live-at-the-ross-farm/",
+   "source_type": "aggregator",
+   "billing": "Eilen Jewell with Taylor Ashton (opener) Live at the Ross Farm"
+  },
+  {
+   "band": "Alysha Brilla",
+   "venue": "The Ross Farm",
+   "town": "Basking Ridge",
+   "state": "NJ",
+   "date": "2025-06-22",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/alysha-brilla-live-at-the-ross-farm-global-rhythms-and-soulful-songs/",
+   "source_type": "aggregator",
+   "billing": "Alysha Brilla Live at the Ross Farm"
+  },
+  {
+   "band": "Chris Smither",
+   "venue": "The Ross Farm",
+   "town": "Basking Ridge",
+   "state": "NJ",
+   "date": "2025-07-19",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/chris-smither-with-the-suitcase-junket-live-at-the-ross-farm/",
+   "source_type": "aggregator",
+   "billing": "Chris Smither with The Suitcase Junket Live at the Ross Farm"
+  },
+  {
+   "band": "The Suitcase Junket",
+   "venue": "The Ross Farm",
+   "town": "Basking Ridge",
+   "state": "NJ",
+   "date": "2025-07-19",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/chris-smither-with-the-suitcase-junket-live-at-the-ross-farm/",
+   "source_type": "aggregator",
+   "billing": "Chris Smither with The Suitcase Junket (opener, one-man band of Matt Lorenz)"
+  },
+  {
+   "band": "Liz Longley",
+   "venue": "The Ross Farm",
+   "town": "Basking Ridge",
+   "state": "NJ",
+   "date": "2026-07-18",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/liz-longley-live-at-the-ross-farm-empowher-concert-july-18/",
+   "source_type": "aggregator",
+   "billing": "Liz Longley Live at the Ross Farm, with special guest Rachael Sage (EmpowHER concert)"
+  },
+  {
+   "band": "Rachael Sage",
+   "venue": "The Ross Farm",
+   "town": "Basking Ridge",
+   "state": "NJ",
+   "date": "2026-07-18",
+   "solo": true,
+   "source_url": "https://visitsomersetnj.org/event/liz-longley-live-at-the-ross-farm-empowher-concert-july-18/",
+   "source_type": "aggregator",
+   "billing": "Liz Longley with special guest Rachael Sage (opener)"
+  }
+ ],
+ "band_info": [
+  {
+   "name": "Danny Alderman",
+   "genre": "Folk",
+   "description": "Folk performer listed on the Downtown Somerville Small Business Saturday music schedule.",
+   "home_base": null,
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  },
+  {
+   "name": "Niall Connolly",
+   "genre": "Singer-songwriter",
+   "description": "Cork-born singer-songwriter whose story-driven songs mix electricity, sincerity and humour on stage.",
+   "home_base": null,
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  },
+  {
+   "name": "Justin Howl",
+   "genre": "Blues",
+   "description": "Singer and songwriter rooted in Chicago blues and drawn to the hypnotic North Mississippi style.",
+   "home_base": null,
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  },
+  {
+   "name": "Vanessa Collier",
+   "genre": "Blues / soul",
+   "description": "Blues and soul singer-songwriter and saxophonist with multiple Blues Music Award wins.",
+   "home_base": null,
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  },
+  {
+   "name": "Taylor Ashton",
+   "genre": "Folk",
+   "description": "Canadian-born singer-songwriter with an inventive folk sound built on clawhammer banjo.",
+   "home_base": "Brooklyn, NY",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  },
+  {
+   "name": "Alysha Brilla",
+   "genre": "Folk / soul",
+   "description": "JUNO-nominated singer-songwriter blending folk, soul and global roots.",
+   "home_base": null,
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  },
+  {
+   "name": "Chris Smither",
+   "genre": "Blues / folk",
+   "description": "Veteran blues and folk singer-songwriter known for fingerpicked guitar and foot-tapping rhythm.",
+   "home_base": null,
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  },
+  {
+   "name": "The Suitcase Junket",
+   "genre": "Roots / one-man band",
+   "description": "One-man band of Matt Lorenz, playing a salvaged guitar and homemade percussion.",
+   "home_base": null,
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  },
+  {
+   "name": "Liz Longley",
+   "genre": "Folk / pop / Americana",
+   "description": "Singer-songwriter whose albums range from Americana to pop.",
+   "home_base": "Nashville, TN",
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  },
+  {
+   "name": "Rachael Sage",
+   "genre": "Singer-songwriter",
+   "description": "Vocalist and multi-instrumentalist known for dynamic piano playing and improvisational live shows.",
+   "home_base": null,
+   "links": {
+    "website": null,
+    "bandcamp": null,
+    "instagram": null,
+    "facebook": null,
+    "spotify": null,
+    "youtube": null
+   },
+   "image": null,
+   "solo": true
+  }
+ ],
+ "notes": "Sources read: Visit Somerset NJ Tribe Events dump (central/vs_all.json, 3,213 events; all census Somerset venues matched by venue field or title, full descriptions read for every multi-act night and festival), Flounder Brewing Squarespace JSON (central/fl.json, fl_rows.json, flm.html, and ven/v5.html which is a second Flounder events JSON fetch), Triumph Brewing monthly iCal (tri/*.ics, all 24 months, Princeton only; central/tri_events.txt is the same feed for all Triumph locations), central/nbjp.txt (Tavern on George: a processed date|band list of exactly the 191 census rows, so no solo acts are recoverable from it), central/mcev.html (Visit Mercer community events page, Oct-Nov 2026: no census venue listings). Unusable: central/scp*.html (Somerset County Parks, all Cloudflare challenge pages), m250.json (404 JSON), nb1.json (Mod_Security error). Saved pages: pages/ and ven/ are mostly other areas (Philadelphia: Johnny Brenda's, Kung Fu Necktie, Underground Arts, MilkBoy, Ortlieb's, PhilaMOCA, R5, Chris' Jazz Cafe, Ukie Club; Bucks: Puck Live, Broken Goblet + its sitemap ven/v6, Sellersville archive, Free Will, Havana New Hope, New Hope Winery, John & Peter's (ven/v1 JSON), Peddler's Village, Experience Yardley; Lehigh: ArtsQuest, Godfrey Daniels; Hunterdon/Warren: Readington Brewery, Czig Meister, Explore Warren, Lopatcong, Tiptons, Soupcon Salon Lambertville, Sourland Mountain Festival at Unionville Vineyards Ringoes; Shore/South Jersey/Delaware/Chester: Asbury Park Brewery, Bar Anticipation, Artie's, The Homestead, Tonewood, Red Bank and Moorestown porchfests, Wilmington Brew Works, Aristaeus, Kennett Flash, Colonial Theatre, Birdhouse Center, Shere-e-Punjab, County Lines/Knauer/Eagleview; 768-byte tixr stubs and Cloudflare blocks). Central Jersey ones: pages/p0_1, p27_26, p55_55, p64_60 (Flounder single-event pages, one band each), p100_94 (Visit Somerset: Riverside Inn Horns Up), p7_9 (Visit Somerset: Downtown Somerville Music Fest 2026), p66_61 (Princeton Shopping Center 2025 series, all bands, already in census) - none added anything beyond the dumps. ven/v14 is Hopewell Valley Vineyards (Pennington, Mercer), which is not in the census; its Oct 2026-Jan 2027 list has one act per night apart from Oct 31 (The Ragtime Relics + Deb & Mike, a duo), so no qualifying solo rows and the venue was not added. No raw data in these folders for Princeton Public Library, Small World Coffee, Randy Now's, Mercer County Park, Lawrenceville, Cooper's Riverview, Pino's, Parkstock or the Princeton Porchfest (porchfests are skipped anyway). venues_bucks_mercer.json Bucks venues (Vault, Free Will, Doylestown, Sellersville, Puck, Broken Goblet) are outside Central Jersey and were not processed here. Judgement calls: (1) The Ross Farm (census kind 'other') is treated as a concert series, since the census describes it as a historic barn concert series and the listings call it the farm's 11th season of live music. 9 of the 11 rows depend on this; drop them if the build only counts kind festival/park series. Kept there: Niall Connolly, Justin Howl, Vanessa Collier (billed under her own name; she may tour with a band), Taylor Ashton (opener for Eilen Jewell), Alysha Brilla, Chris Smither and The Suitcase Junket (described as Matt Lorenz's one-man band), Liz Longley and her opener Rachael Sage. Skipped there: Eilen Jewell (the listing says she tours with her band), Christian Lopez 2025-10-31 ('and his band') and Jake Thistle 2026-09-26 ('with his full band'). These are band shows that the census did not record. (2) Danny Alderman was kept because Downtown Somerville is a festival venue in the census and Ovation Quartet shared the 2025-11-29 schedule. J2K (Acoustic) was skipped as it is unclear whether it is one person, and School of Rock as a school act. (3) Skipped as groups or unclear: Kahlil Kwame Bell and Friends (2025 Central Jersey Jazz Fest), Danny and Kim & Friends (2026 Music Fest), Brian Rothenbeck & Jay Gogel (a duo, Flounder 2026-09-25; Ben Hughes played solo that night but was billed as Night Windows, which the census already has). (4) Solo acts at Riverside Inn, Willie McBride's, Mannion's, Green Knoll, Iron Peak, The Bernie and Flounder (Acoustic Fridays, Flounder's House) were all on nights with no band at that venue, so they were left out. Triumph Princeton and Tavern on George raw data hold only combos. (5) Bands missing from the census that turned up while reading (not added here because they are not solo): Captains of Leisure, Mr LoveJoy, Country Comfort (Branchburg Food Truck & Music Festival, White Oak Park, 2025-05-10); Captains of Leisure, After Party, Pure Petty (same festival 2026-08-30; the 2026-05-09 date was postponed); Ovation Quartet (2025-11-29); Kahlil Kwame Bell and Friends (2025-09-14); The Adlers Band (Flounder 2026-10-03 Oktoberfest); Flounder's Brass Band and Garrett Tatano Band (Flounder 2025-10-04); Maura Glynn duo (Flounder 2025-03-14); Christian Lopez band and Jake Thistle band (Ross Farm); Eilen Jewell (Ross Farm 2025-06-15)."
+}

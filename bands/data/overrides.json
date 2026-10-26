@@ -6,7 +6,8 @@
   "Relapsed": "no 2025-26 activity found",
   "The Wonder Years": "national touring act",
   "Sonic Foundry": "studio project, not a gigging band",
-  "Workout For Warmth Fundraiser": "a fitness fundraiser, not a band"
+  "Workout For Warmth Fundraiser": "a fitness fundraiser, not a band",
+  "Bryan Hansen Band": "only a solo set found"
  },
  "plays_here_not_based": {
   "The Last Big Band": "Berks County, Lehigh Valley and West Chester players"
@@ -33,7 +34,13 @@
   "Mill Hill Basement (Mill Hill Saloon)"
  ],
  "solo_acts": {
-  "Ajay": "R&B singer",
-  "Bryan Hansen Band": "played a solo set"
+  "Ajay": "R&B singer"
+ },
+ "venue_kinds": {
+  "The Ross Farm": "concert series"
+ },
+ "not_solo": {
+  "Mdou Moctar": "touring band",
+  "Ogbert the Nerd": "New Brunswick band"
  }
 }

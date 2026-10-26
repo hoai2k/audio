@@ -153,7 +153,7 @@ for f in sorted(glob.glob(str(DATA / "census_*.json"))):  # venue censuses
         add_venue(v)
     for a in rep.get("appearances", []):
         add_app(norm_app(a, a["band"]))
-        if a.get("solo"):
+        if a.get("solo") and band_key(a["band"]) not in seen:  # home-base searches only collected bands
             SOLO.add(band_key(a["band"]))
     for i in rep.get("band_info", []):
         add_info(i)
@@ -165,11 +165,14 @@ for f in sorted(glob.glob(str(DATA / "bandinfo_*.json"))):  # band-info passes (
             continue
         if i.get("solo"):  # one person, not a band: listed only if they share bills with bands (see below)
             SOLO.add(band_key(i["name"]))
+        elif i.get("solo") is False:  # a looked-up band overrides a crawl's solo flag
+            SOLO.discard(band_key(i["name"]))
         cur = info.setdefault(band_key(i["name"]), {})
         for fld in ("genre", "description", "home_base", "image"):
             if i.get(fld):
                 cur[fld] = i[fld]
         cur["links"] = {**(cur.get("links") or {}), **{k: v for k, v in (i.get("links") or {}).items() if v}}
+SOLO -= {band_key(n) for n in OV.get("not_solo", {})}  # acts a crawl wrongly marked solo
 for a in apps.values():  # venues seen only in booking rows
     add_venue({"name": a["venue"], "town": a["town"], "state": a["state"], "calendar_status": "seen_in_listings"})
 
@@ -213,7 +216,11 @@ for a in local:
 bill_acts = {}
 for a in local:
     bill_acts.setdefault((venue_key(a["venue"], a["town"]), a["date"]), set()).add(band_key(a["band"]))
-FESTIVAL_KINDS = {"festival", "park series"}
+FESTIVAL_KINDS = {"festival", "park series", "concert series"}
+for name, kind in OV.get("venue_kinds", {}).items():  # hand corrections to a venue's kind
+    for v in venues.values():
+        if fold(v["name"]) == fold(name):
+            v["kind"] = kind
 
 def solo_ok(key, rows):
     for a in rows:
