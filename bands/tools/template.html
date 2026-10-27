@@ -171,7 +171,7 @@ __MASTHEAD__
       <span class="bands-only"><i style="background:var(--brick)"></i>Place with bands (size = how many)</span>
       <span><i style="background:var(--river)"></i>__HOME__</span>
       <span><i style="border:1.5px dashed var(--river)"></i>~1 hour drive</span>
-      <label class="areaon"><input type="checkbox" id="areaon"> Filter to this map area</label>
+      <label class="areaon"><input type="checkbox" id="areaon" checked> Filter to this map area</label>
     </div>
   </section>
   </div>
@@ -268,8 +268,8 @@ requestAnimationFrame(() => { map.invalidateSize(); fitAll(); });
 addEventListener("load", () => { map.invalidateSize(); fitAll(); });
 
 // Controls
-// area: the map view's bounds while "Filter to this map area" is ticked; the region filter is off meanwhile
-const state = { mode: "bands", q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1, area: null };
+// area: the map view's bounds while "Filter to this map area" is ticked (the default); the region filter is off meanwhile
+const state = { mode: "bands", q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1, area: L.latLngBounds(allPts).pad(0.06) };
 // A selected town (or a venue town) also overrides the region filter until it's cleared
 const placeSel = () => state.mode === "venues" ? state.vtown : state.town;
 const regionOn = () => !state.area && !placeSel() && state.region;
@@ -364,9 +364,9 @@ $("#count").addEventListener("click", e => {
   render();
 });
 $("#reset").addEventListener("click", () => {
-  Object.assign(state, { q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1, area: null });
+  Object.assign(state, { q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1, area: L.latLngBounds(allPts).pad(0.06) });
   $("#q").value = ""; $("#genre").value = ""; $("#basis").value = ""; $("#region").value = "";
-  $("#areaon").checked = false;
+  $("#areaon").checked = true;
   render(); fitAll();
 });
 
