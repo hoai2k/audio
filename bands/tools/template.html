@@ -51,6 +51,8 @@ input[type=search]:focus, select:focus { outline: 2px solid var(--river); outlin
 .status { font-size: 13px; color: var(--muted); display: flex; justify-content: space-between; align-items: center; gap: 8px; }
 .status b { color: var(--ink); }
 button.reset { font: 500 13px/1 var(--sans); border: 1px solid var(--line); background: var(--chip); color: var(--ink); border-radius: 8px; padding: 8px 11px; cursor: pointer; }
+button.clearsel { font: 600 13px/1 var(--sans); border: 1px solid var(--line); background: var(--chip); color: var(--ink); border-radius: 50%; width: 20px; height: 20px; padding: 0; margin-left: 6px; cursor: pointer; vertical-align: 1px; }
+button.clearsel:hover { border-color: var(--river); }
 button.reset:hover { border-color: var(--river); }
 
 #list { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 440px), 1fr)); align-items: start; }
@@ -169,7 +171,7 @@ __MASTHEAD__
       <span class="bands-only"><i style="background:var(--brick)"></i>Place with bands (size = how many)</span>
       <span><i style="background:var(--river)"></i>__HOME__</span>
       <span><i style="border:1.5px dashed var(--river)"></i>~1 hour drive</span>
-      <label class="areaon"><input type="checkbox" id="areaon"> Only show what's on the map</label>
+      <label class="areaon"><input type="checkbox" id="areaon"> Filter to this map area</label>
     </div>
   </section>
   </div>
@@ -266,9 +268,16 @@ requestAnimationFrame(() => { map.invalidateSize(); fitAll(); });
 addEventListener("load", () => { map.invalidateSize(); fitAll(); });
 
 // Controls
-// area: the map view's bounds while "Only show what's on the map" is ticked; the region filter is off meanwhile
+// area: the map view's bounds while "Filter to this map area" is ticked; the region filter is off meanwhile
 const state = { mode: "bands", q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1, area: null };
-const regionOn = () => !state.area && state.region;
+// A selected town (or a venue town) also overrides the region filter until it's cleared
+const placeSel = () => state.mode === "venues" ? state.vtown : state.town;
+const regionOn = () => !state.area && !placeSel() && state.region;
+function syncRegion() {
+  $("#region").disabled = !!(state.area || placeSel());
+  $("#region").title = state.area ? "Off while filtering to the map area" : placeSel() ? `Off while ${placeSel()} is selected` : "";
+}
+const clearBtn = `<button class="clearsel" data-clear-place title="Clear this selection" aria-label="Clear selection">×</button>`;
 const inRegion = x => !regionOn() || x.region === state.region;
 
 function setMode(mode) {
@@ -328,19 +337,19 @@ $("#region").addEventListener("change", e => {
 });
 
 function selectTown(key) {
+  if (state.town === key) { state.town = ""; return render(); }  // clicking the selected town again clears it
   state.town = key;
-  state.region = ""; $("#region").value = "";
   render();
   if (TOWNS[key]) map.flyTo(TOWNS[key], Math.max(map.getZoom(), 11), { duration: 0.6 });
 }
 $("#q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
 $("#genre").addEventListener("change", e => { state.genre = e.target.value; render(); });
 $("#basis").addEventListener("change", e => { state.basis = e.target.value; render(); });
-// "Only show what's on the map": refresh the list once the map settles after a pan or zoom
+// "Filter to this map area": refresh the list once the map settles after a pan or zoom
 let areaTimer;
 function setArea(on) {
   state.area = on ? map.getBounds() : null;
-  $("#areaon").checked = on; $("#region").disabled = on;
+  $("#areaon").checked = on;
   render();
 }
 $("#areaon").addEventListener("change", e => setArea(e.target.checked));
@@ -349,10 +358,15 @@ map.on("moveend", () => {
   clearTimeout(areaTimer);
   if (state.area) areaTimer = setTimeout(() => state.area && setArea(true), 350);
 });
+$("#count").addEventListener("click", e => {
+  if (!e.target.closest("[data-clear-place]")) return;
+  state.mode === "venues" ? (state.vtown = "") : (state.town = "");
+  render();
+});
 $("#reset").addEventListener("click", () => {
   Object.assign(state, { q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1, area: null });
   $("#q").value = ""; $("#genre").value = ""; $("#basis").value = ""; $("#region").value = "";
-  $("#areaon").checked = false; $("#region").disabled = false;
+  $("#areaon").checked = false;
   render(); fitAll();
 });
 
@@ -446,13 +460,14 @@ function renderVenues() {
   const sel = VENUES[state.venue];
   const sorted = list.slice().sort((a, b) => (b === sel) - (a === sel) || b.bookings - a.bookings || a.name.localeCompare(b.name));
   $("#list").innerHTML = sorted.length ? sorted.map(vcard).join("") : `<div class="empty">No venues match.</div>`;
-  const where = (state.vtown ? ` in <b>${esc(state.vtown)}</b>` : regionOn() ? ` in <b>${esc(state.region)}</b>` : "") + (state.area ? " in the map area" : "");
+  const where = (state.vtown ? ` in <b>${esc(state.vtown)}</b>${clearBtn}` : regionOn() ? ` in <b>${esc(state.region)}</b>` : "") + (state.area ? " in the map area" : "");
   $("#count").innerHTML = `<b>${list.length}</b> of ${VENUES.length} venues${where}`;
   const keep = new Set(list);
   vmarkers.forEach((m, i) => m.setStyle({ fillOpacity: keep.has(VENUES[i]) ? 0.9 : 0.12, opacity: keep.has(VENUES[i]) ? 1 : 0.2, weight: i === state.venue ? 3 : 1.5, color: i === state.venue ? COL.deep : "#fff" }));
 }
 
 function render() {
+  syncRegion();
   if (state.mode === "venues") return renderVenues();
   const list = BANDS.filter(b => {
     if (!inRegion(b)) return false;
@@ -479,7 +494,7 @@ function render() {
   $("#list").querySelectorAll("img.thumb").forEach(img => img.addEventListener("error", () => {
     const d = document.createElement("div"); d.className = "thumb"; d.textContent = img.dataset.initials; img.replaceWith(d);
   }, { once: true }));
-  const where = (state.town ? ` in <b>${esc(state.town)}</b>` : regionOn() ? ` in <b>${esc(state.region)}</b>` : "") + (state.area ? " in the map area" : "");
+  const where = (state.town ? ` in <b>${esc(state.town)}</b>${clearBtn}` : regionOn() ? ` in <b>${esc(state.region)}</b>` : "") + (state.area ? " in the map area" : "");
   $("#count").innerHTML = `<b>${list.length}</b> of ${BANDS.length} bands${where}`;
   Object.entries(markers).forEach(([k, m]) => {
     const reg = regionOn() ? state.region : "";
@@ -541,7 +556,7 @@ $("#list").addEventListener("click", e => {
   if (t.dataset.band) {
     Object.assign(state, { town: "", region: "", genre: "", basis: "", area: null });
     $("#genre").value = ""; $("#basis").value = ""; $("#region").value = "";
-    $("#areaon").checked = false; $("#region").disabled = false;
+    $("#areaon").checked = false;
     state.q = t.dataset.band.toLowerCase(); $("#q").value = t.dataset.band;
     setMode("bands");
   }
