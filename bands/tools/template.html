@@ -262,7 +262,10 @@ requestAnimationFrame(() => { map.invalidateSize(); fitAll(); });
 addEventListener("load", () => { map.invalidateSize(); fitAll(); });
 
 // Controls
-const state = { mode: "bands", q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1 };
+// region "" is every region; MAP lists only what's inside the map view (the default)
+const MAP = "@map";
+const state = { mode: "bands", q: "", town: "", genre: "", region: MAP, basis: "", vtown: "", vstatus: "", venue: -1, area: null };
+const inRegion = x => !state.region || state.region === MAP || x.region === state.region;
 
 function setMode(mode) {
   state.mode = mode; document.body.dataset.mode = mode;
@@ -308,28 +311,39 @@ function fillRegions() {
   const rc = {};
   (state.mode === "venues" ? VENUES : BANDS).forEach(x => rc[x.region] = (rc[x.region] || 0) + 1);
   const total = state.mode === "venues" ? VENUES.length : BANDS.length;
-  $("#region").innerHTML = `<option value="">All regions (${total})</option>` +
+  $("#region").innerHTML = `<option value="${MAP}">Area shown on the map</option><option value="">All regions (${total})</option>` +
     REGIONS.filter(r => rc[r]).map(r => `<option value="${esc(r)}">${esc(r)} (${rc[r]})</option>`).join("");
   $("#region").value = state.region;
 }
 $("#region").addEventListener("change", e => {
   state.region = e.target.value; state.town = ""; state.vtown = ""; state.venue = -1;
+  state.area = state.region === MAP ? map.getBounds() : null;
   render();
+  if (state.region === MAP) return;
   if (state.mode === "venues") return state.region ? fitVenues() : fitAll();
   const pts = BANDS.filter(b => !state.region || b.region === state.region).map(b => TOWNS[townKey(b)]).filter(Boolean);
   if (!state.region) fitAll(); else if (pts.length) map.flyToBounds(L.latLngBounds(pts).pad(0.4), { duration: 0.6, maxZoom: 11 });
 });
 
 function selectTown(key) {
-  state.town = key; state.region = ""; $("#region").value = ""; render();
+  state.town = key;
+  if (state.region !== MAP) { state.region = ""; $("#region").value = ""; }
+  render();
   if (TOWNS[key]) map.flyTo(TOWNS[key], Math.max(map.getZoom(), 11), { duration: 0.6 });
 }
 $("#q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
 $("#genre").addEventListener("change", e => { state.genre = e.target.value; render(); });
 $("#basis").addEventListener("change", e => { state.basis = e.target.value; render(); });
+// "Area shown on the map": refresh the list once the map settles after a pan or zoom
+let areaTimer;
+map.on("movestart", () => clearTimeout(areaTimer));
+map.on("moveend", () => {
+  clearTimeout(areaTimer);
+  if (state.region === MAP) areaTimer = setTimeout(() => { if (state.region === MAP) { state.area = map.getBounds(); render(); } }, 350);
+});
 $("#reset").addEventListener("click", () => {
-  Object.assign(state, { q: "", town: "", genre: "", region: "", basis: "", vtown: "", vstatus: "", venue: -1 });
-  $("#q").value = ""; $("#genre").value = ""; $("#basis").value = ""; $("#region").value = "";
+  Object.assign(state, { q: "", town: "", genre: "", region: MAP, basis: "", vtown: "", vstatus: "", venue: -1, area: null });
+  $("#q").value = ""; $("#genre").value = ""; $("#basis").value = ""; $("#region").value = MAP;
   render(); fitAll();
 });
 
@@ -384,9 +398,10 @@ const venueIndex = (name, town) => VINDEX.get(vnorm(name) + "|" + String(town ||
 
 function filteredVenues() {
   return VENUES.filter(v => {
-    if (state.region && v.region !== state.region) return false;
+    if (!inRegion(v)) return false;
     if (state.vtown && v.town + ", " + v.state !== state.vtown) return false;
     if (state.vstatus && v.status !== state.vstatus) return false;
+    if (state.area && !state.area.contains(v.pt)) return false;
     if (state.q && ![v.name, v.town, v.kind, v.notes, v.bands.join(" ")].join(" ").toLowerCase().includes(state.q)) return false;
     return true;
   });
@@ -422,7 +437,7 @@ function renderVenues() {
   const sel = VENUES[state.venue];
   const sorted = list.slice().sort((a, b) => (b === sel) - (a === sel) || b.bookings - a.bookings || a.name.localeCompare(b.name));
   $("#list").innerHTML = sorted.length ? sorted.map(vcard).join("") : `<div class="empty">No venues match.</div>`;
-  const where = state.vtown ? ` in <b>${esc(state.vtown)}</b>` : state.region ? ` in <b>${esc(state.region)}</b>` : "";
+  const where = (state.vtown ? ` in <b>${esc(state.vtown)}</b>` : state.region && state.region !== MAP ? ` in <b>${esc(state.region)}</b>` : "") + (state.area ? " in the map area" : "");
   $("#count").innerHTML = `<b>${list.length}</b> of ${VENUES.length} venues${where}`;
   const keep = new Set(list);
   vmarkers.forEach((m, i) => m.setStyle({ fillOpacity: keep.has(VENUES[i]) ? 0.9 : 0.12, opacity: keep.has(VENUES[i]) ? 1 : 0.2, weight: i === state.venue ? 3 : 1.5, color: i === state.venue ? COL.deep : "#fff" }));
@@ -431,11 +446,12 @@ function renderVenues() {
 function render() {
   if (state.mode === "venues") return renderVenues();
   const list = BANDS.filter(b => {
-    if (state.region && b.region !== state.region) return false;
+    if (!inRegion(b)) return false;
     if (state.town && townKey(b) !== state.town) return false;
     if (state.genre && !matchesGenre(b, state.genre)) return false;
     if (state.basis === "based" && b.basis !== "based") return false;
     if (state.basis === "plays" && !b.plays_here) return false;
+    if (state.area && !(TOWNS[townKey(b)] && state.area.contains(TOWNS[townKey(b)]))) return false;
     if (state.q) {
       const hay = [b.name, b.town, b.neighborhood, b.state, b.genre, b.description, b.home_base, b.venue_summary].join(" ").toLowerCase();
       if (!hay.includes(state.q)) return false;
@@ -454,11 +470,12 @@ function render() {
   $("#list").querySelectorAll("img.thumb").forEach(img => img.addEventListener("error", () => {
     const d = document.createElement("div"); d.className = "thumb"; d.textContent = img.dataset.initials; img.replaceWith(d);
   }, { once: true }));
-  const where = state.town ? ` in <b>${esc(state.town)}</b>` : state.region ? ` in <b>${esc(state.region)}</b>` : "";
+  const where = (state.town ? ` in <b>${esc(state.town)}</b>` : state.region && state.region !== MAP ? ` in <b>${esc(state.region)}</b>` : "") + (state.area ? " in the map area" : "");
   $("#count").innerHTML = `<b>${list.length}</b> of ${BANDS.length} bands${where}`;
   Object.entries(markers).forEach(([k, m]) => {
-    const on = k === state.town || (!state.town && state.region && BANDS.some(b => townKey(b) === k && b.region === state.region));
-    const dim = (state.town || state.region) && !on;
+    const reg = state.region === MAP ? "" : state.region;
+    const on = k === state.town || (!state.town && reg && BANDS.some(b => townKey(b) === k && b.region === reg));
+    const dim = (state.town || reg) && !on;
     m.setStyle({ fillColor: on ? COL.accent : COL.marker, fillOpacity: dim ? 0.35 : 0.88 });
   });
 }
@@ -513,8 +530,8 @@ $("#list").addEventListener("click", e => {
   if (t.dataset.venue) return selectVenue(+t.dataset.venue);
   if (t.dataset.vtown) { state.vtown = t.dataset.vtown; state.venue = -1; render(); return fitVenues(); }
   if (t.dataset.band) {
-    Object.assign(state, { town: "", region: "", genre: "", basis: "" });
-    $("#genre").value = ""; $("#basis").value = "";
+    Object.assign(state, { town: "", region: "", genre: "", basis: "", area: null });
+    $("#genre").value = ""; $("#basis").value = ""; $("#region").value = "";
     state.q = t.dataset.band.toLowerCase(); $("#q").value = t.dataset.band;
     setMode("bands");
   }
