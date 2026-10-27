@@ -52,6 +52,9 @@ button.reset:hover { border-color: var(--river); }
 
 #list { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 440px), 1fr)); align-items: start; }
 #list .empty { grid-column: 1 / -1; }
+/* Masonry when there's more than one column: each card spans as many 4px rows as its height needs */
+#list.masonry { grid-auto-rows: 4px; row-gap: 0; }
+#list.masonry > * { margin-bottom: 12px; }
 .card { display: grid; grid-template-columns: 96px 1fr; gap: 14px; padding: 12px; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
 .thumb { width: 96px; height: 96px; border-radius: 9px; object-fit: cover; display: grid; place-items: center; overflow: hidden;
   font: 700 28px/1 var(--serif); color: #f7f1e4; background: linear-gradient(160deg, var(--river) 0%, var(--river-deep) 100%); }
@@ -459,6 +462,25 @@ function render() {
     m.setStyle({ fillColor: on ? COL.accent : COL.marker, fillOpacity: dim ? 0.35 : 0.88 });
   });
 }
+// Masonry layout: size each card's row span to its height, and redo it whenever a card or the list resizes
+(() => {
+  const list = $("#list"), ROW = 4, GAP = 12;
+  // Read every height first, then write every span, so the browser lays out once per batch
+  const spanAll = (els, sizes) => {
+    const on = list.classList.contains("masonry");
+    const hs = els.map((el, i) => on ? (sizes ? sizes[i] : el.getBoundingClientRect().height) : 0);
+    els.forEach((el, i) => { el.style.gridRowEnd = on ? `span ${Math.ceil((hs[i] + GAP) / ROW)}` : ""; });
+  };
+  const cardRO = new ResizeObserver(es => spanAll(es.map(e => e.target), es.map(e => e.borderBoxSize[0].blockSize)));
+  const watch = el => { if (el.nodeType === 1 && !el.classList.contains("empty")) cardRO.observe(el); };
+  new MutationObserver(ms => ms.forEach(m => { m.removedNodes.forEach(n => n.nodeType === 1 && cardRO.unobserve(n)); m.addedNodes.forEach(watch); }))
+    .observe(list, { childList: true });
+  [...list.children].forEach(watch);
+  new ResizeObserver(() => {
+    const cols = getComputedStyle(list).gridTemplateColumns.split(" ").filter(Boolean).length;
+    if (list.classList.toggle("masonry", cols > 1) !== list._masonry) { list._masonry = cols > 1; spanAll([...list.children]); }
+  }).observe(list);
+})();
 $("#list").addEventListener("click", e => {
   const moreBand = e.target.closest("[data-expand-band]");
   if (moreBand) {
